@@ -1,0 +1,93 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+18097,Indiana,Marion County,981628,63450,71,7.2,13,7,33,56,0.3,2.5,"Indianapolis, IN",1.4,"Indianapolis, IN",1.2,1.2,98,39.7889,-86.1363,https://findrehabmap.com/indiana/marion-county/
+18089,Indiana,Lake County,502955,68985,34,6.8,8,4,9,19,2.8,4.5,"Merrillville, IN",5.3,"Merrillville, IN",4.5,4.5,155,41.519,-87.4075,https://findrehabmap.com/indiana/lake-county/
+18003,Indiana,Allen County,399295,68839,25,6.3,5,4,14,16,0.2,1.0,"Fort Wayne, IN",1.3,"Fort Wayne, IN",1.0,0.2,36,41.1008,-85.1252,https://findrehabmap.com/indiana/allen-county/
+18057,Indiana,Hamilton County,379704,117957,5,1.3,0,0,2,3,0.6,6.7,"Indianapolis, IN",11.0,"Indianapolis, IN",3.6,6.8,98,40.0015,-86.0576,https://findrehabmap.com/indiana/hamilton-county/
+18141,Indiana,St. Joseph County,273744,64885,13,4.7,5,1,6,11,0.9,1.2,"South Bend, IN",4.1,"South Bend, IN",1.0,0.9,27,41.6764,-86.2271,https://findrehabmap.com/indiana/st-joseph-county/
+18039,Indiana,Elkhart County,207436,65617,6,2.9,0,0,3,5,3.0,12.1,"Mishawaka, IN",20.8,"South Bend, IN",3.0,4.1,25,41.6372,-85.9057,https://findrehabmap.com/indiana/elkhart-county/
+18157,Indiana,Tippecanoe County,191650,58622,10,5.2,2,1,3,6,0.9,3.2,"Lafayette, IN",3.6,"Lafayette, IN",2.3,1.0,17,40.4187,-86.887,https://findrehabmap.com/indiana/tippecanoe-county/
+18063,Indiana,Hendricks County,190629,99988,9,4.7,1,2,4,7,0.8,3.8,"Avon, IN",5.1,"Plainfield, IN",0.8,9.9,98,39.7731,-86.4111,https://findrehabmap.com/indiana/hendricks-county/
+18163,Indiana,Vanderburgh County,180387,60938,22,12.2,7,2,6,19,1.6,1.9,"Evansville, IN",2.3,"Evansville, IN",2.2,1.9,33,37.9982,-87.5496,https://findrehabmap.com/indiana/vanderburgh-county/
+18127,Indiana,Porter County,175860,85828,11,6.3,1,1,5,9,2.9,3.1,"Valparaiso, IN",3.1,"Valparaiso, IN",3.1,12.0,54,41.514,-87.1043,https://findrehabmap.com/indiana/porter-county/
+18081,Indiana,Johnson County,170614,87227,8,4.7,3,1,6,8,4.0,4.3,"Greenwood, IN",4.4,"Greenwood, IN",4.3,4.3,96,39.5559,-86.1152,https://findrehabmap.com/indiana/johnson-county/
+18105,Indiana,Monroe County,140702,63372,13,9.2,2,1,6,9,0.1,0.2,"Bloomington, IN",2.4,"Bloomington, IN",0.1,0.2,27,39.1623,-86.5386,https://findrehabmap.com/indiana/monroe-county/
+18095,Indiana,Madison County,134222,62632,10,7.5,2,0,9,9,1.5,1.5,"Anderson, IN",16.6,"Muncie, IN",1.5,1.5,40,40.1135,-85.7088,https://findrehabmap.com/indiana/madison-county/
+18019,Indiana,Clark County,127479,72298,17,13.3,6,1,10,13,2.5,3.0,"Clarksville, IN",2.5,"Charlestown, IN",2.5,3.0,96,38.3734,-85.7325,https://findrehabmap.com/indiana/clark-county/
+18035,Indiana,Delaware County,112951,56932,8,7.1,0,1,3,5,1.1,16.1,"Anderson, IN",1.8,"Muncie, IN",1.2,16.1,22,40.2052,-85.4029,https://findrehabmap.com/indiana/delaware-county/
+18091,Indiana,LaPorte County,111348,70452,4,3.6,1,1,3,3,3.6,3.8,"LaPorte, IN",3.8,"LaPorte, IN",3.6,28.4,16,41.6323,-86.7912,https://findrehabmap.com/indiana/laporte-county/
+18167,Indiana,Vigo County,106166,52525,15,14.1,1,4,6,11,0.7,4.2,"Terre Haute, IN",1.7,"Terre Haute, IN",1.3,2.1,26,39.4605,-87.3869,https://findrehabmap.com/indiana/vigo-county/
+18059,Indiana,Hancock County,88810,91326,3,3.4,0,0,1,3,3.2,12.7,"Indianapolis, IN",15.3,"Indianapolis, IN",3.2,12.7,97,39.8152,-85.8296,https://findrehabmap.com/indiana/hancock-county/
+18005,Indiana,Bartholomew County,84741,80365,9,10.6,1,0,3,8,0.3,0.8,"Columbus, IN",17.8,"Seymour, IN",0.8,1.0,25,39.215,-85.9053,https://findrehabmap.com/indiana/bartholomew-county/
+18067,Indiana,Howard County,84082,62496,15,17.8,5,3,10,12,1.2,1.4,"Kokomo, IN",1.2,"Kokomo, IN",1.3,1.2,23,40.4703,-86.1336,https://findrehabmap.com/indiana/howard-county/
+18043,Indiana,Floyd County,81931,78179,6,7.3,0,0,4,4,1.9,4.9,"Clarksville, IN",6.9,"Louisville, KY",1.9,4.9,91,38.3222,-85.8579,https://findrehabmap.com/indiana/floyd-county/
+18085,Indiana,Kosciusko County,80669,73922,6,7.4,1,0,5,6,1.4,8.0,"Pierceton, IN",36.2,"Fort Wayne, IN",1.4,8.0,14,41.2678,-85.8305,https://findrehabmap.com/indiana/kosciusko-county/
+18011,Indiana,Boone County,78773,104865,3,3.8,0,0,2,3,4.1,10.3,"Indianapolis, IN",10.3,"Indianapolis, IN",4.1,9.5,83,40.0046,-86.3832,https://findrehabmap.com/indiana/boone-county/
+18109,Indiana,Morgan County,73825,79088,6,8.1,0,1,1,4,6.6,18.0,"Greenwood, IN",6.6,"Martinsville, IN",6.6,9.4,65,39.5129,-86.3991,https://findrehabmap.com/indiana/morgan-county/
+18053,Indiana,Grant County,66458,54007,5,7.5,1,1,5,5,0.8,0.8,"Marion, IN",3.2,"Marion, IN",0.8,0.8,15,40.5253,-85.6442,https://findrehabmap.com/indiana/grant-county/
+18177,Indiana,Wayne County,66410,56652,14,21.1,0,2,6,10,1.2,17.2,"Eaton, OH",5.7,"Richmond, IN",1.2,1.2,25,39.8433,-84.9487,https://findrehabmap.com/indiana/wayne-county/
+18173,Indiana,Warrick County,66339,95027,3,4.5,1,0,1,3,1.8,1.8,"Newburgh, IN",12.7,"Evansville, IN",1.8,1.8,46,38.0111,-87.3556,https://findrehabmap.com/indiana/warrick-county/
+18029,Indiana,Dearborn County,51435,82693,5,9.7,0,1,2,2,2.7,14.5,"Cincinnati, OH",4.5,"Lawrenceburg, IN",2.7,19.4,82,39.1468,-84.9205,https://findrehabmap.com/indiana/dearborn-county/
+18065,Indiana,Henry County,49081,60144,2,4.1,0,0,1,2,2.1,18.5,"Anderson, IN",20.3,"Muncie, IN",2.1,17.8,26,39.9288,-85.4037,https://findrehabmap.com/indiana/henry-county/
+18113,Indiana,Noble County,47811,70908,3,6.3,0,0,3,3,1.7,17.4,"Auburn, IN",17.0,"Auburn, IN",1.7,17.4,22,41.4158,-85.389,https://findrehabmap.com/indiana/noble-county/
+18071,Indiana,Jackson County,47420,70208,4,8.4,1,1,2,3,1.9,2.9,"Seymour, IN",5.5,"Seymour, IN",3.3,19.2,22,38.9287,-85.9363,https://findrehabmap.com/indiana/jackson-county/
+18099,Indiana,Marshall County,46464,68041,2,4.3,1,0,0,0,2.9,2.9,"Plymouth, IN",22.5,"South Bend, IN",18.2,2.9,20,41.3477,-86.2723,https://findrehabmap.com/indiana/marshall-county/
+18145,Indiana,Shelby County,45654,71301,4,8.8,0,0,0,3,1.2,14.6,"Franklin, IN",16.8,"Greenwood, IN",14.6,14.6,44,39.535,-85.7901,https://findrehabmap.com/indiana/shelby-county/
+18093,Indiana,Lawrence County,45192,65551,4,8.9,1,0,2,4,0.4,0.4,"Bedford, IN",21.1,"Bloomington, IN",0.4,0.4,18,38.8478,-86.4959,https://findrehabmap.com/indiana/lawrence-county/
+18033,Indiana,DeKalb County,44330,70080,5,11.3,2,1,5,4,0.4,0.4,"Auburn, IN",2.2,"Auburn, IN",0.4,0.4,38,41.3772,-85.0345,https://findrehabmap.com/indiana/dekalb-county/
+18037,Indiana,Dubois County,43629,71918,3,6.9,1,0,1,3,1.6,1.6,"Jasper, IN",39.5,"Vincennes, IN",1.6,1.6,8,38.3587,-86.9157,https://findrehabmap.com/indiana/dubois-county/
+18087,Indiana,LaGrange County,41122,83741,3,7.3,0,0,2,2,2.6,24.1,"Albion, IN",27.9,"Auburn, IN",2.8,19.3,16,41.6329,-85.4673,https://findrehabmap.com/indiana/lagrange-county/
+18061,Indiana,Harrison County,39978,72468,3,7.5,1,0,2,2,2.2,2.6,"Corydon, IN",16.3,"Louisville, KY",2.5,2.6,73,38.2342,-86.0982,https://findrehabmap.com/indiana/harrison-county/
+18107,Indiana,Montgomery County,38633,66571,6,15.5,1,0,4,6,1.4,9.5,"Ladoga, IN",26.7,"Lafayette, IN",1.4,2.2,11,40.0345,-86.9006,https://findrehabmap.com/indiana/montgomery-county/
+18133,Indiana,Putnam County,37804,76182,3,7.9,0,0,2,3,0.6,18.7,"Ladoga, IN",26.1,"Plainfield, IN",0.6,18.7,15,39.6464,-86.8343,https://findrehabmap.com/indiana/putnam-county/
+18017,Indiana,Cass County,37559,56525,1,2.7,0,0,1,1,1.7,13.2,"Peru, IN",21.1,"Kokomo, IN",1.7,13.2,23,40.7471,-86.339,https://findrehabmap.com/indiana/cass-county/
+18069,Indiana,Huntington County,36944,62734,3,8.1,0,0,2,2,2.0,22.1,"Fort Wayne, IN",24.0,"Marion, IN",2.0,21.4,23,40.8699,-85.4862,https://findrehabmap.com/indiana/huntington-county/
+18001,Indiana,Adams County,36584,63128,2,5.5,0,0,2,2,5.0,22.8,"Van Wert, OH",27.4,"Fort Wayne, IN",5.0,22.7,12,40.7495,-84.9343,https://findrehabmap.com/indiana/adams-county/
+18083,Indiana,Knox County,35872,58863,9,25.1,2,2,5,7,3.7,4.6,"Vincennes, IN",4.9,"Vincennes, IN",3.7,4.6,12,38.6993,-87.4548,https://findrehabmap.com/indiana/knox-county/
+18103,Indiana,Miami County,35613,61130,3,8.4,1,0,2,1,1.2,1.2,"Peru, IN",17.0,"Kokomo, IN",1.2,1.2,25,40.7294,-86.0761,https://findrehabmap.com/indiana/miami-county/
+18183,Indiana,Whitley County,34885,75790,1,2.9,0,0,1,1,0.6,12.0,"Pierceton, IN",16.7,"Fort Wayne, IN",0.6,12.0,39,41.163,-85.478,https://findrehabmap.com/indiana/whitley-county/
+18151,Indiana,Steuben County,34862,71483,5,14.3,2,0,2,2,1.1,1.1,"Albion, IN",20.3,"Auburn, IN",1.1,19.2,15,41.65,-85.011,https://findrehabmap.com/indiana/steuben-county/
+18027,Indiana,Daviess County,34097,68561,3,8.8,0,0,2,2,4.2,23.6,"Vincennes, IN",23.6,"Linton, IN",4.2,22.5,21,38.6975,-87.0962,https://findrehabmap.com/indiana/daviess-county/
+18073,Indiana,Jasper County,33387,79634,1,3.0,0,0,1,1,11.0,18.4,"Morocco, IN",27.7,"Merrillville, IN",11.0,27.7,4,41.0825,-87.1506,https://findrehabmap.com/indiana/jasper-county/
+18051,Indiana,Gibson County,33038,67763,1,3.0,0,0,0,1,4.0,22.5,"Evansville, IN",22.6,"Evansville, IN",14.2,20.2,30,38.3058,-87.5494,https://findrehabmap.com/indiana/gibson-county/
+18077,Indiana,Jefferson County,32921,59987,3,9.1,0,0,2,3,1.3,20.2,"Henryville, IN",15.3,"Carrollton, KY",1.3,1.7,17,38.7587,-85.4332,https://findrehabmap.com/indiana/jefferson-county/
+18023,Indiana,Clinton County,32895,63690,0,0.0,0,0,0,0,16.5,18.0,"Lafayette, IN",18.0,"Lafayette, IN",17.3,20.5,30,40.2978,-86.5136,https://findrehabmap.com/indiana/clinton-county/
+18055,Indiana,Greene County,31219,59753,6,19.2,3,1,2,3,3.5,3.7,"Bloomfield, IN",8.2,"Linton, IN",3.7,3.7,12,39.0525,-86.9942,https://findrehabmap.com/indiana/greene-county/
+18169,Indiana,Wabash County,30777,68414,2,6.5,0,0,2,2,3.5,17.9,"Peru, IN",21.4,"Marion, IN",3.5,17.9,14,40.8558,-85.8042,https://findrehabmap.com/indiana/wabash-county/
+18137,Indiana,Ripley County,29214,71084,1,3.4,1,0,0,0,4.4,4.4,"Osgood, IN",20.0,"Lawrenceburg, IN",18.2,29.3,11,39.1607,-85.2193,https://findrehabmap.com/indiana/ripley-county/
+18179,Indiana,Wells County,28798,69741,1,3.5,0,0,1,1,3.1,20.2,"Fort Wayne, IN",23.8,"Fort Wayne, IN",3.1,18.7,29,40.7708,-85.193,https://findrehabmap.com/indiana/wells-county/
+18175,Indiana,Washington County,28345,61358,1,3.5,0,0,1,1,1.6,19.3,"Henryville, IN",25.1,"Charlestown, IN",1.6,24.5,18,38.5734,-86.0846,https://findrehabmap.com/indiana/washington-county/
+18079,Indiana,Jennings County,27634,68476,2,7.2,0,0,1,2,1.1,13.7,"Seymour, IN",10.8,"Seymour, IN",1.1,20.1,25,39.0055,-85.6497,https://findrehabmap.com/indiana/jennings-county/
+18021,Indiana,Clay County,26424,67676,1,3.8,0,0,0,1,4.0,15.3,"Terre Haute, IN",15.2,"Terre Haute, IN",14.7,15.3,27,39.4693,-87.124,https://findrehabmap.com/indiana/clay-county/
+18031,Indiana,Decatur County,26421,74228,2,7.6,0,0,1,2,1.8,17.1,"Osgood, IN",31.1,"Seymour, IN",1.8,22.7,18,39.3207,-85.4931,https://findrehabmap.com/indiana/decatur-county/
+18129,Indiana,Posey County,25067,79124,1,4.0,0,0,0,1,6.6,13.5,"Evansville, IN",12.9,"Evansville, IN",12.9,12.9,31,38.0127,-87.8199,https://findrehabmap.com/indiana/posey-county/
+18181,Indiana,White County,24833,66143,2,8.1,0,0,1,2,1.7,23.4,"Lafayette, IN",23.4,"Lafayette, IN",2.1,23.2,16,40.7536,-86.81,https://findrehabmap.com/indiana/white-county/
+18143,Indiana,Scott County,24751,54583,5,20.2,0,0,5,5,0.8,8.6,"Henryville, IN",18.7,"Seymour, IN",0.8,7.7,19,38.6979,-85.7641,https://findrehabmap.com/indiana/scott-county/
+18135,Indiana,Randolph County,24337,61121,1,4.1,0,0,0,1,1.3,33.3,"Eaton, OH",23.0,"Muncie, IN",18.7,21.9,22,40.1695,-84.9969,https://findrehabmap.com/indiana/randolph-county/
+18149,Indiana,Starke County,23463,62933,1,4.3,0,0,1,1,1.1,16.7,"Plymouth, IN",22.6,"LaPorte, IN",1.1,16.7,7,41.2817,-86.6327,https://findrehabmap.com/indiana/starke-county/
+18041,Indiana,Fayette County,23335,56659,4,17.1,0,0,2,3,1.5,28.7,"Eaton, OH",20.7,"Richmond, IN",1.5,17.8,22,39.6404,-85.1473,https://findrehabmap.com/indiana/fayette-county/
+18047,Indiana,Franklin County,23136,79702,0,0.0,0,0,0,0,18.1,22.0,"Osgood, IN",18.6,"Harrison, OH",18.1,28.7,15,39.3985,-85.071,https://findrehabmap.com/indiana/franklin-county/
+18119,Indiana,Owen County,21851,59586,2,9.2,0,0,0,2,1.9,17.3,"Bloomington, IN",16.5,"Bloomington, IN",17.3,17.2,26,39.3146,-86.7982,https://findrehabmap.com/indiana/owen-county/
+18153,Indiana,Sullivan County,20768,54985,2,9.6,0,0,0,2,1.8,14.0,"Linton, IN",14.0,"Linton, IN",14.0,14.0,14,39.1038,-87.3932,https://findrehabmap.com/indiana/sullivan-county/
+18015,Indiana,Carroll County,20747,64003,1,4.8,0,0,0,1,3.0,16.0,"Lafayette, IN",16.0,"Lafayette, IN",14.2,17.8,17,40.5792,-86.6012,https://findrehabmap.com/indiana/carroll-county/
+18147,Indiana,Spencer County,20192,70890,2,9.9,1,0,1,2,8.7,9.7,"Rockport, IN",16.7,"Owensboro, KY",8.7,9.7,21,38.0192,-87.0091,https://findrehabmap.com/indiana/spencer-county/
+18075,Indiana,Jay County,20164,54114,1,5.0,0,0,1,1,2.4,32.2,"Marion, IN",25.5,"Muncie, IN",2.4,32.2,6,40.4308,-85.0287,https://findrehabmap.com/indiana/jay-county/
+18049,Indiana,Fulton County,20004,62878,1,5.0,0,0,1,1,0.5,21.3,"Plymouth, IN",39.8,"Kokomo, IN",0.5,21.3,11,41.0593,-86.2172,https://findrehabmap.com/indiana/fulton-county/
+18117,Indiana,Orange County,19824,64758,1,5.0,0,0,1,1,1.3,20.1,"Bedford, IN",40.6,"Bloomington, IN",1.3,20.1,9,38.5623,-86.496,https://findrehabmap.com/indiana/orange-county/
+18123,Indiana,Perry County,19320,61099,1,5.2,0,0,1,1,4.7,20.6,"Rockport, IN",25.4,"Owensboro, KY",4.7,20.6,6,38.0086,-86.7055,https://findrehabmap.com/indiana/perry-county/
+18045,Indiana,Fountain County,16833,62526,1,5.9,0,0,1,1,9.6,16.8,"Danville, IL",30.3,"Lafayette, IN",9.6,16.8,13,40.1494,-87.2744,https://findrehabmap.com/indiana/fountain-county/
+18139,Indiana,Rush County,16759,64393,1,6.0,0,0,0,1,1.9,31.7,"Franklin, IN",32.6,"Greenwood, IN",18.2,31.7,16,39.6221,-85.4757,https://findrehabmap.com/indiana/rush-county/
+18121,Indiana,Parke County,16508,66776,5,30.3,2,0,1,4,0.5,0.9,"Rockville, IN",21.2,"Terre Haute, IN",0.9,0.9,22,39.7579,-87.2252,https://findrehabmap.com/indiana/parke-county/
+18013,Indiana,Brown County,15650,72644,1,6.4,0,0,0,1,2.4,15.8,"Franklin, IN",16.2,"Martinsville, IN",13.3,2.4,30,39.2367,-86.2087,https://findrehabmap.com/indiana/brown-county/
+18165,Indiana,Vermillion County,15516,59363,3,19.3,0,0,0,3,7.5,10.4,"Rockville, IN",19.1,"Terre Haute, IN",10.4,10.4,23,39.7599,-87.439,https://findrehabmap.com/indiana/vermillion-county/
+18159,Indiana,Tipton County,15324,78309,2,13.1,0,0,2,2,1.9,10.4,"Kokomo, IN",10.6,"Kokomo, IN",1.9,10.4,26,40.3075,-86.0513,https://findrehabmap.com/indiana/tipton-county/
+18111,Indiana,Newton County,14131,68596,1,7.1,1,0,0,0,5.3,5.3,"Morocco, IN",26.2,"Kankakee, IL",13.1,27.1,4,40.9992,-87.3805,https://findrehabmap.com/indiana/newton-county/
+18131,Indiana,Pulaski County,12421,59956,1,8.1,0,0,1,1,5.1,28.1,"Plymouth, IN",35.9,"Valparaiso, IN",5.1,28.1,5,41.0514,-86.6848,https://findrehabmap.com/indiana/pulaski-county/
+18125,Indiana,Pike County,12116,66250,0,0.0,0,0,0,0,15.9,17.4,"Jasper, IN",23.0,"Vincennes, IN",16.1,15.9,17,38.427,-87.2331,https://findrehabmap.com/indiana/pike-county/
+18009,Indiana,Blackford County,11816,47560,1,8.5,0,0,1,1,1.4,15.4,"Marion, IN",17.5,"Muncie, IN",1.4,15.4,17,40.4681,-85.3456,https://findrehabmap.com/indiana/blackford-county/
+18025,Indiana,Crawford County,10523,48993,2,19.0,0,0,1,2,3.0,18.2,"Corydon, IN",34.5,"Louisville, KY",3.0,18.2,6,38.3157,-86.4221,https://findrehabmap.com/indiana/crawford-county/
+18155,Indiana,Switzerland County,9988,65148,0,0.0,0,0,0,0,6.9,25.9,"Osgood, IN",12.4,"Carrollton, KY",6.9,20.7,19,38.817,-85.0237,https://findrehabmap.com/indiana/switzerland-county/
+18101,Indiana,Martin County,9864,65345,1,10.1,0,0,1,1,3.4,20.9,"Jasper, IN",29.4,"Linton, IN",3.4,20.3,14,38.6797,-86.8505,https://findrehabmap.com/indiana/martin-county/
+18007,Indiana,Benton County,8853,61811,1,11.3,0,0,0,1,11.4,26.9,"Morocco, IN",27.3,"Lafayette, IN",20.5,24.8,7,40.5763,-87.2919,https://findrehabmap.com/indiana/benton-county/
+18171,Indiana,Warren County,8451,74635,0,0.0,0,0,0,0,5.5,18.8,"Danville, IL",27.7,"Lafayette, IN",5.5,18.8,7,40.3127,-87.3254,https://findrehabmap.com/indiana/warren-county/
+18161,Indiana,Union County,6884,79500,0,0.0,0,0,0,0,11.4,18.6,"Eaton, OH",15.0,"Richmond, IN",11.4,13.0,24,39.6184,-84.9195,https://findrehabmap.com/indiana/union-county/
+18115,Indiana,Ohio County,5996,67942,0,0.0,0,0,0,0,8.5,16.6,"Erlanger, KY",11.0,"Lawrenceburg, IN",8.5,20.4,63,38.9544,-84.91,https://findrehabmap.com/indiana/ohio-county/

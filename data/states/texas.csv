@@ -1,0 +1,255 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+48201,Texas,Harris County,5009302,73104,95,1.9,16,14,27,50,0.4,1.5,"Houston, TX",2.2,"Houston, TX",1.5,1.5,104,29.8169,-95.4257,https://findrehabmap.com/texas/harris-county/
+48113,Texas,Dallas County,2656028,74149,53,2.0,13,14,24,30,0.2,2.3,"Dallas, TX",2.3,"Dallas, TX",0.2,3.9,107,32.8098,-96.7876,https://findrehabmap.com/texas/dallas-county/
+48439,Texas,Tarrant County,2230708,81905,56,2.5,9,13,21,25,0.4,7.0,"Hurst, TX",0.4,"Fort Worth, TX",0.4,0.4,80,32.7645,-97.2477,https://findrehabmap.com/texas/tarrant-county/
+48029,Texas,Bexar County,2127737,70571,38,1.8,7,10,17,27,0.6,3.2,"San Antonio, TX",0.7,"San Antonio, TX",0.7,3.2,38,29.4847,-98.5329,https://findrehabmap.com/texas/bexar-county/
+48453,Texas,Travis County,1363767,97169,34,2.5,8,6,15,14,0.6,1.0,"Austin, TX",3.9,"Austin, TX",1.0,0.8,47,30.3143,-97.7482,https://findrehabmap.com/texas/travis-county/
+48085,Texas,Collin County,1254658,117588,20,1.6,3,3,5,10,2.1,5.4,"Plano, TX",5.4,"Plano, TX",4.6,7.4,72,33.1129,-96.6906,https://findrehabmap.com/texas/collin-county/
+48121,Texas,Denton County,1045120,108185,15,1.4,4,2,7,9,5.3,5.3,"Lewisville, TX",7.1,"Lewisville, TX",5.4,8.8,71,33.1164,-97.0147,https://findrehabmap.com/texas/denton-county/
+48157,Texas,Fort Bend County,958434,113409,12,1.3,3,1,3,4,3.2,4.9,"Sugar Land, TX",4.9,"Sugar Land, TX",4.9,7.0,85,29.6202,-95.6813,https://findrehabmap.com/texas/fort-bend-county/
+48215,Texas,Hidalgo County,914820,52281,6,0.7,1,4,3,5,0.4,0.7,"Pharr, TX",0.7,"Pharr, TX",0.7,32.2,6,26.2359,-98.1845,https://findrehabmap.com/texas/hidalgo-county/
+48141,Texas,El Paso County,875784,58859,26,3.0,4,3,6,18,0.3,3.8,"El Paso, TX",3.0,"El Paso, TX",1.5,1.0,29,31.783,-106.3655,https://findrehabmap.com/texas/el-paso-county/
+48339,Texas,Montgomery County,749613,97266,15,2.0,4,2,5,6,1.7,3.8,"Conroe, TX",6.5,"Conroe, TX",3.8,4.0,28,30.2288,-95.4621,https://findrehabmap.com/texas/montgomery-county/
+48491,Texas,Williamson County,727480,108309,12,1.6,2,1,6,9,3.4,4.1,"Georgetown, TX",5.5,"Cedar Park, TX",4.1,3.8,44,30.561,-97.717,https://findrehabmap.com/texas/williamson-county/
+48061,Texas,Cameron County,431874,51334,6,1.4,1,3,3,6,7.7,10.6,"Brownsville, TX",8.7,"Brownsville, TX",8.7,10.6,6,26.0474,-97.5612,https://findrehabmap.com/texas/cameron-county/
+48039,Texas,Brazoria County,413224,95155,12,2.9,4,3,2,7,8.2,8.2,"Angleton, TX",13.1,"Angleton, TX",8.2,8.2,55,29.3553,-95.385,https://findrehabmap.com/texas/brazoria-county/
+48027,Texas,Bell County,399578,66051,6,1.5,3,1,3,5,5.7,8.2,"Killeen, TX",12.8,"Temple, TX",8.2,8.2,6,31.0815,-97.5917,https://findrehabmap.com/texas/bell-county/
+48167,Texas,Galveston County,367407,85348,10,2.7,3,1,4,5,1.2,3.0,"Dickinson, TX",5.6,"La Marque, TX",3.0,3.0,31,29.4281,-95.0193,https://findrehabmap.com/texas/galveston-county/
+48355,Texas,Nueces County,353125,66021,12,3.4,1,3,5,9,2.1,5.1,"Corpus Christi, TX",2.3,"Corpus Christi, TX",2.3,3.4,14,27.7286,-97.4283,https://findrehabmap.com/texas/nueces-county/
+48303,Texas,Lubbock County,327394,63367,13,4.0,2,2,3,6,1.6,2.5,"Lubbock, TX",2.5,"Lubbock, TX",2.5,4.4,13,33.5526,-101.8943,https://findrehabmap.com/texas/lubbock-county/
+48209,Texas,Hays County,292029,85827,5,1.7,1,0,2,3,3.9,10.7,"San Marcos, TX",15.3,"Austin, TX",9.1,7.6,29,30.0094,-97.9254,https://findrehabmap.com/texas/hays-county/
+48479,Texas,Webb County,272823,62506,5,1.8,0,1,1,5,1.0,117.0,"Uvalde, TX",1.5,"Laredo, TX",1.5,117.0,5,27.523,-99.4755,https://findrehabmap.com/texas/webb-county/
+48309,Texas,McLennan County,270358,63888,7,2.6,2,1,3,3,1.4,1.4,"Waco, TX",1.6,"Waco, TX",1.4,1.4,7,31.54,-97.1748,https://findrehabmap.com/texas/mclennan-county/
+48245,Texas,Jefferson County,253948,59934,11,4.3,1,2,3,8,4.8,6.3,"Beaumont, TX",6.3,"Beaumont, TX",4.8,5.4,15,30.0115,-94.0676,https://findrehabmap.com/texas/jefferson-county/
+48041,Texas,Brazos County,249624,58388,4,1.6,1,1,1,3,1.5,3.6,"College Station, TX",3.6,"College Station, TX",3.6,54.4,7,30.6242,-96.3288,https://findrehabmap.com/texas/brazos-county/
+48423,Texas,Smith County,249091,71923,6,2.4,2,2,3,4,0.7,2.1,"Tyler, TX",0.7,"Tyler, TX",1.9,1.9,6,32.3261,-95.301,https://findrehabmap.com/texas/smith-county/
+48139,Texas,Ellis County,232387,95898,3,1.3,2,0,2,1,3.1,10.8,"Waxahachie, TX",17.4,"Dallas, TX",10.8,10.8,32,32.429,-96.828,https://findrehabmap.com/texas/ellis-county/
+48251,Texas,Johnson County,210547,81826,3,1.4,1,0,1,1,6.5,10.1,"Burleson, TX",15.9,"Fort Worth, TX",10.1,10.1,42,32.4413,-97.3228,https://findrehabmap.com/texas/johnson-county/
+48091,Texas,Comal County,201628,99015,3,1.5,1,1,2,0,7.3,14.2,"Canyon Lake, TX",8.0,"New Braunfels, TX",8.0,7.3,24,29.7645,-98.2217,https://findrehabmap.com/texas/comal-county/
+48257,Texas,Kaufman County,197829,88606,5,2.5,0,0,1,3,6.0,20.4,"Dallas, TX",16.4,"Mesquite, TX",9.6,7.3,19,32.6712,-96.3581,https://findrehabmap.com/texas/kaufman-county/
+48187,Texas,Guadalupe County,195166,93776,3,1.5,0,0,1,3,6.3,15.9,"San Antonio, TX",6.3,"New Braunfels, TX",6.3,15.9,20,29.602,-98.1074,https://findrehabmap.com/texas/guadalupe-county/
+48329,Texas,Midland County,183587,93984,5,2.7,2,1,3,4,0.9,0.9,"Midland, TX",0.9,"Midland, TX",0.9,2.6,9,32.0032,-102.1065,https://findrehabmap.com/texas/midland-county/
+48367,Texas,Parker County,179707,102099,8,4.5,2,3,3,4,2.4,7.6,"Azle, TX",2.4,"Weatherford, TX",2.4,7.6,30,32.7894,-97.7274,https://findrehabmap.com/texas/parker-county/
+48135,Texas,Ector County,170022,71031,4,2.4,2,1,3,4,1.6,1.7,"Odessa, TX",1.7,"Odessa, TX",1.7,2.9,9,31.8667,-102.3896,https://findrehabmap.com/texas/ector-county/
+48381,Texas,Randall County,150547,80905,1,0.7,0,0,0,0,5.0,5.5,"Amarillo, TX",6.3,"Amarillo, TX",5.9,5.0,8,35.1198,-101.8914,https://findrehabmap.com/texas/randall-county/
+48181,Texas,Grayson County,150532,70455,5,3.3,1,0,2,4,1.3,15.1,"Van Alstyne, TX",25.4,"Mead, OK",1.3,1.5,5,33.6449,-96.6266,https://findrehabmap.com/texas/grayson-county/
+48441,Texas,Taylor County,148813,66406,4,2.7,2,2,4,4,0.9,2.2,"Abilene, TX",2.2,"Abilene, TX",0.9,2.8,4,32.4178,-99.7671,https://findrehabmap.com/texas/taylor-county/
+48397,Texas,Rockwall County,137044,124917,2,1.5,0,0,0,1,2.5,14.2,"Garland, TX",11.1,"Garland, TX",11.1,15.4,58,32.9169,-96.428,https://findrehabmap.com/texas/rockwall-county/
+48485,Texas,Wichita County,129984,62168,5,3.8,2,1,1,1,2.7,3.0,"Wichita Falls, TX",2.9,"Wichita Falls, TX",3.1,3.1,5,33.9209,-98.5525,https://findrehabmap.com/texas/wichita-county/
+48183,Texas,Gregg County,126679,64809,7,5.5,1,2,1,6,0.6,0.6,"Longview, TX",0.6,"Longview, TX",0.6,31.3,9,32.4999,-94.7908,https://findrehabmap.com/texas/gregg-county/
+48451,Texas,Tom Green County,120103,66254,4,3.3,2,1,2,4,1.5,1.5,"San Angelo, TX",1.5,"San Angelo, TX",1.5,5.2,4,31.451,-100.4612,https://findrehabmap.com/texas/tom-green-county/
+48231,Texas,Hunt County,118729,70112,3,2.5,0,0,0,2,2.9,34.4,"McKinney, TX",30.5,"McKinney, TX",30.5,3.2,5,33.0821,-96.1045,https://findrehabmap.com/texas/hunt-county/
+48291,Texas,Liberty County,115042,64773,2,1.7,0,0,0,2,10.2,15.9,"Porter, TX",30.3,"Spring, TX",15.9,15.9,7,30.1592,-94.9255,https://findrehabmap.com/texas/liberty-county/
+48021,Texas,Bastrop County,114931,82730,3,2.6,1,0,2,1,4.7,11.4,"Paige, TX",22.5,"Austin, TX",4.7,11.4,19,30.1426,-97.3667,https://findrehabmap.com/texas/bastrop-county/
+48375,Texas,Potter County,114649,50448,7,6.1,3,1,3,6,0.3,1.6,"Amarillo, TX",1.6,"Amarillo, TX",1.6,4.0,8,35.2215,-101.8398,https://findrehabmap.com/texas/potter-county/
+48037,Texas,Bowie County,91992,59295,3,3.3,0,0,0,3,7.4,9.7,"Texarkana, AR",9.3,"Texarkana, AR",9.3,9.7,8,33.4366,-94.2008,https://findrehabmap.com/texas/bowie-county/
+48469,Texas,Victoria County,91949,70101,4,4.4,2,1,2,3,0.4,1.1,"Victoria, TX",1.1,"Victoria, TX",1.1,60.8,4,28.825,-96.9916,https://findrehabmap.com/texas/victoria-county/
+48005,Texas,Angelina County,88094,58847,4,4.5,1,1,3,3,2.1,4.1,"Lufkin, TX",3.2,"Lufkin, TX",2.6,62.1,6,31.3135,-94.7161,https://findrehabmap.com/texas/angelina-county/
+48213,Texas,Henderson County,87467,63955,1,1.1,0,0,0,1,2.2,12.7,"Canton, TX",34.4,"Tyler, TX",12.7,12.7,3,32.2413,-95.8894,https://findrehabmap.com/texas/henderson-county/
+48099,Texas,Coryell County,86370,68904,0,0.0,0,0,0,0,13.3,13.3,"Killeen, TX",29.2,"Temple, TX",13.3,13.3,3,31.2364,-97.8325,https://findrehabmap.com/texas/coryell-county/
+48361,Texas,Orange County,86115,73372,3,3.5,0,0,0,3,5.5,16.6,"Beaumont, TX",15.4,"Port Arthur, TX",15.9,17.0,15,30.1202,-93.8658,https://findrehabmap.com/texas/orange-county/
+48471,Texas,Walker County,83722,49862,1,1.2,0,0,0,1,2.5,30.7,"Conroe, TX",28.2,"Conroe, TX",28.0,30.7,1,30.7258,-95.5387,https://findrehabmap.com/texas/walker-county/
+48497,Texas,Wise County,81275,89897,2,2.5,1,0,0,1,5.5,5.5,"Decatur, TX",27.2,"Lake Worth, TX",22.9,21.8,5,33.1618,-97.6299,https://findrehabmap.com/texas/wise-county/
+48409,Texas,San Patricio County,71467,67512,2,2.8,0,0,0,2,2.2,10.4,"Corpus Christi, TX",10.1,"Corpus Christi, TX",10.1,10.4,14,27.9427,-97.391,https://findrehabmap.com/texas/san-patricio-county/
+48203,Texas,Harrison County,71370,66040,0,0.0,0,0,0,0,17.4,21.5,"Longview, TX",21.5,"Longview, TX",21.5,33.1,7,32.5343,-94.4273,https://findrehabmap.com/texas/harrison-county/
+48221,Texas,Hood County,69126,86802,1,1.4,0,0,0,1,2.8,25.5,"Fort Worth, TX",22.4,"Weatherford, TX",22.4,24.8,10,32.4343,-97.7623,https://findrehabmap.com/texas/hood-county/
+48427,Texas,Starr County,66587,38182,1,1.5,0,0,0,0,3.4,42.6,"Pharr, TX",42.6,"Pharr, TX",42.6,74.2,1,26.3878,-98.8434,https://findrehabmap.com/texas/starr-county/
+48347,Texas,Nacogdoches County,65728,51528,2,3.0,0,0,1,2,0.7,19.8,"Lufkin, TX",21.1,"Lufkin, TX",1.1,59.3,6,31.6257,-94.6446,https://findrehabmap.com/texas/nacogdoches-county/
+48467,Texas,Van Zandt County,65304,68274,2,3.1,1,0,1,2,3.2,10.7,"Canton, TX",35.1,"Tyler, TX",10.7,10.7,5,32.5775,-95.8376,https://findrehabmap.com/texas/van-zandt-county/
+48473,Texas,Waller County,65109,76135,3,4.6,0,0,0,3,9.6,20.0,"Katy, TX",19.5,"Tomball, TX",19.5,23.8,15,29.9968,-95.9536,https://findrehabmap.com/texas/waller-county/
+48001,Texas,Anderson County,59512,58846,2,3.4,0,0,0,1,3.4,44.7,"Tyler, TX",28.6,"Jacksonville, TX",26.8,3.4,2,31.7753,-95.6839,https://findrehabmap.com/texas/anderson-county/
+48323,Texas,Maverick County,58829,51270,3,5.1,0,1,1,3,1.3,53.5,"Uvalde, TX",1.3,"Eagle Pass, TX",1.3,53.5,3,28.7064,-100.4782,https://findrehabmap.com/texas/maverick-county/
+48199,Texas,Hardin County,58670,72532,1,1.7,0,0,0,1,5.2,16.9,"Beaumont, TX",16.6,"Beaumont, TX",16.6,13.5,8,30.2994,-94.2572,https://findrehabmap.com/texas/hardin-county/
+48349,Texas,Navarro County,56533,59310,1,1.8,0,0,0,1,1.5,19.6,"Ennis, TX",45.9,"Dallas, TX",19.6,19.6,2,32.0813,-96.486,https://findrehabmap.com/texas/navarro-county/
+48071,Texas,Chambers County,56179,108114,0,0.0,0,0,0,0,13.2,23.6,"Deer Park, TX",25.7,"Houston, TX",13.2,23.6,5,29.8054,-94.769,https://findrehabmap.com/texas/chambers-county/
+48053,Texas,Burnet County,55722,77158,2,3.6,1,0,2,1,4.2,16.2,"Spicewood, TX",27.9,"Cedar Park, TX",4.2,16.2,3,30.6722,-98.2417,https://findrehabmap.com/texas/burnet-county/
+48325,Texas,Medina County,55619,73462,1,1.8,0,0,1,1,11.7,24.7,"San Antonio, TX",20.8,"San Antonio, TX",11.7,23.8,5,29.3139,-98.9534,https://findrehabmap.com/texas/medina-county/
+48493,Texas,Wilson County,55415,92461,2,3.6,0,0,0,2,6.8,23.7,"San Antonio, TX",24.4,"San Antonio, TX",23.7,18.3,6,29.2314,-98.143,https://findrehabmap.com/texas/wilson-county/
+48373,Texas,Polk County,54258,59066,1,1.8,0,0,0,1,2.0,44.1,"Lufkin, TX",42.3,"Conroe, TX",42.8,45.0,1,30.7365,-94.9368,https://findrehabmap.com/texas/polk-county/
+48265,Texas,Kerr County,53900,67927,3,5.6,2,0,2,2,4.2,11.1,"Center Point, TX",53.1,"San Antonio, TX",11.1,11.1,11,30.0403,-99.1594,https://findrehabmap.com/texas/kerr-county/
+48401,Texas,Rusk County,53391,67506,1,1.9,0,0,0,1,2.7,21.7,"Longview, TX",21.7,"Longview, TX",21.7,31.3,8,32.1944,-94.7985,https://findrehabmap.com/texas/rusk-county/
+48073,Texas,Cherokee County,53223,59830,2,3.8,0,1,2,2,4.1,30.7,"Tyler, TX",4.1,"Jacksonville, TX",4.1,27.9,2,31.9135,-95.2162,https://findrehabmap.com/texas/cherokee-county/
+48013,Texas,Atascosa County,52783,69413,2,3.8,0,0,0,2,8.4,26.9,"San Antonio, TX",23.2,"San Antonio, TX",21.6,21.0,5,29.0416,-98.5784,https://findrehabmap.com/texas/atascosa-county/
+48055,Texas,Caldwell County,52430,68503,2,3.8,0,0,1,2,1.0,16.7,"San Marcos, TX",24.2,"Austin, TX",1.0,1.9,13,29.8653,-97.6746,https://findrehabmap.com/texas/caldwell-county/
+48259,Texas,Kendall County,51828,110498,0,0.0,0,0,0,0,13.3,19.7,"Center Point, TX",24.7,"San Antonio, TX",19.7,18.8,17,29.8314,-98.7176,https://findrehabmap.com/texas/kendall-county/
+48277,Texas,Lamar County,51249,61122,2,3.9,0,0,0,2,1.5,60.3,"Mead, OK",60.3,"Mead, OK",44.8,34.1,4,33.6755,-95.534,https://findrehabmap.com/texas/lamar-county/
+48499,Texas,Wood County,48742,62524,1,2.1,0,0,0,1,9.3,28.9,"Tyler, TX",31.1,"Tyler, TX",28.9,28.9,2,32.776,-95.4001,https://findrehabmap.com/texas/wood-county/
+48465,Texas,Val Verde County,47999,59673,1,2.1,0,0,0,0,0.2,68.0,"Uvalde, TX",52.0,"Eagle Pass, TX",52.0,68.0,1,29.3809,-100.8981,https://findrehabmap.com/texas/val-verde-county/
+48143,Texas,Erath County,44496,65351,2,4.5,0,0,0,2,1.3,55.9,"Azle, TX",44.5,"Weatherford, TX",44.5,55.8,2,32.2121,-98.2252,https://findrehabmap.com/texas/erath-county/
+48097,Texas,Cooke County,44258,72472,1,2.3,0,0,0,1,1.3,28.2,"Denton, TX",28.8,"Denton, TX",26.9,30.2,1,33.6074,-97.1338,https://findrehabmap.com/texas/cooke-county/
+48459,Texas,Upshur County,44050,62794,1,2.3,0,0,0,1,2.8,15.0,"Longview, TX",13.9,"Longview, TX",15.0,32.4,8,32.6979,-94.9223,https://findrehabmap.com/texas/upshur-county/
+48481,Texas,Wharton County,42035,66100,1,2.4,1,0,1,0,9.3,9.3,"Egypt, TX",42.0,"Sugar Land, TX",9.3,9.3,2,29.2767,-96.1754,https://findrehabmap.com/texas/wharton-county/
+48249,Texas,Jim Wells County,38886,47492,1,2.6,0,0,0,1,1.4,37.7,"Corpus Christi, TX",37.3,"Corpus Christi, TX",37.3,37.7,2,27.7556,-98.0628,https://findrehabmap.com/texas/jim-wells-county/
+48223,Texas,Hopkins County,38784,64725,1,2.6,0,0,0,1,2.6,50.9,"Canton, TX",57.0,"Tyler, TX",50.9,28.5,2,33.1245,-95.5893,https://findrehabmap.com/texas/hopkins-county/
+48217,Texas,Hill County,38771,63147,0,0.0,0,0,0,0,25.9,25.9,"Waxahachie, TX",31.5,"Waco, TX",25.9,25.9,0,31.9982,-97.1771,https://findrehabmap.com/texas/hill-county/
+48147,Texas,Fannin County,38650,68377,2,5.2,0,0,0,2,1.4,23.6,"Van Alstyne, TX",35.0,"McKinney, TX",23.6,23.6,3,33.5569,-96.1813,https://findrehabmap.com/texas/fannin-county/
+48049,Texas,Brown County,38631,55305,0,0.0,0,0,0,0,26.3,66.3,"Abilene, TX",65.1,"Abilene, TX",65.1,66.3,0,31.7316,-98.9893,https://findrehabmap.com/texas/brown-county/
+48477,Texas,Washington County,37810,75085,1,2.6,0,0,0,1,0.9,28.5,"College Station, TX",28.5,"College Station, TX",28.5,46.8,3,30.1815,-96.3978,https://findrehabmap.com/texas/washington-county/
+48321,Texas,Matagorda County,36391,55174,1,2.7,0,0,0,1,5.5,36.3,"Egypt, TX",37.2,"Clute, TX",36.3,36.3,1,28.9181,-95.9989,https://findrehabmap.com/texas/matagorda-county/
+48185,Texas,Grimes County,33448,67080,1,3.0,0,0,0,1,6.1,19.5,"College Station, TX",19.5,"College Station, TX",19.5,31.5,5,30.4393,-96.0073,https://findrehabmap.com/texas/grimes-county/
+48241,Texas,Jasper County,32907,49919,1,3.0,0,0,0,1,13.1,46.0,"Beaumont, TX",45.3,"Beaumont, TX",42.7,41.2,1,30.7316,-93.9933,https://findrehabmap.com/texas/jasper-county/
+48015,Texas,Austin County,32546,75994,0,0.0,0,0,0,0,17.0,29.4,"Katy, TX",38.0,"Tomball, TX",29.4,29.6,4,29.851,-96.2199,https://findrehabmap.com/texas/austin-county/
+48189,Texas,Hale County,31953,52788,3,9.4,0,1,0,2,3.5,42.0,"Lubbock, TX",3.5,"Plainview, TX",39.4,4.4,3,34.1435,-101.7424,https://findrehabmap.com/texas/hale-county/
+48449,Texas,Titus County,31547,59220,2,6.3,0,0,0,1,0.3,47.2,"Longview, TX",46.1,"Longview, TX",47.2,0.3,2,33.1759,-94.9665,https://findrehabmap.com/texas/titus-county/
+48025,Texas,Bee County,31226,56075,1,3.2,0,0,0,1,0.8,44.7,"Corpus Christi, TX",44.3,"Corpus Christi, TX",44.3,44.7,1,28.3956,-97.7338,https://findrehabmap.com/texas/bee-county/
+48227,Texas,Howard County,30833,71457,2,6.5,0,0,0,2,1.7,39.0,"Midland, TX",41.1,"Midland, TX",38.6,4.3,2,32.2414,-101.4631,https://findrehabmap.com/texas/howard-county/
+48273,Texas,Kleberg County,30442,57612,1,3.3,0,0,0,1,2.8,32.9,"Corpus Christi, TX",32.5,"Corpus Christi, TX",32.5,32.9,3,27.4914,-97.857,https://findrehabmap.com/texas/kleberg-county/
+48363,Texas,Palo Pinto County,30231,64972,1,3.3,0,0,0,1,2.3,32.5,"Graham, TX",19.8,"Weatherford, TX",19.8,32.6,7,32.7793,-98.164,https://findrehabmap.com/texas/palo-pinto-county/
+48407,Texas,San Jacinto County,29326,59526,0,0.0,0,0,0,0,14.7,27.3,"Conroe, TX",24.9,"Conroe, TX",26.2,27.5,3,30.5491,-95.1347,https://findrehabmap.com/texas/san-jacinto-county/
+48067,Texas,Cass County,28622,54328,0,0.0,0,0,0,0,28.1,30.3,"Texarkana, AR",28.1,"Texarkana, AR",28.1,30.3,0,33.0806,-94.2973,https://findrehabmap.com/texas/cass-county/
+48171,Texas,Gillespie County,28159,67799,6,21.3,1,0,0,2,2.1,2.1,"Fredericksburg, TX",57.0,"San Antonio, TX",25.0,2.1,7,30.2736,-98.9081,https://findrehabmap.com/texas/gillespie-county/
+48331,Texas,Milam County,26159,59076,0,0.0,0,0,0,0,23.6,30.4,"Temple, TX",31.7,"Temple, TX",30.4,30.4,1,30.7443,-97.0086,https://findrehabmap.com/texas/milam-county/
+48007,Texas,Aransas County,25595,61754,0,0.0,0,0,0,0,19.0,27.9,"Corpus Christi, TX",25.7,"Corpus Christi, TX",25.7,26.9,2,28.0307,-97.0725,https://findrehabmap.com/texas/aransas-county/
+48149,Texas,Fayette County,25488,76541,1,3.9,0,0,0,1,3.4,28.2,"Paige, TX",56.3,"Austin, TX",28.2,28.2,2,29.8561,-96.9012,https://findrehabmap.com/texas/fayette-county/
+48463,Texas,Uvalde County,25138,57849,16,63.6,8,0,0,1,1.8,4.0,"Uvalde, TX",50.8,"Carrizo Springs, TX",45.5,4.0,16,29.2433,-99.7578,https://findrehabmap.com/texas/uvalde-county/
+48419,Texas,Shelby County,24192,50436,0,0.0,0,0,0,0,20.9,46.4,"Shreveport, LA",47.2,"Shreveport, LA",29.7,46.4,1,31.8235,-94.1815,https://findrehabmap.com/texas/shelby-county/
+48281,Texas,Lampasas County,23539,76919,0,0.0,0,0,0,0,22.9,22.9,"Killeen, TX",43.2,"Cedar Park, TX",22.9,22.9,2,31.0952,-98.1132,https://findrehabmap.com/texas/lampasas-county/
+48299,Texas,Llano County,23163,65636,0,0.0,0,0,0,0,15.6,27.9,"Spicewood, TX",43.3,"Cedar Park, TX",15.6,27.9,1,30.6802,-98.5087,https://findrehabmap.com/texas/llano-county/
+48365,Texas,Panola County,23022,62593,0,0.0,0,0,0,0,27.2,33.3,"Shreveport, LA",33.9,"Shreveport, LA",33.3,33.3,0,32.1634,-94.3351,https://findrehabmap.com/texas/panola-county/
+48165,Texas,Gaines County,22892,76605,1,4.4,0,0,0,0,2.2,59.8,"Midland, TX",61.8,"Midland, TX",28.6,59.8,2,32.752,-102.658,https://findrehabmap.com/texas/gaines-county/
+48019,Texas,Bandera County,22830,69703,2,8.8,1,0,1,1,3.0,3.4,"Bandera, TX",31.3,"San Antonio, TX",3.4,3.4,4,29.7035,-99.0316,https://findrehabmap.com/texas/bandera-county/
+48293,Texas,Limestone County,22569,58109,0,0.0,0,0,0,0,35.0,38.4,"Waco, TX",37.2,"Waco, TX",37.2,38.3,0,31.5904,-96.5191,https://findrehabmap.com/texas/limestone-county/
+48225,Texas,Houston County,22197,54563,0,0.0,0,0,0,0,30.6,41.7,"Lufkin, TX",41.7,"Lufkin, TX",41.7,32.2,0,31.2979,-95.4664,https://findrehabmap.com/texas/houston-county/
+48337,Texas,Montague County,21890,62818,1,4.6,1,0,0,0,7.3,7.3,"Bowie, TX",46.8,"Wichita Falls, TX",44.7,46.5,1,33.6328,-97.7607,https://findrehabmap.com/texas/montague-county/
+48341,Texas,Moore County,21872,61325,0,0.0,0,0,0,0,47.6,48.3,"Amarillo, TX",48.3,"Amarillo, TX",48.3,48.4,0,35.9029,-101.9565,https://findrehabmap.com/texas/moore-county/
+48219,Texas,Hockley County,21505,54810,0,0.0,0,0,0,0,24.6,27.8,"Lubbock, TX",27.8,"Lubbock, TX",27.8,25.0,2,33.5835,-102.3333,https://findrehabmap.com/texas/hockley-county/
+48089,Texas,Colorado County,21475,68554,0,0.0,0,0,0,0,25.9,25.9,"Egypt, TX",56.4,"Sugar Land, TX",25.9,25.9,0,29.6648,-96.5389,https://findrehabmap.com/texas/colorado-county/
+48179,Texas,Gray County,20888,56082,1,4.8,1,1,1,1,3.0,3.0,"Pampa, TX",3.0,"Pampa, TX",3.0,58.9,1,35.5304,-100.9399,https://findrehabmap.com/texas/gray-county/
+48253,Texas,Jones County,20850,63472,0,0.0,0,0,0,0,17.9,17.9,"Abilene, TX",17.9,"Abilene, TX",17.9,18.0,4,32.7066,-99.8051,https://findrehabmap.com/texas/jones-county/
+48161,Texas,Freestone County,20645,58460,0,0.0,0,0,0,0,31.2,49.3,"Ennis, TX",56.3,"Waco, TX",49.3,33.3,0,31.7001,-96.2093,https://findrehabmap.com/texas/freestone-county/
+48285,Texas,Lavaca County,20605,61768,0,0.0,0,0,0,0,25.6,30.8,"Waelder, TX",41.4,"Victoria, TX",30.8,30.8,0,29.4071,-97.0438,https://findrehabmap.com/texas/lavaca-county/
+48457,Texas,Tyler County,20560,50647,0,0.0,0,0,0,0,25.3,47.7,"Beaumont, TX",47.3,"Beaumont, TX",47.1,44.2,0,30.7387,-94.3677,https://findrehabmap.com/texas/tyler-county/
+48123,Texas,DeWitt County,20252,64014,0,0.0,0,0,0,0,24.5,24.5,"Victoria, TX",27.9,"Victoria, TX",24.5,45.6,2,29.0996,-97.3115,https://findrehabmap.com/texas/dewitt-county/
+48051,Texas,Burleson County,20179,72888,1,5.0,0,0,0,1,5.1,22.4,"College Station, TX",22.4,"College Station, TX",22.4,37.9,6,30.4756,-96.6446,https://findrehabmap.com/texas/burleson-county/
+48177,Texas,Gonzales County,20040,59355,3,15.0,2,0,1,2,3.4,21.2,"Waelder, TX",39.7,"New Braunfels, TX",21.2,21.2,3,29.4772,-97.5043,https://findrehabmap.com/texas/gonzales-county/
+48489,Texas,Willacy County,20027,45645,0,0.0,0,0,0,0,16.6,28.6,"Pharr, TX",16.6,"Harlingen, TX",16.6,21.0,4,26.4524,-97.7774,https://findrehabmap.com/texas/willacy-county/
+48057,Texas,Calhoun County,19942,71870,0,0.0,0,0,0,0,26.9,26.9,"Victoria, TX",26.9,"Victoria, TX",26.9,61.0,0,28.5892,-96.6259,https://findrehabmap.com/texas/calhoun-county/
+48233,Texas,Hutchinson County,19721,65470,0,0.0,0,0,0,0,27.9,27.9,"Pampa, TX",27.9,"Pampa, TX",27.9,41.8,0,35.6792,-101.4471,https://findrehabmap.com/texas/hutchinson-county/
+48163,Texas,Frio County,19520,60098,2,10.2,0,0,1,2,3.8,47.9,"Uvalde, TX",29.1,"Cotulla, TX",4.0,47.9,3,28.8395,-99.1085,https://findrehabmap.com/texas/frio-county/
+48035,Texas,Bosque County,19013,69339,0,0.0,0,0,0,0,30.7,31.2,"Waco, TX",33.2,"Waco, TX",31.2,30.7,0,31.8621,-97.5709,https://findrehabmap.com/texas/bosque-county/
+48003,Texas,Andrews County,18923,76902,0,0.0,0,0,0,0,28.4,33.2,"Midland, TX",34.3,"Odessa, TX",33.2,33.2,0,32.3214,-102.5396,https://findrehabmap.com/texas/andrews-county/
+48117,Texas,Deaf Smith County,18495,54114,1,5.4,0,0,0,1,1.2,36.6,"Amarillo, TX",39.9,"Amarillo, TX",37.9,32.3,1,34.8356,-102.4028,https://findrehabmap.com/texas/deaf-smith-county/
+48287,Texas,Lee County,18451,66000,1,5.4,0,0,0,1,7.1,14.1,"Paige, TX",43.2,"Austin, TX",14.1,14.1,5,30.2748,-96.9714,https://findrehabmap.com/texas/lee-county/
+48133,Texas,Eastland County,18290,51741,0,0.0,0,0,0,0,36.4,52.5,"Abilene, TX",50.6,"Abilene, TX",50.6,52.5,0,32.3573,-98.8454,https://findrehabmap.com/texas/eastland-county/
+48503,Texas,Young County,18236,63723,1,5.5,1,0,0,0,5.2,5.2,"Graham, TX",52.2,"Wichita Falls, TX",51.8,51.8,1,33.1643,-98.6242,https://findrehabmap.com/texas/young-county/
+48145,Texas,Falls County,17752,55372,0,0.0,0,0,0,0,19.7,21.4,"Waco, TX",22.7,"Waco, TX",21.4,20.1,6,31.2609,-96.9511,https://findrehabmap.com/texas/falls-county/
+48395,Texas,Robertson County,17659,66250,1,5.7,0,0,0,1,7.5,30.4,"College Station, TX",30.4,"College Station, TX",30.4,48.0,2,30.966,-96.5432,https://findrehabmap.com/texas/robertson-county/
+48289,Texas,Leon County,16698,59975,1,6.0,0,0,0,1,5.0,51.0,"College Station, TX",51.0,"College Station, TX",51.0,39.0,2,31.2913,-96.0483,https://findrehabmap.com/texas/leon-county/
+48415,Texas,Scurry County,16211,62689,1,6.2,0,0,0,1,0.8,68.6,"Abilene, TX",68.6,"Abilene, TX",68.5,44.7,2,32.7041,-100.9091,https://findrehabmap.com/texas/scurry-county/
+48239,Texas,Jackson County,15284,61752,0,0.0,0,0,0,0,26.0,26.1,"Victoria, TX",26.1,"Victoria, TX",26.1,37.6,0,28.9592,-96.5944,https://findrehabmap.com/texas/jackson-county/
+48255,Texas,Karnes County,15137,59103,1,6.6,0,0,0,1,3.0,51.4,"Victoria, TX",52.7,"San Antonio, TX",49.5,46.3,2,28.8581,-97.8703,https://findrehabmap.com/texas/karnes-county/
+48371,Texas,Pecos County,14712,67689,1,6.8,0,0,0,1,4.6,68.6,"Odessa, TX",70.1,"Odessa, TX",68.6,68.6,1,30.8971,-102.7993,https://findrehabmap.com/texas/pecos-county/
+48059,Texas,Callahan County,14615,68455,0,0.0,0,0,0,0,16.3,18.1,"Abilene, TX",16.3,"Abilene, TX",16.3,18.1,4,32.3518,-99.4529,https://findrehabmap.com/texas/callahan-county/
+48455,Texas,Trinity County,14489,51663,0,0.0,0,0,0,0,26.7,37.7,"Lufkin, TX",36.9,"Lufkin, TX",36.9,51.3,0,30.9989,-95.2447,https://findrehabmap.com/texas/trinity-county/
+48093,Texas,Comanche County,14359,59946,0,0.0,0,0,0,0,23.8,76.5,"Abilene, TX",69.4,"Weatherford, TX",69.4,76.5,1,31.9722,-98.559,https://findrehabmap.com/texas/comanche-county/
+48353,Texas,Nolan County,14182,50160,1,7.1,0,0,0,1,0.7,37.4,"Abilene, TX",37.4,"Abilene, TX",36.8,39.2,1,32.4511,-100.4117,https://findrehabmap.com/texas/nolan-county/
+48313,Texas,Madison County,13877,67128,1,7.2,0,0,0,1,1.5,34.6,"College Station, TX",34.6,"College Station, TX",34.6,52.6,2,30.9558,-95.8997,https://findrehabmap.com/texas/madison-county/
+48505,Texas,Zapata County,13819,36527,1,7.2,0,0,0,1,0.2,81.4,"Pharr, TX",46.2,"Laredo, TX",46.2,111.0,1,26.9034,-99.266,https://findrehabmap.com/texas/zapata-county/
+48031,Texas,Blanco County,13358,87564,1,7.5,0,0,0,1,6.7,16.2,"Canyon Lake, TX",35.7,"Austin, TX",16.2,16.2,3,30.1771,-98.3921,https://findrehabmap.com/texas/blanco-county/
+48379,Texas,Rains County,13306,64874,1,7.5,0,0,0,1,3.0,32.2,"Canton, TX",46.5,"Garland, TX",32.2,23.4,7,32.8857,-95.7951,https://findrehabmap.com/texas/rains-county/
+48063,Texas,Camp County,13164,55061,0,0.0,0,0,0,0,12.4,35.1,"Longview, TX",34.0,"Longview, TX",35.1,12.8,3,32.9902,-94.985,https://findrehabmap.com/texas/camp-county/
+48279,Texas,Lamb County,12687,56997,0,0.0,0,0,0,0,36.0,43.1,"Lubbock, TX",36.8,"Plainview, TX",43.1,36.0,0,34.0283,-102.3247,https://findrehabmap.com/texas/lamb-county/
+48487,Texas,Wilbarger County,12455,51626,1,8.0,1,0,0,0,0.6,0.6,"Vernon, TX",48.2,"Wichita Falls, TX",48.4,48.4,1,34.1449,-99.297,https://findrehabmap.com/texas/wilbarger-county/
+48343,Texas,Morris County,12184,55082,0,0.0,0,0,0,0,16.1,39.2,"Longview, TX",38.4,"Longview, TX",39.2,16.1,2,33.0732,-94.7229,https://findrehabmap.com/texas/morris-county/
+48297,Texas,Live Oak County,11967,53869,0,0.0,0,0,0,0,22.9,54.7,"Corpus Christi, TX",54.3,"Corpus Christi, TX",54.3,54.7,1,28.3366,-98.1081,https://findrehabmap.com/texas/live-oak-county/
+48389,Texas,Reeves County,11956,56056,1,8.4,0,0,0,0,1.9,73.7,"Odessa, TX",74.7,"Odessa, TX",73.6,73.7,1,31.3871,-103.5263,https://findrehabmap.com/texas/reeves-county/
+48351,Texas,Newton County,11908,41044,0,0.0,0,0,0,0,21.8,45.4,"Lake Charles, LA",47.1,"Beaumont, TX",30.0,28.4,1,30.6858,-93.7548,https://findrehabmap.com/texas/newton-county/
+48115,Texas,Dawson County,11758,55789,1,8.5,0,0,0,0,0.2,49.0,"Midland, TX",52.1,"Midland, TX",49.0,40.0,1,32.7347,-101.9493,https://findrehabmap.com/texas/dawson-county/
+48387,Texas,Red River County,11696,46912,1,8.5,0,0,0,1,2.5,60.7,"Texarkana, AR",60.9,"Texarkana, AR",25.7,28.6,1,33.5919,-95.0783,https://findrehabmap.com/texas/red-river-county/
+48445,Texas,Terry County,11602,45905,1,8.6,0,0,0,0,0.6,34.7,"Lubbock, TX",34.7,"Lubbock, TX",34.7,36.8,1,33.1827,-102.2718,https://findrehabmap.com/texas/terry-county/
+48475,Texas,Ward County,11038,71719,1,9.1,0,0,0,1,2.5,35.7,"Odessa, TX",36.8,"Odessa, TX",35.7,35.7,2,31.5693,-102.9126,https://findrehabmap.com/texas/ward-county/
+48159,Texas,Franklin County,10912,66800,0,0.0,0,0,0,0,14.4,49.2,"Longview, TX",48.1,"Longview, TX",49.2,15.0,3,33.1221,-95.2239,https://findrehabmap.com/texas/franklin-county/
+48077,Texas,Clay County,10730,77355,0,0.0,0,0,0,0,15.7,15.7,"Wichita Falls, TX",16.0,"Wichita Falls, TX",15.7,15.7,5,33.8254,-98.2448,https://findrehabmap.com/texas/clay-county/
+48425,Texas,Somervell County,10098,83382,0,0.0,0,0,0,0,14.4,35.2,"Burleson, TX",35.5,"Fort Worth, TX",35.2,34.3,3,32.235,-97.7522,https://findrehabmap.com/texas/somervell-county/
+48403,Texas,Sabine County,10058,59924,0,0.0,0,0,0,0,20.8,53.9,"Lufkin, TX",53.8,"Lufkin, TX",37.0,46.8,1,31.339,-93.8494,https://findrehabmap.com/texas/sabine-county/
+48399,Texas,Runnels County,9751,63490,1,10.3,0,0,0,1,11.0,31.5,"San Angelo, TX",35.3,"San Angelo, TX",31.5,31.5,1,31.7992,-99.9936,https://findrehabmap.com/texas/runnels-county/
+48357,Texas,Ochiltree County,9717,64988,0,0.0,0,0,0,0,42.7,57.0,"Pampa, TX",57.0,"Pampa, TX",42.7,70.0,0,36.3811,-100.8101,https://findrehabmap.com/texas/ochiltree-county/
+48315,Texas,Marion County,9704,47447,0,0.0,0,0,0,0,26.1,29.1,"Longview, TX",28.9,"Longview, TX",29.1,39.8,0,32.7895,-94.4232,https://findrehabmap.com/texas/marion-county/
+48369,Texas,Parmer County,9669,68164,0,0.0,0,0,0,0,23.9,67.7,"Amarillo, TX",67.7,"Plainview, TX",23.9,63.4,2,34.5407,-102.8157,https://findrehabmap.com/texas/parmer-county/
+48131,Texas,Duval County,9585,50081,0,0.0,0,0,0,0,18.8,57.8,"Corpus Christi, TX",57.4,"Corpus Christi, TX",57.4,57.8,1,27.7425,-98.391,https://findrehabmap.com/texas/duval-county/
+48043,Texas,Brewster County,9508,52612,1,10.5,0,0,0,1,10.1,132.7,"Odessa, TX",134.1,"Odessa, TX",132.7,132.7,1,30.2224,-103.6201,https://findrehabmap.com/texas/brewster-county/
+48429,Texas,Stephens County,9475,54695,0,0.0,0,0,0,0,31.6,31.6,"Graham, TX",51.3,"Abilene, TX",51.3,53.1,0,32.7562,-98.9022,https://findrehabmap.com/texas/stephens-county/
+48237,Texas,Jack County,9398,65693,0,0.0,0,0,0,0,23.4,23.4,"Graham, TX",36.4,"Weatherford, TX",36.4,41.4,1,33.2002,-98.1688,https://findrehabmap.com/texas/jack-county/
+48507,Texas,Zavala County,9209,41887,1,10.9,0,0,0,1,4.9,30.7,"Uvalde, TX",16.6,"Carrizo Springs, TX",15.0,30.7,3,28.7494,-99.8102,https://findrehabmap.com/texas/zavala-county/
+48009,Texas,Archer County,9155,71958,0,0.0,0,0,0,0,13.0,14.7,"Wichita Falls, TX",15.1,"Wichita Falls, TX",14.7,14.7,5,33.7128,-98.6073,https://findrehabmap.com/texas/archer-county/
+48335,Texas,Mitchell County,8968,56033,1,11.2,0,0,0,1,0.0,63.9,"Abilene, TX",63.9,"Abilene, TX",63.1,37.9,2,32.3923,-100.864,https://findrehabmap.com/texas/mitchell-county/
+48193,Texas,Hamilton County,8644,55339,0,0.0,0,0,0,0,31.4,52.8,"Killeen, TX",57.7,"Waco, TX",52.8,52.8,0,31.763,-98.0957,https://findrehabmap.com/texas/hamilton-county/
+48127,Texas,Dimmit County,8181,33409,2,24.4,0,1,2,2,1.9,46.5,"Uvalde, TX",2.4,"Carrizo Springs, TX",1.9,46.5,3,28.5207,-99.827,https://findrehabmap.com/texas/dimmit-county/
+48083,Texas,Coleman County,7990,52364,1,12.5,0,0,0,0,1.6,48.1,"Abilene, TX",47.4,"Abilene, TX",47.1,48.1,1,31.8081,-99.425,https://findrehabmap.com/texas/coleman-county/
+48405,Texas,San Augustine County,7767,46338,1,12.9,0,0,0,1,6.0,36.5,"Lufkin, TX",36.6,"Lufkin, TX",31.8,64.7,1,31.4411,-94.1528,https://findrehabmap.com/texas/san-augustine-county/
+48501,Texas,Yoakum County,7581,82261,1,13.2,0,0,0,0,3.9,67.1,"Lubbock, TX",67.1,"Lubbock, TX",28.7,67.7,2,33.0226,-102.8331,https://findrehabmap.com/texas/yoakum-county/
+48111,Texas,Dallam County,7526,72332,0,0.0,0,0,0,0,72.5,72.5,"Amarillo, TX",73.5,"Amarillo, TX",72.5,72.5,0,36.105,-102.5687,https://findrehabmap.com/texas/dallam-county/
+48307,Texas,McCulloch County,7448,51919,0,0.0,0,0,0,0,47.5,64.0,"Fredericksburg, TX",68.2,"San Angelo, TX",65.9,64.0,0,31.148,-99.3388,https://findrehabmap.com/texas/mcculloch-county/
+48495,Texas,Winkler County,7381,91898,1,13.5,0,0,0,1,0.8,41.9,"Odessa, TX",42.4,"Odessa, TX",41.3,41.9,2,31.8423,-103.0992,https://findrehabmap.com/texas/winkler-county/
+48069,Texas,Castro County,7380,63485,0,0.0,0,0,0,0,21.5,50.2,"Amarillo, TX",39.7,"Plainview, TX",51.3,37.1,1,34.5251,-102.2722,https://findrehabmap.com/texas/castro-county/
+48175,Texas,Goliad County,7221,59556,0,0.0,0,0,0,0,23.0,23.0,"Victoria, TX",23.5,"Victoria, TX",23.0,63.1,4,28.7106,-97.3623,https://findrehabmap.com/texas/goliad-county/
+48017,Texas,Bailey County,7031,70625,0,0.0,0,0,0,0,29.7,69.3,"Lubbock, TX",59.2,"Plainview, TX",29.7,57.8,0,34.2187,-102.7441,https://findrehabmap.com/texas/bailey-county/
+48437,Texas,Swisher County,6877,39031,0,0.0,0,0,0,0,19.4,46.6,"Amarillo, TX",24.2,"Plainview, TX",47.0,19.4,3,34.5322,-101.7716,https://findrehabmap.com/texas/swisher-county/
+48047,Texas,Brooks County,6740,31310,0,0.0,0,0,0,0,28.8,59.1,"Corpus Christi, TX",58.1,"Corpus Christi, TX",58.1,59.1,0,27.2087,-98.1448,https://findrehabmap.com/texas/brooks-county/
+48391,Texas,Refugio County,6739,58016,0,0.0,0,0,0,0,23.4,36.0,"Corpus Christi, TX",35.3,"Corpus Christi, TX",35.3,36.0,1,28.2905,-97.2476,https://findrehabmap.com/texas/refugio-county/
+48075,Texas,Childress County,6679,60333,1,15.0,1,0,0,0,3.2,3.2,"Childress, TX",86.4,"Plainview, TX",76.4,81.6,1,34.4281,-100.224,https://findrehabmap.com/texas/childress-county/
+48283,Texas,La Salle County,6679,55469,1,15.0,0,1,1,1,5.6,66.7,"Uvalde, TX",5.6,"Cotulla, TX",5.6,66.7,1,28.3534,-99.2464,https://findrehabmap.com/texas/la-salle-county/
+48305,Texas,Lynn County,5952,57411,0,0.0,0,0,0,0,23.5,23.5,"Lubbock, TX",23.9,"Lubbock, TX",23.5,25.9,7,33.1991,-101.8172,https://findrehabmap.com/texas/lynn-county/
+48065,Texas,Carson County,5822,84583,0,0.0,0,0,0,0,23.9,23.9,"Pampa, TX",23.9,"Pampa, TX",23.9,34.9,1,35.3821,-101.3283,https://findrehabmap.com/texas/carson-county/
+48377,Texas,Presidio County,5686,29014,1,17.6,0,0,0,1,20.6,176.3,"Odessa, TX",177.7,"Odessa, TX",176.3,170.5,1,29.8385,-104.2494,https://findrehabmap.com/texas/presidio-county/
+48119,Texas,Delta County,5647,62855,0,0.0,0,0,0,0,15.9,49.7,"Van Alstyne, TX",53.8,"McKinney, TX",49.7,27.9,3,33.3748,-95.7046,https://findrehabmap.com/texas/delta-county/
+48411,Texas,San Saba County,5508,54855,0,0.0,0,0,0,0,49.7,61.6,"Killeen, TX",72.8,"Cedar Park, TX",49.7,61.6,0,31.1882,-98.7604,https://findrehabmap.com/texas/san-saba-county/
+48207,Texas,Haskell County,5435,54044,1,18.4,1,0,0,0,1.9,1.9,"Haskell, TX",50.3,"Abilene, TX",50.2,50.2,1,33.1775,-99.7647,https://findrehabmap.com/texas/haskell-county/
+48317,Texas,Martin County,5179,77083,0,0.0,0,0,0,0,17.7,17.7,"Midland, TX",20.3,"Midland, TX",17.7,17.7,7,32.1736,-101.8275,https://findrehabmap.com/texas/martin-county/
+48153,Texas,Floyd County,5042,55461,0,0.0,0,0,0,0,21.7,43.9,"Lubbock, TX",21.7,"Plainview, TX",40.6,23.5,3,34.0398,-101.3744,https://findrehabmap.com/texas/floyd-county/
+48107,Texas,Crosby County,5030,52197,0,0.0,0,0,0,0,26.5,29.4,"Lubbock, TX",26.5,"Lubbock, TX",26.5,26.6,0,33.6604,-101.3576,https://findrehabmap.com/texas/crosby-county/
+48195,Texas,Hansford County,5006,68299,0,0.0,0,0,0,0,35.0,47.8,"Pampa, TX",47.8,"Pampa, TX",35.0,78.3,0,36.2137,-101.2712,https://findrehabmap.com/texas/hansford-county/
+48205,Texas,Hartley County,4996,82122,0,0.0,0,0,0,0,64.1,64.1,"Amarillo, TX",65.1,"Amarillo, TX",64.1,64.1,0,35.9946,-102.5023,https://findrehabmap.com/texas/hartley-county/
+48483,Texas,Wheeler County,4824,67964,0,0.0,0,0,0,0,42.4,42.4,"Pampa, TX",42.4,"Pampa, TX",42.4,47.4,0,35.3525,-100.2635,https://findrehabmap.com/texas/wheeler-county/
+48169,Texas,Garza County,4645,50545,1,21.5,0,0,0,1,0.5,35.7,"Lubbock, TX",35.9,"Lubbock, TX",35.7,35.8,1,33.1975,-101.3806,https://findrehabmap.com/texas/garza-county/
+48103,Texas,Crane County,4594,59915,0,0.0,0,0,0,0,19.9,29.3,"Odessa, TX",30.6,"Odessa, TX",29.3,29.3,1,31.4023,-102.3527,https://findrehabmap.com/texas/crane-county/
+48247,Texas,Jim Hogg County,4583,42230,1,21.8,0,0,0,0,0.7,79.8,"Pharr, TX",51.6,"Laredo, TX",51.6,83.2,1,27.3031,-98.6852,https://findrehabmap.com/texas/jim-hogg-county/
+48333,Texas,Mills County,4563,64494,0,0.0,0,0,0,0,52.9,57.9,"Killeen, TX",76.4,"Temple, TX",57.9,57.9,0,31.484,-98.5784,https://findrehabmap.com/texas/mills-county/
+48267,Texas,Kimble County,4401,65703,1,22.7,0,0,0,1,2.6,36.6,"Hunt, TX",79.0,"San Angelo, TX",36.6,36.6,1,30.4863,-99.7277,https://findrehabmap.com/texas/kimble-county/
+48319,Texas,Mason County,3987,68750,0,0.0,0,0,0,0,36.6,36.6,"Fredericksburg, TX",85.7,"Cedar Park, TX",47.6,36.6,0,30.7544,-99.2202,https://findrehabmap.com/texas/mason-county/
+48151,Texas,Fisher County,3665,64700,0,0.0,0,0,0,0,21.7,43.5,"Abilene, TX",43.5,"Abilene, TX",43.5,45.0,1,32.7709,-100.414,https://findrehabmap.com/texas/fisher-county/
+48229,Texas,Hudspeth County,3608,39336,0,0.0,0,0,0,0,45.8,59.1,"El Paso, TX",58.0,"El Paso, TX",57.4,45.8,0,31.3683,-105.546,https://findrehabmap.com/texas/hudspeth-county/
+48023,Texas,Baylor County,3533,42313,1,28.3,0,0,0,0,0.2,38.8,"Vernon, TX",49.1,"Wichita Falls, TX",49.0,49.0,1,33.5912,-99.2646,https://findrehabmap.com/texas/baylor-county/
+48197,Texas,Hardeman County,3417,61179,2,58.5,1,0,0,0,2.3,2.3,"Quanah, TX",73.2,"Wichita Falls, TX",61.8,73.5,2,34.2852,-99.7014,https://findrehabmap.com/texas/hardeman-county/
+48081,Texas,Coke County,3396,46431,0,0.0,0,0,0,0,26.8,29.0,"San Angelo, TX",31.0,"San Angelo, TX",29.0,29.0,0,31.9041,-100.4166,https://findrehabmap.com/texas/coke-county/
+48095,Texas,Concho County,3326,59632,0,0.0,0,0,0,0,33.8,33.8,"San Angelo, TX",36.0,"San Angelo, TX",33.8,33.8,0,31.2912,-99.8571,https://findrehabmap.com/texas/concho-county/
+48435,Texas,Sutton County,3269,75000,0,0.0,0,0,0,0,51.2,62.7,"San Angelo, TX",62.7,"San Angelo, TX",62.7,65.3,0,30.5633,-100.6277,https://findrehabmap.com/texas/sutton-county/
+48275,Texas,Knox County,3255,56304,0,0.0,0,0,0,0,21.0,21.0,"Haskell, TX",69.7,"Abilene, TX",69.7,69.7,1,33.4598,-99.704,https://findrehabmap.com/texas/knox-county/
+48129,Texas,Donley County,3193,56648,0,0.0,0,0,0,0,43.4,43.4,"Pampa, TX",43.4,"Pampa, TX",43.4,61.7,0,34.9439,-100.8623,https://findrehabmap.com/texas/donley-county/
+48271,Texas,Kinney County,3191,66341,0,0.0,0,0,0,0,29.6,38.6,"Uvalde, TX",40.1,"Eagle Pass, TX",40.1,38.6,0,29.3034,-100.4182,https://findrehabmap.com/texas/kinney-county/
+48417,Texas,Shackelford County,3169,64659,0,0.0,0,0,0,0,28.6,30.2,"Abilene, TX",28.6,"Abilene, TX",28.6,30.2,0,32.691,-99.3062,https://findrehabmap.com/texas/shackelford-county/
+48383,Texas,Reagan County,3139,70288,0,0.0,0,0,0,0,45.1,63.0,"San Angelo, TX",63.0,"San Angelo, TX",63.0,64.8,0,31.2143,-101.4663,https://findrehabmap.com/texas/reagan-county/
+48211,Texas,Hemphill County,3134,72052,0,0.0,0,0,0,0,40.9,40.9,"Pampa, TX",40.9,"Pampa, TX",40.9,62.2,0,35.893,-100.3608,https://findrehabmap.com/texas/hemphill-county/
+48461,Texas,Upton County,3128,52321,1,32.0,0,0,0,1,6.6,47.1,"Odessa, TX",48.2,"Odessa, TX",47.1,47.1,1,31.181,-102.125,https://findrehabmap.com/texas/upton-county/
+48295,Texas,Lipscomb County,2880,71442,0,0.0,0,0,0,0,45.8,45.8,"Fort Supply, OK",66.1,"Pampa, TX",54.1,45.8,0,36.3866,-100.3631,https://findrehabmap.com/texas/lipscomb-county/
+48191,Texas,Hall County,2828,46728,0,0.0,0,0,0,0,29.6,29.6,"Childress, TX",65.8,"Pampa, TX",65.8,69.6,0,34.6647,-100.5926,https://findrehabmap.com/texas/hall-county/
+48105,Texas,Crockett County,2799,81739,0,0.0,0,0,0,0,66.8,69.4,"San Angelo, TX",69.4,"San Angelo, TX",69.4,73.1,0,30.7047,-101.2166,https://findrehabmap.com/texas/crockett-county/
+48385,Texas,Real County,2772,45417,0,0.0,0,0,0,0,35.2,36.7,"Uvalde, TX",74.9,"San Antonio, TX",37.6,36.7,0,29.7237,-99.8237,https://findrehabmap.com/texas/real-county/
+48421,Texas,Sherman County,2771,74167,0,0.0,0,0,0,0,38.7,78.1,"Amarillo, TX",78.1,"Amarillo, TX",38.7,78.2,0,36.3327,-102.0083,https://findrehabmap.com/texas/sherman-county/
+48087,Texas,Collingsworth County,2611,60165,0,0.0,0,0,0,0,31.1,31.1,"Childress, TX",64.4,"Pampa, TX",58.2,58.9,0,34.8618,-100.2217,https://findrehabmap.com/texas/collingsworth-county/
+48079,Texas,Cochran County,2583,42137,0,0.0,0,0,0,0,44.2,52.1,"Lubbock, TX",52.1,"Lubbock, TX",48.5,48.5,0,33.6894,-102.741,https://findrehabmap.com/texas/cochran-county/
+48413,Texas,Schleicher County,2302,90141,0,0.0,0,0,0,0,40.7,41.5,"San Angelo, TX",41.5,"San Angelo, TX",41.5,44.3,0,30.8697,-100.5928,https://findrehabmap.com/texas/schleicher-county/
+48109,Texas,Culberson County,2254,42672,1,44.4,0,0,0,1,2.1,100.8,"Carlsbad, NM",105.8,"El Paso, TX",100.6,93.4,1,31.0642,-104.8195,https://findrehabmap.com/texas/culberson-county/
+48327,Texas,Menard County,1911,48191,0,0.0,0,0,0,0,28.6,54.0,"San Angelo, TX",54.6,"San Angelo, TX",54.0,54.0,0,30.9011,-99.7767,https://findrehabmap.com/texas/menard-county/
+48359,Texas,Oldham County,1823,76402,0,0.0,0,0,0,0,26.5,28.0,"Amarillo, TX",31.3,"Amarillo, TX",28.9,26.5,0,35.2919,-102.4076,https://findrehabmap.com/texas/oldham-county/
+48011,Texas,Armstrong County,1809,68462,0,0.0,0,0,0,0,26.5,27.8,"Amarillo, TX",27.8,"Amarillo, TX",27.8,30.1,0,35.0922,-101.3921,https://findrehabmap.com/texas/armstrong-county/
+48243,Texas,Jeff Davis County,1778,32625,0,0.0,0,0,0,0,26.0,127.0,"Odessa, TX",128.3,"Odessa, TX",126.6,127.0,0,30.6089,-103.9969,https://findrehabmap.com/texas/jeff-davis-county/
+48125,Texas,Dickens County,1725,50417,0,0.0,0,0,0,0,38.9,57.1,"Lubbock, TX",54.8,"Lubbock, TX",54.8,54.8,0,33.5467,-100.8559,https://findrehabmap.com/texas/dickens-county/
+48447,Texas,Throckmorton County,1532,58864,0,0.0,0,0,0,0,31.8,33.6,"Graham, TX",57.9,"Abilene, TX",57.9,59.0,0,33.1414,-99.1396,https://findrehabmap.com/texas/throckmorton-county/
+48235,Texas,Irion County,1526,58125,0,0.0,0,0,0,0,24.0,26.8,"San Angelo, TX",26.8,"San Angelo, TX",26.8,30.5,1,31.2704,-100.8347,https://findrehabmap.com/texas/irion-county/
+48045,Texas,Briscoe County,1494,41188,0,0.0,0,0,0,0,30.1,60.7,"Childress, TX",32.4,"Plainview, TX",63.8,30.1,0,34.4435,-101.2343,https://findrehabmap.com/texas/briscoe-county/
+48431,Texas,Sterling County,1387,78750,0,0.0,0,0,0,0,39.2,42.0,"San Angelo, TX",42.0,"San Angelo, TX",42.0,43.3,0,31.8348,-100.9933,https://findrehabmap.com/texas/sterling-county/
+48137,Texas,Edwards County,1383,38500,0,0.0,0,0,0,0,43.2,51.8,"Hunt, TX",88.7,"Eagle Pass, TX",51.8,51.8,0,29.9859,-100.2028,https://findrehabmap.com/texas/edwards-county/
+48101,Texas,Cottle County,1263,58819,0,0.0,0,0,0,0,27.7,27.7,"Childress, TX",81.1,"Plainview, TX",91.8,81.9,0,34.0278,-100.3043,https://findrehabmap.com/texas/cottle-county/
+48433,Texas,Stonewall County,1235,61250,0,0.0,0,0,0,0,28.4,28.4,"Haskell, TX",55.0,"Abilene, TX",55.0,55.8,0,33.1445,-100.2325,https://findrehabmap.com/texas/stonewall-county/
+48173,Texas,Glasscock County,1153,106806,0,0.0,0,0,0,0,27.3,35.3,"Midland, TX",35.3,"Midland, TX",33.3,31.3,0,31.8426,-101.5253,https://findrehabmap.com/texas/glasscock-county/
+48155,Texas,Foard County,1053,42212,0,0.0,0,0,0,0,21.0,21.0,"Quanah, TX",69.1,"Wichita Falls, TX",69.3,69.3,2,33.9916,-99.7052,https://findrehabmap.com/texas/foard-county/
+48345,Texas,Motley County,1015,62857,0,0.0,0,0,0,0,47.3,47.3,"Childress, TX",51.0,"Plainview, TX",63.1,52.3,0,34.0136,-100.8429,https://findrehabmap.com/texas/motley-county/
+48393,Texas,Roberts County,837,66118,0,0.0,0,0,0,0,18.6,18.6,"Pampa, TX",18.6,"Pampa, TX",18.6,74.4,1,35.7163,-100.6955,https://findrehabmap.com/texas/roberts-county/
+48443,Texas,Terrell County,718,46989,0,0.0,0,0,0,0,59.3,115.1,"Odessa, TX",116.4,"Odessa, TX",115.1,115.1,0,30.1601,-102.3522,https://findrehabmap.com/texas/terrell-county/
+48263,Texas,Kent County,703,71420,0,0.0,0,0,0,0,40.5,51.4,"Haskell, TX",71.8,"Lubbock, TX",71.8,71.8,0,33.2505,-100.6251,https://findrehabmap.com/texas/kent-county/
+48311,Texas,McMullen County,565,45833,0,0.0,0,0,0,0,33.7,68.5,"San Antonio, TX",43.3,"Cotulla, TX",43.3,60.9,0,28.4387,-98.523,https://findrehabmap.com/texas/mcmullen-county/
+48033,Texas,Borden County,557,64250,0,0.0,0,0,0,0,30.0,58.9,"Lubbock, TX",59.4,"Lubbock, TX",58.9,32.2,0,32.7576,-101.4365,https://findrehabmap.com/texas/borden-county/
+48261,Texas,Kenedy County,330,-666666666,0,0.0,0,0,0,0,29.6,52.4,"Corpus Christi, TX",49.0,"Corpus Christi, TX",49.0,51.9,0,27.1041,-97.7889,https://findrehabmap.com/texas/kenedy-county/
+48269,Texas,King County,215,70192,0,0.0,0,0,0,0,46.4,46.4,"Haskell, TX",87.1,"Lubbock, TX",87.1,87.1,0,33.6444,-100.2957,https://findrehabmap.com/texas/king-county/
+48301,Texas,Loving County,48,51087,0,0.0,0,0,0,0,26.6,59.2,"Carlsbad, NM",72.5,"Odessa, TX",57.9,59.2,0,31.7779,-103.609,https://findrehabmap.com/texas/loving-county/

@@ -1,0 +1,83 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+28047,Mississippi,Harrison County,213730,57233,7,3.3,1,2,3,5,1.7,9.5,"Biloxi, MS",6.9,"Biloxi, MS",1.7,1.7,7,30.4342,-89.0638,https://findrehabmap.com/mississippi/harrison-county/
+28049,Mississippi,Hinds County,211975,49966,18,8.5,3,3,6,8,1.0,5.5,"Jackson, MS",7.3,"Jackson, MS",1.0,1.5,30,32.304,-90.257,https://findrehabmap.com/mississippi/hinds-county/
+28033,Mississippi,DeSoto County,195871,82980,4,2.0,1,1,2,3,3.5,9.5,"Memphis, TN",8.8,"Memphis, TN",7.8,9.5,44,34.9274,-89.9497,https://findrehabmap.com/mississippi/desoto-county/
+28121,Mississippi,Rankin County,160573,77454,9,5.6,3,1,3,7,1.0,1.0,"Brandon, MS",5.9,"Flowood, MS",3.6,1.1,32,32.2813,-90.0305,https://findrehabmap.com/mississippi/rankin-county/
+28059,Mississippi,Jackson County,147002,64756,1,0.7,0,0,0,1,4.0,14.7,"Biloxi, MS",17.3,"Biloxi, MS",14.7,14.7,8,30.4437,-88.6686,https://findrehabmap.com/mississippi/jackson-county/
+28089,Mississippi,Madison County,114247,78794,3,2.6,0,0,2,2,5.5,11.4,"Brandon, MS",9.7,"Jackson, MS",5.7,11.4,30,32.5099,-90.1048,https://findrehabmap.com/mississippi/madison-county/
+28081,Mississippi,Lee County,83012,67144,8,9.6,1,1,1,8,1.5,3.1,"Tupelo, MS",1.5,"Tupelo, MS",3.1,3.1,14,34.2782,-88.7038,https://findrehabmap.com/mississippi/lee-county/
+28035,Mississippi,Forrest County,78435,52821,5,6.4,1,0,1,4,1.0,2.4,"Hattiesburg, MS",65.7,"Biloxi, MS",6.0,6.0,10,31.3093,-89.288,https://findrehabmap.com/mississippi/forrest-county/
+28075,Mississippi,Lauderdale County,70588,50033,5,7.1,1,1,2,3,1.7,2.5,"Meridian, MS",2.5,"Meridian, MS",2.5,2.7,6,32.4013,-88.6929,https://findrehabmap.com/mississippi/lauderdale-county/
+28073,Mississippi,Lamar County,66734,69106,3,4.5,0,0,0,2,5.1,6.9,"Hattiesburg, MS",66.8,"Biloxi, MS",10.7,10.7,10,31.2739,-89.4399,https://findrehabmap.com/mississippi/lamar-county/
+28067,Mississippi,Jones County,65837,51143,2,3.0,1,0,2,2,5.8,5.8,"Laurel, MS",55.4,"Meridian, MS",5.8,16.7,6,31.6672,-89.1672,https://findrehabmap.com/mississippi/jones-county/
+28071,Mississippi,Lafayette County,59843,64334,6,10.0,2,0,4,3,0.7,1.9,"Oxford, MS",38.9,"Charleston, MS",1.9,1.9,8,34.3594,-89.5268,https://findrehabmap.com/mississippi/lafayette-county/
+28109,Mississippi,Pearl River County,59030,56535,0,0.0,0,0,0,0,15.2,17.0,"Bogalusa, LA",32.2,"Mandeville, LA",16.8,17.0,6,30.6408,-89.6317,https://findrehabmap.com/mississippi/pearl-river-county/
+28087,Mississippi,Lowndes County,57210,54460,4,7.0,1,0,2,4,2.2,2.7,"Columbus, MS",50.3,"Tuscaloosa, AL",2.5,2.2,5,33.5203,-88.3894,https://findrehabmap.com/mississippi/lowndes-county/
+28105,Mississippi,Oktibbeha County,51965,43482,1,1.9,0,0,0,1,1.6,23.2,"Columbus, MS",56.3,"Tupelo, MS",23.2,23.5,5,33.4484,-88.8254,https://findrehabmap.com/mississippi/oktibbeha-county/
+28045,Mississippi,Hancock County,46492,67728,0,0.0,0,0,0,0,19.0,21.7,"Slidell, LA",26.9,"Biloxi, MS",19.0,19.0,7,30.3791,-89.4041,https://findrehabmap.com/mississippi/hancock-county/
+28149,Mississippi,Warren County,42105,56648,1,2.4,1,0,1,1,1.2,1.2,"Vicksburg, MS",40.8,"Jackson, MS",1.2,1.2,5,32.3248,-90.8438,https://findrehabmap.com/mississippi/warren-county/
+28151,Mississippi,Washington County,41181,40117,1,2.4,0,0,0,1,3.1,40.8,"Oak Grove, LA",41.4,"Oak Grove, LA",28.6,31.5,2,33.369,-91.0108,https://findrehabmap.com/mississippi/washington-county/
+28113,Mississippi,Pike County,38980,41578,3,7.7,0,0,1,2,3.3,45.3,"Hazlehurst, MS",48.4,"Hammond, LA",5.1,26.0,6,31.219,-90.435,https://findrehabmap.com/mississippi/pike-county/
+28085,Mississippi,Lincoln County,34956,48316,2,5.7,0,0,0,2,1.4,22.7,"Hazlehurst, MS",57.3,"Jackson, MS",18.4,3.2,8,31.5493,-90.4579,https://findrehabmap.com/mississippi/lincoln-county/
+28093,Mississippi,Marshall County,34374,51875,2,5.8,0,0,1,2,7.3,24.6,"Memphis, TN",26.4,"Memphis, TN",7.3,19.3,7,34.8166,-89.5441,https://findrehabmap.com/mississippi/marshall-county/
+28003,Mississippi,Alcorn County,34228,49404,4,11.7,0,1,2,4,0.2,24.0,"Adamsville, TN",0.7,"Corinth, MS",0.7,2.5,12,34.9095,-88.5298,https://findrehabmap.com/mississippi/alcorn-county/
+28095,Mississippi,Monroe County,33483,51231,2,6.0,0,0,0,1,4.3,23.9,"Tupelo, MS",25.6,"Tupelo, MS",23.9,23.9,7,33.9265,-88.4991,https://findrehabmap.com/mississippi/monroe-county/
+28107,Mississippi,Panola County,32764,43990,1,3.1,0,0,1,1,6.8,23.9,"Oxford, MS",24.4,"Charleston, MS",6.8,23.9,11,34.3453,-89.9349,https://findrehabmap.com/mississippi/panola-county/
+28115,Mississippi,Pontotoc County,32014,52741,2,6.2,0,0,0,2,0.4,19.1,"Tupelo, MS",18.0,"Tupelo, MS",19.1,17.3,13,34.2536,-89.0151,https://findrehabmap.com/mississippi/pontotoc-county/
+28099,Mississippi,Neshoba County,28973,53087,1,3.5,0,0,0,1,1.0,36.2,"Meridian, MS",36.2,"Meridian, MS",34.8,34.8,3,32.755,-89.12,https://findrehabmap.com/mississippi/neshoba-county/
+28001,Mississippi,Adams County,28674,40250,0,0.0,0,0,0,0,20.1,48.3,"Jena, LA",47.7,"Winnsboro, LA",47.7,48.3,2,31.5458,-91.3543,https://findrehabmap.com/mississippi/adams-county/
+28137,Mississippi,Tate County,28551,63995,2,7.0,0,0,1,2,3.4,24.7,"Walls, MS",24.7,"Walls, MS",3.4,29.0,10,34.6442,-89.9483,https://findrehabmap.com/mississippi/tate-county/
+28011,Mississippi,Bolivar County,28395,37315,1,3.5,0,0,0,0,3.8,26.0,"Tutwiler, MS",43.9,"Charleston, MS",26.0,3.8,1,33.7719,-90.7688,https://findrehabmap.com/mississippi/bolivar-county/
+28145,Mississippi,Union County,28363,56807,1,3.5,0,0,0,1,1.7,15.7,"Etta, MS",23.6,"Tupelo, MS",15.7,15.7,11,34.4831,-89.0105,https://findrehabmap.com/mississippi/union-county/
+28123,Mississippi,Scott County,27666,48492,1,3.6,0,0,0,1,5.4,23.1,"Brandon, MS",34.5,"Flowood, MS",23.1,23.1,4,32.4016,-89.5296,https://findrehabmap.com/mississippi/scott-county/
+28029,Mississippi,Copiah County,27536,47994,2,7.3,1,0,0,2,1.8,1.8,"Hazlehurst, MS",33.5,"Jackson, MS",23.9,1.8,6,31.8934,-90.3786,https://findrehabmap.com/mississippi/copiah-county/
+28083,Mississippi,Leflore County,26157,33188,2,7.6,1,0,1,1,2.9,2.9,"Greenwood, MS",35.1,"Charleston, MS",2.9,2.9,2,33.5135,-90.2034,https://findrehabmap.com/mississippi/leflore-county/
+28039,Mississippi,George County,25880,54822,1,3.9,0,0,0,1,3.7,29.7,"Mobile, AL",29.7,"Grand Bay, AL",27.4,29.7,1,30.8684,-88.5909,https://findrehabmap.com/mississippi/george-county/
+28127,Mississippi,Simpson County,25597,54111,3,11.7,1,0,0,3,4.4,4.4,"Mendenhall, MS",32.3,"Flowood, MS",25.8,4.4,7,31.9159,-89.8557,https://findrehabmap.com/mississippi/simpson-county/
+28117,Mississippi,Prentiss County,25489,51466,2,7.8,0,1,1,1,2.0,28.3,"Tupelo, MS",2.0,"Booneville, MS",2.0,20.8,9,34.6326,-88.5521,https://findrehabmap.com/mississippi/prentiss-county/
+28057,Mississippi,Itawamba County,24198,59508,1,4.1,0,0,0,1,1.6,16.2,"Tupelo, MS",17.1,"Tupelo, MS",16.2,16.2,11,34.2897,-88.4043,https://findrehabmap.com/mississippi/itawamba-county/
+28091,Mississippi,Marion County,24008,42320,1,4.2,0,0,0,1,0.8,30.0,"Hattiesburg, MS",61.3,"Hammond, LA",31.8,32.4,4,31.2458,-89.8305,https://findrehabmap.com/mississippi/marion-county/
+28133,Mississippi,Sunflower County,23029,40265,0,0.0,0,0,0,0,12.9,25.4,"Greenwood, MS",41.6,"Charleston, MS",25.4,12.9,1,33.5933,-90.5841,https://findrehabmap.com/mississippi/sunflower-county/
+28163,Mississippi,Yazoo County,23024,40974,0,0.0,0,0,0,0,24.4,35.8,"Brandon, MS",34.3,"Jackson, MS",30.7,35.8,2,32.8292,-90.3822,https://findrehabmap.com/mississippi/yazoo-county/
+28079,Mississippi,Leake County,21462,48418,1,4.7,0,0,0,1,0.9,28.3,"Brandon, MS",44.6,"Jackson, MS",28.3,28.3,3,32.7337,-89.511,https://findrehabmap.com/mississippi/leake-county/
+28139,Mississippi,Tippah County,21423,51141,1,4.7,0,0,0,1,0.3,28.3,"Etta, MS",23.5,"Booneville, MS",23.5,23.5,8,34.7658,-88.9243,https://findrehabmap.com/mississippi/tippah-county/
+28101,Mississippi,Newton County,21063,50426,1,4.7,0,0,0,1,1.9,25.1,"Meridian, MS",25.1,"Meridian, MS",23.3,23.3,6,32.4153,-89.1294,https://findrehabmap.com/mississippi/newton-county/
+28043,Mississippi,Grenada County,20931,47998,1,4.8,0,0,1,1,1.1,26.5,"Greenwood, MS",22.1,"Charleston, MS",1.1,26.5,2,33.7676,-89.8034,https://findrehabmap.com/mississippi/grenada-county/
+28027,Mississippi,Coahoma County,20105,36259,3,14.9,1,0,1,1,2.1,11.3,"Tutwiler, MS",32.8,"Charleston, MS",11.3,11.3,4,34.2201,-90.5704,https://findrehabmap.com/mississippi/coahoma-county/
+28153,Mississippi,Wayne County,19749,36791,1,5.1,0,0,0,1,2.5,29.6,"Laurel, MS",49.5,"Meridian, MS",29.6,41.3,1,31.6505,-88.6625,https://findrehabmap.com/mississippi/wayne-county/
+28131,Mississippi,Stone County,19569,59307,0,0.0,0,0,0,0,26.1,26.3,"Biloxi, MS",29.9,"Biloxi, MS",26.1,26.1,0,30.8064,-89.1358,https://findrehabmap.com/mississippi/stone-county/
+28141,Mississippi,Tishomingo County,18553,46257,1,5.4,0,0,1,1,5.4,35.8,"Adamsville, TN",18.0,"Booneville, MS",5.4,23.5,7,34.7306,-88.2283,https://findrehabmap.com/mississippi/tishomingo-county/
+28025,Mississippi,Clay County,18213,39904,0,0.0,0,0,0,0,12.8,17.7,"Columbus, MS",43.7,"Tupelo, MS",17.7,16.7,5,33.6249,-88.693,https://findrehabmap.com/mississippi/clay-county/
+28031,Mississippi,Covington County,18015,47001,2,11.1,0,0,0,2,0.6,24.6,"Laurel, MS",58.4,"Flowood, MS",17.1,17.1,8,31.6347,-89.547,https://findrehabmap.com/mississippi/covington-county/
+28159,Mississippi,Winston County,17418,49071,1,5.7,0,0,0,0,2.7,45.5,"Columbus, MS",53.4,"Meridian, MS",45.5,45.7,2,33.085,-89.042,https://findrehabmap.com/mississippi/winston-county/
+28007,Mississippi,Attala County,17222,48098,1,5.8,0,0,0,1,0.7,43.4,"Brandon, MS",57.8,"Jackson, MS",43.4,43.4,2,33.0653,-89.5892,https://findrehabmap.com/mississippi/attala-county/
+28017,Mississippi,Chickasaw County,16774,43041,1,6.0,0,0,0,1,4.1,25.8,"Tupelo, MS",26.4,"Tupelo, MS",22.6,24.5,6,33.9308,-88.9389,https://findrehabmap.com/mississippi/chickasaw-county/
+28061,Mississippi,Jasper County,15799,47157,1,6.3,0,0,0,1,8.5,14.5,"Laurel, MS",38.1,"Meridian, MS",14.5,34.9,5,31.9611,-89.1448,https://findrehabmap.com/mississippi/jasper-county/
+28051,Mississippi,Holmes County,15560,29434,0,0.0,0,0,0,0,25.7,30.4,"Greenwood, MS",50.0,"Jackson, MS",30.4,30.4,0,33.0896,-90.0287,https://findrehabmap.com/mississippi/holmes-county/
+28023,Mississippi,Clarke County,15155,46054,1,6.6,0,0,0,1,2.1,20.8,"Meridian, MS",20.8,"Meridian, MS",20.8,21.0,6,32.0672,-88.7317,https://findrehabmap.com/mississippi/clarke-county/
+28129,Mississippi,Smith County,14051,51396,3,21.4,0,0,0,2,1.0,21.7,"Mendenhall, MS",43.5,"Flowood, MS",25.7,14.7,9,31.9701,-89.5045,https://findrehabmap.com/mississippi/smith-county/
+28147,Mississippi,Walthall County,13839,45444,1,7.2,0,0,0,1,2.7,29.8,"Bogalusa, LA",47.2,"Hammond, LA",22.7,29.8,5,31.1508,-90.123,https://findrehabmap.com/mississippi/walthall-county/
+28041,Mississippi,Greene County,13675,55838,0,0.0,0,0,0,0,19.1,41.7,"Hattiesburg, MS",46.2,"Mobile, AL",37.9,37.9,2,31.1954,-88.6294,https://findrehabmap.com/mississippi/greene-county/
+28013,Mississippi,Calhoun County,12754,43942,1,7.8,0,0,1,1,1.3,30.2,"Oxford, MS",41.5,"Tupelo, MS",1.3,30.2,3,33.9301,-89.3095,https://findrehabmap.com/mississippi/calhoun-county/
+28161,Mississippi,Yalobusha County,12458,49171,1,8.0,0,0,1,1,4.6,20.1,"Oxford, MS",21.4,"Charleston, MS",4.6,20.1,9,34.0815,-89.695,https://findrehabmap.com/mississippi/yalobusha-county/
+28005,Mississippi,Amite County,12451,35385,1,8.0,0,0,0,1,2.0,34.9,"Ethel, LA",51.5,"Hammond, LA",20.7,34.9,4,31.1871,-90.8076,https://findrehabmap.com/mississippi/amite-county/
+28077,Mississippi,Lawrence County,11672,43368,1,8.6,0,0,0,1,0.8,27.9,"Hazlehurst, MS",53.5,"Flowood, MS",28.5,20.8,4,31.5538,-90.1106,https://findrehabmap.com/mississippi/lawrence-county/
+28111,Mississippi,Perry County,11406,50435,1,8.8,0,0,0,1,6.8,19.8,"Hattiesburg, MS",59.5,"Biloxi, MS",16.5,16.5,9,31.2621,-88.9926,https://findrehabmap.com/mississippi/perry-county/
+28065,Mississippi,Jefferson Davis County,11059,37183,1,9.0,0,0,0,1,2.4,28.0,"Mendenhall, MS",54.9,"Flowood, MS",29.5,21.7,6,31.5754,-89.816,https://findrehabmap.com/mississippi/jefferson-davis-county/
+28135,Mississippi,Tallahatchie County,10921,37383,1,9.2,0,1,1,1,7.3,18.7,"Tutwiler, MS",7.3,"Charleston, MS",7.3,18.2,4,33.9842,-90.1821,https://findrehabmap.com/mississippi/tallahatchie-county/
+28155,Mississippi,Webster County,10039,59964,0,0.0,0,0,0,0,24.7,46.1,"Columbus, MS",55.3,"Tupelo, MS",25.0,45.8,1,33.5828,-89.2207,https://findrehabmap.com/mississippi/webster-county/
+28103,Mississippi,Noxubee County,9825,38814,0,0.0,0,0,0,0,25.9,26.1,"Columbus, MS",53.7,"Meridian, MS",26.1,26.2,0,33.1328,-88.5497,https://findrehabmap.com/mississippi/noxubee-county/
+28097,Mississippi,Montgomery County,9411,45057,0,0.0,0,0,0,0,20.9,27.1,"Greenwood, MS",41.4,"Charleston, MS",20.9,27.1,1,33.4963,-89.6825,https://findrehabmap.com/mississippi/montgomery-county/
+28015,Mississippi,Carroll County,9378,55275,0,0.0,0,0,0,0,13.3,14.0,"Greenwood, MS",38.6,"Charleston, MS",14.0,14.0,3,33.4618,-89.9193,https://findrehabmap.com/mississippi/carroll-county/
+28143,Mississippi,Tunica County,9157,38402,2,21.8,0,0,0,1,3.1,20.1,"Walls, MS",20.1,"Walls, MS",20.1,30.2,9,34.7207,-90.3414,https://findrehabmap.com/mississippi/tunica-county/
+28069,Mississippi,Kemper County,8562,43595,1,11.7,0,0,0,1,1.2,27.5,"Meridian, MS",27.5,"Meridian, MS",27.3,27.0,2,32.7638,-88.673,https://findrehabmap.com/mississippi/kemper-county/
+28021,Mississippi,Claiborne County,8122,34371,0,0.0,0,0,0,0,17.1,27.3,"Vicksburg, MS",47.5,"Winnsboro, LA",27.3,27.3,2,31.9315,-90.9507,https://findrehabmap.com/mississippi/claiborne-county/
+28019,Mississippi,Choctaw County,8091,48321,0,0.0,0,0,0,0,18.4,47.8,"Columbus, MS",66.2,"Charleston, MS",41.4,48.1,1,33.3392,-89.2342,https://findrehabmap.com/mississippi/choctaw-county/
+28157,Mississippi,Wilkinson County,7820,35930,0,0.0,0,0,0,0,24.6,26.6,"Ethel, LA",50.7,"Baton Rouge, LA",26.6,26.6,1,31.1232,-91.2452,https://findrehabmap.com/mississippi/wilkinson-county/
+28009,Mississippi,Benton County,7566,42139,1,13.2,0,0,0,1,2.7,23.3,"Etta, MS",39.5,"Corinth, MS",13.0,23.3,5,34.8138,-89.2039,https://findrehabmap.com/mississippi/benton-county/
+28037,Mississippi,Franklin County,7516,45618,0,0.0,0,0,0,0,20.0,39.1,"Hazlehurst, MS",69.1,"Winnsboro, LA",26.5,25.4,3,31.4717,-90.8667,https://findrehabmap.com/mississippi/franklin-county/
+28053,Mississippi,Humphreys County,7121,32976,1,14.0,0,0,0,1,2.0,32.3,"Greenwood, MS",54.5,"Oak Grove, LA",32.3,32.3,1,33.1641,-90.5189,https://findrehabmap.com/mississippi/humphreys-county/
+28063,Mississippi,Jefferson County,6900,36207,2,29.0,0,0,0,1,0.9,40.2,"Hazlehurst, MS",49.6,"Winnsboro, LA",43.3,36.1,2,31.714,-91.0575,https://findrehabmap.com/mississippi/jefferson-county/
+28119,Mississippi,Quitman County,5542,32131,1,18.0,0,0,0,0,0.8,18.9,"Tutwiler, MS",21.4,"Charleston, MS",18.9,18.7,6,34.2677,-90.2632,https://findrehabmap.com/mississippi/quitman-county/
+28125,Mississippi,Sharkey County,3234,35741,2,61.8,0,0,0,2,1.7,30.4,"Oak Grove, LA",30.7,"Oak Grove, LA",30.4,41.6,2,32.9217,-90.8626,https://findrehabmap.com/mississippi/sharkey-county/
+28055,Mississippi,Issaquena County,1295,29271,0,0.0,0,0,0,0,7.9,21.2,"Oak Grove, LA",21.5,"Oak Grove, LA",21.2,40.4,4,32.8893,-91.0186,https://findrehabmap.com/mississippi/issaquena-county/

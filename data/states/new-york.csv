@@ -1,0 +1,63 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+36047,New York,Kings County,2617631,78548,117,4.5,20,28,46,93,0.1,0.6,"Brooklyn, NY",0.5,"Brooklyn, NY",0.6,0.6,744,40.6517,-73.955,https://findrehabmap.com/new-york/kings-county/
+36081,New York,Queens County,2316841,84961,86,3.7,6,17,29,71,0.2,0.2,"Forest Hills, NY",1.4,"Fresh Meadows, NY",0.2,1.4,731,40.7212,-73.834,https://findrehabmap.com/new-york/queens-county/
+36061,New York,New York County,1660664,104553,160,9.6,21,42,64,102,0.3,0.9,"New York, NY",0.9,"New York, NY",0.3,0.9,760,40.7764,-73.9674,https://findrehabmap.com/new-york/new-york-county/
+36103,New York,Suffolk County,1535909,128329,80,5.2,10,12,42,71,0.7,3.4,"Bohemia, NY",4.3,"Farmingville, NY",0.7,0.7,104,40.8234,-73.1033,https://findrehabmap.com/new-york/suffolk-county/
+36059,New York,Nassau County,1392438,143408,49,3.5,7,5,32,46,1.1,1.5,"Hempstead, NY",2.7,"East Meadow, NY",1.2,2.6,631,40.7164,-73.6037,https://findrehabmap.com/new-york/nassau-county/
+36005,New York,Bronx County,1384724,49036,102,7.4,7,28,38,85,0.5,0.5,"Bronx, NY",0.5,"Bronx, NY",0.5,0.5,757,40.8494,-73.8823,https://findrehabmap.com/new-york/bronx-county/
+36119,New York,Westchester County,1006447,118411,52,5.2,2,9,24,41,0.5,8.6,"New Rochelle, NY",7.4,"Nyack, NY",0.5,3.9,535,41.0386,-73.8055,https://findrehabmap.com/new-york/westchester-county/
+36029,New York,Erie County,950602,71175,71,7.5,3,9,33,59,1.3,1.6,"Buffalo, NY",3.1,"Buffalo, NY",1.3,1.6,88,42.8911,-78.7927,https://findrehabmap.com/new-york/erie-county/
+36055,New York,Monroe County,752202,74409,33,4.4,4,5,16,30,0.5,1.3,"Rochester, NY",1.1,"Rochester, NY",0.5,0.5,35,43.1607,-77.619,https://findrehabmap.com/new-york/monroe-county/
+36085,New York,Richmond County,498212,98290,29,5.8,7,4,17,24,0.3,0.3,"Staten Island, NY",2.7,"Staten Island, NY",0.3,0.3,729,40.5893,-74.1367,https://findrehabmap.com/new-york/richmond-county/
+36067,New York,Onondaga County,469812,74740,20,4.3,3,5,10,16,1.1,1.1,"Syracuse, NY",1.1,"Syracuse, NY",1.1,1.2,30,43.068,-76.1674,https://findrehabmap.com/new-york/onondaga-county/
+36071,New York,Orange County,411767,96497,23,5.6,2,4,10,15,5.3,23.2,"Port Jervis, NY",6.6,"Middletown, NY",9.5,10.5,47,41.4196,-74.2394,https://findrehabmap.com/new-york/orange-county/
+36087,New York,Rockland County,348144,110631,16,4.6,0,5,4,12,2.0,12.0,"Paramus, NJ",4.1,"Valley Cottage, NY",4.1,5.5,348,41.1274,-74.0221,https://findrehabmap.com/new-york/rockland-county/
+36001,New York,Albany County,319964,83149,22,6.9,3,3,16,21,1.3,1.8,"Albany, NY",2.6,"Albany, NY",1.8,1.6,32,42.6806,-73.8116,https://findrehabmap.com/new-york/albany-county/
+36027,New York,Dutchess County,299963,97273,26,8.7,1,5,6,23,1.2,16.5,"Rhinebeck, NY",1.8,"Poughkeepsie, NY",1.2,2.2,54,41.6781,-73.8415,https://findrehabmap.com/new-york/dutchess-county/
+36091,New York,Saratoga County,240360,99653,4,1.7,0,0,2,4,3.4,11.5,"Schenectady, NY",11.5,"Schenectady, NY",4.3,3.4,43,43.0079,-73.7844,https://findrehabmap.com/new-york/saratoga-county/
+36065,New York,Oneida County,228347,68819,18,7.9,0,4,10,13,5.5,40.7,"Syracuse, NY",5.8,"Utica, NY",5.5,5.8,21,43.1463,-75.3559,https://findrehabmap.com/new-york/oneida-county/
+36063,New York,Niagara County,209570,67809,21,10.0,3,2,13,18,6.4,9.7,"Niagara Falls, NY",7.7,"Buffalo, NY",6.4,8.3,85,43.1344,-78.8511,https://findrehabmap.com/new-york/niagara-county/
+36007,New York,Broome County,196397,61059,8,4.1,0,1,4,7,2.1,48.0,"Tully, NY",2.6,"Binghamton, NY",2.3,2.3,10,42.1208,-75.9363,https://findrehabmap.com/new-york/broome-county/
+36111,New York,Ulster County,182977,81804,17,9.3,0,2,8,15,6.6,16.2,"Rhinebeck, NY",8.0,"Kingston, NY",7.5,7.5,50,41.8417,-74.0984,https://findrehabmap.com/new-york/ulster-county/
+36093,New York,Schenectady County,162261,76989,7,4.3,1,3,4,7,0.4,4.5,"Schenectady, NY",0.4,"Schenectady, NY",0.4,4.5,41,42.8091,-73.9453,https://findrehabmap.com/new-york/schenectady-county/
+36083,New York,Rensselaer County,160749,86663,3,1.9,0,1,0,1,3.5,6.3,"Cohoes, NY",3.5,"Troy, NY",6.1,4.3,33,42.6996,-73.632,https://findrehabmap.com/new-york/rensselaer-county/
+36013,New York,Chautauqua County,124105,56507,14,11.3,0,2,9,13,7.0,35.9,"Erie, PA",16.6,"Dunkirk, NY",7.0,11.2,15,42.245,-79.3148,https://findrehabmap.com/new-york/chautauqua-county/
+36075,New York,Oswego County,118305,68461,6,5.1,0,2,3,5,6.5,24.6,"Syracuse, NY",6.8,"Mexico, NY",6.5,6.9,18,43.3922,-76.3118,https://findrehabmap.com/new-york/oswego-county/
+36045,New York,Jefferson County,113140,64978,8,7.1,0,2,4,6,2.8,67.8,"Syracuse, NY",2.8,"Watertown, NY",2.8,3.3,8,44.0199,-75.895,https://findrehabmap.com/new-york/jefferson-county/
+36069,New York,Ontario County,113012,79814,9,8.0,1,4,5,8,1.5,7.9,"Clifton Springs, NY",7.9,"Clifton Springs, NY",6.1,7.9,35,42.9023,-77.2669,https://findrehabmap.com/new-york/ontario-county/
+36089,New York,St. Lawrence County,106198,61900,15,14.1,0,2,7,13,3.5,75.8,"Schuyler Falls, NY",3.5,"Canton, NY",3.5,15.5,12,44.6528,-75.1479,https://findrehabmap.com/new-york/st-lawrence-county/
+36109,New York,Tompkins County,105602,73012,6,5.7,0,3,2,4,1.6,30.0,"Tully, NY",1.6,"Ithaca, NY",1.6,3.1,15,42.4591,-76.479,https://findrehabmap.com/new-york/tompkins-county/
+36079,New York,Putnam County,98409,127405,3,3.0,0,2,1,2,2.2,9.7,"Yorktown Heights, NY",2.2,"Carmel, NY",2.6,10.7,65,41.4109,-73.7186,https://findrehabmap.com/new-york/putnam-county/
+36101,New York,Steuben County,92015,64740,0,0.0,0,0,0,0,24.5,29.1,"Millerton, PA",28.4,"Elmira, NY",24.5,29.1,2,42.2648,-77.3197,https://findrehabmap.com/new-york/steuben-county/
+36117,New York,Wayne County,90757,73914,2,2.2,1,0,2,2,6.9,6.9,"Newark, NY",12.6,"Clifton Springs, NY",6.9,12.6,36,43.1436,-77.1302,https://findrehabmap.com/new-york/wayne-county/
+36015,New York,Chemung County,81115,63469,7,8.6,0,1,2,7,1.0,11.2,"Millerton, PA",1.4,"Elmira, NY",1.4,2.1,14,42.1206,-76.8138,https://findrehabmap.com/new-york/chemung-county/
+36105,New York,Sullivan County,80450,69826,7,8.7,2,0,2,4,2.7,2.7,"Monticello, NY",13.7,"Ellenville, NY",5.9,2.7,22,41.6985,-74.6986,https://findrehabmap.com/new-york/sullivan-county/
+36019,New York,Clinton County,77871,69208,7,9.0,1,2,4,6,2.3,8.0,"Schuyler Falls, NY",5.6,"Plattsburgh, NY",4.0,4.1,18,44.7299,-73.5428,https://findrehabmap.com/new-york/clinton-county/
+36009,New York,Cattaraugus County,75475,58248,11,14.6,0,2,3,8,7.1,40.8,"Orchard Park, NY",13.7,"Olean, NY",8.8,13.0,16,42.2237,-78.6084,https://findrehabmap.com/new-york/cattaraugus-county/
+36011,New York,Cayuga County,74567,66583,6,8.0,0,0,3,5,0.2,14.5,"Waterloo, NY",21.5,"Liverpool, NY",0.4,0.2,31,42.9389,-76.5607,https://findrehabmap.com/new-york/cayuga-county/
+36053,New York,Madison County,67072,73141,2,3.0,0,0,0,2,6.5,22.4,"Syracuse, NY",19.5,"Syracuse, NY",19.5,8.0,34,42.9869,-75.72,https://findrehabmap.com/new-york/madison-county/
+36113,New York,Warren County,65288,78239,5,7.7,0,0,3,5,4.2,37.2,"Wallingford, VT",37.6,"Schenectady, NY",4.2,6.6,11,43.3929,-73.7112,https://findrehabmap.com/new-york/warren-county/
+36051,New York,Livingston County,61561,72464,3,4.9,0,0,1,1,2.5,23.5,"Rochester, NY",23.8,"Rochester, NY",14.3,18.7,12,42.769,-77.7628,https://findrehabmap.com/new-york/livingston-county/
+36077,New York,Otsego County,60524,67086,0,0.0,0,0,0,0,23.8,39.3,"Schoharie, NY",37.8,"Utica, NY",23.8,37.9,1,42.5641,-75.0602,https://findrehabmap.com/new-york/otsego-county/
+36021,New York,Columbia County,60299,83619,5,8.3,0,0,2,4,5.3,25.5,"Pittsfield, MA",16.8,"Great Barrington, MA",5.7,5.3,19,42.2744,-73.6804,https://findrehabmap.com/new-york/columbia-county/
+36115,New York,Washington County,59839,72342,2,3.3,0,0,0,2,5.9,27.3,"Wallingford, VT",31.2,"Bennington, VT",9.6,9.6,12,43.289,-73.4608,https://findrehabmap.com/new-york/washington-county/
+36043,New York,Herkimer County,59585,68858,1,1.7,0,0,1,1,3.3,43.0,"Schoharie, NY",12.9,"Utica, NY",3.3,12.0,15,43.0713,-74.9949,https://findrehabmap.com/new-york/herkimer-county/
+36037,New York,Genesee County,57604,72055,3,5.2,0,1,2,3,0.2,27.0,"Rochester, NY",0.2,"Batavia, NY",0.2,17.0,11,42.9989,-78.171,https://findrehabmap.com/new-york/genesee-county/
+36035,New York,Fulton County,52073,62615,2,3.8,0,0,1,2,1.0,24.6,"Schoharie, NY",10.0,"Amsterdam, NY",1.0,9.2,9,43.0586,-74.3299,https://findrehabmap.com/new-york/fulton-county/
+36057,New York,Montgomery County,49648,62923,4,8.1,0,2,1,3,6.5,16.0,"Schoharie, NY",8.1,"Amsterdam, NY",8.0,6.5,15,42.9327,-74.3441,https://findrehabmap.com/new-york/montgomery-county/
+36107,New York,Tioga County,47574,71791,2,4.2,0,0,1,2,2.3,32.8,"Millerton, PA",19.9,"Binghamton, NY",2.3,19.8,16,42.1214,-76.2989,https://findrehabmap.com/new-york/tioga-county/
+36003,New York,Allegany County,47299,61233,3,6.3,0,0,1,3,7.4,55.8,"Orchard Park, NY",23.5,"Olean, NY",7.4,22.9,11,42.2287,-78.0208,https://findrehabmap.com/new-york/allegany-county/
+36033,New York,Franklin County,47086,63747,8,17.0,0,1,8,8,9.5,37.2,"Schuyler Falls, NY",29.0,"Saranac Lake, NY",9.5,23.6,4,44.7177,-74.3514,https://findrehabmap.com/new-york/franklin-county/
+36039,New York,Greene County,46903,74011,4,8.5,1,0,3,3,1.2,21.4,"West Kill, NY",24.6,"Kingston, NY",7.6,7.6,11,42.2983,-73.9788,https://findrehabmap.com/new-york/greene-county/
+36023,New York,Cortland County,45945,67527,6,13.1,0,2,2,5,1.3,14.3,"Tully, NY",2.1,"Cortland, NY",2.1,1.8,13,42.5955,-76.1462,https://findrehabmap.com/new-york/cortland-county/
+36017,New York,Chenango County,45776,62093,1,2.2,0,0,1,1,4.2,35.6,"Tully, NY",32.4,"Binghamton, NY",4.2,30.1,1,42.481,-75.5689,https://findrehabmap.com/new-york/chenango-county/
+36025,New York,Delaware County,44191,60226,1,2.3,0,0,1,1,9.1,31.3,"West Kill, NY",44.5,"Ellenville, NY",9.1,31.3,1,42.2487,-74.9963,https://findrehabmap.com/new-york/delaware-county/
+36073,New York,Orleans County,39686,63838,3,7.6,0,2,1,2,1.6,24.5,"Newfane, NY",1.6,"Albion, NY",2.0,21.2,14,43.2493,-78.2244,https://findrehabmap.com/new-york/orleans-county/
+36121,New York,Wyoming County,39588,68913,2,5.1,0,0,0,2,4.1,30.2,"Orchard Park, NY",18.9,"Batavia, NY",18.7,4.5,8,42.7227,-78.2096,https://findrehabmap.com/new-york/wyoming-county/
+36031,New York,Essex County,36744,70215,3,8.2,0,0,2,3,5.0,30.5,"Burlington, VT",25.6,"Saranac Lake, NY",21.0,24.9,4,44.1684,-73.6764,https://findrehabmap.com/new-york/essex-county/
+36099,New York,Seneca County,32650,66007,2,6.1,1,0,2,2,5.4,5.4,"Waterloo, NY",8.5,"Geneva, NY",5.4,10.5,18,42.8285,-76.8277,https://findrehabmap.com/new-york/seneca-county/
+36095,New York,Schoharie County,30151,71188,2,6.6,1,0,1,2,7.5,7.5,"Schoharie, NY",25.1,"Amsterdam, NY",7.5,24.1,4,42.644,-74.4357,https://findrehabmap.com/new-york/schoharie-county/
+36049,New York,Lewis County,26570,68329,1,3.8,0,0,1,1,2.1,61.7,"Syracuse, NY",26.9,"Watertown, NY",2.1,25.8,1,43.7887,-75.4492,https://findrehabmap.com/new-york/lewis-county/
+36123,New York,Yates County,24387,67521,0,0.0,0,0,0,0,10.7,22.2,"Waterloo, NY",17.0,"Geneva, NY",10.7,10.7,12,42.6347,-77.0781,https://findrehabmap.com/new-york/yates-county/
+36097,New York,Schuyler County,17121,65625,2,11.7,0,0,1,2,0.9,28.7,"Millerton, PA",19.0,"Ithaca, NY",0.9,17.8,16,42.3893,-76.8691,https://findrehabmap.com/new-york/schuyler-county/
+36041,New York,Hamilton County,5082,68950,0,0.0,0,0,0,0,39.0,56.7,"Schenectady, NY",46.3,"Amsterdam, NY",39.0,42.4,0,43.6127,-74.3855,https://findrehabmap.com/new-york/hamilton-county/

@@ -1,0 +1,6 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+15003,Hawaii,Honolulu County,998747,104264,32,3.2,5,0,0,0,0.8,4.5,"Honolulu, HI",2383.9,"Eureka, CA",2383.8,7.8,32,21.3715,-157.9172,https://findrehabmap.com/hawaii/honolulu-county/
+15001,Hawaii,Hawaii County,209790,77215,7,3.3,2,0,0,0,22.5,24.1,"Hilo, HI",2335.7,"San Francisco, CA",2333.0,33.6,2,19.6727,-155.4281,https://findrehabmap.com/hawaii/hawaii-county/
+15009,Hawaii,Maui County,163688,95076,3,1.8,1,0,0,0,1.8,2.9,"Wailuku, HI",2338.1,"Ukiah, CA",2333.9,1.8,2,20.8629,-156.492,https://findrehabmap.com/hawaii/maui-county/
+15007,Hawaii,Kauai County,73840,93612,8,10.8,0,0,0,0,4.9,97.3,"Wahiawa, HI",2427.8,"Eureka, CA",2427.7,9.3,8,22.0198,-159.439,https://findrehabmap.com/hawaii/kauai-county/
+15005,Hawaii,Kalawao County,81,86250,0,0.0,0,0,0,0,4.6,37.8,"Wailuku, HI",2347.9,"Ukiah, CA",2344.7,38.7,1,21.1896,-156.9821,https://findrehabmap.com/hawaii/kalawao-county/

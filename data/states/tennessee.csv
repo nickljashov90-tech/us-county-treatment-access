@@ -1,0 +1,96 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+47157,Tennessee,Shelby County,910530,62337,34,3.7,5,4,10,19,2.2,4.3,"Memphis, TN",3.6,"Memphis, TN",2.2,4.3,44,35.131,-89.8864,https://findrehabmap.com/tennessee/shelby-county/
+47037,Tennessee,Davidson County,729505,75664,35,4.8,10,6,19,20,1.4,2.3,"Nashville, TN",3.6,"Nashville, TN",2.3,1.7,68,36.1378,-86.7448,https://findrehabmap.com/tennessee/davidson-county/
+47093,Tennessee,Knox County,506748,71662,27,5.3,3,5,15,21,0.9,0.9,"Knoxville, TN",2.9,"Knoxville, TN",0.9,0.9,53,35.9719,-83.9916,https://findrehabmap.com/tennessee/knox-county/
+47065,Tennessee,Hamilton County,386256,72568,24,6.2,6,2,14,17,1.5,4.8,"Chattanooga, TN",4.1,"Chattanooga, TN",2.8,4.8,43,35.0938,-85.2018,https://findrehabmap.com/tennessee/hamilton-county/
+47149,Tennessee,Rutherford County,376996,82588,12,3.2,4,1,6,6,2.5,2.5,"Murfreesboro, TN",3.8,"Murfreesboro, TN",2.5,2.5,53,35.8883,-86.4503,https://findrehabmap.com/tennessee/rutherford-county/
+47187,Tennessee,Williamson County,269136,131202,19,7.1,3,0,9,9,1.1,3.4,"Franklin, TN",15.7,"Nashville, TN",1.7,1.7,64,35.9123,-86.8462,https://findrehabmap.com/tennessee/williamson-county/
+47125,Tennessee,Montgomery County,246025,72365,9,3.7,2,2,4,6,1.4,4.2,"Clarksville, TN",4.2,"Clarksville, TN",1.5,11.4,21,36.5571,-87.346,https://findrehabmap.com/tennessee/montgomery-county/
+47165,Tennessee,Sumner County,211721,86005,5,2.4,0,0,1,4,4.0,12.6,"Hermitage, TN",11.2,"Madison, TN",5.6,15.1,45,36.3962,-86.536,https://findrehabmap.com/tennessee/sumner-county/
+47189,Tennessee,Wilson County,169948,94048,2,1.2,0,0,2,2,4.8,10.6,"Hermitage, TN",12.9,"Nashville, TN",4.8,13.4,55,36.2003,-86.4095,https://findrehabmap.com/tennessee/wilson-county/
+47163,Tennessee,Sullivan County,162703,56802,12,7.4,0,0,8,11,5.7,12.3,"Johnson City, TN",10.0,"Johnson City, TN",5.7,11.1,35,36.5299,-82.3971,https://findrehabmap.com/tennessee/sullivan-county/
+47009,Tennessee,Blount County,142211,74607,8,5.6,3,2,6,7,0.7,2.1,"Maryville, TN",0.7,"Maryville, TN",0.7,0.7,46,35.7532,-83.9735,https://findrehabmap.com/tennessee/blount-county/
+47179,Tennessee,Washington County,139642,61051,15,10.7,5,2,13,12,2.3,2.3,"Johnson City, TN",4.3,"Johnson City, TN",2.3,3.5,36,36.3256,-82.4338,https://findrehabmap.com/tennessee/washington-county/
+47011,Tennessee,Bradley County,113782,63789,8,7.0,0,1,5,8,0.7,18.5,"Chattanooga, TN",1.8,"Cleveland, TN",0.7,18.5,31,35.1674,-84.8597,https://findrehabmap.com/tennessee/bradley-county/
+47119,Tennessee,Maury County,113411,74162,7,6.2,2,1,4,6,1.0,3.0,"Columbia, TN",3.0,"Columbia, TN",2.2,1.0,17,35.6356,-87.0292,https://findrehabmap.com/tennessee/maury-county/
+47113,Tennessee,Madison County,100409,58189,14,13.9,4,2,6,13,1.0,1.0,"Jackson, TN",1.0,"Jackson, TN",1.0,1.3,20,35.6535,-88.8245,https://findrehabmap.com/tennessee/madison-county/
+47155,Tennessee,Sevier County,100184,63829,8,8.0,1,0,4,5,2.4,14.9,"Sevierville, TN",18.7,"Knoxville, TN",3.1,20.1,43,35.8642,-83.5825,https://findrehabmap.com/tennessee/sevier-county/
+47141,Tennessee,Putnam County,84894,56537,9,10.6,1,0,6,8,0.4,2.8,"Cookeville, TN",54.4,"Murfreesboro, TN",0.5,2.8,14,36.1632,-85.5038,https://findrehabmap.com/tennessee/putnam-county/
+47001,Tennessee,Anderson County,81449,63171,8,9.8,2,0,6,7,2.9,5.2,"Oak Ridge, TN",12.1,"Knoxville, TN",2.9,5.2,51,36.0812,-84.1788,https://findrehabmap.com/tennessee/anderson-county/
+47147,Tennessee,Robertson County,78459,78439,2,2.5,1,1,2,2,3.3,3.3,"Springfield, TN",3.5,"Springfield, TN",3.3,17.2,33,36.4846,-86.8303,https://findrehabmap.com/tennessee/robertson-county/
+47059,Tennessee,Greene County,73398,54071,2,2.7,0,0,1,2,1.1,26.6,"Johnson City, TN",14.9,"Bulls Gap, TN",1.1,12.6,8,36.1775,-82.8326,https://findrehabmap.com/tennessee/greene-county/
+47063,Tennessee,Hamblen County,67715,52794,6,8.9,0,0,3,6,0.0,17.0,"Washburn, TN",12.2,"Bulls Gap, TN",0.0,37.9,23,36.2155,-83.2975,https://findrehabmap.com/tennessee/hamblen-county/
+47035,Tennessee,Cumberland County,65618,58475,4,6.1,0,0,2,2,1.2,31.1,"Cookeville, TN",48.5,"Oneida, TN",2.1,25.7,7,35.9556,-85.0178,https://findrehabmap.com/tennessee/cumberland-county/
+47167,Tennessee,Tipton County,62187,71736,3,4.8,0,0,1,1,5.7,26.1,"Memphis, TN",21.7,"Memphis, TN",5.7,26.1,8,35.4759,-89.7503,https://findrehabmap.com/tennessee/tipton-county/
+47105,Tennessee,Loudon County,62129,80296,3,4.8,0,0,1,1,4.4,16.2,"Maryville, TN",15.2,"Knoxville, TN",5.2,16.5,48,35.7606,-84.2843,https://findrehabmap.com/tennessee/loudon-county/
+47031,Tennessee,Coffee County,61285,60656,6,9.8,0,1,3,3,3.0,31.5,"Murfreesboro, TN",7.8,"Tullahoma, TN",3.0,17.2,14,35.4542,-86.1246,https://findrehabmap.com/tennessee/coffee-county/
+47073,Tennessee,Hawkins County,59371,55278,2,3.4,0,1,2,2,6.4,27.1,"Johnson City, TN",18.6,"Bulls Gap, TN",6.4,13.9,23,36.463,-82.874,https://findrehabmap.com/tennessee/hawkins-county/
+47089,Tennessee,Jefferson County,59217,63084,5,8.4,0,0,3,2,4.0,14.8,"Sevierville, TN",14.5,"Newport, TN",4.1,29.3,27,36.0648,-83.4531,https://findrehabmap.com/tennessee/jefferson-county/
+47043,Tennessee,Dickson County,57641,73223,3,5.2,0,1,2,2,2.8,22.1,"Nashville, TN",5.8,"Burns, TN",2.8,14.5,7,36.1042,-87.3439,https://findrehabmap.com/tennessee/dickson-county/
+47019,Tennessee,Carter County,57434,48435,3,5.2,0,0,2,3,1.4,7.6,"Johnson City, TN",12.6,"Johnson City, TN",1.4,3.2,38,36.319,-82.2034,https://findrehabmap.com/tennessee/carter-county/
+47107,Tennessee,McMinn County,56754,59674,5,8.8,0,0,2,4,0.9,39.8,"Maryville, TN",21.9,"Cleveland, TN",2.4,7.0,14,35.426,-84.5987,https://findrehabmap.com/tennessee/mcminn-county/
+47145,Tennessee,Roane County,56742,66218,4,7.0,0,0,4,4,4.1,18.5,"Oak Ridge, TN",24.0,"Knoxville, TN",4.1,18.5,18,35.8811,-84.5222,https://findrehabmap.com/tennessee/roane-county/
+47003,Tennessee,Bedford County,54228,62197,5,9.2,0,0,2,4,0.7,23.8,"Murfreesboro, TN",15.9,"Tullahoma, TN",3.7,2.6,18,35.5122,-86.465,https://findrehabmap.com/tennessee/bedford-county/
+47053,Tennessee,Gibson County,51422,59009,4,7.8,0,0,0,4,6.4,17.7,"Jackson, TN",18.4,"Jackson, TN",16.5,20.5,17,35.9323,-88.871,https://findrehabmap.com/tennessee/gibson-county/
+47123,Tennessee,Monroe County,49154,56648,1,2.0,0,0,1,1,0.3,24.8,"Maryville, TN",24.8,"Maryville, TN",0.3,15.3,11,35.5184,-84.3542,https://findrehabmap.com/tennessee/monroe-county/
+47099,Tennessee,Lawrence County,46467,53233,5,10.8,0,1,3,5,0.9,29.3,"Columbia, TN",1.1,"Lawrenceburg, TN",0.9,17.7,9,35.2376,-87.3536,https://findrehabmap.com/tennessee/lawrence-county/
+47051,Tennessee,Franklin County,45137,61553,3,6.6,0,1,1,2,1.0,42.2,"Wildwood, GA",4.0,"Estill Springs, TN",4.0,2.7,11,35.2082,-86.1162,https://findrehabmap.com/tennessee/franklin-county/
+47047,Tennessee,Fayette County,44476,84764,2,4.5,0,0,1,1,7.2,22.3,"Memphis, TN",23.2,"Memphis, TN",7.2,18.7,13,35.2011,-89.4798,https://findrehabmap.com/tennessee/fayette-county/
+47177,Tennessee,Warren County,43619,54088,1,2.3,0,0,1,1,2.8,33.4,"Cookeville, TN",32.7,"Tullahoma, TN",2.8,18.2,6,35.6952,-85.7948,https://findrehabmap.com/tennessee/warren-county/
+47021,Tennessee,Cheatham County,42604,82015,1,2.3,0,0,0,0,7.3,7.3,"Nashville, TN",16.5,"Nashville, TN",7.3,7.3,50,36.2723,-87.0635,https://findrehabmap.com/tennessee/cheatham-county/
+47013,Tennessee,Campbell County,40238,50260,6,14.9,0,0,3,4,0.2,13.4,"Norris, TN",23.0,"Oneida, TN",0.2,0.9,14,36.3815,-84.126,https://findrehabmap.com/tennessee/campbell-county/
+47117,Tennessee,Marshall County,37847,70829,1,2.6,0,0,1,1,1.8,18.0,"Columbia, TN",18.0,"Columbia, TN",1.8,17.6,14,35.4967,-86.7708,https://findrehabmap.com/tennessee/marshall-county/
+47029,Tennessee,Cocke County,37596,48416,3,8.0,0,1,1,1,1.8,9.2,"Sevierville, TN",3.2,"Newport, TN",1.8,31.9,22,35.9473,-83.174,https://findrehabmap.com/tennessee/cocke-county/
+47103,Tennessee,Lincoln County,36751,63115,1,2.7,0,1,1,1,2.8,28.3,"Huntsville, AL",2.8,"Fayetteville, TN",2.8,24.9,3,35.1052,-86.5717,https://findrehabmap.com/tennessee/lincoln-county/
+47045,Tennessee,Dyer County,36403,54973,7,19.2,0,2,2,6,1.3,38.6,"Jackson, TN",1.6,"Dyersburg, TN",1.6,3.1,10,36.0594,-89.3584,https://findrehabmap.com/tennessee/dyer-county/
+47143,Tennessee,Rhea County,34759,58133,1,2.9,0,0,1,1,4.4,31.8,"Hixson, TN",25.7,"Cleveland, TN",4.4,28.4,5,35.5568,-84.9544,https://findrehabmap.com/tennessee/rhea-county/
+47183,Tennessee,Weakley County,33162,49502,3,9.0,0,0,0,2,3.4,42.8,"Jackson, TN",17.2,"Union City, TN",17.2,6.2,9,36.2925,-88.7738,https://findrehabmap.com/tennessee/weakley-county/
+47025,Tennessee,Claiborne County,33070,46587,1,3.0,0,0,1,1,4.4,13.6,"Washburn, TN",35.0,"Bulls Gap, TN",4.4,27.1,10,36.4887,-83.6398,https://findrehabmap.com/tennessee/claiborne-county/
+47079,Tennessee,Henry County,32883,48540,2,6.1,0,1,0,1,0.9,45.4,"Palmyra, TN",0.9,"Paris, TN",19.9,21.6,13,36.3198,-88.2914,https://findrehabmap.com/tennessee/henry-county/
+47055,Tennessee,Giles County,30971,61476,2,6.5,0,1,1,1,1.1,28.3,"Columbia, TN",1.1,"Pulaski, TN",1.1,4.0,7,35.1922,-87.0304,https://findrehabmap.com/tennessee/giles-county/
+47131,Tennessee,Obion County,30261,53102,4,13.2,0,1,2,4,2.5,51.3,"Jackson, TN",2.5,"Union City, TN",2.5,12.3,8,36.3972,-89.0799,https://findrehabmap.com/tennessee/obion-county/
+47115,Tennessee,Marion County,29826,58103,1,3.4,0,0,1,1,4.1,13.7,"Wildwood, GA",13.7,"Wildwood, GA",4.1,16.5,31,35.1095,-85.6088,https://findrehabmap.com/tennessee/marion-county/
+47185,Tennessee,White County,29108,52206,3,10.3,0,0,1,2,0.8,13.2,"Cookeville, TN",51.3,"Murfreesboro, TN",0.8,0.8,13,35.9416,-85.4889,https://findrehabmap.com/tennessee/white-county/
+47017,Tennessee,Carroll County,29107,50391,3,10.3,0,0,0,3,2.3,31.8,"Jackson, TN",19.6,"Camden, TN",19.6,3.0,13,36.0189,-88.4642,https://findrehabmap.com/tennessee/carroll-county/
+47077,Tennessee,Henderson County,28183,53471,2,7.1,0,0,0,2,2.2,22.5,"Jackson, TN",24.1,"Jackson, TN",23.8,21.8,16,35.648,-88.4029,https://findrehabmap.com/tennessee/henderson-county/
+47071,Tennessee,Hardin County,27617,49149,6,21.7,0,1,1,5,1.3,8.9,"Adamsville, TN",1.6,"Savannah, TN",1.9,26.2,10,35.1985,-88.226,https://findrehabmap.com/tennessee/hardin-county/
+47111,Tennessee,Macon County,27189,56269,2,7.4,0,0,1,1,0.7,17.5,"Scottsville, KY",17.5,"Scottsville, KY",0.7,17.5,7,36.5353,-86.0256,https://findrehabmap.com/tennessee/macon-county/
+47109,Tennessee,McNairy County,26103,50714,4,15.3,1,1,2,2,1.4,9.8,"Adamsville, TN",2.9,"Selmer, TN",2.9,16.7,15,35.177,-88.5375,https://findrehabmap.com/tennessee/mcnairy-county/
+47081,Tennessee,Hickman County,25859,57223,0,0.0,0,0,0,0,10.2,25.3,"Columbia, TN",15.8,"Burns, TN",10.2,25.3,4,35.8547,-87.4055,https://findrehabmap.com/tennessee/hickman-county/
+47069,Tennessee,Hardeman County,25434,46173,3,11.8,0,0,0,2,1.8,29.5,"Jackson, TN",24.7,"Selmer, TN",19.6,24.6,7,35.2229,-89.0185,https://findrehabmap.com/tennessee/hardeman-county/
+47057,Tennessee,Grainger County,25073,51351,2,8.0,1,0,0,1,5.9,5.9,"Washburn, TN",22.5,"Bulls Gap, TN",8.9,33.5,22,36.2662,-83.4866,https://findrehabmap.com/tennessee/grainger-county/
+47097,Tennessee,Lauderdale County,24630,49205,1,4.1,0,0,1,1,3.0,38.8,"Jackson, TN",20.4,"Dyersburg, TN",3.0,20.4,14,35.7651,-89.5374,https://findrehabmap.com/tennessee/lauderdale-county/
+47133,Tennessee,Overton County,23551,46159,2,8.5,0,0,1,1,2.8,18.9,"Cookeville, TN",47.4,"Oneida, TN",2.8,18.9,13,36.3449,-85.3249,https://findrehabmap.com/tennessee/overton-county/
+47151,Tennessee,Scott County,22517,42679,3,13.3,1,1,3,3,3.2,3.5,"Oneida, TN",4.6,"Oneida, TN",3.2,3.5,15,36.4545,-84.5083,https://findrehabmap.com/tennessee/scott-county/
+47129,Tennessee,Morgan County,21954,57408,2,9.1,0,0,1,2,0.2,20.2,"Oak Ridge, TN",29.7,"Oneida, TN",0.4,20.2,11,36.0984,-84.5932,https://findrehabmap.com/tennessee/morgan-county/
+47041,Tennessee,DeKalb County,21747,48484,0,0.0,0,0,0,0,16.1,20.4,"Cookeville, TN",32.4,"Murfreesboro, TN",19.3,16.1,14,35.967,-85.8369,https://findrehabmap.com/tennessee/dekalb-county/
+47173,Tennessee,Union County,21064,61858,1,4.7,0,0,1,1,1.2,13.3,"Washburn, TN",19.8,"Knoxville, TN",1.2,15.2,37,36.2453,-83.816,https://findrehabmap.com/tennessee/union-county/
+47159,Tennessee,Smith County,20783,62799,0,0.0,0,0,0,0,14.6,25.5,"Cookeville, TN",36.1,"Murfreesboro, TN",14.6,25.5,5,36.2413,-85.9682,https://findrehabmap.com/tennessee/smith-county/
+47049,Tennessee,Fentress County,20129,50865,2,9.9,0,0,1,2,4.7,25.3,"Oneida, TN",26.5,"Oneida, TN",4.7,25.3,5,36.3632,-84.9367,https://findrehabmap.com/tennessee/fentress-county/
+47085,Tennessee,Humphreys County,19554,59333,0,0.0,0,0,0,0,17.6,30.0,"Palmyra, TN",19.0,"Camden, TN",19.0,30.0,5,36.0712,-87.7751,https://findrehabmap.com/tennessee/humphreys-county/
+47091,Tennessee,Johnson County,18506,52152,4,21.6,0,0,1,2,2.6,28.7,"Johnson City, TN",20.0,"Boone, NC",2.7,3.9,21,36.4501,-81.8447,https://findrehabmap.com/tennessee/johnson-county/
+47139,Tennessee,Polk County,18338,60227,0,0.0,0,0,0,0,15.4,26.9,"Chatsworth, GA",17.2,"Cleveland, TN",17.2,15.4,13,35.1252,-84.5684,https://findrehabmap.com/tennessee/polk-county/
+47023,Tennessee,Chester County,17876,60543,1,5.6,0,0,0,1,0.6,15.6,"Jackson, TN",18.9,"Selmer, TN",18.9,8.4,22,35.4383,-88.6225,https://findrehabmap.com/tennessee/chester-county/
+47171,Tennessee,Unicoi County,17872,50381,1,5.6,0,0,1,1,1.2,11.1,"Mountain Home, TN",16.2,"Johnson City, TN",1.2,11.1,22,36.1513,-82.3947,https://findrehabmap.com/tennessee/unicoi-county/
+47153,Tennessee,Sequatchie County,17620,52260,1,5.7,0,0,1,1,1.6,15.6,"Hixson, TN",23.6,"Chattanooga, TN",1.6,20.3,23,35.3554,-85.3914,https://findrehabmap.com/tennessee/sequatchie-county/
+47075,Tennessee,Haywood County,17097,43513,3,17.5,0,0,1,3,0.6,24.0,"Jackson, TN",24.6,"Jackson, TN",0.6,24.6,14,35.5862,-89.2677,https://findrehabmap.com/tennessee/haywood-county/
+47005,Tennessee,Benton County,16173,50435,3,18.5,0,1,1,3,1.3,42.1,"Palmyra, TN",1.9,"Camden, TN",1.9,18.2,8,36.0709,-88.09,https://findrehabmap.com/tennessee/benton-county/
+47181,Tennessee,Wayne County,15974,52824,1,6.3,0,0,1,1,4.0,33.2,"Adamsville, TN",25.0,"Savannah, TN",4.0,42.3,5,35.2581,-87.7903,https://findrehabmap.com/tennessee/wayne-county/
+47007,Tennessee,Bledsoe County,15591,49655,0,0.0,0,0,0,0,13.8,31.8,"Hixson, TN",35.2,"Cleveland, TN",13.8,27.4,4,35.6215,-85.2003,https://findrehabmap.com/tennessee/bledsoe-county/
+47015,Tennessee,Cannon County,15142,58092,1,6.6,0,0,0,1,2.3,19.1,"Murfreesboro, TN",19.1,"Murfreesboro, TN",19.1,2.3,10,35.7994,-86.064,https://findrehabmap.com/tennessee/cannon-county/
+47161,Tennessee,Stewart County,14365,62052,0,0.0,0,0,0,0,13.5,17.8,"Palmyra, TN",29.0,"Paris, TN",17.8,17.8,2,36.4937,-87.8001,https://findrehabmap.com/tennessee/stewart-county/
+47061,Tennessee,Grundy County,14148,45573,1,7.1,0,0,1,1,5.9,27.7,"Chattanooga, TN",23.3,"Estill Springs, TN",5.9,23.7,8,35.3432,-85.7223,https://findrehabmap.com/tennessee/grundy-county/
+47033,Tennessee,Crockett County,13973,59049,0,0.0,0,0,0,0,11.6,16.7,"Jackson, TN",17.8,"Jackson, TN",15.6,19.1,28,35.7875,-89.12,https://findrehabmap.com/tennessee/crockett-county/
+47121,Tennessee,Meigs County,13937,58395,0,0.0,0,0,0,0,10.4,33.8,"Hixson, TN",21.5,"Cleveland, TN",10.4,19.8,13,35.5021,-84.8162,https://findrehabmap.com/tennessee/meigs-county/
+47101,Tennessee,Lewis County,13418,49477,1,7.5,0,0,1,1,0.6,25.1,"Columbia, TN",23.6,"Lawrenceburg, TN",0.6,25.1,6,35.5332,-87.5217,https://findrehabmap.com/tennessee/lewis-county/
+47087,Tennessee,Jackson County,12376,41475,0,0.0,0,0,0,0,13.4,14.8,"Cookeville, TN",42.9,"Scottsville, KY",13.7,14.8,11,36.328,-85.6294,https://findrehabmap.com/tennessee/jackson-county/
+47169,Tennessee,Trousdale County,12159,63190,1,8.2,0,0,1,1,0.3,25.1,"Scottsville, KY",25.1,"Scottsville, KY",0.3,25.1,10,36.3862,-86.1534,https://findrehabmap.com/tennessee/trousdale-county/
+47039,Tennessee,Decatur County,11800,46190,1,8.5,0,0,0,1,1.6,29.4,"Adamsville, TN",27.3,"Savannah, TN",27.0,33.0,3,35.6062,-88.1233,https://findrehabmap.com/tennessee/decatur-county/
+47135,Tennessee,Perry County,8987,50489,0,0.0,0,0,0,0,15.6,41.1,"Adamsville, TN",31.1,"Camden, TN",20.2,40.0,3,35.6538,-87.8593,https://findrehabmap.com/tennessee/perry-county/
+47083,Tennessee,Houston County,8538,54475,1,11.7,0,0,0,0,1.1,15.2,"Palmyra, TN",28.7,"Camden, TN",15.2,15.2,3,36.3042,-87.7043,https://findrehabmap.com/tennessee/houston-county/
+47027,Tennessee,Clay County,7857,44712,0,0.0,0,0,0,0,12.4,29.3,"Cookeville, TN",37.1,"Glasgow, KY",12.4,29.3,3,36.5528,-85.5629,https://findrehabmap.com/tennessee/clay-county/
+47067,Tennessee,Hancock County,7038,31995,1,14.2,0,0,0,1,1.0,24.9,"Washburn, TN",20.1,"Bulls Gap, TN",13.7,33.9,17,36.5172,-83.2311,https://findrehabmap.com/tennessee/hancock-county/
+47127,Tennessee,Moore County,6773,66687,0,0.0,0,0,0,0,8.3,38.6,"Murfreesboro, TN",8.6,"Tullahoma, TN",8.6,14.2,15,35.2964,-86.3404,https://findrehabmap.com/tennessee/moore-county/
+47175,Tennessee,Van Buren County,6686,60281,0,0.0,0,0,0,0,16.3,29.2,"Cookeville, TN",48.4,"Chattanooga, TN",16.3,16.5,5,35.7115,-85.4546,https://findrehabmap.com/tennessee/van-buren-county/
+47095,Tennessee,Lake County,6422,30500,1,15.6,0,0,0,1,1.7,58.1,"Jackson, TN",21.9,"Dyersburg, TN",20.9,22.0,13,36.3564,-89.4672,https://findrehabmap.com/tennessee/lake-county/
+47137,Tennessee,Pickett County,5108,44591,0,0.0,0,0,0,0,8.0,35.0,"Oneida, TN",35.7,"Oneida, TN",13.1,31.1,7,36.5656,-85.1413,https://findrehabmap.com/tennessee/pickett-county/

@@ -1,0 +1,103 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+17031,Illinois,Cook County,5182617,81797,328,6.3,34,81,119,200,0.3,0.3,"Chicago, IL",0.3,"Chicago, IL",0.3,0.3,383,41.8695,-87.758,https://findrehabmap.com/illinois/cook-county/
+17043,Illinois,DuPage County,937142,110502,51,5.4,10,5,21,24,1.0,3.0,"Lisle, IL",1.0,"Wheaton, IL",1.0,3.7,394,41.8489,-88.0713,https://findrehabmap.com/illinois/dupage-county/
+17097,Illinois,Lake County,718604,108917,33,4.6,6,7,11,25,1.4,4.6,"Gurnee, IL",4.6,"Gurnee, IL",4.6,5.7,117,42.3116,-87.9705,https://findrehabmap.com/illinois/lake-county/
+17197,Illinois,Will County,708583,107799,22,3.1,2,4,9,10,2.7,4.6,"Joliet, IL",4.6,"Joliet, IL",3.0,3.5,184,41.5655,-88.0586,https://findrehabmap.com/illinois/will-county/
+17089,Illinois,Kane County,520997,100678,32,6.1,2,4,12,15,0.8,4.0,"Geneva, IL",1.1,"St. Charles, IL",1.1,5.3,141,41.9284,-88.3354,https://findrehabmap.com/illinois/kane-county/
+17111,Illinois,McHenry County,315959,102836,7,2.2,0,0,2,3,1.9,15.5,"Lake Villa, IL",12.4,"Fox Lake, IL",4.0,6.9,74,42.2703,-88.3514,https://findrehabmap.com/illinois/mchenry-county/
+17201,Illinois,Winnebago County,283790,64363,13,4.6,1,2,4,6,0.7,5.1,"Rockford, IL",3.5,"Rockford, IL",1.0,3.1,22,42.3083,-89.0604,https://findrehabmap.com/illinois/winnebago-county/
+17119,Illinois,Madison County,263017,74800,7,2.7,2,1,4,5,1.4,1.4,"Edwardsville, IL",10.0,"Alton, IL",1.4,11.4,61,38.801,-90.0126,https://findrehabmap.com/illinois/madison-county/
+17163,Illinois,St. Clair County,251149,70178,13,5.2,2,4,5,6,1.2,1.5,"Belleville, IL",1.2,"Belleville, IL",1.2,1.5,60,38.5482,-89.9902,https://findrehabmap.com/illinois/st-clair-county/
+17019,Illinois,Champaign County,212374,63091,6,2.8,0,2,3,5,0.3,34.0,"Danville, IL",1.1,"Champaign, IL",0.3,1.3,8,40.1269,-88.2365,https://findrehabmap.com/illinois/champaign-county/
+17167,Illinois,Sangamon County,194345,74114,11,5.7,4,3,6,7,1.3,1.3,"Springfield, IL",1.3,"Springfield, IL",1.3,1.9,13,39.7711,-89.6549,https://findrehabmap.com/illinois/sangamon-county/
+17143,Illinois,Peoria County,179630,64938,18,10.0,3,3,5,11,0.3,0.5,"Peoria, IL",1.2,"Peoria, IL",0.3,0.3,26,40.7467,-89.6399,https://findrehabmap.com/illinois/peoria-county/
+17113,Illinois,McLean County,172069,78329,7,4.1,1,1,3,4,0.9,1.9,"Normal, IL",1.5,"Normal, IL",0.9,1.9,8,40.4938,-88.9538,https://findrehabmap.com/illinois/mclean-county/
+17093,Illinois,Kendall County,143171,110474,2,1.4,0,0,0,1,4.6,13.2,"Naperville, IL",8.5,"Aurora, IL",7.0,8.9,86,41.6608,-88.3756,https://findrehabmap.com/illinois/kendall-county/
+17161,Illinois,Rock Island County,142731,66768,13,9.1,0,1,3,6,0.6,2.9,"Bettendorf, IA",4.4,"Rock Island, IL",2.1,2.9,18,41.4891,-90.5025,https://findrehabmap.com/illinois/rock-island-county/
+17179,Illinois,Tazewell County,129821,76704,7,5.4,1,1,2,3,2.8,2.8,"East Peoria, IL",2.8,"East Peoria, IL",2.8,5.4,24,40.6052,-89.5302,https://findrehabmap.com/illinois/tazewell-county/
+17099,Illinois,LaSalle County,108390,72281,6,5.5,0,3,3,3,2.6,41.3,"Joliet, IL",3.7,"Ottawa, IL",3.8,41.1,7,41.3543,-88.8951,https://findrehabmap.com/illinois/lasalle-county/
+17091,Illinois,Kankakee County,106410,68325,10,9.4,2,2,2,7,1.5,2.2,"Kankakee, IL",2.2,"Kankakee, IL",2.2,5.8,12,41.1505,-87.8517,https://findrehabmap.com/illinois/kankakee-county/
+17037,Illinois,DeKalb County,101335,69022,4,3.9,0,0,1,4,1.6,16.1,"St. Charles, IL",16.1,"St. Charles, IL",6.7,16.1,42,41.9276,-88.7268,https://findrehabmap.com/illinois/dekalb-county/
+17115,Illinois,Macon County,100737,62449,7,6.9,0,2,3,4,0.3,36.4,"Springfield, IL",0.8,"Decatur, IL",0.3,0.8,9,39.8506,-88.9466,https://findrehabmap.com/illinois/macon-county/
+17183,Illinois,Vermilion County,71106,54537,5,7.0,1,0,2,3,1.2,3.6,"Danville, IL",31.7,"Champaign, IL",1.5,3.6,7,40.1511,-87.6555,https://findrehabmap.com/illinois/vermilion-county/
+17199,Illinois,Williamson County,67064,65521,7,10.4,0,2,4,6,0.3,17.0,"Benton, IL",2.6,"Marion, IL",0.3,12.4,27,37.7544,-88.9766,https://findrehabmap.com/illinois/williamson-county/
+17001,Illinois,Adams County,64109,64962,7,10.9,0,1,3,7,1.3,17.0,"Hannibal, MO",4.1,"Quincy, IL",1.3,2.1,13,39.9439,-91.3274,https://findrehabmap.com/illinois/adams-county/
+17195,Illinois,Whiteside County,54657,64536,3,5.5,0,0,1,3,6.8,39.5,"Bettendorf, IA",41.7,"Davenport, IA",8.3,19.4,9,41.782,-89.8252,https://findrehabmap.com/illinois/whiteside-county/
+17063,Illinois,Grundy County,53835,93060,1,1.9,0,0,0,1,4.5,16.5,"Joliet, IL",16.2,"Joliet, IL",16.2,16.4,19,41.35,-88.3446,https://findrehabmap.com/illinois/grundy-county/
+17007,Illinois,Boone County,53313,81638,2,3.8,0,0,1,2,1.3,10.3,"Rockford, IL",8.8,"Rockford, IL",3.5,5.2,23,42.2943,-88.8521,https://findrehabmap.com/illinois/boone-county/
+17077,Illinois,Jackson County,53199,45572,5,9.4,0,0,5,5,3.0,17.0,"Du Quoin, IL",18.5,"Marion, IL",3.0,5.1,20,37.7502,-89.2771,https://findrehabmap.com/illinois/jackson-county/
+17141,Illinois,Ogle County,51345,79244,5,9.7,0,0,2,5,4.0,18.2,"Rockford, IL",20.1,"Rockford, IL",4.0,18.0,22,42.0287,-89.254,https://findrehabmap.com/illinois/ogle-county/
+17095,Illinois,Knox County,48716,53291,1,2.1,0,0,1,1,3.1,37.9,"Peoria, IL",38.6,"Peoria, IL",3.1,31.0,3,40.938,-90.3278,https://findrehabmap.com/illinois/knox-county/
+17073,Illinois,Henry County,48177,69912,1,2.1,0,0,0,1,14.0,23.1,"Bettendorf, IA",24.6,"Rock Island, IL",19.2,16.9,13,41.3509,-90.1358,https://findrehabmap.com/illinois/henry-county/
+17029,Illinois,Coles County,46423,56040,9,19.4,1,0,2,9,4.5,4.5,"Charleston, IL",43.4,"Champaign, IL",4.5,4.5,10,39.488,-88.2646,https://findrehabmap.com/illinois/coles-county/
+17117,Illinois,Macoupin County,43895,68518,3,6.8,0,0,2,3,5.3,13.8,"Raymond, IL",12.7,"Litchfield, IL",5.3,5.9,7,39.1917,-89.8771,https://findrehabmap.com/illinois/macoupin-county/
+17177,Illinois,Stephenson County,43088,61943,2,4.6,0,0,2,2,2.1,31.6,"Rockford, IL",32.1,"Rockford, IL",2.1,29.4,5,42.325,-89.6436,https://findrehabmap.com/illinois/stephenson-county/
+17203,Illinois,Woodford County,38290,85629,0,0.0,0,0,0,0,10.2,15.7,"East Peoria, IL",15.7,"East Peoria, IL",10.2,17.2,28,40.7692,-89.2916,https://findrehabmap.com/illinois/woodford-county/
+17027,Illinois,Clinton County,37087,82314,2,5.4,0,0,0,2,6.6,27.5,"Belleville, IL",27.1,"Belleville, IL",11.5,20.3,8,38.5887,-89.4857,https://findrehabmap.com/illinois/clinton-county/
+17055,Illinois,Franklin County,37033,53471,5,13.5,2,0,3,5,2.9,2.9,"Benton, IL",16.1,"Marion, IL",2.9,15.4,23,37.964,-88.9537,https://findrehabmap.com/illinois/franklin-county/
+17121,Illinois,Marion County,36437,60839,5,13.7,0,0,0,4,3.5,16.5,"Mount Vernon, IL",16.5,"Mount Vernon, IL",16.5,6.9,11,38.5906,-89.0161,https://findrehabmap.com/illinois/marion-county/
+17081,Illinois,Jefferson County,36107,61102,4,11.1,1,1,1,3,1.2,3.7,"Mount Vernon, IL",3.7,"Mount Vernon, IL",3.7,3.7,13,38.3112,-88.9116,https://findrehabmap.com/illinois/jefferson-county/
+17105,Illinois,Livingston County,35375,70796,1,2.8,0,0,1,1,3.6,35.4,"Normal, IL",32.1,"Ottawa, IL",3.6,35.4,1,40.9018,-88.5762,https://findrehabmap.com/illinois/livingston-county/
+17133,Illinois,Monroe County,34969,101635,1,2.9,0,0,0,1,1.0,15.1,"Belleville, IL",15.2,"St. Louis, MO",10.7,1.0,59,38.3622,-90.172,https://findrehabmap.com/illinois/monroe-county/
+17049,Illinois,Effingham County,34602,75380,1,2.9,0,0,0,0,2.4,29.0,"Flora, IL",53.9,"Mount Vernon, IL",24.9,24.9,6,39.0959,-88.5733,https://findrehabmap.com/illinois/effingham-county/
+17103,Illinois,Lee County,33544,68459,4,11.9,0,0,3,3,5.1,34.8,"Rockford, IL",36.8,"Rockford, IL",5.1,34.6,12,41.8121,-89.4019,https://findrehabmap.com/illinois/lee-county/
+17021,Illinois,Christian County,33247,59253,3,9.0,0,0,1,2,2.8,25.4,"Springfield, IL",27.0,"Decatur, IL",3.1,10.6,3,39.5254,-89.2541,https://findrehabmap.com/illinois/christian-county/
+17137,Illinois,Morgan County,32618,65175,2,6.1,0,0,2,2,1.0,27.2,"Springfield, IL",27.2,"Springfield, IL",1.0,1.0,5,39.7171,-90.2284,https://findrehabmap.com/illinois/morgan-county/
+17057,Illinois,Fulton County,32510,58617,1,3.1,0,0,0,0,4.8,29.2,"Peoria, IL",28.6,"Peoria, IL",28.6,27.0,1,40.5248,-90.1166,https://findrehabmap.com/illinois/fulton-county/
+17011,Illinois,Bureau County,32486,65894,1,3.1,0,0,1,1,2.6,45.1,"Peoria, IL",17.0,"La Salle, IL",2.6,43.2,5,41.3824,-89.4205,https://findrehabmap.com/illinois/bureau-county/
+17157,Illinois,Randolph County,29903,68870,3,10.0,0,0,3,3,7.9,31.5,"Du Quoin, IL",36.1,"Belleville, IL",7.9,26.8,6,38.0614,-89.8097,https://findrehabmap.com/illinois/randolph-county/
+17135,Illinois,Montgomery County,27615,61863,3,10.9,2,1,2,1,7.3,9.4,"Raymond, IL",7.3,"Litchfield, IL",7.3,9.4,7,39.1984,-89.5074,https://findrehabmap.com/illinois/montgomery-county/
+17107,Illinois,Logan County,27518,64188,2,7.3,0,0,1,2,0.4,27.9,"Springfield, IL",27.7,"Springfield, IL",0.4,27.7,3,40.1416,-89.3614,https://findrehabmap.com/illinois/logan-county/
+17109,Illinois,McDonough County,26662,50434,2,7.5,0,0,0,2,1.6,57.0,"Peoria, IL",53.6,"Quincy, IL",23.8,33.6,5,40.47,-90.6678,https://findrehabmap.com/illinois/mcdonough-county/
+17075,Illinois,Iroquois County,26067,62439,1,3.8,0,0,0,1,5.3,23.8,"Morocco, IN",24.7,"Kankakee, IL",24.7,32.2,7,40.7623,-87.8385,https://findrehabmap.com/illinois/iroquois-county/
+17165,Illinois,Saline County,22826,54945,2,8.8,0,0,0,0,1.2,26.7,"Benton, IL",22.0,"Marion, IL",22.0,36.1,8,37.7534,-88.5381,https://findrehabmap.com/illinois/saline-county/
+17085,Illinois,Jo Daviess County,21528,74954,1,4.6,0,0,1,1,6.8,61.7,"Bettendorf, IA",60.5,"Davenport, IA",6.8,20.1,7,42.4113,-90.3085,https://findrehabmap.com/illinois/jo-daviess-county/
+17051,Illinois,Fayette County,21157,57113,2,9.5,0,0,0,1,4.0,36.4,"Flora, IL",35.0,"Litchfield, IL",21.9,32.5,3,38.9959,-89.034,https://findrehabmap.com/illinois/fayette-county/
+17083,Illinois,Jersey County,21150,79104,0,0.0,0,0,0,0,14.0,14.0,"Alton, IL",15.2,"Alton, IL",14.0,14.0,20,39.0752,-90.3193,https://findrehabmap.com/illinois/jersey-county/
+17173,Illinois,Shelby County,20542,68457,2,9.7,0,0,0,2,0.6,33.7,"Charleston, IL",31.7,"Decatur, IL",26.1,15.2,8,39.3994,-88.8006,https://findrehabmap.com/illinois/shelby-county/
+17145,Illinois,Perry County,20272,59286,3,14.8,1,0,1,3,6.4,6.4,"Du Quoin, IL",30.4,"Mount Vernon, IL",6.4,6.5,13,38.0577,-89.3224,https://findrehabmap.com/illinois/perry-county/
+17041,Illinois,Douglas County,19824,74186,0,0.0,0,0,0,0,19.7,19.7,"Charleston, IL",24.1,"Champaign, IL",19.7,19.7,13,39.767,-88.2804,https://findrehabmap.com/illinois/douglas-county/
+17033,Illinois,Crawford County,18388,67614,0,0.0,0,0,0,0,19.8,25.6,"Vincennes, IN",26.4,"Vincennes, IN",25.3,25.7,3,39.0048,-87.75,https://findrehabmap.com/illinois/crawford-county/
+17067,Illinois,Hancock County,17008,65044,2,11.8,0,0,1,2,3.6,50.9,"Hannibal, MO",35.4,"Quincy, IL",4.8,27.5,6,40.425,-91.2024,https://findrehabmap.com/illinois/hancock-county/
+17181,Illinois,Union County,16886,56420,3,17.8,1,0,3,3,0.5,0.5,"Anna, IL",21.6,"Cape Girardeau, MO",0.5,0.5,23,37.469,-89.2343,https://findrehabmap.com/illinois/union-county/
+17147,Illinois,Piatt County,16628,87516,1,6.0,0,0,0,1,2.8,40.0,"Normal, IL",17.5,"Champaign, IL",19.2,18.7,15,40.009,-88.5819,https://findrehabmap.com/illinois/piatt-county/
+17005,Illinois,Bond County,16576,61603,1,6.0,0,0,1,1,1.1,29.7,"Raymond, IL",23.3,"Litchfield, IL",1.1,29.7,6,38.8848,-89.432,https://findrehabmap.com/illinois/bond-county/
+17045,Illinois,Edgar County,16398,56909,1,6.1,0,0,0,1,2.9,23.5,"Terre Haute, IN",19.4,"Terre Haute, IN",19.3,19.3,20,39.6364,-87.7138,https://findrehabmap.com/illinois/edgar-county/
+17187,Illinois,Warren County,16217,64650,2,12.3,0,0,1,2,1.5,44.7,"Bettendorf, IA",40.1,"Rock Island, IL",1.5,25.5,4,40.8907,-90.6368,https://findrehabmap.com/illinois/warren-county/
+17191,Illinois,Wayne County,15928,53107,1,6.3,0,0,0,1,3.2,19.2,"Flora, IL",27.2,"Mount Vernon, IL",19.2,27.2,3,38.4082,-88.4218,https://findrehabmap.com/illinois/wayne-county/
+17015,Illinois,Carroll County,15444,60871,1,6.5,0,0,1,1,1.4,46.4,"Bettendorf, IA",47.0,"Davenport, IA",1.4,17.6,8,42.0673,-89.9692,https://findrehabmap.com/illinois/carroll-county/
+17159,Illinois,Richland County,15362,60404,1,6.5,0,0,0,1,0.5,22.0,"Flora, IL",30.2,"Vincennes, IN",22.0,30.1,4,38.7254,-88.0879,https://findrehabmap.com/illinois/richland-county/
+17039,Illinois,De Witt County,15319,64802,1,6.5,0,0,1,1,4.1,22.9,"Normal, IL",22.8,"Decatur, IL",4.1,22.8,18,40.1709,-88.9114,https://findrehabmap.com/illinois/de-witt-county/
+17131,Illinois,Mercer County,15292,71710,0,0.0,0,0,0,0,12.4,23.7,"Bettendorf, IA",18.4,"Rock Island, IL",12.4,12.4,22,41.2145,-90.6866,https://findrehabmap.com/illinois/mercer-county/
+17023,Illinois,Clark County,15076,70625,1,6.6,0,0,0,1,5.7,21.6,"Terre Haute, IN",21.6,"Terre Haute, IN",21.6,21.4,22,39.3515,-87.7962,https://findrehabmap.com/illinois/clark-county/
+17101,Illinois,Lawrence County,14801,53438,0,0.0,0,0,0,0,11.7,11.8,"Vincennes, IN",12.1,"Vincennes, IN",11.8,11.9,11,38.7182,-87.746,https://findrehabmap.com/illinois/lawrence-county/
+17139,Illinois,Moultrie County,14365,71676,0,0.0,0,0,0,0,16.0,24.9,"Charleston, IL",23.3,"Decatur, IL",22.9,16.8,14,39.6317,-88.6127,https://findrehabmap.com/illinois/moultrie-county/
+17149,Illinois,Pike County,14258,58029,2,14.0,0,0,0,2,1.8,28.8,"Hannibal, MO",36.1,"Quincy, IL",28.8,25.2,2,39.6219,-90.8613,https://findrehabmap.com/illinois/pike-county/
+17127,Illinois,Massac County,13627,62584,1,7.3,0,0,1,1,2.4,35.1,"Anna, IL",7.7,"Paducah, KY",2.4,8.1,16,37.1809,-88.7178,https://findrehabmap.com/illinois/massac-county/
+17189,Illinois,Washington County,13535,75652,1,7.4,0,0,1,1,9.8,25.7,"Mount Vernon, IL",25.7,"Mount Vernon, IL",9.8,19.1,9,38.3607,-89.3954,https://findrehabmap.com/illinois/washington-county/
+17053,Illinois,Ford County,13451,60782,2,14.9,0,0,0,2,6.7,40.5,"Normal, IL",27.1,"Champaign, IL",26.2,26.2,2,40.5217,-88.2194,https://findrehabmap.com/illinois/ford-county/
+17193,Illinois,White County,13395,53097,1,7.5,0,0,0,1,1.0,34.6,"Evansville, IN",34.1,"Evansville, IN",31.7,33.7,4,38.0889,-88.1965,https://findrehabmap.com/illinois/white-county/
+17087,Illinois,Johnson County,13320,65203,3,22.5,0,0,2,3,3.3,20.1,"Anna, IL",18.2,"Marion, IL",3.3,20.1,18,37.4701,-88.8765,https://findrehabmap.com/illinois/johnson-county/
+17025,Illinois,Clay County,12821,57266,1,7.8,1,0,1,1,2.4,2.4,"Flora, IL",33.6,"Mount Vernon, IL",2.4,33.6,3,38.7157,-88.4918,https://findrehabmap.com/illinois/clay-county/
+17017,Illinois,Cass County,12713,64907,3,23.6,0,0,0,3,5.6,35.6,"Springfield, IL",35.6,"Springfield, IL",17.8,18.5,7,39.9804,-90.3209,https://findrehabmap.com/illinois/cass-county/
+17125,Illinois,Mason County,12543,62127,0,0.0,0,0,0,0,20.1,31.1,"East Peoria, IL",31.1,"East Peoria, IL",29.7,24.0,4,40.2862,-89.8994,https://findrehabmap.com/illinois/mason-county/
+17129,Illinois,Menard County,11963,81334,0,0.0,0,0,0,0,14.9,15.4,"Springfield, IL",15.9,"Springfield, IL",15.4,15.0,14,39.9969,-89.7992,https://findrehabmap.com/illinois/menard-county/
+17123,Illinois,Marshall County,11552,69818,0,0.0,0,0,0,0,21.9,26.5,"Peoria, IL",22.6,"La Salle, IL",22.6,24.5,7,41.0433,-89.3162,https://findrehabmap.com/illinois/marshall-county/
+17061,Illinois,Greene County,11417,60976,0,0.0,0,0,0,0,25.0,33.6,"Alton, IL",34.5,"Alton, IL",25.0,25.0,0,39.3689,-90.3712,https://findrehabmap.com/illinois/greene-county/
+17185,Illinois,Wabash County,10979,53650,1,9.1,0,0,1,1,1.5,21.6,"Vincennes, IN",21.1,"Vincennes, IN",1.5,21.6,12,38.4319,-87.7889,https://findrehabmap.com/illinois/wabash-county/
+17035,Illinois,Cumberland County,10305,69826,1,9.7,0,0,0,0,2.0,15.9,"Charleston, IL",47.9,"Terre Haute, IN",8.4,8.4,12,39.275,-88.2807,https://findrehabmap.com/illinois/cumberland-county/
+17079,Illinois,Jasper County,9092,71094,1,11.0,0,0,0,1,1.6,28.5,"Flora, IL",41.3,"Vincennes, IN",28.2,28.2,4,39.0039,-88.1626,https://findrehabmap.com/illinois/jasper-county/
+17065,Illinois,Hamilton County,7818,61520,0,0.0,0,0,0,0,20.3,20.7,"Benton, IL",27.2,"Mount Vernon, IL",20.7,27.2,7,38.0916,-88.559,https://findrehabmap.com/illinois/hamilton-county/
+17169,Illinois,Schuyler County,6750,66059,1,14.8,0,0,0,1,0.8,52.0,"Springfield, IL",46.2,"Quincy, IL",32.9,14.7,7,40.1301,-90.5688,https://findrehabmap.com/illinois/schuyler-county/
+17009,Illinois,Brown County,6307,72288,1,15.9,0,0,0,1,1.3,38.7,"Hannibal, MO",34.8,"Quincy, IL",31.6,1.3,5,39.966,-90.7475,https://findrehabmap.com/illinois/brown-county/
+17071,Illinois,Henderson County,6048,65651,1,16.5,0,0,1,1,7.3,53.7,"Bettendorf, IA",48.3,"Rock Island, IL",7.3,8.9,7,40.8248,-90.9447,https://findrehabmap.com/illinois/henderson-county/
+17047,Illinois,Edwards County,5984,59386,1,16.7,0,0,0,1,1.9,31.1,"Flora, IL",32.8,"Vincennes, IN",14.9,33.3,6,38.4016,-88.0412,https://findrehabmap.com/illinois/edwards-county/
+17155,Illinois,Putnam County,5633,77526,0,0.0,0,0,0,0,9.8,38.5,"Peoria, IL",10.9,"La Salle, IL",10.9,36.4,7,41.2305,-89.2681,https://findrehabmap.com/illinois/putnam-county/
+17175,Illinois,Stark County,5272,62284,0,0.0,0,0,0,0,11.1,25.1,"Peoria, IL",26.6,"Peoria, IL",23.8,23.8,4,41.0984,-89.792,https://findrehabmap.com/illinois/stark-county/
+17171,Illinois,Scott County,4880,73013,0,0.0,0,0,0,0,12.5,40.2,"Springfield, IL",40.2,"Springfield, IL",12.5,12.5,5,39.646,-90.462,https://findrehabmap.com/illinois/scott-county/
+17153,Illinois,Pulaski County,4879,43227,0,0.0,0,0,0,0,11.7,19.8,"Anna, IL",24.2,"Cape Girardeau, MO",11.7,19.8,15,37.1985,-89.1306,https://findrehabmap.com/illinois/pulaski-county/
+17059,Illinois,Gallatin County,4690,54626,1,21.3,0,0,0,1,5.2,36.0,"Henderson, KY",36.0,"Henderson, KY",18.6,38.9,6,37.7729,-88.2392,https://findrehabmap.com/illinois/gallatin-county/
+17003,Illinois,Alexander County,4594,43523,0,0.0,0,0,0,0,14.2,17.1,"Cape Girardeau, MO",17.1,"Cape Girardeau, MO",16.2,16.3,12,37.1529,-89.2949,https://findrehabmap.com/illinois/alexander-county/
+17013,Illinois,Calhoun County,4224,92095,0,0.0,0,0,0,0,19.7,23.7,"St. Charles, MO",23.7,"St. Charles, MO",19.7,20.3,12,39.123,-90.6382,https://findrehabmap.com/illinois/calhoun-county/
+17151,Illinois,Pope County,3703,62500,0,0.0,0,0,0,0,17.7,38.0,"Anna, IL",24.2,"Paducah, KY",18.6,21.5,17,37.4008,-88.5558,https://findrehabmap.com/illinois/pope-county/
+17069,Illinois,Hardin County,3550,57155,0,0.0,0,0,0,0,17.2,46.4,"Henderson, KY",35.9,"Paducah, KY",25.3,32.0,3,37.4783,-88.296,https://findrehabmap.com/illinois/hardin-county/

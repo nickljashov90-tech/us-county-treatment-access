@@ -1,0 +1,11 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+33011,New Hampshire,Hillsborough County,430462,100436,29,6.7,4,4,18,25,5.3,7.3,"Hudson, NH",6.7,"Manchester, NH",5.3,5.3,91,42.8794,-71.5315,https://findrehabmap.com/new-hampshire/hillsborough-county/
+33015,New Hampshire,Rockingham County,322433,113927,21,6.5,3,2,9,14,5.2,11.7,"Derry, NH",6.0,"Brentwood, NH",8.3,5.2,98,42.9375,-71.1059,https://findrehabmap.com/new-hampshire/rockingham-county/
+33013,New Hampshire,Merrimack County,157869,93944,13,8.2,1,4,5,8,3.7,5.0,"Concord, NH",5.0,"Concord, NH",3.7,4.0,39,43.244,-71.5868,https://findrehabmap.com/new-hampshire/merrimack-county/
+33017,New Hampshire,Strafford County,134202,86564,12,8.9,1,1,5,7,2.1,2.8,"Somersworth, NH",2.7,"Somersworth, NH",2.1,2.1,26,43.2461,-70.9544,https://findrehabmap.com/new-hampshire/strafford-county/
+33009,New Hampshire,Grafton County,93045,84021,14,15.0,4,2,11,12,11.9,13.9,"Bradford, VT",23.4,"West Lebanon, NH",11.9,13.9,21,43.8374,-71.9572,https://findrehabmap.com/new-hampshire/grafton-county/
+33005,New Hampshire,Cheshire County,78078,81001,6,7.7,1,1,4,5,1.3,11.0,"Dublin, NH",5.8,"Swanzey, NH",2.5,11.0,21,42.8979,-72.2606,https://findrehabmap.com/new-hampshire/cheshire-county/
+33001,New Hampshire,Belknap County,65257,87983,7,10.7,0,0,1,4,0.9,21.2,"Concord, NH",10.6,"Franklin, NH",0.9,10.6,24,43.5182,-71.4395,https://findrehabmap.com/new-hampshire/belknap-county/
+33003,New Hampshire,Carroll County,52580,82961,4,7.6,1,0,1,3,4.0,17.4,"North Conway, NH",33.9,"Franklin, NH",17.4,25.3,10,43.8101,-71.1701,https://findrehabmap.com/new-hampshire/carroll-county/
+33019,New Hampshire,Sullivan County,44012,75929,3,6.8,0,0,0,3,3.9,18.2,"West Lebanon, NH",18.2,"West Lebanon, NH",13.1,19.6,21,43.3702,-72.2565,https://findrehabmap.com/new-hampshire/sullivan-county/
+33007,New Hampshire,Coos County,31094,58439,6,19.3,0,3,4,5,10.2,23.1,"Bethlehem, NH",10.2,"Lancaster, NH",10.2,10.2,5,44.5445,-71.3636,https://findrehabmap.com/new-hampshire/coos-county/

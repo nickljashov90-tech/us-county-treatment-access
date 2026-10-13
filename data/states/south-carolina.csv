@@ -1,0 +1,47 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+45045,South Carolina,Greenville County,570745,74624,17,3.0,5,6,9,12,0.8,1.2,"Greenville, SC",0.8,"Greenville, SC",0.8,1.2,29,34.8447,-82.3313,https://findrehabmap.com/south-carolina/greenville-county/
+45019,South Carolina,Charleston County,431001,84320,14,3.2,2,6,4,6,1.4,1.4,"North Charleston, SC",1.4,"North Charleston, SC",1.4,2.2,18,32.8258,-79.9781,https://findrehabmap.com/south-carolina/charleston-county/
+45079,South Carolina,Richland County,430651,61699,15,3.5,3,2,5,12,0.8,1.2,"Columbia, SC",7.1,"Columbia, SC",1.2,0.8,26,34.068,-80.9888,https://findrehabmap.com/south-carolina/richland-county/
+45051,South Carolina,Horry County,413391,64623,7,1.7,2,3,4,5,3.5,5.5,"Myrtle Beach, SC",4.2,"Myrtle Beach, SC",4.2,57.4,7,33.7802,-78.9377,https://findrehabmap.com/south-carolina/horry-county/
+45083,South Carolina,Spartanburg County,369256,64195,9,2.4,2,4,6,7,2.3,6.0,"Spartanburg, SC",2.3,"Spartanburg, SC",2.6,6.4,27,34.9639,-82.0078,https://findrehabmap.com/south-carolina/spartanburg-county/
+45063,South Carolina,Lexington County,313774,75014,9,2.9,1,3,3,8,1.1,6.7,"West Columbia, SC",6.0,"West Columbia, SC",1.1,11.4,25,33.9622,-81.2189,https://findrehabmap.com/south-carolina/lexington-county/
+45091,South Carolina,York County,303001,83060,4,1.3,1,2,3,4,3.0,3.0,"Rock Hill, SC",6.4,"Rock Hill, SC",3.0,3.0,64,34.9986,-81.0514,https://findrehabmap.com/south-carolina/york-county/
+45015,South Carolina,Berkeley County,264276,82327,3,1.1,0,0,1,3,4.4,14.3,"North Charleston, SC",12.6,"North Charleston, SC",8.2,14.3,19,33.0593,-80.035,https://findrehabmap.com/south-carolina/berkeley-county/
+45007,South Carolina,Anderson County,217183,64683,4,1.8,0,1,2,4,1.9,22.0,"Greenville, SC",3.8,"Anderson, SC",3.5,21.0,25,34.5647,-82.6166,https://findrehabmap.com/south-carolina/anderson-county/
+45013,South Carolina,Beaufort County,201775,84819,4,2.0,1,0,1,3,5.6,5.6,"Bluffton, SC",27.7,"Savannah, GA",5.6,9.0,7,32.318,-80.7869,https://findrehabmap.com/south-carolina/beaufort-county/
+45003,South Carolina,Aiken County,179245,67940,7,3.9,1,1,2,6,2.0,2.6,"Aiken, SC",2.6,"Aiken, SC",2.0,2.6,22,33.5357,-81.7745,https://findrehabmap.com/south-carolina/aiken-county/
+45035,South Carolina,Dorchester County,174663,76896,2,1.1,0,0,1,2,3.2,16.4,"North Charleston, SC",14.1,"North Charleston, SC",3.2,16.4,21,32.9959,-80.2127,https://findrehabmap.com/south-carolina/dorchester-county/
+45077,South Carolina,Pickens County,138207,59411,4,2.9,0,2,2,3,4.9,16.2,"Greenville, SC",6.8,"Easley, SC",5.4,15.1,26,34.8053,-82.6897,https://findrehabmap.com/south-carolina/pickens-county/
+45041,South Carolina,Florence County,138049,56650,11,8.0,0,5,5,8,4.1,14.9,"Darlington, SC",4.1,"Florence, SC",4.1,5.4,21,34.106,-79.7647,https://findrehabmap.com/south-carolina/florence-county/
+45057,South Carolina,Lancaster County,111652,74751,4,3.6,0,1,2,4,4.4,18.3,"Monroe, NC",5.0,"Lancaster, SC",5.0,4.4,26,34.8048,-80.7718,https://findrehabmap.com/south-carolina/lancaster-county/
+45085,South Carolina,Sumter County,104776,55990,6,5.7,0,1,2,5,1.5,35.7,"Columbia, SC",1.6,"Sumter, SC",1.6,2.9,11,33.9295,-80.3896,https://findrehabmap.com/south-carolina/sumter-county/
+45075,South Carolina,Orangeburg County,83129,43214,5,6.0,1,0,2,4,4.6,4.6,"Orangeburg, SC",36.3,"Columbia, SC",4.6,4.6,8,33.4718,-80.7988,https://findrehabmap.com/south-carolina/orangeburg-county/
+45073,South Carolina,Oconee County,82475,60193,5,6.1,0,2,2,3,1.7,34.9,"Greenville, SC",1.7,"Seneca, SC",1.7,33.8,13,34.7075,-83.002,https://findrehabmap.com/south-carolina/oconee-county/
+45055,South Carolina,Kershaw County,71698,64343,2,2.8,0,0,1,2,2.6,22.4,"Columbia, SC",26.6,"Sumter, SC",3.1,22.4,8,34.2572,-80.6509,https://findrehabmap.com/south-carolina/kershaw-county/
+45059,South Carolina,Laurens County,70545,55517,3,4.3,0,1,2,3,5.6,19.0,"Simpsonville, SC",5.6,"Clinton, SC",5.6,18.6,10,34.5095,-82.032,https://findrehabmap.com/south-carolina/laurens-county/
+45047,South Carolina,Greenwood County,70041,50635,5,7.1,0,2,2,3,1.4,35.6,"Simpsonville, SC",1.4,"Greenwood, SC",1.4,3.5,12,34.2052,-82.1479,https://findrehabmap.com/south-carolina/greenwood-county/
+45043,South Carolina,Georgetown County,66035,66734,3,4.5,0,1,2,3,5.0,26.5,"Myrtle Beach, SC",5.0,"Georgetown, SC",5.0,59.1,4,33.4576,-79.2509,https://findrehabmap.com/south-carolina/georgetown-county/
+45031,South Carolina,Darlington County,62425,47419,8,12.8,4,2,1,2,4.9,6.8,"Darlington, SC",4.9,"Hartsville, SC",4.9,6.8,20,34.3261,-79.9855,https://findrehabmap.com/south-carolina/darlington-county/
+45021,South Carolina,Cherokee County,57770,49047,3,5.2,0,0,0,2,0.7,13.3,"Chesnee, SC",15.7,"Spartanburg, SC",13.3,13.3,17,35.081,-81.6483,https://findrehabmap.com/south-carolina/cherokee-county/
+45025,South Carolina,Chesterfield County,44488,47620,3,6.7,0,0,1,2,5.2,29.2,"Monroe, NC",22.9,"Hartsville, SC",5.2,6.2,7,34.6811,-80.1498,https://findrehabmap.com/south-carolina/chesterfield-county/
+45029,South Carolina,Colleton County,39259,48779,4,10.2,0,0,1,2,1.7,38.7,"North Charleston, SC",36.8,"North Charleston, SC",16.1,1.7,4,32.9088,-80.6469,https://findrehabmap.com/south-carolina/colleton-county/
+45071,South Carolina,Newberry County,39203,59670,2,5.1,0,0,1,2,2.8,32.7,"Columbia, SC",25.7,"Clinton, SC",2.9,27.0,4,34.2647,-81.5736,https://findrehabmap.com/south-carolina/newberry-county/
+45053,South Carolina,Jasper County,35618,63503,3,8.4,0,0,0,2,5.9,13.1,"Bluffton, SC",25.3,"Savannah, GA",13.1,18.3,8,32.4073,-81.0021,https://findrehabmap.com/south-carolina/jasper-county/
+45023,South Carolina,Chester County,32323,51216,2,6.2,0,0,1,2,4.3,17.8,"Rock Hill, SC",16.0,"Rock Hill, SC",5.2,17.8,11,34.7044,-81.1186,https://findrehabmap.com/south-carolina/chester-county/
+45027,South Carolina,Clarendon County,31030,48887,2,6.4,0,0,1,2,0.7,36.8,"Orangeburg, SC",20.4,"Sumter, SC",0.7,22.6,9,33.6862,-80.208,https://findrehabmap.com/south-carolina/clarendon-county/
+45089,South Carolina,Williamsburg County,29865,43471,1,3.3,0,0,0,1,5.0,45.6,"Darlington, SC",31.3,"Georgetown, SC",27.5,36.0,2,33.6519,-79.7332,https://findrehabmap.com/south-carolina/williamsburg-county/
+45037,South Carolina,Edgefield County,29455,67092,2,6.8,0,0,1,2,4.2,13.4,"Aiken, SC",13.3,"Aiken, SC",4.2,13.4,23,33.7131,-81.923,https://findrehabmap.com/south-carolina/edgefield-county/
+45067,South Carolina,Marion County,28368,34501,2,7.1,0,0,1,2,0.9,31.7,"Darlington, SC",24.3,"Florence, SC",0.9,27.0,10,34.1661,-79.3405,https://findrehabmap.com/south-carolina/marion-county/
+45033,South Carolina,Dillon County,27577,44038,2,7.3,0,0,1,2,3.1,26.1,"Lumberton, NC",16.6,"Fairmont, NC",3.1,19.1,11,34.3948,-79.3616,https://findrehabmap.com/south-carolina/dillon-county/
+45087,South Carolina,Union County,26678,41200,1,3.7,0,0,0,1,1.5,22.2,"Spartanburg, SC",23.0,"Spartanburg, SC",23.0,23.0,12,34.7331,-81.6277,https://findrehabmap.com/south-carolina/union-county/
+45069,South Carolina,Marlboro County,25498,36293,1,3.9,0,0,0,1,1.5,15.2,"Laurinburg, NC",15.2,"Laurinburg, NC",15.2,14.7,16,34.638,-79.6717,https://findrehabmap.com/south-carolina/marlboro-county/
+45001,South Carolina,Abbeville County,24607,52112,2,8.1,0,0,1,2,5.2,27.3,"Elberton, GA",15.3,"Greenwood, SC",5.2,16.6,9,34.2416,-82.4221,https://findrehabmap.com/south-carolina/abbeville-county/
+45011,South Carolina,Barnwell County,20495,41800,2,9.8,0,0,1,2,2.6,30.3,"Aiken, SC",30.4,"Aiken, SC",2.8,30.3,5,33.2945,-81.3567,https://findrehabmap.com/south-carolina/barnwell-county/
+45039,South Carolina,Fairfield County,20369,46972,3,14.7,0,0,1,3,1.4,19.7,"Columbia, SC",24.3,"West Columbia, SC",1.8,5.3,16,34.3613,-81.0693,https://findrehabmap.com/south-carolina/fairfield-county/
+45081,South Carolina,Saluda County,19452,52957,1,5.1,0,0,0,1,4.3,29.7,"Aiken, SC",29.4,"Greenwood, SC",19.4,29.7,6,33.9988,-81.7028,https://findrehabmap.com/south-carolina/saluda-county/
+45049,South Carolina,Hampton County,18172,43059,2,11.0,0,0,0,2,3.9,40.2,"Bluffton, SC",44.1,"Statesboro, GA",35.0,27.2,5,32.8016,-81.1164,https://findrehabmap.com/south-carolina/hampton-county/
+45061,South Carolina,Lee County,15958,44145,2,12.5,0,0,1,2,2.5,24.1,"Darlington, SC",16.7,"Hartsville, SC",2.6,17.5,18,34.1836,-80.2669,https://findrehabmap.com/south-carolina/lee-county/
+45017,South Carolina,Calhoun County,14249,56690,1,7.0,0,0,0,1,3.4,9.8,"Orangeburg, SC",22.7,"Columbia, SC",9.8,9.8,9,33.6779,-80.8221,https://findrehabmap.com/south-carolina/calhoun-county/
+45009,South Carolina,Bamberg County,12870,43206,2,15.5,0,0,0,2,3.4,23.5,"Orangeburg, SC",45.2,"Aiken, SC",17.7,23.5,8,33.2676,-81.0722,https://findrehabmap.com/south-carolina/bamberg-county/
+45065,South Carolina,McCormick County,9983,55344,2,20.0,0,0,1,2,2.4,32.5,"Augusta, GA",22.8,"Greenwood, SC",2.5,27.6,10,33.8793,-82.2977,https://findrehabmap.com/south-carolina/mccormick-county/
+45005,South Carolina,Allendale County,7551,31603,1,13.2,0,0,0,1,1.3,46.1,"Orangeburg, SC",45.7,"Statesboro, GA",18.7,36.4,6,32.9971,-81.2913,https://findrehabmap.com/south-carolina/allendale-county/

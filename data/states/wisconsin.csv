@@ -1,0 +1,73 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+55079,Wisconsin,Milwaukee County,924740,62118,47,5.1,5,10,18,38,0.5,1.2,"Milwaukee, WI",1.3,"West Milwaukee, WI",1.2,0.6,77,43.0314,-87.9595,https://findrehabmap.com/wisconsin/milwaukee-county/
+55025,Wisconsin,Dane County,588347,88108,28,4.8,1,5,7,22,0.7,5.3,"Madison, WI",1.8,"Madison, WI",1.8,1.5,29,43.0756,-89.3955,https://findrehabmap.com/wisconsin/dane-county/
+55133,Wisconsin,Waukesha County,417029,104100,20,4.8,5,3,8,13,1.0,1.0,"Waukesha, WI",1.0,"Pewaukee, WI",1.0,1.5,71,43.036,-88.2362,https://findrehabmap.com/wisconsin/waukesha-county/
+55009,Wisconsin,Brown County,273909,77490,19,6.9,3,2,8,15,1.2,2.7,"Green Bay, WI",3.2,"Green Bay, WI",1.2,1.2,22,44.4972,-88.0341,https://findrehabmap.com/wisconsin/brown-county/
+55101,Wisconsin,Racine County,198651,75331,8,4.0,1,2,3,6,2.0,4.8,"Racine, WI",4.8,"Racine, WI",4.8,18.0,69,42.735,-87.928,https://findrehabmap.com/wisconsin/racine-county/
+55087,Wisconsin,Outagamie County,195390,82857,13,6.7,0,1,4,11,1.7,21.4,"Green Bay, WI",1.7,"Appleton, WI",1.7,3.5,38,44.3087,-88.4014,https://findrehabmap.com/wisconsin/outagamie-county/
+55139,Wisconsin,Winnebago County,173307,72873,8,4.6,0,2,2,7,2.9,30.1,"Kiel, WI",6.4,"Oshkosh, WI",6.4,2.9,25,44.1015,-88.5409,https://findrehabmap.com/wisconsin/winnebago-county/
+55059,Wisconsin,Kenosha County,168754,79412,11,6.5,3,3,6,10,0.4,4.1,"Kenosha, WI",4.1,"Kenosha, WI",0.4,14.0,51,42.5724,-87.924,https://findrehabmap.com/wisconsin/kenosha-county/
+55105,Wisconsin,Rock County,165461,74390,8,4.8,1,2,4,7,0.5,4.5,"Janesville, WI",4.5,"Janesville, WI",0.5,20.3,19,42.6548,-89.0379,https://findrehabmap.com/wisconsin/rock-county/
+55073,Wisconsin,Marathon County,139091,76185,9,6.5,2,2,3,6,3.9,4.8,"Rothschild, WI",5.2,"Wausau, WI",4.8,27.3,8,44.9075,-89.7078,https://findrehabmap.com/wisconsin/marathon-county/
+55131,Wisconsin,Washington County,138727,95851,3,2.2,0,0,1,3,5.9,16.6,"Milwaukee, WI",17.7,"Milwaukee, WI",5.9,12.2,51,43.3456,-88.2164,https://findrehabmap.com/wisconsin/washington-county/
+55063,Wisconsin,La Crosse County,121060,70704,6,5.0,2,2,4,5,0.8,0.8,"La Crosse, WI",2.4,"Onalaska, WI",0.8,36.9,11,43.861,-91.2089,https://findrehabmap.com/wisconsin/la-crosse-county/
+55117,Wisconsin,Sheboygan County,118331,71898,8,6.8,2,1,3,6,3.9,4.3,"Sheboygan, WI",4.2,"Sheboygan, WI",3.9,7.9,13,43.7336,-87.8191,https://findrehabmap.com/wisconsin/sheboygan-county/
+55035,Wisconsin,Eau Claire County,108830,71834,8,7.4,0,1,1,7,0.7,45.7,"Owen, WI",0.7,"Eau Claire, WI",3.0,22.3,15,44.7902,-91.4548,https://findrehabmap.com/wisconsin/eau-claire-county/
+55127,Wisconsin,Walworth County,106029,77359,4,3.8,0,1,3,4,2.4,24.1,"Janesville, WI",4.4,"Delavan, WI",2.4,20.1,14,42.6629,-88.5403,https://findrehabmap.com/wisconsin/walworth-county/
+55039,Wisconsin,Fond du Lac County,104269,73154,5,4.8,0,1,1,4,2.4,27.3,"Waldo, WI",2.7,"Fond du Lac, WI",2.7,2.6,13,43.7655,-88.487,https://findrehabmap.com/wisconsin/fond-du-lac-county/
+55109,Wisconsin,St. Croix County,97954,102482,9,9.2,0,0,3,8,4.3,17.6,"Stillwater, MN",20.3,"Woodbury, MN",4.3,4.3,54,45.018,-92.5806,https://findrehabmap.com/wisconsin/st-croix-county/
+55089,Wisconsin,Ozaukee County,93956,96734,4,4.3,0,0,3,4,4.5,9.1,"Milwaukee, WI",10.8,"Milwaukee, WI",4.5,4.5,63,43.3188,-87.9501,https://findrehabmap.com/wisconsin/ozaukee-county/
+55027,Wisconsin,Dodge County,88635,73992,5,5.6,0,1,2,5,1.5,28.0,"Oconomowoc, WI",1.5,"Juneau, WI",1.5,24.9,8,43.4359,-88.7131,https://findrehabmap.com/wisconsin/dodge-county/
+55055,Wisconsin,Jefferson County,86245,80604,2,2.3,0,0,0,1,2.9,17.9,"Oconomowoc, WI",25.1,"Janesville, WI",14.2,17.9,12,43.0403,-88.7856,https://findrehabmap.com/wisconsin/jefferson-county/
+55071,Wisconsin,Manitowoc County,81513,68611,8,9.8,1,0,4,7,2.4,17.0,"Kiel, WI",26.2,"Sheboygan, WI",3.3,2.4,11,44.1036,-87.7243,https://findrehabmap.com/wisconsin/manitowoc-county/
+55141,Wisconsin,Wood County,73943,66417,8,10.8,1,0,2,6,8.8,8.8,"Wisconsin Rapids, WI",37.0,"Wausau, WI",8.8,17.3,10,44.4785,-89.9625,https://findrehabmap.com/wisconsin/wood-county/
+55097,Wisconsin,Portage County,72040,73284,2,2.8,0,0,0,2,0.8,16.7,"Wisconsin Rapids, WI",32.3,"Wausau, WI",16.5,34.0,10,44.498,-89.5261,https://findrehabmap.com/wisconsin/portage-county/
+55017,Wisconsin,Chippewa County,67323,74009,3,4.5,0,0,1,3,4.0,38.3,"Owen, WI",15.2,"Eau Claire, WI",4.9,28.6,11,44.9849,-91.3281,https://findrehabmap.com/wisconsin/chippewa-county/
+55111,Wisconsin,Sauk County,66486,77648,3,4.5,0,0,1,3,6.4,39.7,"Madison, WI",35.6,"Madison, WI",6.4,33.8,4,43.4493,-89.868,https://findrehabmap.com/wisconsin/sauk-county/
+55021,Wisconsin,Columbia County,58113,82792,2,3.4,0,0,0,2,9.0,28.2,"Madison, WI",24.3,"Madison, WI",19.0,23.1,9,43.4602,-89.3662,https://findrehabmap.com/wisconsin/columbia-county/
+55015,Wisconsin,Calumet County,53602,87700,0,0.0,0,0,0,0,9.7,20.4,"Kiel, WI",11.2,"Appleton, WI",9.7,9.7,28,44.1526,-88.2629,https://findrehabmap.com/wisconsin/calumet-county/
+55043,Wisconsin,Grant County,52330,64349,1,1.9,0,0,0,0,8.8,68.6,"Madison, WI",63.9,"Madison, WI",21.9,8.8,5,42.8272,-90.6126,https://findrehabmap.com/wisconsin/grant-county/
+55135,Wisconsin,Waupaca County,51171,71189,4,7.8,0,0,0,4,8.6,42.3,"Green Bay, WI",29.4,"Appleton, WI",24.8,9.4,8,44.4327,-88.937,https://findrehabmap.com/wisconsin/waupaca-county/
+55005,Wisconsin,Barron County,46810,64619,6,12.8,0,0,1,6,3.2,48.3,"Center City, MN",48.3,"Center City, MN",4.2,28.3,6,45.437,-91.8151,https://findrehabmap.com/wisconsin/barron-county/
+55081,Wisconsin,Monroe County,46370,68213,4,8.6,1,0,3,3,7.0,8.6,"Tomah, WI",26.6,"Onalaska, WI",8.4,8.6,4,43.9426,-90.6442,https://findrehabmap.com/wisconsin/monroe-county/
+55033,Wisconsin,Dunn County,46135,71785,4,8.7,0,0,1,4,1.8,51.8,"Stillwater, MN",23.7,"Eau Claire, WI",2.5,2.5,13,44.9147,-91.8929,https://findrehabmap.com/wisconsin/dunn-county/
+55095,Wisconsin,Polk County,45831,76208,4,8.7,0,0,0,4,3.5,15.9,"Center City, MN",15.9,"Center City, MN",15.9,9.0,11,45.4049,-92.4814,https://findrehabmap.com/wisconsin/polk-county/
+55031,Wisconsin,Douglas County,44276,72579,1,2.3,0,0,0,1,6.3,11.8,"Duluth, MN",11.8,"Duluth, MN",10.4,10.4,28,46.6286,-92.0148,https://findrehabmap.com/wisconsin/douglas-county/
+55093,Wisconsin,Pierce County,43380,88802,3,6.9,0,0,2,3,4.2,25.0,"Inver Grove Heights, MN",24.5,"Woodbury, MN",4.2,6.4,33,44.7734,-92.5477,https://findrehabmap.com/wisconsin/pierce-county/
+55075,Wisconsin,Marinette County,42343,63401,3,7.1,0,0,1,3,13.0,48.7,"Green Bay, WI",49.5,"Green Bay, WI",14.3,47.9,4,45.2191,-87.848,https://findrehabmap.com/wisconsin/marinette-county/
+55115,Wisconsin,Shawano County,41299,67032,4,9.7,0,0,0,3,3.5,34.4,"Green Bay, WI",34.4,"Green Bay, WI",6.9,3.5,5,44.7869,-88.681,https://findrehabmap.com/wisconsin/shawano-county/
+55083,Wisconsin,Oconto County,40037,75886,3,7.5,0,0,0,3,0.8,25.5,"Green Bay, WI",25.9,"Green Bay, WI",24.7,24.0,7,44.8954,-88.1463,https://findrehabmap.com/wisconsin/oconto-county/
+55085,Wisconsin,Oneida County,38175,69621,3,7.9,0,0,2,3,6.5,52.4,"Wausau, WI",52.4,"Wausau, WI",6.5,6.9,3,45.711,-89.4939,https://findrehabmap.com/wisconsin/oneida-county/
+55045,Wisconsin,Green County,37183,80248,1,2.7,0,0,0,1,5.6,28.9,"Janesville, WI",27.0,"Madison, WI",25.8,25.2,2,42.6738,-89.5751,https://findrehabmap.com/wisconsin/green-county/
+55019,Wisconsin,Clark County,34801,66250,2,5.7,1,0,1,1,10.8,10.8,"Owen, WI",43.9,"Eau Claire, WI",10.8,20.2,6,44.7881,-90.551,https://findrehabmap.com/wisconsin/clark-county/
+55123,Wisconsin,Vernon County,31351,69556,1,3.2,0,0,0,1,3.3,25.5,"La Crosse, WI",24.4,"La Crosse, WI",23.4,32.4,5,43.6053,-90.8357,https://findrehabmap.com/wisconsin/vernon-county/
+55121,Wisconsin,Trempealeau County,30801,71295,3,9.7,0,0,1,3,5.5,29.4,"Onalaska, WI",29.4,"Onalaska, WI",5.9,47.4,7,44.2874,-91.3635,https://findrehabmap.com/wisconsin/trempealeau-county/
+55029,Wisconsin,Door County,30512,71785,2,6.6,0,0,1,2,5.8,41.9,"Green Bay, WI",45.8,"Green Bay, WI",5.9,41.9,5,44.9151,-87.3358,https://findrehabmap.com/wisconsin/door-county/
+55069,Wisconsin,Lincoln County,28461,67726,0,0.0,0,0,0,0,18.4,22.9,"Wausau, WI",22.9,"Wausau, WI",22.8,28.9,6,45.2885,-89.6865,https://findrehabmap.com/wisconsin/lincoln-county/
+55057,Wisconsin,Juneau County,26590,65150,1,3.8,0,0,0,1,3.5,22.6,"Tomah, WI",53.6,"Onalaska, WI",22.6,22.6,4,43.8431,-90.0976,https://findrehabmap.com/wisconsin/juneau-county/
+55137,Wisconsin,Waushara County,25079,64968,1,4.0,0,0,0,1,3.4,36.1,"Wisconsin Rapids, WI",32.5,"Oshkosh, WI",22.5,23.4,6,44.1015,-89.2258,https://findrehabmap.com/wisconsin/waushara-county/
+55049,Wisconsin,Iowa County,23963,83372,0,0.0,0,0,0,0,22.3,42.2,"Madison, WI",37.5,"Madison, WI",30.4,24.4,2,42.982,-90.1222,https://findrehabmap.com/wisconsin/iowa-county/
+55125,Wisconsin,Vilas County,23948,67132,1,4.2,0,0,0,1,19.0,71.4,"Wausau, WI",71.4,"Wausau, WI",23.5,24.1,4,45.9882,-89.497,https://findrehabmap.com/wisconsin/vilas-county/
+55001,Wisconsin,Adams County,21352,59153,0,0.0,0,0,0,0,17.9,31.0,"Wisconsin Rapids, WI",59.8,"Oshkosh, WI",30.9,35.6,1,43.9462,-89.7831,https://findrehabmap.com/wisconsin/adams-county/
+55053,Wisconsin,Jackson County,21027,65508,1,4.8,0,0,0,1,3.0,29.9,"Tomah, WI",33.0,"Onalaska, WI",22.5,29.9,4,44.3207,-90.903,https://findrehabmap.com/wisconsin/jackson-county/
+55061,Wisconsin,Kewaunee County,20751,80085,1,4.8,0,0,0,1,6.7,16.9,"Green Bay, WI",24.5,"Green Bay, WI",16.4,16.9,22,44.5278,-87.5917,https://findrehabmap.com/wisconsin/kewaunee-county/
+55119,Wisconsin,Taylor County,20167,63142,2,9.9,0,0,0,2,4.6,17.1,"Owen, WI",40.8,"Wausau, WI",17.1,35.9,4,45.1723,-90.4086,https://findrehabmap.com/wisconsin/taylor-county/
+55067,Wisconsin,Langlade County,19535,57258,1,5.1,0,0,0,1,16.7,30.0,"Wausau, WI",30.0,"Wausau, WI",29.9,34.7,1,45.1851,-89.105,https://findrehabmap.com/wisconsin/langlade-county/
+55047,Wisconsin,Green Lake County,19370,66917,1,5.2,0,0,1,1,3.8,52.0,"Kiel, WI",24.4,"Oshkosh, WI",3.8,27.8,4,43.8451,-89.0147,https://findrehabmap.com/wisconsin/green-lake-county/
+55113,Wisconsin,Sawyer County,18835,59055,5,26.5,0,0,3,5,4.0,48.7,"Ashland, WI",68.9,"Duluth, MN",5.6,48.7,5,45.9381,-91.3452,https://findrehabmap.com/wisconsin/sawyer-county/
+55065,Wisconsin,Lafayette County,17306,72091,1,5.8,0,0,0,1,0.8,50.8,"Madison, WI",46.3,"Madison, WI",22.6,18.1,4,42.6633,-90.1406,https://findrehabmap.com/wisconsin/lafayette-county/
+55013,Wisconsin,Burnett County,17187,61664,3,17.5,0,0,0,3,2.1,28.8,"Pine City, MN",37.3,"Center City, MN",28.8,28.8,3,45.8369,-92.4038,https://findrehabmap.com/wisconsin/burnett-county/
+55103,Wisconsin,Richland County,17123,62649,2,11.7,0,0,0,1,0.8,45.4,"Tomah, WI",52.8,"La Crosse, WI",33.5,42.1,3,43.3503,-90.3904,https://findrehabmap.com/wisconsin/richland-county/
+55129,Wisconsin,Washburn County,16982,61270,2,11.8,0,0,0,2,2.9,56.1,"Pine City, MN",57.2,"Center City, MN",20.0,45.6,11,45.8482,-91.8354,https://findrehabmap.com/wisconsin/washburn-county/
+55007,Wisconsin,Bayfield County,16838,69609,2,11.9,0,0,0,2,10.4,10.4,"Ashland, WI",48.4,"Duluth, MN",10.4,10.4,5,46.5941,-91.1044,https://findrehabmap.com/wisconsin/bayfield-county/
+55003,Wisconsin,Ashland County,16196,57645,3,18.5,1,0,3,3,8.1,8.1,"Ashland, WI",65.4,"Duluth, MN",8.1,8.1,4,46.4759,-90.7854,https://findrehabmap.com/wisconsin/ashland-county/
+55023,Wisconsin,Crawford County,16008,63496,2,12.5,0,0,0,2,10.2,49.5,"La Crosse, WI",45.1,"La Crosse, WI",39.6,39.4,3,43.1654,-91.0051,https://findrehabmap.com/wisconsin/crawford-county/
+55077,Wisconsin,Marquette County,15743,63471,0,0.0,0,0,0,0,16.9,45.4,"Wisconsin Rapids, WI",43.4,"Oshkosh, WI",23.5,44.1,3,43.8109,-89.4079,https://findrehabmap.com/wisconsin/marquette-county/
+55107,Wisconsin,Rusk County,14168,58322,3,21.2,0,0,0,1,1.9,44.7,"Owen, WI",48.4,"Eau Claire, WI",29.7,53.9,3,45.445,-91.1306,https://findrehabmap.com/wisconsin/rusk-county/
+55099,Wisconsin,Price County,14087,58720,2,14.2,0,0,0,2,2.3,54.3,"Owen, WI",64.7,"Wausau, WI",48.6,49.3,2,45.7244,-90.398,https://findrehabmap.com/wisconsin/price-county/
+55011,Wisconsin,Buffalo County,13464,68722,0,0.0,0,0,0,0,16.3,43.5,"Rochester, MN",31.3,"Eau Claire, WI",19.2,35.2,6,44.3802,-91.7414,https://findrehabmap.com/wisconsin/buffalo-county/
+55041,Wisconsin,Forest County,9506,59727,0,0.0,0,0,0,0,22.8,57.6,"Wausau, WI",57.6,"Wausau, WI",28.2,28.2,1,45.5634,-88.8121,https://findrehabmap.com/wisconsin/forest-county/
+55091,Wisconsin,Pepin County,7555,74536,0,0.0,0,0,0,0,20.3,45.2,"Rochester, MN",29.6,"Eau Claire, WI",20.3,20.3,4,44.5918,-91.9874,https://findrehabmap.com/wisconsin/pepin-county/
+55051,Wisconsin,Iron County,6235,59058,2,32.1,0,0,0,2,7.0,36.7,"Ashland, WI",95.2,"Duluth, MN",27.8,36.7,4,46.3432,-90.19,https://findrehabmap.com/wisconsin/iron-county/
+55037,Wisconsin,Florence County,4673,62786,0,0.0,0,0,0,0,8.3,63.7,"Marquette, MI",91.3,"Wausau, WI",53.3,53.3,2,45.8537,-88.2443,https://findrehabmap.com/wisconsin/florence-county/
+55078,Wisconsin,Menominee County,4286,59528,1,23.3,0,0,1,1,2.1,38.0,"Green Bay, WI",38.0,"Green Bay, WI",2.1,9.1,7,44.9126,-88.6357,https://findrehabmap.com/wisconsin/menominee-county/

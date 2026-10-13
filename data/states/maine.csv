@@ -1,0 +1,17 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+23005,Maine,Cumberland County,313809,92983,37,11.8,7,6,22,29,3.4,4.1,"Portland, ME",3.4,"Portland, ME",3.4,4.1,51,43.7464,-70.305,https://findrehabmap.com/maine/cumberland-county/
+23031,Maine,York County,220143,82904,9,4.1,1,1,5,8,8.4,11.6,"Saco, ME",11.6,"Saco, ME",8.4,11.3,47,43.4225,-70.6402,https://findrehabmap.com/maine/york-county/
+23019,Maine,Penobscot County,156840,63248,29,18.5,4,5,9,21,7.8,8.7,"Bangor, ME",7.9,"Bangor, ME",7.8,8.7,28,44.9445,-68.7975,https://findrehabmap.com/maine/penobscot-county/
+23011,Maine,Kennebec County,128461,65062,14,10.9,0,3,8,11,2.2,30.2,"Lewiston, ME",2.2,"Augusta, ME",2.2,30.2,17,44.3956,-69.7489,https://findrehabmap.com/maine/kennebec-county/
+23001,Maine,Androscoggin County,115272,67298,15,13.0,1,2,9,13,0.6,1.1,"Lewiston, ME",0.6,"Lewiston, ME",0.6,1.1,29,44.1172,-70.2021,https://findrehabmap.com/maine/androscoggin-county/
+23003,Maine,Aroostook County,66776,54254,13,19.5,0,1,8,11,3.8,133.9,"Bangor, ME",3.8,"Presque Isle, ME",3.8,4.8,6,46.7013,-68.0884,https://findrehabmap.com/maine/aroostook-county/
+23017,Maine,Oxford County,60039,57933,6,10.0,0,1,3,5,6.3,23.9,"Lewiston, ME",19.0,"Rumford, ME",16.6,18.8,20,44.2793,-70.6141,https://findrehabmap.com/maine/oxford-county/
+23009,Maine,Hancock County,56946,69630,5,8.8,0,0,3,5,4.8,27.4,"Bangor, ME",27.4,"Bangor, ME",4.8,27.1,5,44.471,-68.4682,https://findrehabmap.com/maine/hancock-county/
+23025,Maine,Somerset County,51338,56199,2,3.9,0,0,0,0,4.0,44.4,"Bangor, ME",19.3,"Waterville, ME",17.4,29.7,9,44.8202,-69.6851,https://findrehabmap.com/maine/somerset-county/
+23013,Maine,Knox County,40981,71903,5,12.2,1,2,4,4,2.9,3.9,"Rockport, ME",2.9,"Rockland, ME",3.0,3.9,11,44.1329,-69.1616,https://findrehabmap.com/maine/knox-county/
+23027,Maine,Waldo County,40617,68441,4,9.8,0,0,1,4,5.4,23.9,"Rockport, ME",23.9,"Bangor, ME",5.4,23.9,6,44.4901,-69.0862,https://findrehabmap.com/maine/waldo-county/
+23023,Maine,Sagadahoc County,37582,82080,0,0.0,0,0,0,0,3.2,6.7,"Brunswick, ME",19.5,"Auburn, ME",3.2,3.7,26,43.9568,-69.8715,https://findrehabmap.com/maine/sagadahoc-county/
+23015,Maine,Lincoln County,36491,72026,2,5.5,0,0,0,2,1.3,23.2,"Brunswick, ME",21.4,"Rockland, ME",18.8,19.0,21,44.0343,-69.5534,https://findrehabmap.com/maine/lincoln-county/
+23029,Maine,Washington County,31383,52237,9,28.7,2,1,7,8,9.2,10.9,"Machias, ME",23.5,"Calais, ME",9.2,24.1,9,44.8619,-67.466,https://findrehabmap.com/maine/washington-county/
+23007,Maine,Franklin County,30902,58522,2,6.5,0,0,2,2,4.4,41.9,"Lewiston, ME",19.5,"Rumford, ME",4.4,19.2,9,44.7074,-70.2259,https://findrehabmap.com/maine/franklin-county/
+23021,Maine,Piscataquis County,17432,55234,0,0.0,0,0,0,0,26.6,37.8,"Bangor, ME",37.7,"Bangor, ME",37.5,26.6,0,45.2427,-69.256,https://findrehabmap.com/maine/piscataquis-county/

@@ -1,0 +1,59 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+06037,California,Los Angeles County,9757179,87760,453,4.6,107,72,145,212,0.5,1.2,"Los Angeles, CA",1.2,"Los Angeles, CA",1.2,1.6,406,34.0679,-118.246,https://findrehabmap.com/california/los-angeles-county/
+06073,California,San Diego County,3298799,102285,143,4.3,35,16,51,74,2.2,3.9,"San Diego, CA",3.9,"San Diego, CA",3.9,4.4,135,32.8844,-117.1123,https://findrehabmap.com/california/san-diego-county/
+06059,California,Orange County,3170435,113702,149,4.7,37,12,53,40,1.3,1.4,"Santa Ana, CA",4.6,"Garden Grove, CA",1.3,1.4,237,33.7327,-117.8588,https://findrehabmap.com/california/orange-county/
+06065,California,Riverside County,2529933,89672,63,2.5,20,12,30,34,2.8,7.3,"Hemet, CA",7.3,"Hemet, CA",2.8,2.8,52,33.7993,-117.077,https://findrehabmap.com/california/riverside-county/
+06071,California,San Bernardino County,2214281,82184,69,3.1,17,6,28,55,5.5,7.8,"Fontana, CA",9.9,"Colton, CA",5.8,6.3,82,34.191,-117.3598,https://findrehabmap.com/california/san-bernardino-county/
+06085,California,Santa Clara County,1926325,159674,27,1.4,0,2,5,16,1.2,17.2,"Menlo Park, CA",1.4,"San Jose, CA",1.4,1.2,45,37.3155,-121.9111,https://findrehabmap.com/california/santa-clara-county/
+06001,California,Alameda County,1649060,126240,43,2.6,10,12,11,19,1.4,2.3,"Hayward, CA",1.4,"Hayward, CA",1.4,1.8,98,37.7066,-122.0988,https://findrehabmap.com/california/alameda-county/
+06067,California,Sacramento County,1611231,88724,55,3.4,11,8,16,30,1.0,2.9,"Loomis, CA",3.5,"Rancho Cordova, CA",3.5,2.0,64,38.5683,-121.3812,https://findrehabmap.com/california/sacramento-county/
+06013,California,Contra Costa County,1172607,125727,34,2.9,6,5,11,13,0.4,3.2,"Concord, CA",1.5,"Walnut Creek, CA",1.5,2.0,87,37.935,-122.025,https://findrehabmap.com/california/contra-costa-county/
+06019,California,Fresno County,1024125,71434,31,3.0,5,7,5,17,0.5,1.9,"Fresno, CA",1.4,"Fresno, CA",1.4,0.5,34,36.7438,-119.7653,https://findrehabmap.com/california/fresno-county/
+06029,California,Kern County,922529,67660,23,2.5,3,8,6,18,0.7,7.6,"Bakersfield, CA",3.0,"Bakersfield, CA",4.1,0.7,18,35.3698,-118.9418,https://findrehabmap.com/california/kern-county/
+06111,California,Ventura County,835427,107327,33,4.0,11,6,14,14,1.9,7.9,"Santa Paula, CA",7.9,"Santa Paula, CA",4.7,3.1,67,34.2428,-119.0255,https://findrehabmap.com/california/ventura-county/
+06075,California,San Francisco County,827526,141446,9,1.1,1,2,1,2,0.9,4.0,"San Francisco, CA",3.3,"San Francisco, CA",4.0,0.9,79,37.7606,-122.4365,https://findrehabmap.com/california/san-francisco-county/
+06077,California,San Joaquin County,816108,88531,11,1.3,4,8,9,10,1.1,1.1,"Stockton, CA",1.1,"Stockton, CA",1.1,3.7,22,37.9245,-121.3023,https://findrehabmap.com/california/san-joaquin-county/
+06081,California,San Mateo County,742893,156000,12,1.6,2,1,1,6,0.8,3.1,"San Mateo, CA",11.9,"Menlo Park, CA",11.9,0.8,69,37.5636,-122.3399,https://findrehabmap.com/california/san-mateo-county/
+06099,California,Stanislaus County,556972,79661,12,2.2,5,2,5,9,1.3,1.3,"Ceres, CA",1.3,"Ceres, CA",1.3,1.3,13,37.6184,-120.9559,https://findrehabmap.com/california/stanislaus-county/
+06097,California,Sonoma County,485375,102840,16,3.3,4,4,7,8,1.8,9.6,"Glen Ellen, CA",1.8,"Santa Rosa, CA",1.8,6.9,22,38.4123,-122.7204,https://findrehabmap.com/california/sonoma-county/
+06107,California,Tulare County,483546,69489,17,3.5,3,3,3,15,4.7,5.3,"Visalia, CA",5.3,"Visalia, CA",5.3,4.7,25,36.2541,-119.2345,https://findrehabmap.com/california/tulare-county/
+06095,California,Solano County,455101,99994,13,2.9,2,2,5,10,0.0,3.5,"Fairfield, CA",1.3,"Fairfield, CA",1.3,3.5,38,38.2363,-122.0673,https://findrehabmap.com/california/solano-county/
+06083,California,Santa Barbara County,444500,95977,21,4.7,4,2,3,8,19.8,20.6,"Lompoc, CA",24.1,"Santa Barbara, CA",26.2,20.6,9,34.6451,-120.1029,https://findrehabmap.com/california/santa-barbara-county/
+06053,California,Monterey County,436251,94486,24,5.5,4,3,6,19,2.5,4.5,"Salinas, CA",2.8,"Salinas, CA",2.5,4.5,24,36.6147,-121.6467,https://findrehabmap.com/california/monterey-county/
+06061,California,Placer County,433822,114678,10,2.3,3,1,3,5,4.0,7.7,"Auburn, CA",8.2,"Roseville, CA",7.7,5.3,58,38.8397,-121.1984,https://findrehabmap.com/california/placer-county/
+06047,California,Merced County,296774,65044,7,2.4,2,1,1,4,5.7,5.7,"Atwater, CA",7.6,"Merced, CA",7.6,5.7,8,37.2748,-120.6289,https://findrehabmap.com/california/merced-county/
+06079,California,San Luis Obispo County,281843,93398,8,2.8,3,1,3,3,7.0,9.8,"Atascadero, CA",9.8,"Atascadero, CA",9.8,11.2,8,35.3418,-120.6658,https://findrehabmap.com/california/san-luis-obispo-county/
+06087,California,Santa Cruz County,262406,109266,10,3.8,2,2,2,4,1.0,2.8,"Monterey, CA",4.3,"Santa Cruz, CA",6.0,2.8,29,36.9863,-121.9387,https://findrehabmap.com/california/santa-cruz-county/
+06041,California,Marin County,256400,142785,13,5.1,2,1,5,6,1.1,1.6,"San Rafael, CA",1.4,"San Rafael, CA",1.1,1.3,54,37.9865,-122.5467,https://findrehabmap.com/california/marin-county/
+06113,California,Yolo County,225251,88818,4,1.8,0,1,1,2,6.7,14.2,"Sacramento, CA",7.9,"West Sacramento, CA",7.9,11.9,54,38.5982,-121.7189,https://findrehabmap.com/california/yolo-county/
+06007,California,Butte County,208334,68574,9,4.3,2,2,4,3,6.0,8.7,"Chico, CA",8.7,"Chico, CA",6.0,10.8,10,39.6589,-121.7265,https://findrehabmap.com/california/butte-county/
+06017,California,El Dorado County,192823,106190,13,6.7,2,1,5,2,2.0,5.6,"Placerville, CA",5.6,"Placerville, CA",5.6,2.3,19,38.741,-120.7614,https://findrehabmap.com/california/el-dorado-county/
+06025,California,Imperial County,181724,56393,7,3.9,3,2,6,6,3.6,3.6,"El Centro, CA",3.6,"El Centro, CA",3.6,4.8,7,32.8416,-115.54,https://findrehabmap.com/california/imperial-county/
+06089,California,Shasta County,181121,71931,12,6.6,1,1,4,9,2.8,2.8,"Redding, CA",2.8,"Redding, CA",2.8,4.6,11,40.5783,-122.3001,https://findrehabmap.com/california/shasta-county/
+06039,California,Madera County,165432,75496,5,3.0,1,0,0,4,5.9,5.9,"Madera, CA",22.4,"Fresno, CA",20.9,18.4,31,37.0371,-120.0098,https://findrehabmap.com/california/madera-county/
+06031,California,Kings County,154913,68750,10,6.5,1,0,0,5,3.7,3.7,"Lemoore, CA",21.8,"Tulare, CA",21.8,3.7,20,36.2527,-119.7269,https://findrehabmap.com/california/kings-county/
+06055,California,Napa County,132727,108970,7,5.3,1,0,2,2,2.0,12.9,"Glen Ellen, CA",14.4,"Vallejo, CA",5.7,12.9,37,38.3251,-122.32,https://findrehabmap.com/california/napa-county/
+06023,California,Humboldt County,132380,61135,14,10.6,1,2,4,10,4.2,4.5,"Eureka, CA",4.7,"Eureka, CA",4.2,4.2,12,40.7576,-124.0881,https://findrehabmap.com/california/humboldt-county/
+06057,California,Nevada County,102195,84905,6,5.9,1,1,1,5,6.2,7.0,"Grass Valley, CA",7.0,"Grass Valley, CA",7.0,24.0,12,39.22,-120.9152,https://findrehabmap.com/california/nevada-county/
+06101,California,Sutter County,98545,75450,8,8.1,1,0,1,4,0.6,2.7,"Yuba City, CA",3.0,"Marysville, CA",2.7,1.9,20,39.1372,-121.644,https://findrehabmap.com/california/sutter-county/
+06045,California,Mendocino County,89175,64688,17,19.1,7,1,1,12,9.0,13.4,"Ukiah, CA",13.7,"Ukiah, CA",13.7,13.4,17,39.2856,-123.3942,https://findrehabmap.com/california/mendocino-county/
+06115,California,Yuba County,87469,73313,9,10.3,4,4,4,3,1.1,1.1,"Marysville, CA",2.8,"Marysville, CA",1.1,1.1,21,39.1319,-121.5106,https://findrehabmap.com/california/yuba-county/
+06069,California,San Benito County,69159,108289,3,4.3,2,0,2,2,0.5,0.5,"Hollister, CA",18.4,"Salinas, CA",0.5,0.5,20,36.8431,-121.4026,https://findrehabmap.com/california/san-benito-county/
+06033,California,Lake County,67764,58738,4,5.9,0,0,2,4,5.9,27.3,"Calistoga, CA",28.1,"Ukiah, CA",6.8,27.3,4,38.9762,-122.7329,https://findrehabmap.com/california/lake-county/
+06103,California,Tehama County,64451,61834,0,0.0,0,0,0,0,25.5,31.8,"Redding, CA",31.7,"Chico, CA",27.4,30.2,0,40.1148,-122.2191,https://findrehabmap.com/california/tehama-county/
+06109,California,Tuolumne County,53893,72259,3,5.6,0,0,2,3,2.9,14.5,"Copperopolis, CA",42.0,"Ceres, CA",4.6,14.5,7,37.972,-120.3252,https://findrehabmap.com/california/tuolumne-county/
+06009,California,Calaveras County,46505,79877,4,8.6,2,0,1,1,2.5,4.2,"Angels Camp, CA",35.0,"Lodi, CA",18.5,4.2,6,38.1573,-120.6452,https://findrehabmap.com/california/calaveras-county/
+06093,California,Siskiyou County,42498,55499,5,11.8,1,1,2,5,12.1,25.0,"Fort Jones, CA",25.0,"Fort Jones, CA",12.6,54.3,3,41.5727,-122.4937,https://findrehabmap.com/california/siskiyou-county/
+06005,California,Amador County,42026,81526,1,2.4,1,0,0,0,7.3,7.3,"Fiddletown, CA",21.7,"Placerville, CA",21.7,7.3,11,38.3959,-120.778,https://findrehabmap.com/california/amador-county/
+06035,California,Lassen County,28340,64395,1,3.5,1,0,0,0,3.8,3.8,"Susanville, CA",69.9,"Reno, NV",66.0,72.9,1,40.3937,-120.5845,https://findrehabmap.com/california/lassen-county/
+06021,California,Glenn County,28304,70487,4,14.1,0,0,0,3,4.9,18.6,"Chico, CA",18.6,"Chico, CA",18.6,17.8,10,39.6658,-122.1793,https://findrehabmap.com/california/glenn-county/
+06015,California,Del Norte County,27009,66780,1,3.7,0,0,0,1,2.1,62.7,"Fort Jones, CA",62.7,"Fort Jones, CA",61.4,60.7,1,41.7908,-124.1642,https://findrehabmap.com/california/del-norte-county/
+06011,California,Colusa County,22074,75149,1,4.5,0,0,1,1,5.7,25.1,"Yuba City, CA",26.6,"Marysville, CA",5.7,24.9,5,39.1534,-122.0838,https://findrehabmap.com/california/colusa-county/
+06063,California,Plumas County,18834,64946,1,5.3,0,0,0,0,7.8,31.1,"Susanville, CA",53.3,"Grass Valley, CA",51.4,51.0,1,39.9812,-120.822,https://findrehabmap.com/california/plumas-county/
+06027,California,Inyo County,18485,72432,2,10.8,0,0,1,2,14.7,81.9,"Visalia, CA",81.9,"Visalia, CA",15.5,77.4,2,37.1714,-118.2686,https://findrehabmap.com/california/inyo-county/
+06043,California,Mariposa County,17048,65378,2,11.7,0,0,1,1,2.3,32.7,"Merced, CA",32.7,"Merced, CA",2.3,31.4,3,37.5321,-119.9714,https://findrehabmap.com/california/mariposa-county/
+06105,California,Trinity County,15642,53498,2,12.8,0,0,0,2,7.5,39.4,"Redding, CA",39.4,"Redding, CA",39.3,37.3,2,40.63,-123.0966,https://findrehabmap.com/california/trinity-county/
+06051,California,Mono County,12991,86953,1,7.7,0,0,0,1,8.9,81.3,"Fresno, CA",81.3,"Fresno, CA",41.6,67.1,1,37.773,-118.9706,https://findrehabmap.com/california/mono-county/
+06049,California,Modoc County,8491,56648,0,0.0,0,0,0,0,48.5,75.9,"Klamath Falls, OR",75.4,"Klamath Falls, OR",70.1,71.9,0,41.5217,-120.6312,https://findrehabmap.com/california/modoc-county/
+06091,California,Sierra County,3113,60000,2,64.2,0,0,0,2,10.7,35.8,"Reno, NV",32.4,"Reno, NV",33.9,33.5,3,39.6072,-120.4219,https://findrehabmap.com/california/sierra-county/
+06003,California,Alpine County,1099,110781,1,91.0,0,0,0,1,3.3,16.2,"South Lake Tahoe, CA",29.8,"Carson City, NV",16.2,16.2,7,38.7285,-119.8478,https://findrehabmap.com/california/alpine-county/

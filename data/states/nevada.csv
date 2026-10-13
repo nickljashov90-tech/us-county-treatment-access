@@ -1,0 +1,18 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+32003,Nevada,Clark County,2398871,73845,99,4.1,19,14,30,68,0.4,0.4,"Las Vegas, NV",0.9,"Las Vegas, NV",0.9,0.4,97,36.1411,-115.153,https://findrehabmap.com/nevada/clark-county/
+32031,Nevada,Washoe County,507280,85600,19,3.7,1,5,5,11,0.7,5.0,"Reno, NV",1.5,"Sparks, NV",1.5,0.8,27,39.5345,-119.7935,https://findrehabmap.com/nevada/washoe-county/
+32019,Nevada,Lyon County,63718,73460,10,15.7,0,0,5,9,3.7,25.1,"Reno, NV",27.0,"Reno, NV",3.7,25.1,8,39.3558,-119.3272,https://findrehabmap.com/nevada/lyon-county/
+32510,Nevada,Carson City,58148,71809,12,20.6,2,1,4,8,0.4,0.6,"Carson City, NV",1.0,"Carson City, NV",0.4,0.6,33,39.1661,-119.7541,https://findrehabmap.com/nevada/carson-city/
+32023,Nevada,Nye County,55990,55975,9,16.1,1,1,4,8,13.2,17.5,"Pahrump, NV",17.5,"Pahrump, NV",14.9,34.7,7,36.4143,-116.1257,https://findrehabmap.com/nevada/nye-county/
+32007,Nevada,Elko County,54363,83427,2,3.7,0,0,1,1,10.6,147.1,"Heyburn, ID",148.8,"Gooding, ID",13.4,147.1,2,40.8563,-115.5343,https://findrehabmap.com/nevada/elko-county/
+32005,Nevada,Douglas County,49564,88018,3,6.1,0,0,0,1,0.5,13.7,"Carson City, NV",13.7,"Carson City, NV",13.3,13.3,21,38.9575,-119.7562,https://findrehabmap.com/nevada/douglas-county/
+32001,Nevada,Churchill County,26033,73268,3,11.5,1,0,2,3,0.1,0.1,"Fallon, NV",52.2,"Sparks, NV",0.1,0.1,6,39.4745,-118.7961,https://findrehabmap.com/nevada/churchill-county/
+32013,Nevada,Humboldt County,17116,79946,2,11.7,0,0,1,2,3.2,120.2,"Fallon, NV",147.4,"Sparks, NV",3.2,120.2,2,41.0176,-117.7443,https://findrehabmap.com/nevada/humboldt-county/
+32033,Nevada,White Pine County,8534,72294,1,11.7,0,0,0,0,1.6,123.1,"Delta, UT",160.4,"Tooele, UT",118.4,123.2,1,39.2783,-114.8755,https://findrehabmap.com/nevada/white-pine-county/
+32027,Nevada,Pershing County,6536,72007,1,15.3,0,0,0,1,14.5,65.2,"Fallon, NV",95.3,"Sparks, NV",53.6,65.2,1,40.3347,-118.2942,https://findrehabmap.com/nevada/pershing-county/
+32015,Nevada,Lander County,5785,84474,1,17.3,0,0,0,0,10.0,120.6,"Fallon, NV",163.1,"Sparks, NV",52.0,120.6,1,40.4985,-116.9495,https://findrehabmap.com/nevada/lander-county/
+32021,Nevada,Mineral County,4475,50584,0,0.0,0,0,0,0,38.2,60.8,"Fallon, NV",71.4,"Carson City, NV",38.2,60.8,0,38.6016,-118.6434,https://findrehabmap.com/nevada/mineral-county/
+32017,Nevada,Lincoln County,4345,69496,0,0.0,0,0,0,0,51.2,101.6,"North Las Vegas, NV",70.8,"St. George, UT",67.4,51.2,0,37.7101,-114.6264,https://findrehabmap.com/nevada/lincoln-county/
+32029,Nevada,Storey County,4112,96000,0,0.0,0,0,0,0,8.2,9.7,"Reno, NV",12.0,"Reno, NV",8.2,9.7,39,39.3898,-119.6224,https://findrehabmap.com/nevada/storey-county/
+32011,Nevada,Eureka County,1877,73095,0,0.0,0,0,0,0,61.2,141.2,"Fallon, NV",191.2,"Sparks, NV",65.6,141.2,0,39.947,-116.2091,https://findrehabmap.com/nevada/eureka-county/
+32009,Nevada,Esmeralda County,720,-666666666,0,0.0,0,0,0,0,34.7,131.1,"Visalia, CA",131.1,"Visalia, CA",47.0,120.1,0,37.7044,-117.6706,https://findrehabmap.com/nevada/esmeralda-county/

@@ -1,0 +1,116 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+29189,Missouri,St. Louis County,992929,81340,29,2.9,3,3,9,15,1.2,3.0,"St. Louis, MO",5.4,"St. Louis, MO",1.2,3.0,90,38.6445,-90.3895,https://findrehabmap.com/missouri/st-louis-county/
+29095,Missouri,Jackson County,727362,67178,37,5.1,4,8,18,25,2.2,5.6,"Kansas City, MO",3.0,"Independence, MO",2.4,2.3,76,39.01,-94.4443,https://findrehabmap.com/missouri/jackson-county/
+29183,Missouri,St. Charles County,423726,102912,18,4.2,3,1,8,11,0.6,7.3,"St. Charles, MO",7.3,"St. Charles, MO",5.5,4.0,59,38.7786,-90.6713,https://findrehabmap.com/missouri/st-charles-county/
+29077,Missouri,Greene County,307942,57488,16,5.2,2,3,9,7,0.9,2.5,"Springfield, MO",0.9,"Springfield, MO",0.9,0.9,21,37.1922,-93.3095,https://findrehabmap.com/missouri/greene-county/
+29510,Missouri,St. Louis city,279695,55279,23,8.2,7,4,11,15,0.8,1.9,"St. Louis, MO",1.9,"St. Louis, MO",1.6,0.8,88,38.6206,-90.2533,https://findrehabmap.com/missouri/st-louis-city/
+29047,Missouri,Clay County,263370,86150,6,2.3,0,0,4,5,2.5,11.7,"Kansas City, MO",11.5,"Kansas City, KS",2.5,9.7,71,39.253,-94.4973,https://findrehabmap.com/missouri/clay-county/
+29099,Missouri,Jefferson County,231888,80522,9,3.9,1,0,4,8,8.2,12.9,"Dittmer, MO",13.9,"St. Louis, MO",8.6,10.8,41,38.3409,-90.4751,https://findrehabmap.com/missouri/jefferson-county/
+29019,Missouri,Boone County,192154,69913,13,6.8,3,1,9,12,0.6,1.4,"Columbia, MO",1.1,"Columbia, MO",0.6,1.0,20,38.9567,-92.3216,https://findrehabmap.com/missouri/boone-county/
+29097,Missouri,Jasper County,126479,57525,10,7.9,2,2,5,8,3.5,5.6,"Joplin, MO",3.5,"Joplin, MO",3.5,5.6,20,37.1296,-94.4441,https://findrehabmap.com/missouri/jasper-county/
+29037,Missouri,Cass County,113873,87413,4,3.5,1,0,3,4,5.0,7.9,"Harrisonville, MO",14.9,"Kansas City, MO",5.0,6.5,59,38.7511,-94.4243,https://findrehabmap.com/missouri/cass-county/
+29165,Missouri,Platte County,113207,95748,0,0.0,0,0,0,0,6.1,11.3,"Leavenworth, KS",10.3,"Kansas City, KS",7.6,9.7,66,39.2603,-94.6837,https://findrehabmap.com/missouri/platte-county/
+29071,Missouri,Franklin County,107256,71973,6,5.6,0,0,4,4,0.8,17.6,"Dittmer, MO",34.9,"St. Charles, MO",0.8,17.6,11,38.4364,-90.999,https://findrehabmap.com/missouri/franklin-county/
+29043,Missouri,Christian County,96045,81245,4,4.2,0,0,1,2,2.9,10.3,"Rogersville, MO",9.2,"Springfield, MO",3.6,3.5,25,37.0279,-93.2644,https://findrehabmap.com/missouri/christian-county/
+29031,Missouri,Cape Girardeau County,83658,68912,5,6.0,1,1,4,5,4.4,5.4,"Cape Girardeau, MO",5.4,"Cape Girardeau, MO",4.9,5.8,12,37.3552,-89.6077,https://findrehabmap.com/missouri/cape-girardeau-county/
+29021,Missouri,Buchanan County,83574,59423,8,9.6,2,3,4,4,1.9,2.4,"St. Joseph, MO",2.4,"St. Joseph, MO",1.9,19.3,10,39.7507,-94.8198,https://findrehabmap.com/missouri/buchanan-county/
+29051,Missouri,Cole County,77625,73273,5,6.4,0,0,2,5,2.3,27.2,"Columbia, MO",29.5,"Columbia, MO",2.7,3.0,9,38.5525,-92.2206,https://findrehabmap.com/missouri/cole-county/
+29187,Missouri,St. Francois County,67503,54813,3,4.4,1,0,3,3,3.5,6.8,"Farmington, MO",48.0,"St. Louis, MO",3.5,6.8,6,37.8345,-90.4881,https://findrehabmap.com/missouri/st-francois-county/
+29113,Missouri,Lincoln County,65888,85276,2,3.0,0,0,1,1,1.8,25.5,"St. Charles, MO",25.5,"St. Charles, MO",1.8,12.4,14,38.9968,-90.9298,https://findrehabmap.com/missouri/lincoln-county/
+29145,Missouri,Newton County,61519,64583,6,9.8,0,0,3,5,4.1,11.4,"Joplin, MO",12.0,"Joplin, MO",4.4,11.4,21,36.9217,-94.4144,https://findrehabmap.com/missouri/newton-county/
+29213,Missouri,Taney County,56744,58258,5,8.8,0,1,3,3,1.3,33.4,"Rogersville, MO",2.5,"Branson, MO",1.3,1.3,7,36.6571,-93.1951,https://findrehabmap.com/missouri/taney-county/
+29101,Missouri,Johnson County,55880,67123,6,10.7,1,0,3,3,1.8,1.8,"Warrensburg, MO",28.3,"Sedalia, MO",2.6,1.8,9,38.7586,-93.7703,https://findrehabmap.com/missouri/johnson-county/
+29169,Missouri,Pulaski County,53964,66435,0,0.0,0,0,0,0,22.0,36.7,"Salem, MO",46.8,"Mountain Grove, MO",22.9,23.1,4,37.822,-92.1757,https://findrehabmap.com/missouri/pulaski-county/
+29161,Missouri,Phelps County,45672,55427,6,13.1,0,0,1,6,0.5,23.5,"Salem, MO",61.6,"Mountain Grove, MO",2.1,0.5,10,37.9434,-91.747,https://findrehabmap.com/missouri/phelps-county/
+29027,Missouri,Callaway County,45126,72645,4,8.9,0,0,3,4,3.1,20.3,"Columbia, MO",21.2,"Columbia, MO",3.1,17.8,24,38.7975,-91.9975,https://findrehabmap.com/missouri/callaway-county/
+29029,Missouri,Camden County,44135,62927,4,9.1,0,0,2,4,3.0,48.1,"Bolivar, MO",52.0,"Sedalia, MO",3.0,3.0,5,38.0731,-92.746,https://findrehabmap.com/missouri/camden-county/
+29159,Missouri,Pettis County,43791,60232,2,4.6,0,1,1,1,0.9,26.8,"Warrensburg, MO",0.9,"Sedalia, MO",0.9,18.7,5,38.7014,-93.2475,https://findrehabmap.com/missouri/pettis-county/
+29225,Missouri,Webster County,42041,69731,1,2.4,0,0,0,1,5.9,15.4,"Rogersville, MO",22.3,"Springfield, MO",15.4,15.4,19,37.2629,-92.9068,https://findrehabmap.com/missouri/webster-county/
+29023,Missouri,Butler County,41814,49213,4,9.6,2,1,3,4,0.8,0.8,"Poplar Bluff, MO",0.8,"Poplar Bluff, MO",0.8,2.5,6,36.757,-90.418,https://findrehabmap.com/missouri/butler-county/
+29091,Missouri,Howell County,40762,49814,5,12.3,1,2,4,5,1.3,5.5,"West Plains, MO",5.5,"West Plains, MO",1.3,1.3,5,36.7926,-91.8737,https://findrehabmap.com/missouri/howell-county/
+29109,Missouri,Lawrence County,39151,55849,4,10.2,0,0,1,3,3.9,31.0,"Springfield, MO",28.7,"Springfield, MO",3.9,28.1,6,37.035,-93.7997,https://findrehabmap.com/missouri/lawrence-county/
+29219,Missouri,Warren County,38478,77989,2,5.2,0,0,1,1,2.7,30.2,"St. Charles, MO",30.2,"St. Charles, MO",2.7,11.9,17,38.7904,-91.0986,https://findrehabmap.com/missouri/warren-county/
+29201,Missouri,Scott County,37957,58847,3,7.9,0,0,1,2,5.7,18.9,"Cape Girardeau, MO",18.9,"Cape Girardeau, MO",9.6,19.2,12,37.0152,-89.5775,https://findrehabmap.com/missouri/scott-county/
+29105,Missouri,Laclede County,36738,50825,1,2.7,0,0,1,1,1.9,42.1,"Bolivar, MO",42.2,"Mountain Grove, MO",1.9,27.6,1,37.6697,-92.6538,https://findrehabmap.com/missouri/laclede-county/
+29009,Missouri,Barry County,35618,56611,2,5.6,0,0,2,2,3.4,30.4,"Rogers, AR",27.2,"Reeds Spring, MO",3.4,36.2,6,36.7375,-93.8657,https://findrehabmap.com/missouri/barry-county/
+29107,Missouri,Lafayette County,33511,79091,4,11.9,0,0,4,4,6.5,20.9,"Warrensburg, MO",30.4,"Independence, MO",6.5,20.9,14,39.0552,-93.8422,https://findrehabmap.com/missouri/lafayette-county/
+29167,Missouri,Polk County,33070,56686,2,6.0,1,0,2,1,0.6,1.8,"Bolivar, MO",25.3,"Springfield, MO",0.6,26.8,2,37.602,-93.4044,https://findrehabmap.com/missouri/polk-county/
+29209,Missouri,Stone County,32630,61323,2,6.1,0,1,1,2,3.7,33.1,"Rogersville, MO",3.7,"Reeds Spring, MO",3.7,13.0,12,36.7234,-93.4378,https://findrehabmap.com/missouri/stone-county/
+29207,Missouri,Stoddard County,28438,54067,1,3.5,0,0,1,1,4.5,25.4,"Poplar Bluff, MO",25.4,"Poplar Bluff, MO",4.5,27.4,5,36.8479,-89.9709,https://findrehabmap.com/missouri/stoddard-county/
+29127,Missouri,Marion County,28425,63908,4,14.1,1,0,2,4,2.2,4.4,"Hannibal, MO",13.7,"Quincy, IL",2.5,4.4,13,39.7414,-91.4574,https://findrehabmap.com/missouri/marion-county/
+29069,Missouri,Dunklin County,27002,47368,3,11.1,0,0,2,3,6.1,35.0,"Poplar Bluff, MO",36.6,"Poplar Bluff, MO",6.8,7.0,4,36.3249,-90.0581,https://findrehabmap.com/missouri/dunklin-county/
+29215,Missouri,Texas County,25715,48055,1,3.9,0,0,1,1,1.9,31.8,"Salem, MO",20.3,"Mountain Grove, MO",1.9,31.8,2,37.3301,-91.9661,https://findrehabmap.com/missouri/texas-county/
+29131,Missouri,Miller County,25668,55172,1,3.9,0,0,1,1,8.0,48.7,"Columbia, MO",51.2,"Columbia, MO",8.0,10.1,5,38.2464,-92.509,https://findrehabmap.com/missouri/miller-county/
+29001,Missouri,Adair County,25660,56583,2,7.8,0,0,1,2,1.2,43.8,"Seymour, IA",64.8,"Quincy, IL",1.3,1.3,2,40.1953,-92.5815,https://findrehabmap.com/missouri/adair-county/
+29007,Missouri,Audrain County,24304,56232,3,12.3,0,0,1,3,3.8,29.9,"Columbia, MO",31.0,"Columbia, MO",5.3,29.9,5,39.2039,-91.8266,https://findrehabmap.com/missouri/audrain-county/
+29175,Missouri,Randolph County,24077,55310,2,8.3,0,0,0,2,0.8,29.0,"Columbia, MO",31.3,"Columbia, MO",23.4,29.0,4,39.4137,-92.4518,https://findrehabmap.com/missouri/randolph-county/
+29119,Missouri,McDonald County,24054,48145,0,0.0,0,0,0,0,17.6,23.5,"Springdale, AR",30.3,"Springdale, AR",17.7,20.7,15,36.6153,-94.399,https://findrehabmap.com/missouri/mcdonald-county/
+29221,Missouri,Washington County,23583,51886,1,4.2,0,0,1,1,1.1,24.9,"Farmington, MO",45.5,"St. Louis, MO",1.1,24.9,7,37.9538,-90.7858,https://findrehabmap.com/missouri/washington-county/
+29195,Missouri,Saline County,23325,56566,3,12.9,0,0,0,1,0.6,25.9,"Boonville, MO",27.6,"Sedalia, MO",18.7,1.5,6,39.1114,-93.2027,https://findrehabmap.com/missouri/saline-county/
+29177,Missouri,Ray County,23199,72152,1,4.3,0,0,1,1,6.0,32.1,"Kansas City, MO",27.5,"Independence, MO",6.0,18.0,8,39.3366,-94.0621,https://findrehabmap.com/missouri/ray-county/
+29055,Missouri,Crawford County,22808,56345,6,26.3,1,0,3,4,4.4,12.4,"Sullivan, MO",60.9,"St. Louis, MO",6.8,12.4,10,38.0619,-91.3216,https://findrehabmap.com/missouri/crawford-county/
+29083,Missouri,Henry County,22575,56621,3,13.3,0,0,2,3,1.7,25.6,"Warrensburg, MO",34.5,"Sedalia, MO",1.7,1.7,5,38.3943,-93.7377,https://findrehabmap.com/missouri/henry-county/
+29141,Missouri,Morgan County,22399,49663,0,0.0,0,0,0,0,15.0,39.6,"Boonville, MO",31.3,"Sedalia, MO",15.0,21.0,4,38.3838,-92.851,https://findrehabmap.com/missouri/morgan-county/
+29049,Missouri,Clinton County,21721,70625,1,4.6,0,0,0,0,11.9,26.1,"St. Joseph, MO",26.0,"St. Joseph, MO",13.1,11.9,6,39.6024,-94.3675,https://findrehabmap.com/missouri/clinton-county/
+29015,Missouri,Benton County,20614,52200,1,4.9,0,0,0,1,4.5,39.5,"Warrensburg, MO",28.7,"Sedalia, MO",24.5,19.7,3,38.301,-93.31,https://findrehabmap.com/missouri/benton-county/
+29147,Missouri,Nodaway County,20503,55970,2,9.8,0,0,1,1,1.9,39.2,"St. Joseph, MO",39.2,"St. Joseph, MO",2.2,29.4,2,40.3523,-94.8683,https://findrehabmap.com/missouri/nodaway-county/
+29217,Missouri,Vernon County,19787,54519,4,20.2,1,0,2,3,0.5,1.3,"Nevada, MO",35.9,"Pittsburg, KS",0.5,2.1,9,37.8368,-94.3374,https://findrehabmap.com/missouri/vernon-county/
+29229,Missouri,Wright County,19505,47304,1,5.1,0,1,1,1,10.3,39.1,"Rogersville, MO",10.3,"Mountain Grove, MO",10.3,39.1,2,37.1933,-92.4333,https://findrehabmap.com/missouri/wright-county/
+29157,Missouri,Perry County,19100,63356,3,15.7,0,0,2,2,0.4,29.2,"Farmington, MO",33.7,"Cape Girardeau, MO",0.4,6.0,5,37.7139,-89.8579,https://findrehabmap.com/missouri/perry-county/
+29186,Missouri,Ste. Genevieve County,18546,61310,1,5.4,0,0,1,1,6.5,16.4,"Farmington, MO",41.6,"St. Louis, MO",6.5,16.4,11,37.9408,-90.1657,https://findrehabmap.com/missouri/ste-genevieve-county/
+29003,Missouri,Andrew County,18091,74007,0,0.0,0,0,0,0,9.2,9.2,"St. Joseph, MO",9.2,"St. Joseph, MO",9.2,27.9,8,39.9199,-94.8166,https://findrehabmap.com/missouri/andrew-county/
+29163,Missouri,Pike County,17961,57572,1,5.6,0,0,0,1,2.3,26.5,"Hannibal, MO",41.6,"Quincy, IL",25.9,26.5,3,39.363,-91.16,https://findrehabmap.com/missouri/pike-county/
+29059,Missouri,Dallas County,17877,53177,0,0.0,0,0,0,0,18.8,19.4,"Bolivar, MO",31.2,"Springfield, MO",18.8,31.4,4,37.6438,-93.0666,https://findrehabmap.com/missouri/dallas-county/
+29053,Missouri,Cooper County,17122,67548,3,17.5,1,0,2,2,3.0,3.0,"Boonville, MO",24.7,"Columbia, MO",3.0,3.0,10,38.9101,-92.7728,https://findrehabmap.com/missouri/cooper-county/
+29013,Missouri,Bates County,16394,57914,1,6.1,0,0,1,1,1.4,25.8,"Harrisonville, MO",47.2,"Kansas City, MO",1.4,26.6,2,38.2808,-94.3628,https://findrehabmap.com/missouri/bates-county/
+29135,Missouri,Moniteau County,15294,65161,0,0.0,0,0,0,0,19.4,24.0,"Boonville, MO",28.5,"Columbia, MO",19.4,20.6,9,38.6275,-92.611,https://findrehabmap.com/missouri/moniteau-county/
+29143,Missouri,New Madrid County,15212,49237,1,6.6,0,0,1,1,18.0,43.8,"Poplar Bluff, MO",36.5,"Union City, TN",18.0,35.4,4,36.6128,-89.6519,https://findrehabmap.com/missouri/new-madrid-county/
+29121,Missouri,Macon County,15177,58318,2,13.2,0,0,1,2,3.9,55.5,"Columbia, MO",57.8,"Columbia, MO",3.9,27.3,2,39.7965,-92.5081,https://findrehabmap.com/missouri/macon-county/
+29039,Missouri,Cedar County,15023,45577,2,13.3,0,0,1,2,8.6,25.7,"Nevada, MO",47.8,"Springfield, MO",8.6,8.6,4,37.7655,-93.8953,https://findrehabmap.com/missouri/cedar-county/
+29065,Missouri,Dent County,14721,54306,2,13.6,1,0,2,2,0.9,0.9,"Salem, MO",51.3,"Mountain Grove, MO",0.9,0.9,4,37.6314,-91.5451,https://findrehabmap.com/missouri/dent-county/
+29117,Missouri,Livingston County,14658,60148,1,6.8,0,0,1,1,0.7,65.5,"Seymour, IA",66.1,"St. Joseph, MO",0.7,19.7,3,39.7981,-93.5531,https://findrehabmap.com/missouri/livingston-county/
+29073,Missouri,Gasconade County,14655,65096,2,13.6,0,0,2,1,6.9,24.5,"Sullivan, MO",56.6,"St. Charles, MO",6.9,24.5,6,38.4464,-91.4901,https://findrehabmap.com/missouri/gasconade-county/
+29155,Missouri,Pemiscot County,14407,40748,1,6.9,0,0,0,1,4.3,54.1,"Poplar Bluff, MO",21.0,"Dyersburg, TN",18.1,18.2,13,36.18,-89.7447,https://findrehabmap.com/missouri/pemiscot-county/
+29151,Missouri,Osage County,13478,75355,0,0.0,0,0,0,0,17.4,41.0,"Columbia, MO",42.8,"Columbia, MO",17.4,17.4,7,38.4551,-91.8845,https://findrehabmap.com/missouri/osage-county/
+29123,Missouri,Madison County,12852,58435,1,7.8,0,0,1,1,2.0,17.2,"Farmington, MO",44.4,"Cape Girardeau, MO",2.0,17.2,7,37.5395,-90.2998,https://findrehabmap.com/missouri/madison-county/
+29067,Missouri,Douglas County,12290,49828,1,8.1,0,0,1,1,3.2,32.6,"Rogersville, MO",24.0,"Mountain Grove, MO",3.2,31.9,2,36.9407,-92.6034,https://findrehabmap.com/missouri/douglas-county/
+29115,Missouri,Linn County,11910,61975,1,8.4,0,0,1,1,1.9,60.5,"Boonville, MO",69.6,"Columbia, MO",1.9,34.4,1,39.7972,-93.0667,https://findrehabmap.com/missouri/linn-county/
+29133,Missouri,Mississippi County,11750,46258,2,17.0,0,0,1,2,4.7,31.6,"Cape Girardeau, MO",31.6,"Cape Girardeau, MO",4.7,31.4,5,36.856,-89.3685,https://findrehabmap.com/missouri/mississippi-county/
+29011,Missouri,Barton County,11717,49503,1,8.5,0,0,0,1,1.4,21.8,"Pittsburg, KS",22.0,"Pittsburg, KS",21.8,21.8,11,37.4959,-94.3054,https://findrehabmap.com/missouri/barton-county/
+29139,Missouri,Montgomery County,11511,61042,1,8.7,0,0,1,1,1.7,46.1,"Columbia, MO",45.9,"Columbia, MO",1.7,32.8,3,38.949,-91.4674,https://findrehabmap.com/missouri/montgomery-county/
+29223,Missouri,Wayne County,10820,43393,3,27.7,0,0,3,3,4.3,24.2,"Poplar Bluff, MO",24.2,"Poplar Bluff, MO",4.3,26.8,4,37.1091,-90.5235,https://findrehabmap.com/missouri/wayne-county/
+29181,Missouri,Ripley County,10715,43898,1,9.3,0,0,1,1,1.4,20.5,"Poplar Bluff, MO",22.8,"Poplar Bluff, MO",1.4,18.3,6,36.6269,-90.7907,https://findrehabmap.com/missouri/ripley-county/
+29017,Missouri,Bollinger County,10610,57286,2,18.9,0,0,2,2,2.6,24.7,"Cape Girardeau, MO",24.7,"Cape Girardeau, MO",2.6,24.4,7,37.3407,-89.9997,https://findrehabmap.com/missouri/bollinger-county/
+29173,Missouri,Ralls County,10499,62054,2,19.0,0,0,1,2,5.3,9.4,"Hannibal, MO",24.8,"Quincy, IL",7.9,9.4,13,39.5798,-91.4692,https://findrehabmap.com/missouri/ralls-county/
+29089,Missouri,Howard County,10150,62628,0,0.0,0,0,0,0,11.6,13.4,"Boonville, MO",23.7,"Columbia, MO",11.6,13.4,14,39.1406,-92.7045,https://findrehabmap.com/missouri/howard-county/
+29063,Missouri,DeKalb County,9884,69093,1,10.1,0,0,1,1,8.0,23.7,"St. Joseph, MO",23.7,"St. Joseph, MO",8.0,9.8,8,39.8256,-94.3546,https://findrehabmap.com/missouri/dekalb-county/
+29111,Missouri,Lewis County,9852,52340,0,0.0,0,0,0,0,16.5,29.8,"Hannibal, MO",16.5,"Quincy, IL",16.5,16.6,8,40.0892,-91.6417,https://findrehabmap.com/missouri/lewis-county/
+29185,Missouri,St. Clair County,9848,46731,0,0.0,0,0,0,0,18.5,35.3,"Bolivar, MO",53.3,"Sedalia, MO",18.6,18.5,4,38.0572,-93.7639,https://findrehabmap.com/missouri/st-clair-county/
+29079,Missouri,Grundy County,9766,53839,1,10.2,0,0,1,1,0.9,48.1,"Seymour, IA",67.1,"St. Joseph, MO",0.9,0.9,2,40.0933,-93.5958,https://findrehabmap.com/missouri/grundy-county/
+29093,Missouri,Iron County,9420,51161,0,0.0,0,0,0,0,21.0,22.7,"Farmington, MO",58.2,"Poplar Bluff, MO",21.0,22.7,4,37.578,-90.7138,https://findrehabmap.com/missouri/iron-county/
+29153,Missouri,Ozark County,9090,42329,0,0.0,0,0,0,0,19.4,19.4,"Mountain Home, AR",30.9,"West Plains, MO",19.4,19.4,4,36.6233,-92.4219,https://findrehabmap.com/missouri/ozark-county/
+29025,Missouri,Caldwell County,9000,62520,0,0.0,0,0,0,0,12.5,43.3,"St. Joseph, MO",43.3,"St. Joseph, MO",14.0,12.5,2,39.6639,-93.9989,https://findrehabmap.com/missouri/caldwell-county/
+29137,Missouri,Monroe County,8890,48299,0,0.0,0,0,0,0,24.9,33.0,"Hannibal, MO",41.2,"Quincy, IL",26.6,33.0,1,39.5248,-91.9663,https://findrehabmap.com/missouri/monroe-county/
+29085,Missouri,Hickory County,8766,35084,0,0.0,0,0,0,0,20.4,20.4,"Bolivar, MO",46.3,"Springfield, MO",20.4,36.4,3,37.9111,-93.3291,https://findrehabmap.com/missouri/hickory-county/
+29149,Missouri,Oregon County,8699,44259,0,0.0,0,0,0,0,21.5,23.3,"West Plains, MO",21.5,"West Plains, MO",21.5,21.5,6,36.615,-91.4739,https://findrehabmap.com/missouri/oregon-county/
+29061,Missouri,Daviess County,8541,60665,0,0.0,0,0,0,0,18.1,44.6,"St. Joseph, MO",44.6,"St. Joseph, MO",18.1,19.1,4,39.9382,-93.9807,https://findrehabmap.com/missouri/daviess-county/
+29125,Missouri,Maries County,8506,61359,0,0.0,0,0,0,0,15.8,38.5,"Sullivan, MO",60.3,"Columbia, MO",16.4,15.9,8,38.17,-91.8788,https://findrehabmap.com/missouri/maries-county/
+29033,Missouri,Carroll County,8414,61712,1,11.9,0,0,1,1,3.0,46.3,"Warrensburg, MO",49.8,"Sedalia, MO",3.0,26.6,2,39.4083,-93.4965,https://findrehabmap.com/missouri/carroll-county/
+29081,Missouri,Harrison County,8186,53364,0,0.0,0,0,0,0,21.4,53.2,"Seymour, IA",55.7,"St. Joseph, MO",21.4,26.7,1,40.3156,-94.0013,https://findrehabmap.com/missouri/harrison-county/
+29057,Missouri,Dade County,7622,49899,1,13.1,0,0,1,1,1.3,26.5,"Bolivar, MO",29.9,"Springfield, MO",1.3,31.4,2,37.4154,-93.8249,https://findrehabmap.com/missouri/dade-county/
+29041,Missouri,Chariton County,7397,63307,0,0.0,0,0,0,0,22.2,37.9,"Boonville, MO",48.3,"Columbia, MO",22.2,31.1,1,39.4861,-92.9315,https://findrehabmap.com/missouri/chariton-county/
+29203,Missouri,Shannon County,7275,59000,1,13.7,0,0,1,1,7.3,34.7,"West Plains, MO",33.4,"West Plains, MO",7.3,32.3,2,37.069,-91.4329,https://findrehabmap.com/missouri/shannon-county/
+29045,Missouri,Clark County,6623,51458,1,15.1,0,0,1,1,0.8,51.8,"Hannibal, MO",36.6,"Quincy, IL",0.8,36.7,3,40.4121,-91.7086,https://findrehabmap.com/missouri/clark-county/
+29075,Missouri,Gentry County,6298,57458,0,0.0,0,0,0,0,24.6,34.6,"St. Joseph, MO",34.6,"St. Joseph, MO",24.6,34.6,2,40.2037,-94.4328,https://findrehabmap.com/missouri/gentry-county/
+29179,Missouri,Reynolds County,5927,44357,1,16.9,0,0,1,1,6.0,38.2,"Salem, MO",49.2,"Poplar Bluff, MO",6.0,38.2,4,37.329,-90.9701,https://findrehabmap.com/missouri/reynolds-county/
+29205,Missouri,Shelby County,5926,52127,0,0.0,0,0,0,0,20.5,36.7,"Hannibal, MO",37.7,"Quincy, IL",20.5,36.7,2,39.7617,-92.0773,https://findrehabmap.com/missouri/shelby-county/
+29211,Missouri,Sullivan County,5750,55500,1,17.4,0,0,1,1,1.9,32.4,"Seymour, IA",75.8,"Knoxville, IA",1.9,27.9,1,40.2149,-93.1016,https://findrehabmap.com/missouri/sullivan-county/
+29035,Missouri,Carter County,5359,45083,1,18.7,0,0,1,1,7.9,28.6,"Poplar Bluff, MO",28.6,"Poplar Bluff, MO",7.9,28.9,6,36.9475,-90.8857,https://findrehabmap.com/missouri/carter-county/
+29005,Missouri,Atchison County,5139,59260,0,0.0,0,0,0,0,21.2,55.2,"St. Joseph, MO",55.2,"St. Joseph, MO",30.4,31.3,3,40.4209,-95.4361,https://findrehabmap.com/missouri/atchison-county/
+29199,Missouri,Scotland County,4698,67568,0,0.0,0,0,0,0,22.0,53.0,"Seymour, IA",53.0,"Quincy, IL",22.9,27.9,2,40.4481,-92.1518,https://findrehabmap.com/missouri/scotland-county/
+29171,Missouri,Putnam County,4539,56875,0,0.0,0,0,0,0,15.4,15.4,"Seymour, IA",57.7,"Knoxville, IA",18.3,15.4,4,40.483,-92.9845,https://findrehabmap.com/missouri/putnam-county/
+29087,Missouri,Holt County,4241,58516,0,0.0,0,0,0,0,22.0,29.0,"St. Joseph, MO",29.0,"St. Joseph, MO",23.2,34.6,5,40.0843,-95.1859,https://findrehabmap.com/missouri/holt-county/
+29197,Missouri,Schuyler County,4069,56023,0,0.0,0,0,0,0,18.6,34.7,"Seymour, IA",66.3,"Knoxville, IA",18.9,18.9,3,40.4619,-92.5204,https://findrehabmap.com/missouri/schuyler-county/
+29103,Missouri,Knox County,3740,53333,0,0.0,0,0,0,0,21.5,51.1,"Hannibal, MO",42.5,"Quincy, IL",21.5,21.5,2,40.1552,-92.1541,https://findrehabmap.com/missouri/knox-county/
+29129,Missouri,Mercer County,3452,60357,0,0.0,0,0,0,0,22.9,30.8,"Seymour, IA",66.7,"Knoxville, IA",22.9,23.1,3,40.415,-93.5795,https://findrehabmap.com/missouri/mercer-county/
+29227,Missouri,Worth County,1872,46167,0,0.0,0,0,0,0,25.5,51.6,"St. Joseph, MO",51.6,"St. Joseph, MO",25.5,36.8,0,40.4816,-94.4371,https://findrehabmap.com/missouri/worth-county/

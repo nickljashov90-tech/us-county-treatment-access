@@ -1,0 +1,65 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+08041,Colorado,El Paso County,752772,87470,31,4.1,9,5,16,23,0.3,2.3,"Colorado Springs, CO",2.5,"Colorado Springs, CO",2.3,2.3,32,38.8773,-104.7521,https://findrehabmap.com/colorado/el-paso-county/
+08031,Colorado,Denver County,729019,91681,51,7.0,5,11,16,30,1.1,1.1,"Denver, CO",1.1,"Denver, CO",1.1,1.7,165,39.7249,-104.95,https://findrehabmap.com/colorado/denver-county/
+08005,Colorado,Arapahoe County,666918,97215,37,5.5,5,10,22,26,1.2,2.4,"Aurora, CO",3.6,"Denver, CO",1.2,2.5,160,39.6466,-104.8386,https://findrehabmap.com/colorado/arapahoe-county/
+08059,Colorado,Jefferson County,578533,107800,32,5.5,5,5,17,28,0.4,4.5,"Wheat Ridge, CO",2.2,"Lakewood, CO",0.4,7.3,168,39.7237,-105.1303,https://findrehabmap.com/colorado/jefferson-county/
+08001,Colorado,Adams County,542973,91387,29,5.3,2,6,8,19,3.1,4.1,"Denver, CO",3.8,"Denver, CO",3.8,6.3,176,39.8769,-104.9209,https://findrehabmap.com/colorado/adams-county/
+08035,Colorado,Douglas County,393995,145737,9,2.3,2,0,4,8,5.2,5.7,"Englewood, CO",7.1,"Centennial, CO",5.7,5.7,130,39.482,-104.8736,https://findrehabmap.com/colorado/douglas-county/
+08069,Colorado,Larimer County,374574,91364,15,4.0,5,1,6,11,2.2,3.8,"Fort Collins, CO",5.1,"Fort Collins, CO",3.1,3.8,31,40.5044,-105.0892,https://findrehabmap.com/colorado/larimer-county/
+08123,Colorado,Weld County,369745,93287,8,2.2,1,1,2,3,4.7,5.9,"Greeley, CO",7.4,"Greeley, CO",4.7,5.9,36,40.3224,-104.807,https://findrehabmap.com/colorado/weld-county/
+08013,Colorado,Boulder County,330262,102772,23,7.0,7,3,9,16,3.8,5.0,"Boulder, CO",6.0,"Boulder, CO",5.4,6.9,97,40.063,-105.1802,https://findrehabmap.com/colorado/boulder-county/
+08101,Colorado,Pueblo County,169866,62250,14,8.2,2,4,5,12,1.3,2.7,"Pueblo, CO",1.3,"Pueblo, CO",1.3,2.7,14,38.2658,-104.647,https://findrehabmap.com/colorado/pueblo-county/
+08077,Colorado,Mesa County,161260,71485,10,6.2,3,3,6,7,1.2,1.7,"Grand Junction, CO",1.3,"Grand Junction, CO",1.3,1.7,10,39.0929,-108.5467,https://findrehabmap.com/colorado/mesa-county/
+08014,Colorado,Broomfield County,78323,121025,3,3.8,1,0,1,1,2.0,3.0,"Broomfield, CO",4.0,"Denver, CO",3.0,4.8,165,39.9399,-105.0581,https://findrehabmap.com/colorado/broomfield-county/
+08045,Colorado,Garfield County,63167,86172,5,7.9,0,1,2,2,12.0,59.3,"Grand Junction, CO",12.1,"Glenwood Springs, CO",12.0,59.8,5,39.5071,-107.549,https://findrehabmap.com/colorado/garfield-county/
+08067,Colorado,La Plata County,56823,85296,4,7.0,2,1,4,4,2.5,2.5,"Durango, CO",4.0,"Durango, CO",2.5,2.5,4,37.266,-107.8039,https://findrehabmap.com/colorado/la-plata-county/
+08037,Colorado,Eagle County,54330,103174,1,1.8,0,0,0,0,8.1,80.0,"Morrison, CO",31.8,"Glenwood Springs, CO",31.8,55.8,1,39.6005,-106.7334,https://findrehabmap.com/colorado/eagle-county/
+08043,Colorado,Fremont County,50093,61027,3,6.0,0,0,1,3,2.1,33.5,"Colorado Springs, CO",34.0,"Pueblo, CO",2.2,3.7,3,38.4269,-105.2143,https://findrehabmap.com/colorado/fremont-county/
+08085,Colorado,Montrose County,44806,66072,4,8.9,0,1,2,4,2.1,52.4,"Grand Junction, CO",2.5,"Montrose, CO",2.5,2.3,5,38.4813,-107.9223,https://findrehabmap.com/colorado/montrose-county/
+08029,Colorado,Delta County,32215,58330,1,3.1,0,0,1,1,9.6,38.0,"Grand Junction, CO",21.9,"Montrose, CO",9.6,21.9,5,38.7982,-107.9138,https://findrehabmap.com/colorado/delta-county/
+08117,Colorado,Summit County,30882,106255,3,9.7,0,0,2,2,1.1,43.8,"Morrison, CO",52.4,"Boulder, CO",1.1,21.6,4,39.5724,-106.0557,https://findrehabmap.com/colorado/summit-county/
+08087,Colorado,Morgan County,30300,75407,2,6.6,0,0,1,2,0.4,54.9,"Greeley, CO",51.0,"Greeley, CO",0.4,53.0,2,40.2542,-103.7891,https://findrehabmap.com/colorado/morgan-county/
+08039,Colorado,Elbert County,29382,129477,1,3.4,0,0,1,1,4.4,13.9,"Parker, CO",22.3,"Watkins, CO",4.4,13.9,21,39.3886,-104.5231,https://findrehabmap.com/colorado/elbert-county/
+08083,Colorado,Montezuma County,26841,63005,2,7.5,1,0,2,2,1.7,2.2,"Cortez, CO",38.3,"Durango, CO",1.7,39.1,2,37.3719,-108.5545,https://findrehabmap.com/colorado/montezuma-county/
+08107,Colorado,Routt County,25243,104803,2,7.9,0,0,0,0,3.9,69.5,"Estes Park, CO",67.3,"Glenwood Springs, CO",67.3,81.6,2,40.4555,-106.8974,https://findrehabmap.com/colorado/routt-county/
+08119,Colorado,Teller County,24862,80666,1,4.0,0,0,0,1,5.6,16.1,"Colorado Springs, CO",16.0,"Colorado Springs, CO",16.0,9.0,31,38.9448,-105.1399,https://findrehabmap.com/colorado/teller-county/
+08015,Colorado,Chaffee County,20780,70909,0,0.0,0,0,0,0,46.1,68.5,"Colorado Springs, CO",68.2,"Colorado Springs, CO",46.1,52.3,0,38.6768,-106.0851,https://findrehabmap.com/colorado/chaffee-county/
+08075,Colorado,Logan County,20755,55074,2,9.6,0,0,1,1,1.8,86.9,"Greeley, CO",82.8,"Greeley, CO",1.8,84.6,2,40.6403,-103.186,https://findrehabmap.com/colorado/logan-county/
+08093,Colorado,Park County,18316,95450,0,0.0,0,0,0,0,26.8,26.8,"Morrison, CO",39.5,"Littleton, CO",26.8,26.8,0,39.3057,-105.6254,https://findrehabmap.com/colorado/park-county/
+08089,Colorado,Otero County,17991,54897,1,5.6,0,0,0,1,6.3,24.4,"Las Animas, CO",14.6,"Ordway, CO",14.6,24.4,4,38.0232,-103.6558,https://findrehabmap.com/colorado/otero-county/
+08051,Colorado,Gunnison County,17310,77358,1,5.8,0,0,1,1,7.6,89.6,"Grand Junction, CO",51.8,"Montrose, CO",7.6,52.0,1,38.66,-106.9444,https://findrehabmap.com/colorado/gunnison-county/
+08003,Colorado,Alamosa County,16689,51445,7,41.9,3,3,3,5,1.0,1.5,"Alamosa, CO",1.0,"Alamosa, CO",1.5,1.5,12,37.4819,-105.8776,https://findrehabmap.com/colorado/alamosa-county/
+08097,Colorado,Pitkin County,16643,100318,0,0.0,0,0,0,0,20.6,87.0,"Grand Junction, CO",30.7,"Glenwood Springs, CO",30.1,72.8,1,39.2318,-106.9087,https://findrehabmap.com/colorado/pitkin-county/
+08049,Colorado,Grand County,16154,84558,0,0.0,0,0,0,0,27.7,31.9,"Estes Park, CO",40.0,"Boulder, CO",27.7,27.7,0,40.0511,-105.9785,https://findrehabmap.com/colorado/grand-county/
+08071,Colorado,Las Animas County,14518,50408,3,20.7,1,0,0,3,1.4,1.8,"Trinidad, CO",68.5,"Questa, NM",50.8,1.8,3,37.1921,-104.5013,https://findrehabmap.com/colorado/las-animas-county/
+08007,Colorado,Archuleta County,14112,76524,1,7.1,0,0,1,1,1.7,40.6,"Durango, CO",43.2,"Durango, CO",1.7,40.6,1,37.2403,-107.0898,https://findrehabmap.com/colorado/archuleta-county/
+08081,Colorado,Moffat County,13142,70975,2,15.2,0,0,0,0,2.3,107.3,"Estes Park, CO",69.3,"Glenwood Springs, CO",69.3,110.3,2,40.5161,-107.614,https://findrehabmap.com/colorado/moffat-county/
+08099,Colorado,Prowers County,11957,57601,2,16.7,0,1,1,2,3.6,36.1,"Las Animas, CO",4.1,"Lamar, CO",4.1,36.1,2,38.083,-102.5486,https://findrehabmap.com/colorado/prowers-county/
+08105,Colorado,Rio Grande County,11132,62166,3,26.9,0,0,1,3,5.5,20.6,"Alamosa, CO",22.7,"Alamosa, CO",5.5,20.6,11,37.6118,-106.2421,https://findrehabmap.com/colorado/rio-grande-county/
+08125,Colorado,Yuma County,10048,60051,1,10.0,0,0,1,1,13.5,113.5,"Watkins, CO",113.5,"Watkins, CO",13.5,113.5,1,40.0658,-102.4808,https://findrehabmap.com/colorado/yuma-county/
+08019,Colorado,Clear Creek County,9076,96667,2,22.0,0,0,2,1,2.2,19.5,"Morrison, CO",23.3,"Lakewood, CO",2.2,8.6,33,39.7135,-105.5325,https://findrehabmap.com/colorado/clear-creek-county/
+08113,Colorado,San Miguel County,7819,80117,1,12.8,0,0,1,1,8.5,47.0,"Durango, CO",35.6,"Montrose, CO",8.5,35.5,1,37.9718,-107.9581,https://findrehabmap.com/colorado/san-miguel-county/
+08021,Colorado,Conejos County,7549,47209,2,26.5,0,0,2,2,5.4,18.4,"Alamosa, CO",18.4,"Alamosa, CO",5.4,18.4,9,37.1996,-105.9873,https://findrehabmap.com/colorado/conejos-county/
+08065,Colorado,Lake County,7369,93655,0,0.0,0,0,0,0,25.7,61.1,"Morrison, CO",58.0,"Glenwood Springs, CO",25.7,46.0,0,39.2448,-106.3075,https://findrehabmap.com/colorado/lake-county/
+08063,Colorado,Kit Carson County,7080,59810,1,14.1,0,0,1,1,10.4,94.4,"Las Animas, CO",86.9,"Lamar, CO",10.4,94.4,1,39.3104,-102.462,https://findrehabmap.com/colorado/kit-carson-county/
+08055,Colorado,Huerfano County,6988,52139,3,42.9,1,0,0,2,6.0,6.1,"Walsenburg, CO",47.1,"Pueblo, CO",41.0,37.1,3,37.6125,-104.8876,https://findrehabmap.com/colorado/huerfano-county/
+08109,Colorado,Saguache County,6670,54283,1,15.0,0,0,1,1,13.1,31.3,"Alamosa, CO",32.4,"Alamosa, CO",13.1,31.3,1,37.9253,-106.0061,https://findrehabmap.com/colorado/saguache-county/
+08103,Colorado,Rio Blanco County,6607,72620,0,0.0,0,0,0,0,44.2,66.2,"Grand Junction, CO",61.3,"Glenwood Springs, CO",61.3,68.5,0,40.0511,-108.2687,https://findrehabmap.com/colorado/rio-blanco-county/
+08047,Colorado,Gilpin County,5963,88654,1,16.8,0,0,1,1,1.3,16.5,"Boulder, CO",16.2,"Boulder, CO",1.3,13.7,56,39.8561,-105.4832,https://findrehabmap.com/colorado/gilpin-county/
+08011,Colorado,Bent County,5779,49194,2,34.6,1,2,0,2,2.6,2.6,"Las Animas, CO",2.6,"Las Animas, CO",29.9,2.6,3,38.0729,-103.166,https://findrehabmap.com/colorado/bent-county/
+08025,Colorado,Crowley County,5600,47563,1,17.9,0,1,1,1,5.7,35.9,"Las Animas, CO",5.7,"Ordway, CO",5.7,35.9,2,38.1938,-103.8564,https://findrehabmap.com/colorado/crowley-county/
+08073,Colorado,Lincoln County,5598,54257,1,17.9,0,0,1,1,6.8,61.3,"Colorado Springs, CO",62.8,"Watkins, CO",6.8,61.3,1,39.18,-103.6142,https://findrehabmap.com/colorado/lincoln-county/
+08027,Colorado,Custer County,5553,72700,0,0.0,0,0,0,0,23.8,43.6,"Pueblo, CO",42.2,"Pueblo, CO",23.8,25.5,2,38.1332,-105.3825,https://findrehabmap.com/colorado/custer-county/
+08091,Colorado,Ouray County,5197,84556,0,0.0,0,0,0,0,14.8,58.9,"Durango, CO",24.2,"Montrose, CO",14.8,24.2,4,38.146,-107.7519,https://findrehabmap.com/colorado/ouray-county/
+08121,Colorado,Washington County,4771,65164,1,21.0,0,0,1,1,4.8,79.6,"Watkins, CO",79.6,"Watkins, CO",4.8,79.6,2,40.0983,-103.1571,https://findrehabmap.com/colorado/washington-county/
+08095,Colorado,Phillips County,4488,60372,1,22.3,0,0,1,1,4.6,92.7,"North Platte, NE",124.0,"Greeley, CO",4.6,92.7,1,40.5994,-102.3859,https://findrehabmap.com/colorado/phillips-county/
+08023,Colorado,Costilla County,3686,36519,2,54.3,0,0,1,2,6.5,25.7,"Alamosa, CO",25.7,"Alamosa, CO",6.5,25.7,2,37.2922,-105.4443,https://findrehabmap.com/colorado/costilla-county/
+08009,Colorado,Baca County,3367,40380,1,29.7,0,0,0,1,5.2,61.4,"Las Animas, CO",47.9,"Lamar, CO",47.9,61.4,1,37.3681,-102.532,https://findrehabmap.com/colorado/baca-county/
+08033,Colorado,Dolores County,2467,70490,1,40.5,0,0,0,1,8.6,29.1,"Cortez, CO",59.4,"Durango, CO",28.8,58.7,1,37.7469,-108.7587,https://findrehabmap.com/colorado/dolores-county/
+08115,Colorado,Sedgwick County,2257,52833,0,0.0,0,0,0,0,26.0,82.5,"North Platte, NE",131.8,"Greeley, CO",26.0,82.5,0,40.9622,-102.3257,https://findrehabmap.com/colorado/sedgwick-county/
+08017,Colorado,Cheyenne County,1712,67768,1,58.4,0,0,0,1,6.6,65.2,"Las Animas, CO",53.1,"Lamar, CO",35.8,65.2,1,38.8177,-102.4701,https://findrehabmap.com/colorado/cheyenne-county/
+08061,Colorado,Kiowa County,1392,56389,1,71.8,0,0,0,1,4.2,38.9,"Las Animas, CO",28.8,"Lamar, CO",28.8,38.9,1,38.4701,-102.701,https://findrehabmap.com/colorado/kiowa-county/
+08057,Colorado,Jackson County,1273,41809,0,0.0,0,0,0,0,31.6,42.8,"Estes Park, CO",66.5,"Fort Collins, CO",57.6,58.8,0,40.6902,-106.2955,https://findrehabmap.com/colorado/jackson-county/
+08079,Colorado,Mineral County,933,52455,0,0.0,0,0,0,0,32.5,59.8,"Durango, CO",62.5,"Alamosa, CO",36.6,59.8,0,37.7791,-106.9421,https://findrehabmap.com/colorado/mineral-county/
+08111,Colorado,San Juan County,821,73889,0,0.0,0,0,0,0,11.9,36.1,"Durango, CO",39.7,"Durango, CO",11.9,36.1,1,37.8019,-107.6736,https://findrehabmap.com/colorado/san-juan-county/
+08053,Colorado,Hinsdale County,747,64327,0,0.0,0,0,0,0,28.2,57.3,"Durango, CO",45.6,"Montrose, CO",28.2,45.7,0,38.0026,-107.2987,https://findrehabmap.com/colorado/hinsdale-county/

@@ -1,0 +1,40 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+53033,Washington,King County,2340211,122148,93,4.0,6,13,30,57,3.0,3.8,"Seattle, WA",3.8,"Seattle, WA",3.4,3.0,142,47.5505,-122.2304,https://findrehabmap.com/washington/king-county/
+53053,Washington,Pierce County,941170,96632,42,4.5,3,16,13,26,2.6,4.7,"Tacoma, WA",3.0,"Parkland, WA",3.1,4.5,89,47.1777,-122.4075,https://findrehabmap.com/washington/pierce-county/
+53061,Washington,Snohomish County,864113,107982,36,4.2,5,10,11,19,1.4,3.6,"Everett, WA",2.0,"Everett, WA",2.0,3.6,86,47.9275,-122.1888,https://findrehabmap.com/washington/snohomish-county/
+53063,Washington,Spokane County,555947,73513,33,5.9,3,5,13,25,0.5,2.8,"Spokane, WA",1.2,"Spokane, WA",1.2,2.8,37,47.6802,-117.3689,https://findrehabmap.com/washington/spokane-county/
+53011,Washington,Clark County,527269,94948,16,3.0,5,2,6,10,1.6,1.6,"Vancouver, WA",4.6,"Vancouver, WA",1.6,1.6,97,45.6806,-122.5624,https://findrehabmap.com/washington/clark-county/
+53067,Washington,Thurston County,302912,93985,16,5.3,1,3,6,10,0.7,5.5,"Olympia, WA",4.0,"Olympia, WA",3.2,3.3,56,47.0009,-122.8366,https://findrehabmap.com/washington/thurston-county/
+53035,Washington,Kitsap County,281420,98546,12,4.3,2,1,4,11,0.4,5.2,"Port Orchard, WA",0.4,"Bremerton, WA",0.4,5.2,105,47.6122,-122.6329,https://findrehabmap.com/washington/kitsap-county/
+53077,Washington,Yakima County,258523,68015,24,9.3,3,1,8,20,5.0,6.7,"Yakima, WA",6.8,"Yakima, WA",6.7,6.7,24,46.5193,-120.4216,https://findrehabmap.com/washington/yakima-county/
+53073,Washington,Whatcom County,234954,80989,14,6.0,2,3,6,11,2.2,3.3,"Bellingham, WA",3.3,"Bellingham, WA",2.2,2.9,15,48.8232,-122.4876,https://findrehabmap.com/washington/whatcom-county/
+53005,Washington,Benton County,218190,87316,8,3.7,0,2,1,5,2.1,63.9,"Yakima, WA",2.1,"Richland, WA",4.3,45.5,13,46.2299,-119.2767,https://findrehabmap.com/washington/benton-county/
+53057,Washington,Skagit County,132736,85474,10,7.5,1,2,3,9,0.2,0.2,"Burlington, WA",2.5,"Mount Vernon, WA",0.2,0.2,33,48.4668,-122.3353,https://findrehabmap.com/washington/skagit-county/
+53015,Washington,Cowlitz County,113982,72932,16,14.0,1,1,6,14,0.6,2.2,"Longview, WA",1.0,"Kelso, WA",1.0,2.2,19,46.1355,-122.8948,https://findrehabmap.com/washington/cowlitz-county/
+53025,Washington,Grant County,104717,71115,6,5.7,0,0,0,3,9.6,42.8,"East Wenatchee, WA",59.5,"Richland, WA",42.8,44.0,4,47.1447,-119.4661,https://findrehabmap.com/washington/grant-county/
+53021,Washington,Franklin County,101238,82755,5,4.9,0,0,0,2,3.6,68.9,"Yakima, WA",7.0,"Richland, WA",8.4,40.6,13,46.3035,-119.1253,https://findrehabmap.com/washington/franklin-county/
+53041,Washington,Lewis County,87049,69690,8,9.2,1,0,2,8,6.7,11.0,"Centralia, WA",23.4,"Tumwater, WA",6.7,11.0,10,46.6189,-122.8392,https://findrehabmap.com/washington/lewis-county/
+53029,Washington,Island County,86478,88358,6,6.9,1,2,2,4,6.5,7.8,"Oak Harbor, WA",6.7,"Oak Harbor, WA",6.5,7.8,34,48.2063,-122.577,https://findrehabmap.com/washington/island-county/
+53007,Washington,Chelan County,81228,78306,5,6.2,1,0,2,4,4.6,7.9,"Wenatchee, WA",65.1,"Yakima, WA",4.6,7.9,5,47.5302,-120.3447,https://findrehabmap.com/washington/chelan-county/
+53009,Washington,Clallam County,77958,67999,11,14.1,0,3,4,9,1.1,38.8,"Oak Harbor, WA",1.2,"Port Angeles, WA",1.2,1.2,10,48.095,-123.4366,https://findrehabmap.com/washington/clallam-county/
+53027,Washington,Grays Harbor County,77893,63539,12,15.4,1,3,6,8,2.4,2.6,"Aberdeen, WA",2.4,"Aberdeen, WA",2.4,2.6,13,46.9913,-123.7675,https://findrehabmap.com/washington/grays-harbor-county/
+53045,Washington,Mason County,69632,78359,9,12.9,0,0,3,7,6.0,20.6,"Olympia, WA",19.9,"Olympia, WA",6.2,6.2,26,47.2886,-123.0344,https://findrehabmap.com/washington/mason-county/
+53071,Washington,Walla Walla County,62068,72212,2,3.2,0,0,1,2,2.3,107.2,"Yakima, WA",34.6,"Pendleton, OR",2.3,2.3,3,46.0779,-118.3912,https://findrehabmap.com/washington/walla-walla-county/
+53065,Washington,Stevens County,49015,67405,1,2.0,0,0,0,1,19.0,42.6,"Spokane, WA",43.2,"Spokane, WA",39.8,41.5,1,48.2777,-117.813,https://findrehabmap.com/washington/stevens-county/
+53075,Washington,Whitman County,48399,52893,1,2.1,0,0,0,1,4.7,61.4,"Spokane Valley, WA",59.8,"Spokane, WA",27.6,27.6,2,46.7936,-117.2181,https://findrehabmap.com/washington/whitman-county/
+53037,Washington,Kittitas County,48172,69928,2,4.2,0,0,0,1,5.6,25.0,"Yakima, WA",32.0,"Yakima, WA",25.0,25.0,2,47.0518,-120.6305,https://findrehabmap.com/washington/kittitas-county/
+53017,Washington,Douglas County,45795,80374,1,2.2,1,0,1,1,7.6,7.6,"East Wenatchee, WA",64.7,"Yakima, WA",7.6,8.7,7,47.5043,-120.1789,https://findrehabmap.com/washington/douglas-county/
+53047,Washington,Okanogan County,44942,60293,2,4.5,0,0,0,1,4.4,77.8,"East Wenatchee, WA",108.7,"Airway Heights, WA",76.1,49.5,1,48.4461,-119.592,https://findrehabmap.com/washington/okanogan-county/
+53031,Washington,Jefferson County,33944,71143,1,2.9,0,0,0,0,7.1,21.8,"Oak Harbor, WA",14.6,"Sequim, WA",15.3,7.1,14,48.0105,-122.8205,https://findrehabmap.com/washington/jefferson-county/
+53049,Washington,Pacific County,24245,62350,4,16.5,0,1,1,2,7.5,23.5,"Astoria, OR",7.5,"Ocean Park, WA",7.5,7.5,6,46.5246,-123.9048,https://findrehabmap.com/washington/pacific-county/
+53039,Washington,Klickitat County,24124,70400,0,0.0,0,0,0,0,13.6,62.8,"Yakima, WA",62.9,"Yakima, WA",13.6,19.4,3,45.7984,-121.1461,https://findrehabmap.com/washington/klickitat-county/
+53003,Washington,Asotin County,22523,69107,1,4.4,0,0,1,1,1.9,89.8,"Spokane Valley, WA",88.6,"Spokane, WA",1.9,2.8,10,46.3884,-117.0679,https://findrehabmap.com/washington/asotin-county/
+53001,Washington,Adams County,21039,65042,1,4.8,0,0,0,1,7.0,69.0,"Yakima, WA",41.7,"Richland, WA",41.7,64.6,2,46.8649,-119.0315,https://findrehabmap.com/washington/adams-county/
+53055,Washington,San Juan County,18668,83682,3,16.1,0,0,2,3,3.5,22.1,"Bellingham, WA",20.4,"Anacortes, WA",4.7,22.1,12,48.5752,-122.9792,https://findrehabmap.com/washington/san-juan-county/
+53051,Washington,Pend Oreille County,14332,63750,0,0.0,0,0,0,0,16.4,40.0,"Spokane, WA",40.1,"Spokane, WA",16.4,40.0,1,48.2815,-117.2242,https://findrehabmap.com/washington/pend-oreille-county/
+53059,Washington,Skamania County,12660,90085,0,0.0,0,0,0,0,19.8,31.1,"Vancouver, WA",29.9,"Portland, OR",19.9,19.9,2,45.6886,-121.9342,https://findrehabmap.com/washington/skamania-county/
+53043,Washington,Lincoln County,11862,71227,0,0.0,0,0,0,0,34.1,39.6,"Spokane, WA",35.5,"Airway Heights, WA",39.6,34.1,0,47.6385,-118.3245,https://findrehabmap.com/washington/lincoln-county/
+53019,Washington,Ferry County,7543,54650,1,13.3,0,0,0,0,28.6,79.4,"Spokane, WA",80.2,"Airway Heights, WA",78.5,38.3,0,48.6176,-118.5208,https://findrehabmap.com/washington/ferry-county/
+53069,Washington,Wahkiakum County,4800,57091,1,20.8,0,0,0,1,2.4,20.5,"Astoria, OR",25.4,"Kelso, WA",20.5,20.5,14,46.2365,-123.4262,https://findrehabmap.com/washington/wahkiakum-county/
+53013,Washington,Columbia County,4025,71528,1,24.8,0,0,0,1,0.2,98.2,"Spokane, WA",60.3,"Pendleton, OR",20.8,26.2,3,46.3231,-117.9762,https://findrehabmap.com/washington/columbia-county/
+53023,Washington,Garfield County,2404,62411,1,41.6,0,0,1,1,1.0,84.8,"Spokane Valley, WA",80.6,"Richland, WA",1.0,26.6,2,46.4721,-117.5779,https://findrehabmap.com/washington/garfield-county/

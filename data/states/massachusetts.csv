@@ -1,0 +1,15 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+25017,Massachusetts,Middlesex County,1668956,126779,76,4.6,10,20,40,53,2.5,4.7,"Belmont, MA",4.5,"Waltham, MA",2.5,4.7,211,42.4478,-71.2546,https://findrehabmap.com/massachusetts/middlesex-county/
+25027,Massachusetts,Worcester County,881248,93561,90,10.2,11,24,41,66,0.7,1.8,"Worcester, MA",1.8,"Worcester, MA",1.0,1.9,101,42.3034,-71.8027,https://findrehabmap.com/massachusetts/worcester-county/
+25009,Massachusetts,Essex County,823938,99431,46,5.6,8,15,24,31,1.9,2.8,"Danvers, MA",1.9,"Middleton, MA",2.8,2.8,174,42.6253,-70.9914,https://findrehabmap.com/massachusetts/essex-county/
+25025,Massachusetts,Suffolk County,793144,92859,54,6.8,9,13,27,43,0.3,0.3,"Roxbury, MA",0.4,"Boston, MA",0.3,0.3,194,42.3361,-71.0771,https://findrehabmap.com/massachusetts/suffolk-county/
+25021,Massachusetts,Norfolk County,740754,126497,31,4.2,4,7,16,20,2.8,6.5,"Franklin Braintree, MA",4.7,"Canton, MA",2.8,5.9,186,42.2024,-71.1464,https://findrehabmap.com/massachusetts/norfolk-county/
+25005,Massachusetts,Bristol County,588593,84198,49,8.3,5,14,23,36,5.2,5.2,"Swansea, MA",5.7,"Fall River, MA",5.6,5.2,134,41.7943,-71.1095,https://findrehabmap.com/massachusetts/bristol-county/
+25023,Massachusetts,Plymouth County,542090,109698,33,6.1,2,11,10,22,5.7,8.2,"Brockton, MA",7.3,"Bridgewater, MA",8.1,8.2,110,42.0237,-70.8556,https://findrehabmap.com/massachusetts/plymouth-county/
+25013,Massachusetts,Hampden County,464151,70535,42,9.0,1,13,17,26,0.3,5.3,"Ludlow, MA",0.3,"Springfield, MA",1.1,1.5,84,42.1256,-72.5743,https://findrehabmap.com/massachusetts/hampden-county/
+25001,Massachusetts,Barnstable County,232570,94452,16,6.9,1,4,10,13,2.1,17.7,"Falmouth, MA",2.4,"Centerville, MA",2.4,14.1,23,41.6923,-70.3287,https://findrehabmap.com/massachusetts/barnstable-county/
+25015,Massachusetts,Hampshire County,165399,86391,12,7.3,4,2,6,8,2.7,2.7,"Northampton, MA",2.7,"Northampton, MA",2.7,4.3,73,42.3127,-72.5722,https://findrehabmap.com/massachusetts/hampshire-county/
+25003,Massachusetts,Berkshire County,128726,72565,24,18.6,2,7,14,17,0.4,0.4,"Pittsfield, MA",0.4,"Pittsfield, MA",0.4,1.6,25,42.4569,-73.2183,https://findrehabmap.com/massachusetts/berkshire-county/
+25011,Massachusetts,Franklin County,70871,72584,11,15.5,2,6,5,7,2.1,2.3,"Greenfield, MA",2.3,"Greenfield, MA",2.3,2.1,30,42.5782,-72.5592,https://findrehabmap.com/massachusetts/franklin-county/
+25007,Massachusetts,Dukes County,21061,102348,0,0.0,0,0,0,0,10.2,10.2,"Falmouth, MA",10.2,"Falmouth, MA",10.2,10.2,29,41.4197,-70.6033,https://findrehabmap.com/massachusetts/dukes-county/
+25019,Massachusetts,Nantucket County,14670,119750,1,6.8,0,0,1,1,0.8,34.7,"Falmouth, MA",29.7,"Yarmouth, MA",0.8,34.7,1,41.2672,-70.0892,https://findrehabmap.com/massachusetts/nantucket-county/

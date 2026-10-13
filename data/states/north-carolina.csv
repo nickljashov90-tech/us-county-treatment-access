@@ -1,0 +1,101 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+37183,North Carolina,Wake County,1232444,101763,40,3.2,8,9,15,27,2.5,2.5,"Raleigh, NC",3.4,"Raleigh, NC",3.4,2.5,66,35.7953,-78.68,https://findrehabmap.com/north-carolina/wake-county/
+37119,North Carolina,Mecklenburg County,1206285,83765,49,4.1,7,8,23,29,0.9,0.9,"Charlotte, NC",1.5,"Charlotte, NC",0.9,0.9,87,35.2253,-80.8199,https://findrehabmap.com/north-carolina/mecklenburg-county/
+37081,North Carolina,Guilford County,558816,66027,32,5.7,5,7,13,21,0.7,1.6,"Greensboro, NC",0.7,"Greensboro, NC",0.7,1.8,65,36.0667,-79.8474,https://findrehabmap.com/north-carolina/guilford-county/
+37067,North Carolina,Forsyth County,398143,65541,19,4.8,4,3,10,11,0.6,2.9,"Winston-Salem, NC",0.6,"Winston-Salem, NC",0.6,2.9,54,36.1046,-80.2585,https://findrehabmap.com/north-carolina/forsyth-county/
+37063,North Carolina,Durham County,343628,79501,21,6.1,3,7,9,13,0.5,4.3,"Durham, NC",1.1,"Durham, NC",1.1,1.5,62,35.9862,-78.9017,https://findrehabmap.com/north-carolina/durham-county/
+37051,North Carolina,Cumberland County,338430,58780,17,5.0,3,4,9,13,0.8,1.7,"Fayetteville, NC",0.8,"Fayetteville, NC",0.8,3.4,22,35.0546,-78.9373,https://findrehabmap.com/north-carolina/cumberland-county/
+37021,North Carolina,Buncombe County,279210,70578,21,7.5,3,12,15,13,0.0,0.0,"Asheville, NC",0.2,"Asheville, NC",0.0,0.0,30,35.5853,-82.5518,https://findrehabmap.com/north-carolina/buncombe-county/
+37179,North Carolina,Union County,263386,99243,7,2.7,1,1,4,4,2.7,6.7,"Monroe, NC",6.8,"Monroe, NC",6.5,2.7,62,35.0125,-80.632,https://findrehabmap.com/north-carolina/union-county/
+37101,North Carolina,Johnston County,249794,79838,9,3.6,1,2,3,6,5.8,7.8,"Clayton, NC",6.2,"Smithfield, NC",6.0,6.1,37,35.5706,-78.4191,https://findrehabmap.com/north-carolina/johnston-county/
+37025,North Carolina,Cabarrus County,244925,86084,10,4.1,1,3,4,4,2.5,4.1,"Concord, NC",3.4,"Concord, NC",3.6,4.1,71,35.3957,-80.6211,https://findrehabmap.com/north-carolina/cabarrus-county/
+37129,North Carolina,New Hanover County,243333,72892,16,6.6,2,5,6,11,0.3,3.1,"Wilmington, NC",2.5,"Wilmington, NC",1.7,2.5,21,34.2102,-77.8784,https://findrehabmap.com/north-carolina/new-hanover-county/
+37071,North Carolina,Gaston County,242010,65472,15,6.2,2,3,7,10,0.7,0.8,"Gastonia, NC",0.9,"Gastonia, NC",0.8,0.7,73,35.2737,-81.1508,https://findrehabmap.com/north-carolina/gaston-county/
+37133,North Carolina,Onslow County,212954,64568,12,5.6,1,3,4,4,1.2,5.9,"Camp Lejeune, NC",2.0,"Jacksonville, NC",2.0,32.5,14,34.7343,-77.4053,https://findrehabmap.com/north-carolina/onslow-county/
+37097,North Carolina,Iredell County,206361,78678,12,5.8,2,5,8,11,6.2,7.5,"Statesville, NC",7.5,"Statesville, NC",7.5,7.5,37,35.6948,-80.8668,https://findrehabmap.com/north-carolina/iredell-county/
+37001,North Carolina,Alamance County,183040,64445,4,2.2,1,0,1,3,0.7,2.4,"Burlington, NC",17.3,"Hillsborough, NC",2.4,2.4,30,36.0715,-79.4132,https://findrehabmap.com/north-carolina/alamance-county/
+37147,North Carolina,Pitt County,180783,58851,15,8.3,0,7,6,6,0.7,19.6,"Washington, NC",1.6,"Greenville, NC",1.6,1.7,28,35.5765,-77.3834,https://findrehabmap.com/north-carolina/pitt-county/
+37057,North Carolina,Davidson County,177809,62426,8,4.5,2,2,5,5,3.6,4.8,"Lexington, NC",4.7,"Lexington, NC",4.7,4.2,59,35.8579,-80.2005,https://findrehabmap.com/north-carolina/davidson-county/
+37019,North Carolina,Brunswick County,167112,74034,4,2.4,1,3,3,2,4.2,8.2,"Shallotte, NC",4.2,"Supply, NC",4.2,17.5,18,34.0418,-78.2166,https://findrehabmap.com/north-carolina/brunswick-county/
+37035,North Carolina,Catawba County,167054,64544,7,4.2,1,3,5,6,1.6,4.7,"Hickory, NC",1.6,"Hickory, NC",1.6,21.6,37,35.6955,-81.2453,https://findrehabmap.com/north-carolina/catawba-county/
+37159,North Carolina,Rowan County,153384,63196,10,6.5,3,3,7,5,4.1,4.7,"Salisbury, NC",4.1,"Salisbury, NC",4.1,4.7,41,35.6209,-80.5228,https://findrehabmap.com/north-carolina/rowan-county/
+37135,North Carolina,Orange County,152877,88553,3,2.0,1,1,2,2,2.1,2.1,"Chapel Hill, NC",5.7,"Hillsborough, NC",2.1,2.1,44,35.9801,-79.0823,https://findrehabmap.com/north-carolina/orange-county/
+37151,North Carolina,Randolph County,148389,59047,5,3.4,1,2,3,4,3.8,4.0,"Asheboro, NC",4.0,"Asheboro, NC",4.0,17.1,44,35.7662,-79.8291,https://findrehabmap.com/north-carolina/randolph-county/
+37085,North Carolina,Harnett County,146096,69012,3,2.1,1,1,3,3,8.1,12.5,"Erwin, NC",12.5,"Erwin, NC",8.1,20.2,26,35.3541,-78.8674,https://findrehabmap.com/north-carolina/harnett-county/
+37089,North Carolina,Henderson County,120771,67623,6,5.0,1,0,2,4,0.8,1.5,"Hendersonville, NC",15.0,"Asheville, NC",1.5,1.5,28,35.3416,-82.4716,https://findrehabmap.com/north-carolina/henderson-county/
+37191,North Carolina,Wayne County,120338,58082,6,5.0,1,2,3,5,0.6,1.5,"Goldsboro, NC",0.6,"Goldsboro, NC",0.6,20.6,23,35.3729,-77.9867,https://findrehabmap.com/north-carolina/wayne-county/
+37155,North Carolina,Robeson County,118624,40318,23,19.4,1,2,10,18,4.0,5.4,"Lumberton, NC",6.2,"Lumberton, NC",4.0,4.0,31,34.6772,-79.0918,https://findrehabmap.com/north-carolina/robeson-county/
+37125,North Carolina,Moore County,108417,82837,7,6.5,0,1,4,6,2.5,27.6,"Fayetteville, NC",2.5,"Pinehurst, NC",2.5,3.4,14,35.2378,-79.4392,https://findrehabmap.com/north-carolina/moore-county/
+37049,North Carolina,Craven County,104167,64635,3,2.9,0,1,1,2,3.4,33.2,"Camp Lejeune, NC",3.4,"New Bern, NC",3.6,3.4,4,35.0692,-77.0414,https://findrehabmap.com/north-carolina/craven-county/
+37045,North Carolina,Cleveland County,102194,55769,6,5.9,0,2,2,6,1.4,21.3,"Gastonia, NC",1.4,"Shelby, NC",1.4,15.9,30,35.2914,-81.5158,https://findrehabmap.com/north-carolina/cleveland-county/
+37127,North Carolina,Nash County,97990,60704,4,4.1,2,2,2,3,4.5,4.5,"Rocky Mount, NC",4.5,"Rocky Mount, NC",4.5,4.5,17,35.946,-77.9259,https://findrehabmap.com/north-carolina/nash-county/
+37109,North Carolina,Lincoln County,97611,78490,3,3.1,0,0,0,2,2.6,14.5,"Gastonia, NC",15.2,"Gastonia, NC",11.7,14.5,44,35.4855,-81.1625,https://findrehabmap.com/north-carolina/lincoln-county/
+37157,North Carolina,Rockingham County,93517,55796,13,13.9,3,2,1,3,1.5,3.9,"Reidsville, NC",4.6,"Reidsville, NC",1.5,3.9,48,36.4003,-79.7734,https://findrehabmap.com/north-carolina/rockingham-county/
+37023,North Carolina,Burke County,88545,55684,10,11.3,1,2,4,8,1.2,5.5,"Morganton, NC",1.2,"Morganton, NC",2.6,2.7,29,35.7313,-81.6412,https://findrehabmap.com/north-carolina/burke-county/
+37037,North Carolina,Chatham County,83874,88534,2,2.4,1,1,1,2,2.7,12.7,"Siler City, NC",12.7,"Siler City, NC",12.7,16.1,32,35.756,-79.2084,https://findrehabmap.com/north-carolina/chatham-county/
+37027,North Carolina,Caldwell County,80739,55401,7,8.7,1,2,2,4,3.2,4.2,"Lenoir, NC",3.2,"Lenoir, NC",3.2,3.2,28,35.873,-81.5025,https://findrehabmap.com/north-carolina/caldwell-county/
+37195,North Carolina,Wilson County,79958,51381,6,7.5,0,3,1,5,1.0,17.2,"Rocky Mount, NC",1.0,"Wilson, NC",2.8,17.5,18,35.7277,-77.9338,https://findrehabmap.com/north-carolina/wilson-county/
+37069,North Carolina,Franklin County,79771,71386,3,3.8,0,0,2,2,4.8,10.8,"Wake Forest, NC",15.1,"Zebulon, NC",4.8,17.9,36,36.0442,-78.354,https://findrehabmap.com/north-carolina/franklin-county/
+37171,North Carolina,Surry County,71547,56095,6,8.4,0,2,2,4,3.2,21.8,"Galax, VA",4.5,"Dobson, NC",4.5,3.2,15,36.4311,-80.6572,https://findrehabmap.com/north-carolina/surry-county/
+37031,North Carolina,Carteret County,70259,70235,8,11.4,0,5,6,6,3.5,30.7,"Camp Lejeune, NC",3.5,"Morehead City, NC",3.5,29.1,7,34.7441,-76.8187,https://findrehabmap.com/north-carolina/carteret-county/
+37141,North Carolina,Pender County,70077,76838,4,5.7,0,2,1,4,4.2,19.0,"Wilmington, NC",4.2,"Rocky Point, NC",4.2,18.4,22,34.4538,-77.8067,https://findrehabmap.com/north-carolina/pender-county/
+37105,North Carolina,Lee County,68537,63060,3,4.4,0,1,1,2,1.1,24.3,"Siler City, NC",1.4,"Sanford, NC",1.1,24.4,13,35.4538,-79.1736,https://findrehabmap.com/north-carolina/lee-county/
+37167,North Carolina,Stanly County,67326,61631,2,3.0,0,0,1,2,3.9,21.6,"Concord, NC",18.1,"Concord, NC",4.4,14.3,16,35.3206,-80.2519,https://findrehabmap.com/north-carolina/stanly-county/
+37193,North Carolina,Wilkes County,66186,50438,5,7.6,1,2,2,4,2.6,2.6,"North Wilkesboro, NC",3.1,"North Wilkesboro, NC",2.9,2.6,12,36.1919,-81.1337,https://findrehabmap.com/north-carolina/wilkes-county/
+37161,North Carolina,Rutherford County,65587,49771,5,7.6,0,1,2,5,0.5,13.9,"Chesnee, SC",0.5,"Forest City, NC",0.5,3.9,23,35.3508,-81.8979,https://findrehabmap.com/north-carolina/rutherford-county/
+37087,North Carolina,Haywood County,63048,61001,4,6.3,1,3,2,3,0.4,4.7,"Waynesville, NC",0.7,"Clyde, NC",0.7,0.4,23,35.5189,-82.9431,https://findrehabmap.com/north-carolina/haywood-county/
+37077,North Carolina,Granville County,61544,70975,1,1.6,0,0,0,0,6.5,15.9,"Henderson, NC",15.9,"Henderson, NC",15.5,16.0,38,36.2166,-78.6497,https://findrehabmap.com/north-carolina/granville-county/
+37163,North Carolina,Sampson County,60404,53159,3,5.0,0,1,2,3,2.7,24.4,"Erwin, NC",2.7,"Clinton, NC",2.7,33.2,6,35.0367,-78.3976,https://findrehabmap.com/north-carolina/sampson-county/
+37093,North Carolina,Hoke County,55382,60095,2,3.6,0,0,1,2,3.1,11.8,"Fayetteville, NC",11.8,"Fayetteville, NC",3.1,11.8,37,34.9926,-79.1701,https://findrehabmap.com/north-carolina/hoke-county/
+37107,North Carolina,Lenoir County,55332,44795,7,12.7,0,0,3,4,0.8,21.3,"Goldsboro, NC",20.6,"Goldsboro, NC",0.8,0.8,15,35.2606,-77.634,https://findrehabmap.com/north-carolina/lenoir-county/
+37189,North Carolina,Watauga County,54997,51367,4,7.3,0,1,4,4,0.4,23.4,"Lenoir, NC",1.7,"Boone, NC",0.4,15.6,18,36.2182,-81.686,https://findrehabmap.com/north-carolina/watauga-county/
+37061,North Carolina,Duplin County,50539,51880,3,5.9,1,0,1,1,2.7,13.7,"Wallace, NC",24.2,"Clinton, NC",13.7,28.2,5,34.9284,-77.9403,https://findrehabmap.com/north-carolina/duplin-county/
+37047,North Carolina,Columbus County,50054,48184,1,2.0,0,0,1,1,4.1,28.5,"Shallotte, NC",26.4,"Fairmont, NC",4.1,29.6,2,34.2806,-78.7069,https://findrehabmap.com/north-carolina/columbus-county/
+37065,North Carolina,Edgecombe County,49124,48480,3,6.1,0,0,0,2,6.3,11.1,"Rocky Mount, NC",11.1,"Rocky Mount, NC",11.1,12.0,24,35.9024,-77.6561,https://findrehabmap.com/north-carolina/edgecombe-county/
+37083,North Carolina,Halifax County,46992,45071,4,8.5,1,1,2,4,4.9,7.1,"Roanoke Rapids, NC",7.1,"Roanoke Rapids, NC",5.9,14.0,4,36.3614,-77.6741,https://findrehabmap.com/north-carolina/halifax-county/
+37169,North Carolina,Stokes County,45857,60039,2,4.4,0,0,1,2,4.4,12.3,"Winston-Salem, NC",17.4,"Winston-Salem, NC",8.4,12.3,26,36.3495,-80.2752,https://findrehabmap.com/north-carolina/stokes-county/
+37059,North Carolina,Davie County,45383,73234,2,4.4,0,0,2,2,3.6,13.8,"Winston-Salem, NC",15.5,"Lexington, NC",3.6,15.2,43,35.9314,-80.5204,https://findrehabmap.com/north-carolina/davie-county/
+37099,North Carolina,Jackson County,45281,53479,0,0.0,0,0,0,0,12.1,14.6,"Waynesville, NC",12.1,"Cherokee, NC",14.6,19.6,6,35.3329,-83.199,https://findrehabmap.com/north-carolina/jackson-county/
+37111,North Carolina,McDowell County,45269,55527,4,8.8,0,1,2,3,0.4,16.3,"Morganton, NC",0.4,"Marion, NC",0.4,15.0,22,35.6674,-82.0199,https://findrehabmap.com/north-carolina/mcdowell-county/
+37013,North Carolina,Beaufort County,44576,57997,4,9.0,1,0,2,2,4.6,4.6,"Washington, NC",22.5,"Greenville, NC",4.6,4.6,10,35.5216,-76.9618,https://findrehabmap.com/north-carolina/beaufort-county/
+37181,North Carolina,Vance County,42337,46943,6,14.2,1,1,2,5,0.3,0.5,"Henderson, NC",0.5,"Henderson, NC",0.5,1.1,12,36.3328,-78.403,https://findrehabmap.com/north-carolina/vance-county/
+37153,North Carolina,Richmond County,41990,43626,5,11.9,0,2,3,5,1.9,19.2,"Laurinburg, NC",1.9,"Rockingham, NC",1.9,4.8,20,34.9427,-79.7354,https://findrehabmap.com/north-carolina/richmond-county/
+37139,North Carolina,Pasquotank County,41418,63912,6,14.5,0,1,1,2,0.7,30.6,"Chesapeake, VA",2.5,"Elizabeth City, NC",1.3,41.3,6,36.2941,-76.2473,https://findrehabmap.com/north-carolina/pasquotank-county/
+37145,North Carolina,Person County,40143,64927,2,5.0,0,0,1,1,1.7,22.7,"Durham, NC",22.7,"Durham, NC",1.7,27.3,12,36.372,-78.9704,https://findrehabmap.com/north-carolina/person-county/
+37113,North Carolina,Macon County,38717,53298,1,2.6,1,1,1,1,2.1,2.1,"Franklin, NC",2.1,"Franklin, NC",2.1,35.3,2,35.1569,-83.3773,https://findrehabmap.com/north-carolina/macon-county/
+37055,North Carolina,Dare County,38183,81214,1,2.6,0,1,1,1,5.1,64.0,"Chesapeake, VA",5.1,"Nags Head, NC",5.1,68.2,1,35.9204,-75.676,https://findrehabmap.com/north-carolina/dare-county/
+37197,North Carolina,Yadkin County,37995,60321,2,5.3,0,1,2,2,2.1,19.8,"Winston-Salem, NC",2.1,"Yadkinville, NC",2.1,17.8,28,36.164,-80.674,https://findrehabmap.com/north-carolina/yadkin-county/
+37003,North Carolina,Alexander County,36693,65268,2,5.5,1,1,2,2,2.1,2.6,"Taylorsville, NC",2.6,"Taylorsville, NC",2.1,17.2,30,35.8893,-81.1935,https://findrehabmap.com/north-carolina/alexander-county/
+37175,North Carolina,Transylvania County,34103,64523,0,0.0,0,0,0,0,15.0,17.3,"Hendersonville, NC",23.2,"Waynesville, NC",15.0,15.0,14,35.2101,-82.7431,https://findrehabmap.com/north-carolina/transylvania-county/
+37165,North Carolina,Scotland County,33898,43500,4,11.8,1,1,1,4,0.9,0.9,"Laurinburg, NC",0.9,"Laurinburg, NC",0.9,0.9,22,34.7857,-79.474,https://findrehabmap.com/north-carolina/scotland-county/
+37053,North Carolina,Currituck County,32278,91548,0,0.0,0,0,0,0,12.6,25.6,"Chesapeake, VA",12.6,"Elizabeth City, NC",13.6,32.0,6,36.4032,-76.0168,https://findrehabmap.com/north-carolina/currituck-county/
+37039,North Carolina,Cherokee County,30373,51496,0,0.0,0,0,0,0,5.8,35.0,"Sautee Nacoochee, GA",5.8,"Brasstown, NC",5.8,32.9,4,35.1014,-84.0226,https://findrehabmap.com/north-carolina/cherokee-county/
+37017,North Carolina,Bladen County,29777,44528,1,3.4,0,0,1,1,2.5,21.0,"Lumberton, NC",20.8,"Lumberton, NC",2.5,19.5,17,34.6092,-78.6433,https://findrehabmap.com/north-carolina/bladen-county/
+37009,North Carolina,Ashe County,27266,50827,2,7.3,0,0,1,1,0.7,26.9,"North Wilkesboro, NC",17.9,"Boone, NC",0.7,19.7,13,36.4136,-81.488,https://findrehabmap.com/north-carolina/ashe-county/
+37123,North Carolina,Montgomery County,26364,55849,1,3.8,0,0,1,1,1.4,25.9,"Asheboro, NC",25.9,"Asheboro, NC",1.4,24.1,5,35.3406,-79.8929,https://findrehabmap.com/north-carolina/montgomery-county/
+37007,North Carolina,Anson County,22432,44245,1,4.5,0,0,1,1,2.6,23.3,"Monroe, NC",19.6,"Rockingham, NC",2.6,15.8,14,34.9741,-80.1108,https://findrehabmap.com/north-carolina/anson-county/
+37033,North Carolina,Caswell County,22363,59407,0,0.0,0,0,0,0,12.5,19.9,"Reidsville, NC",16.9,"Danville, VA",14.0,12.5,27,36.3999,-79.3613,https://findrehabmap.com/north-carolina/caswell-county/
+37115,North Carolina,Madison County,22352,58628,1,4.5,0,0,1,1,2.5,17.3,"Asheville, NC",6.6,"Weaverville, NC",2.5,16.2,23,35.839,-82.6361,https://findrehabmap.com/north-carolina/madison-county/
+37117,North Carolina,Martin County,21523,46793,2,9.3,0,0,1,1,0.8,19.7,"Washington, NC",22.6,"Greenville, NC",3.0,0.8,22,35.8303,-77.0973,https://findrehabmap.com/north-carolina/martin-county/
+37079,North Carolina,Greene County,20671,50904,0,0.0,0,0,0,0,13.3,18.2,"Goldsboro, NC",16.9,"Goldsboro, NC",14.3,13.9,31,35.4667,-77.6652,https://findrehabmap.com/north-carolina/greene-county/
+37149,North Carolina,Polk County,20320,61005,3,14.8,2,0,1,0,3.3,5.4,"Mill Spring, NC",16.7,"Forest City, NC",5.4,3.3,22,35.2584,-82.1769,https://findrehabmap.com/north-carolina/polk-county/
+37091,North Carolina,Hertford County,19169,47472,4,20.9,1,1,3,4,1.9,1.9,"Ahoskie, NC",4.7,"Ahoskie, NC",1.9,1.9,8,36.3522,-77.0113,https://findrehabmap.com/north-carolina/hertford-county/
+37185,North Carolina,Warren County,19081,45279,1,5.2,0,0,1,0,4.5,16.0,"Henderson, NC",16.0,"Henderson, NC",4.5,4.5,11,36.4113,-78.1345,https://findrehabmap.com/north-carolina/warren-county/
+37199,North Carolina,Yancey County,18993,54961,0,0.0,0,0,0,0,10.5,20.9,"Black Mountain, NC",16.1,"Weaverville, NC",10.5,20.0,14,35.9109,-82.2946,https://findrehabmap.com/north-carolina/yancey-county/
+37011,North Carolina,Avery County,17811,57657,3,16.8,0,0,2,3,0.9,24.1,"Lenoir, NC",17.3,"Boone, NC",0.9,3.1,12,36.076,-81.9395,https://findrehabmap.com/north-carolina/avery-county/
+37015,North Carolina,Bertie County,16939,45931,1,5.9,0,0,0,1,5.8,17.1,"Ahoskie, NC",14.2,"Ahoskie, NC",14.2,14.9,8,36.0817,-76.9627,https://findrehabmap.com/north-carolina/bertie-county/
+37131,North Carolina,Northampton County,16580,47935,0,0.0,0,0,0,0,10.6,11.5,"Roanoke Rapids, NC",11.5,"Roanoke Rapids, NC",10.6,18.8,5,36.4407,-77.45,https://findrehabmap.com/north-carolina/northampton-county/
+37121,North Carolina,Mitchell County,15030,58089,1,6.7,0,0,1,1,0.5,26.4,"Morganton, NC",20.9,"Marion, NC",0.5,14.5,9,35.9601,-82.114,https://findrehabmap.com/north-carolina/mitchell-county/
+37173,North Carolina,Swain County,13945,55429,1,7.2,0,1,0,0,5.8,21.3,"Franklin, NC",5.8,"Cherokee, NC",21.3,27.1,4,35.4378,-83.412,https://findrehabmap.com/north-carolina/swain-county/
+37041,North Carolina,Chowan County,13891,56982,0,0.0,0,0,0,0,20.0,26.1,"Ahoskie, NC",23.6,"Ahoskie, NC",20.1,23.7,5,36.117,-76.6266,https://findrehabmap.com/north-carolina/chowan-county/
+37143,North Carolina,Perquimans County,13460,61224,0,0.0,0,0,0,0,13.2,34.6,"Ahoskie, NC",15.0,"Elizabeth City, NC",13.7,32.6,6,36.1806,-76.4229,https://findrehabmap.com/north-carolina/perquimans-county/
+37137,North Carolina,Pamlico County,12550,61624,1,8.0,0,0,1,0,2.9,34.1,"Washington, NC",16.3,"New Bern, NC",2.9,16.1,4,35.1021,-76.7822,https://findrehabmap.com/north-carolina/pamlico-county/
+37043,North Carolina,Clay County,12042,53645,1,8.3,0,1,1,1,7.5,24.0,"Franklin, NC",7.5,"Brasstown, NC",7.5,26.5,5,35.0363,-83.8057,https://findrehabmap.com/north-carolina/clay-county/
+37005,North Carolina,Alleghany County,11379,44272,1,8.8,0,0,1,1,2.2,14.8,"Galax, VA",14.8,"Galax, VA",2.2,14.8,18,36.4976,-81.106,https://findrehabmap.com/north-carolina/alleghany-county/
+37029,North Carolina,Camden County,11184,87781,0,0.0,0,0,0,0,3.3,25.3,"Chesapeake, VA",3.5,"Elizabeth City, NC",5.2,35.6,6,36.3693,-76.1977,https://findrehabmap.com/north-carolina/camden-county/
+37187,North Carolina,Washington County,10654,41750,1,9.4,0,0,1,1,6.0,30.6,"Washington, NC",34.9,"Ahoskie, NC",6.0,24.7,4,35.8632,-76.6517,https://findrehabmap.com/north-carolina/washington-county/
+37073,North Carolina,Gates County,10299,61612,0,0.0,0,0,0,0,19.0,19.0,"Franklin, VA",19.0,"Suffolk, VA",19.0,19.5,12,36.4646,-76.707,https://findrehabmap.com/north-carolina/gates-county/
+37103,North Carolina,Jones County,9462,55659,0,0.0,0,0,0,0,14.1,25.5,"Camp Lejeune, NC",17.0,"New Bern, NC",15.4,17.3,20,35.0307,-77.3541,https://findrehabmap.com/north-carolina/jones-county/
+37075,North Carolina,Graham County,8179,49038,0,0.0,0,0,0,0,20.8,26.1,"Franklin, NC",20.8,"Brasstown, NC",20.8,31.1,1,35.3321,-83.7871,https://findrehabmap.com/north-carolina/graham-county/
+37095,North Carolina,Hyde County,4583,47338,0,0.0,0,0,0,0,38.5,47.5,"Washington, NC",39.3,"Sealevel, NC",38.5,47.5,0,35.4305,-76.2051,https://findrehabmap.com/north-carolina/hyde-county/
+37177,North Carolina,Tyrrell County,3517,43952,0,0.0,0,0,0,0,27.7,50.5,"Washington, NC",29.5,"Elizabeth City, NC",27.8,47.7,0,35.8953,-76.2425,https://findrehabmap.com/north-carolina/tyrrell-county/

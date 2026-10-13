@@ -1,0 +1,88 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+27053,Minnesota,Hennepin County,1273334,96339,124,9.7,10,14,40,81,0.9,0.9,"Minneapolis, MN",3.7,"Minneapolis, MN",2.6,0.9,245,44.9767,-93.3612,https://findrehabmap.com/minnesota/hennepin-county/
+27123,Minnesota,Ramsey County,542015,81004,52,9.6,2,3,19,47,0.9,4.2,"St. Paul, MN",1.2,"St. Paul, MN",0.9,0.9,246,44.9929,-93.1056,https://findrehabmap.com/minnesota/ramsey-county/
+27037,Minnesota,Dakota County,453156,105212,22,4.9,2,2,7,18,3.2,5.5,"Burnsville, MN",4.2,"Burnsville, MN",3.5,5.5,225,44.7632,-93.1546,https://findrehabmap.com/minnesota/dakota-county/
+27003,Minnesota,Anoka County,376840,98764,22,5.8,0,0,7,20,1.2,8.4,"Minneapolis, MN",7.2,"Brooklyn Park, MN",1.2,1.2,224,45.195,-93.2693,https://findrehabmap.com/minnesota/anoka-county/
+27163,Minnesota,Washington County,283960,114457,19,6.7,2,1,6,19,2.0,6.5,"St. Paul, MN",4.1,"Woodbury, MN",4.1,4.4,228,44.9857,-92.9214,https://findrehabmap.com/minnesota/washington-county/
+27137,Minnesota,St. Louis County,200794,69455,29,14.4,2,5,13,25,20.0,22.0,"Duluth, MN",22.0,"Duluth, MN",20.0,21.6,21,47.0784,-92.3074,https://findrehabmap.com/minnesota/st-louis-county/
+27109,Minnesota,Olmsted County,166424,93494,16,9.6,2,1,9,14,0.3,1.3,"Rochester, MN",1.9,"Rochester, MN",0.3,0.3,17,44.0245,-92.4762,https://findrehabmap.com/minnesota/olmsted-county/
+27145,Minnesota,Stearns County,163997,76447,18,11.0,1,1,6,14,6.2,7.0,"St. Cloud, MN",8.1,"St. Cloud, MN",7.0,7.0,20,45.5592,-94.355,https://findrehabmap.com/minnesota/stearns-county/
+27139,Minnesota,Scott County,157206,120247,7,4.5,0,0,3,5,5.5,10.3,"Burnsville, MN",12.5,"Burnsville, MN",5.5,6.5,183,44.7146,-93.4664,https://findrehabmap.com/minnesota/scott-county/
+27171,Minnesota,Wright County,154593,106666,12,7.8,3,0,8,10,2.3,6.9,"Buffalo, MN",22.6,"Brooklyn Park, MN",4.1,2.3,46,45.1991,-93.8181,https://findrehabmap.com/minnesota/wright-county/
+27019,Minnesota,Carver County,112628,123144,7,6.2,0,0,3,6,3.9,17.7,"Minneapolis, MN",20.1,"Minneapolis, MN",3.9,5.2,157,44.8369,-93.6793,https://findrehabmap.com/minnesota/carver-county/
+27141,Minnesota,Sherburne County,103059,102965,4,3.9,0,0,3,4,5.0,19.2,"Buffalo, MN",25.3,"St. Cloud, MN",5.0,5.3,32,45.4024,-93.7189,https://findrehabmap.com/minnesota/sherburne-county/
+27013,Minnesota,Blue Earth County,70700,72623,13,18.4,0,0,3,12,1.3,38.3,"Owatonna, MN",58.7,"Burnsville, MN",2.3,1.3,15,44.1336,-93.9944,https://findrehabmap.com/minnesota/blue-earth-county/
+27131,Minnesota,Rice County,69025,82792,5,7.2,0,0,3,4,5.4,21.9,"Owatonna, MN",19.2,"Cannon Falls, MN",5.4,18.0,16,44.3727,-93.2617,https://findrehabmap.com/minnesota/rice-county/
+27035,Minnesota,Crow Wing County,68642,71343,8,11.7,0,1,5,6,4.7,58.3,"Sauk Rapids, MN",7.1,"Brainerd, MN",5.2,5.2,9,46.4309,-94.1623,https://findrehabmap.com/minnesota/crow-wing-county/
+27027,Minnesota,Clay County,66848,77664,6,9.0,1,0,3,5,3.1,3.1,"Moorhead, MN",7.2,"Fargo, ND",3.1,3.1,23,46.855,-96.6739,https://findrehabmap.com/minnesota/clay-county/
+27111,Minnesota,Otter Tail County,60884,70912,6,9.9,0,0,2,5,14.5,55.1,"Moorhead, MN",58.4,"Fargo, ND",16.0,16.2,6,46.4087,-95.7892,https://findrehabmap.com/minnesota/otter-tail-county/
+27025,Minnesota,Chisago County,59105,98260,3,5.1,1,1,1,3,5.2,7.8,"Center City, MN",7.8,"Center City, MN",7.8,7.8,14,45.4521,-92.924,https://findrehabmap.com/minnesota/chisago-county/
+27169,Minnesota,Winona County,49973,70198,3,6.0,0,0,1,3,4.4,28.2,"La Crosse, WI",28.3,"La Crosse, WI",4.5,37.4,4,44.0237,-91.7185,https://findrehabmap.com/minnesota/winona-county/
+27049,Minnesota,Goodhue County,47982,82749,3,6.3,0,1,1,3,10.0,29.4,"Rochester, MN",12.4,"Cannon Falls, MN",12.4,12.4,10,44.4464,-92.6666,https://findrehabmap.com/minnesota/goodhue-county/
+27007,Minnesota,Beltrami County,46762,67257,7,15.0,0,0,5,7,5.6,67.8,"Grand Rapids, MN",65.2,"Grand Rapids, MN",5.6,7.3,9,47.5853,-94.8633,https://findrehabmap.com/minnesota/beltrami-county/
+27061,Minnesota,Itasca County,45442,66380,10,22.0,1,1,1,10,5.6,6.7,"Grand Rapids, MN",5.6,"Grand Rapids, MN",5.6,6.3,10,47.315,-93.5211,https://findrehabmap.com/minnesota/itasca-county/
+27067,Minnesota,Kandiyohi County,44674,75097,6,13.4,0,0,2,5,0.9,35.8,"Montevideo, MN",49.2,"St. Cloud, MN",3.1,24.7,9,45.1546,-95.0175,https://findrehabmap.com/minnesota/kandiyohi-county/
+27059,Minnesota,Isanti County,43687,86573,2,4.6,0,0,1,2,2.1,24.8,"Center City, MN",24.8,"Center City, MN",3.3,13.9,24,45.5427,-93.2598,https://findrehabmap.com/minnesota/isanti-county/
+27009,Minnesota,Benton County,41881,71480,3,7.2,1,0,1,2,3.8,3.8,"Sauk Rapids, MN",6.4,"St. Cloud, MN",3.8,3.8,22,45.6347,-94.1043,https://findrehabmap.com/minnesota/benton-county/
+27099,Minnesota,Mower County,40900,71495,5,12.2,0,0,1,3,1.4,30.7,"Rochester, MN",34.5,"Rochester, MN",3.8,1.4,9,43.6654,-92.9019,https://findrehabmap.com/minnesota/mower-county/
+27041,Minnesota,Douglas County,39933,77264,7,17.5,0,0,3,5,1.6,61.2,"St. Cloud, MN",62.7,"St. Cloud, MN",1.7,1.7,8,45.9079,-95.3895,https://findrehabmap.com/minnesota/douglas-county/
+27147,Minnesota,Steele County,37434,83448,5,13.4,1,0,2,3,1.0,1.0,"Owatonna, MN",33.0,"Cannon Falls, MN",1.0,1.0,9,44.0659,-93.2146,https://findrehabmap.com/minnesota/steele-county/
+27085,Minnesota,McLeod County,36780,78468,2,5.4,0,0,1,2,5.6,18.7,"Waverly, MN",44.9,"Minneapolis, MN",5.6,18.7,10,44.8597,-94.2648,https://findrehabmap.com/minnesota/mcleod-county/
+27017,Minnesota,Carlton County,36745,80042,7,19.1,0,1,6,6,4.8,22.8,"Duluth, MN",4.8,"Cloquet, MN",4.8,5.8,29,46.6442,-92.5323,https://findrehabmap.com/minnesota/carlton-county/
+27005,Minnesota,Becker County,35444,71117,4,11.3,0,0,1,4,2.6,45.0,"Moorhead, MN",49.4,"Fargo, ND",3.2,3.2,4,46.847,-95.7811,https://findrehabmap.com/minnesota/becker-county/
+27097,Minnesota,Morrison County,34520,68640,2,5.8,0,0,1,2,1.2,28.9,"St. Cloud, MN",24.7,"Brainerd, MN",1.2,26.7,4,45.9846,-94.3291,https://findrehabmap.com/minnesota/morrison-county/
+27103,Minnesota,Nicollet County,34493,80362,2,5.8,0,0,0,2,6.1,43.5,"Owatonna, MN",54.4,"Burnsville, MN",7.4,7.8,16,44.2654,-94.0584,https://findrehabmap.com/minnesota/nicollet-county/
+27021,Minnesota,Cass County,31442,64937,2,6.4,0,0,0,2,30.3,50.6,"Grand Rapids, MN",35.2,"Brainerd, MN",32.9,33.1,0,46.8177,-94.4179,https://findrehabmap.com/minnesota/cass-county/
+27119,Minnesota,Polk County,30413,69136,4,13.2,1,1,2,4,1.1,22.8,"East Grand Forks, MN",2.9,"Crookston, MN",2.9,1.1,10,47.7839,-96.5628,https://findrehabmap.com/minnesota/polk-county/
+27115,Minnesota,Pine County,30319,69666,3,9.9,1,0,1,3,6.7,13.1,"Pine City, MN",45.4,"Center City, MN",13.1,13.1,4,46.0304,-92.8942,https://findrehabmap.com/minnesota/pine-county/
+27047,Minnesota,Freeborn County,30314,69012,4,13.2,0,0,1,4,0.9,28.0,"Owatonna, MN",35.6,"Mason City, IA",0.9,0.9,9,43.6628,-93.3617,https://findrehabmap.com/minnesota/freeborn-county/
+27079,Minnesota,Le Sueur County,29458,90218,3,10.2,0,0,1,3,7.2,32.5,"Burnsville, MN",36.0,"Burnsville, MN",7.2,19.4,22,44.3968,-93.7161,https://findrehabmap.com/minnesota/le-sueur-county/
+27095,Minnesota,Mille Lacs County,27577,71455,3,10.9,0,0,2,2,2.7,28.8,"Sauk Rapids, MN",31.5,"St. Cloud, MN",14.0,16.3,7,45.7908,-93.623,https://findrehabmap.com/minnesota/mille-lacs-county/
+27153,Minnesota,Todd County,25955,63039,1,3.9,0,0,0,1,6.4,47.0,"St. Cloud, MN",37.7,"Brainerd, MN",27.0,27.2,2,46.0658,-94.8891,https://findrehabmap.com/minnesota/todd-county/
+27015,Minnesota,Brown County,25710,68690,1,3.9,0,0,0,1,6.8,60.4,"Waverly, MN",75.4,"Burnsville, MN",30.5,30.1,1,44.2851,-94.5918,https://findrehabmap.com/minnesota/brown-county/
+27083,Minnesota,Lyon County,25577,72761,3,11.7,0,0,1,3,1.7,36.3,"Montevideo, MN",77.4,"Sioux Falls, SD",2.0,1.7,3,44.4285,-95.7967,https://findrehabmap.com/minnesota/lyon-county/
+27093,Minnesota,Meeker County,23491,75037,3,12.8,0,0,1,3,1.5,24.8,"Waverly, MN",32.8,"St. Cloud, MN",1.5,1.5,7,45.1363,-94.4812,https://findrehabmap.com/minnesota/meeker-county/
+27057,Minnesota,Hubbard County,22050,70622,1,4.5,0,0,0,1,10.5,67.4,"Grand Rapids, MN",61.1,"Brainerd, MN",29.4,29.4,1,47.0584,-94.9334,https://findrehabmap.com/minnesota/hubbard-county/
+27105,Minnesota,Nobles County,21969,65509,2,9.1,0,0,0,2,3.5,51.3,"Canton, SD",55.2,"Sioux Falls, SD",31.7,3.6,3,43.635,-95.6639,https://findrehabmap.com/minnesota/nobles-county/
+27157,Minnesota,Wabasha County,21574,80133,0,0.0,0,0,0,0,20.9,22.0,"Rochester, MN",20.9,"Rochester, MN",20.9,22.0,17,44.2983,-92.2188,https://findrehabmap.com/minnesota/wabasha-county/
+27045,Minnesota,Fillmore County,21502,75225,0,0.0,0,0,0,0,22.4,26.6,"Rochester, MN",30.6,"Rochester, MN",26.6,29.5,1,43.6963,-92.0818,https://findrehabmap.com/minnesota/fillmore-county/
+27039,Minnesota,Dodge County,21242,92943,1,4.7,0,0,0,1,2.9,16.1,"Rochester, MN",17.4,"Rochester, MN",16.1,16.1,23,44.0301,-92.806,https://findrehabmap.com/minnesota/dodge-county/
+27091,Minnesota,Martin County,19561,62969,3,15.3,0,0,2,3,3.1,69.2,"Owatonna, MN",72.0,"Mason City, IA",3.1,3.5,4,43.6656,-94.5093,https://findrehabmap.com/minnesota/martin-county/
+27161,Minnesota,Waseca County,18684,75052,0,0.0,0,0,0,0,15.2,16.0,"Owatonna, MN",43.4,"Cannon Falls, MN",15.6,15.2,21,44.0625,-93.5513,https://findrehabmap.com/minnesota/waseca-county/
+27055,Minnesota,Houston County,18352,77087,1,5.4,0,0,1,1,6.7,15.8,"La Crosse, WI",10.8,"La Crosse, WI",6.7,51.0,10,43.7204,-91.4387,https://findrehabmap.com/minnesota/houston-county/
+27065,Minnesota,Kanabec County,16608,71915,1,6.0,0,0,1,1,1.9,14.4,"Pine City, MN",42.5,"Center City, MN",1.9,1.9,7,45.8852,-93.298,https://findrehabmap.com/minnesota/kanabec-county/
+27001,Minnesota,Aitkin County,16335,59498,1,6.1,0,0,0,1,7.8,44.7,"Grand Rapids, MN",35.9,"Brainerd, MN",35.1,33.2,1,46.5708,-93.53,https://findrehabmap.com/minnesota/aitkin-county/
+27135,Minnesota,Roseau County,15265,73611,1,6.6,0,0,0,0,5.6,87.2,"East Grand Forks, MN",85.5,"Crookston, MN",85.5,75.6,1,48.8244,-95.6467,https://findrehabmap.com/minnesota/roseau-county/
+27127,Minnesota,Redwood County,15254,67024,3,19.7,0,0,0,2,7.9,42.9,"Montevideo, MN",91.8,"St. Cloud, MN",28.6,28.7,3,44.44,-95.1899,https://findrehabmap.com/minnesota/redwood-county/
+27143,Minnesota,Sibley County,15194,76082,0,0.0,0,0,0,0,18.5,33.2,"Waverly, MN",48.0,"Burnsville, MN",23.5,30.3,4,44.5825,-94.1655,https://findrehabmap.com/minnesota/sibley-county/
+27129,Minnesota,Renville County,14453,69086,0,0.0,0,0,0,0,13.4,39.9,"Montevideo, MN",68.8,"St. Cloud, MN",26.4,35.7,3,44.7212,-94.9423,https://findrehabmap.com/minnesota/renville-county/
+27159,Minnesota,Wadena County,14437,56882,1,6.9,0,0,1,1,7.4,77.0,"St. Cloud, MN",42.4,"Brainerd, MN",7.4,41.5,1,46.5274,-95.0448,https://findrehabmap.com/minnesota/wadena-county/
+27043,Minnesota,Faribault County,13886,64391,0,0.0,0,0,0,0,24.2,44.4,"Owatonna, MN",50.6,"Mason City, IA",24.2,24.2,3,43.6828,-93.955,https://findrehabmap.com/minnesota/faribault-county/
+27113,Minnesota,Pennington County,13652,72561,1,7.3,0,0,0,1,1.7,40.9,"East Grand Forks, MN",31.8,"Crookston, MN",31.8,30.0,1,48.1029,-96.148,https://findrehabmap.com/minnesota/pennington-county/
+27023,Minnesota,Chippewa County,12299,69192,2,16.3,1,0,2,1,3.7,3.7,"Montevideo, MN",81.0,"St. Cloud, MN",3.7,36.0,2,44.9618,-95.6183,https://findrehabmap.com/minnesota/chippewa-county/
+27071,Minnesota,Koochiching County,11594,69115,2,17.3,0,0,0,2,5.9,89.3,"Grand Rapids, MN",80.0,"Hibbing, MN",80.0,79.6,2,48.511,-93.4898,https://findrehabmap.com/minnesota/koochiching-county/
+27121,Minnesota,Pope County,11495,72205,0,0.0,0,0,0,0,16.3,48.6,"Montevideo, MN",60.7,"St. Cloud, MN",16.3,17.7,8,45.6302,-95.4394,https://findrehabmap.com/minnesota/pope-county/
+27033,Minnesota,Cottonwood County,11338,68239,2,17.6,0,0,0,2,5.1,75.3,"Montevideo, MN",86.1,"Sioux Falls, SD",35.6,32.2,3,43.9386,-95.1209,https://findrehabmap.com/minnesota/cottonwood-county/
+27165,Minnesota,Watonwan County,11204,70593,0,0.0,0,0,0,0,23.0,67.4,"Owatonna, MN",86.4,"Burnsville, MN",23.1,23.9,3,43.9928,-94.5836,https://findrehabmap.com/minnesota/watonwan-county/
+27075,Minnesota,Lake County,10698,75621,1,9.3,0,0,1,1,11.9,36.2,"Duluth, MN",36.2,"Duluth, MN",11.9,35.5,1,47.1865,-91.5608,https://findrehabmap.com/minnesota/lake-county/
+27063,Minnesota,Jackson County,9861,69955,1,10.1,0,0,0,1,3.2,77.8,"Canton, SD",83.0,"Sioux Falls, SD",16.7,24.4,9,43.6654,-95.1096,https://findrehabmap.com/minnesota/jackson-county/
+27149,Minnesota,Stevens County,9819,71060,0,0.0,0,0,0,0,32.7,44.9,"Montevideo, MN",83.9,"St. Cloud, MN",32.7,33.2,0,45.578,-95.9218,https://findrehabmap.com/minnesota/stevens-county/
+27151,Minnesota,Swift County,9666,62601,0,0.0,0,0,0,0,22.2,22.5,"Montevideo, MN",73.1,"St. Cloud, MN",22.2,43.9,2,45.2729,-95.6376,https://findrehabmap.com/minnesota/swift-county/
+27133,Minnesota,Rock County,9525,70698,1,10.5,0,0,0,1,2.0,29.4,"Canton, SD",27.1,"Sioux Falls, SD",27.1,22.7,3,43.6481,-96.2371,https://findrehabmap.com/minnesota/rock-county/
+27173,Minnesota,Yellow Medicine County,9373,71573,0,0.0,0,0,0,0,16.1,16.1,"Montevideo, MN",94.1,"Sioux Falls, SD",16.1,19.9,5,44.7374,-95.8301,https://findrehabmap.com/minnesota/yellow-medicine-county/
+27117,Minnesota,Pipestone County,9100,66073,0,0.0,0,0,0,0,16.8,42.2,"Madison, SD",38.6,"Sioux Falls, SD",17.1,35.6,3,43.9807,-96.2683,https://findrehabmap.com/minnesota/pipestone-county/
+27089,Minnesota,Marshall County,8771,71701,0,0.0,0,0,0,0,20.8,33.4,"East Grand Forks, MN",37.3,"Crookston, MN",33.4,33.4,1,48.3069,-96.5301,https://findrehabmap.com/minnesota/marshall-county/
+27029,Minnesota,Clearwater County,8630,64934,0,0.0,0,0,0,0,18.6,78.8,"Moorhead, MN",59.2,"Crookston, MN",18.6,18.6,6,47.56,-95.3888,https://findrehabmap.com/minnesota/clearwater-county/
+27101,Minnesota,Murray County,8044,74475,0,0.0,0,0,0,0,25.9,62.9,"Canton, SD",59.0,"Sioux Falls, SD",32.3,25.9,0,43.9824,-95.7408,https://findrehabmap.com/minnesota/murray-county/
+27073,Minnesota,Lac qui Parle County,6636,71639,0,0.0,0,0,0,0,20.6,21.6,"Montevideo, MN",102.6,"St. Cloud, MN",20.6,40.7,2,44.9824,-96.1309,https://findrehabmap.com/minnesota/lac-qui-parle-county/
+27107,Minnesota,Norman County,6284,69833,0,0.0,0,0,0,0,31.0,31.0,"Fargo, ND",32.6,"Crookston, MN",31.0,31.0,0,47.3085,-96.4844,https://findrehabmap.com/minnesota/norman-county/
+27167,Minnesota,Wilkin County,6268,69635,1,16.0,0,0,0,1,4.6,38.3,"Fargo, ND",40.5,"Fargo, ND",19.5,19.5,8,46.3164,-96.5256,https://findrehabmap.com/minnesota/wilkin-county/
+27051,Minnesota,Grant County,6109,72957,0,0.0,0,0,0,0,23.9,70.0,"Montevideo, MN",76.3,"Fargo, ND",24.1,24.3,4,45.9485,-95.9315,https://findrehabmap.com/minnesota/grant-county/
+27031,Minnesota,Cook County,5571,71643,0,0.0,0,0,0,0,80.7,88.2,"Ashland, WI",106.4,"Duluth, MN",81.3,88.2,0,47.7901,-90.3394,https://findrehabmap.com/minnesota/cook-county/
+27081,Minnesota,Lincoln County,5564,67715,0,0.0,0,0,0,0,24.0,48.4,"Montevideo, MN",62.3,"Sioux Falls, SD",24.4,24.0,3,44.3739,-96.2523,https://findrehabmap.com/minnesota/lincoln-county/
+27087,Minnesota,Mahnomen County,5296,53925,0,0.0,0,0,0,0,17.3,51.3,"Moorhead, MN",49.0,"Crookston, MN",33.3,33.3,1,47.3002,-95.8375,https://findrehabmap.com/minnesota/mahnomen-county/
+27011,Minnesota,Big Stone County,5067,65475,0,0.0,0,0,0,0,46.9,48.0,"Montevideo, MN",103.2,"Fargo, ND",46.9,61.2,0,45.3954,-96.4463,https://findrehabmap.com/minnesota/big-stone-county/
+27069,Minnesota,Kittson County,3992,69615,0,0.0,0,0,0,0,36.9,55.7,"East Grand Forks, MN",59.4,"Grand Forks, ND",55.7,55.7,0,48.7293,-96.7766,https://findrehabmap.com/minnesota/kittson-county/
+27125,Minnesota,Red Lake County,3882,77500,0,0.0,0,0,0,0,16.8,40.3,"East Grand Forks, MN",23.9,"Crookston, MN",23.9,22.1,3,47.8757,-96.1321,https://findrehabmap.com/minnesota/red-lake-county/
+27077,Minnesota,Lake of the Woods County,3797,70091,0,0.0,0,0,0,0,46.8,118.3,"East Grand Forks, MN",110.6,"Crookston, MN",87.3,64.1,0,48.7695,-94.7446,https://findrehabmap.com/minnesota/lake-of-the-woods-county/
+27155,Minnesota,Traverse County,3134,65931,0,0.0,0,0,0,0,35.5,69.3,"Montevideo, MN",78.1,"Fargo, ND",42.9,42.9,0,45.752,-96.5473,https://findrehabmap.com/minnesota/traverse-county/

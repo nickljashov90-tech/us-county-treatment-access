@@ -1,0 +1,54 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+38017,North Dakota,Cass County,200945,75023,17,8.5,3,1,5,10,0.6,2.3,"Fargo, ND",2.1,"Fargo, ND",1.1,1.1,23,46.8532,-96.8661,https://findrehabmap.com/north-dakota/cass-county/
+38015,North Dakota,Burleigh County,103107,84948,13,12.6,2,1,2,11,1.0,1.0,"Bismarck, ND",1.8,"Bismarck, ND",1.8,1.0,14,46.8231,-100.7613,https://findrehabmap.com/north-dakota/burleigh-county/
+38035,North Dakota,Grand Forks County,73771,68450,8,10.8,0,1,5,7,2.0,5.9,"East Grand Forks, MN",2.6,"Grand Forks, ND",2.0,2.0,11,47.9041,-97.1141,https://findrehabmap.com/north-dakota/grand-forks-county/
+38101,North Dakota,Ward County,68427,79273,9,13.2,1,2,2,7,1.1,2.2,"Minot, ND",1.7,"Minot, ND",1.7,2.2,9,48.251,-101.3243,https://findrehabmap.com/north-dakota/ward-county/
+38105,North Dakota,Williams County,40763,90224,7,17.2,0,0,2,6,3.2,34.5,"Arnegard, ND",105.2,"Minot, ND",3.8,3.3,7,48.1982,-103.582,https://findrehabmap.com/north-dakota/williams-county/
+38059,North Dakota,Morton County,34194,79483,1,2.9,0,0,0,0,5.1,9.4,"Bismarck, ND",9.4,"Bismarck, ND",8.2,5.1,14,46.8208,-100.9874,https://findrehabmap.com/north-dakota/morton-county/
+38089,North Dakota,Stark County,33767,80744,2,5.9,0,0,2,2,0.2,63.9,"Arnegard, ND",94.4,"Bismarck, ND",0.2,63.9,2,46.8833,-102.785,https://findrehabmap.com/north-dakota/stark-county/
+38093,North Dakota,Stutsman County,21546,60172,2,9.3,0,0,1,2,1.2,88.9,"Fargo, ND",90.4,"Fargo, ND",1.2,88.9,2,46.9174,-98.7395,https://findrehabmap.com/north-dakota/stutsman-county/
+38077,North Dakota,Richland County,16658,72524,1,6.0,0,0,0,1,7.6,38.6,"Fargo, ND",41.6,"Fargo, ND",31.0,31.0,2,46.2654,-96.7651,https://findrehabmap.com/north-dakota/richland-county/
+38053,North Dakota,McKenzie County,14782,88289,1,6.8,1,0,1,1,8.3,8.3,"Arnegard, ND",94.4,"Minot, ND",8.3,8.3,1,47.8154,-103.2499,https://findrehabmap.com/north-dakota/mckenzie-county/
+38079,North Dakota,Rolette County,11692,57355,3,25.7,0,0,1,2,3.1,79.7,"Minot, ND",78.4,"Minot, ND",8.6,79.7,3,48.8376,-99.8157,https://findrehabmap.com/north-dakota/rolette-county/
+38071,North Dakota,Ramsey County,11510,61319,4,34.8,0,0,1,4,1.7,85.9,"East Grand Forks, MN",83.6,"Grand Forks, ND",2.2,81.8,4,48.13,-98.8346,https://findrehabmap.com/north-dakota/ramsey-county/
+38003,North Dakota,Barnes County,10798,70230,0,0.0,0,0,0,0,31.8,55.6,"Fargo, ND",57.0,"Fargo, ND",32.3,55.6,0,46.9269,-98.0304,https://findrehabmap.com/north-dakota/barnes-county/
+38099,North Dakota,Walsh County,10214,69976,1,9.8,0,0,0,1,6.1,40.7,"East Grand Forks, MN",41.5,"Grand Forks, ND",33.5,38.6,1,48.3924,-97.5562,https://findrehabmap.com/north-dakota/walsh-county/
+38055,North Dakota,McLean County,9845,81847,0,0.0,0,0,0,0,31.3,48.7,"Minot, ND",47.7,"Minot, ND",48.7,46.6,0,47.524,-101.227,https://findrehabmap.com/north-dakota/mclean-county/
+38061,North Dakota,Mountrail County,9474,81292,1,10.6,0,0,0,0,17.2,50.7,"Minot, ND",50.5,"Minot, ND",50.7,17.2,1,48.1348,-102.3851,https://findrehabmap.com/north-dakota/mountrail-county/
+38057,North Dakota,Mercer County,8348,79405,1,12.0,0,0,0,0,3.9,54.6,"Bismarck, ND",55.2,"Bismarck, ND",53.6,49.1,1,47.301,-101.712,https://findrehabmap.com/north-dakota/mercer-county/
+38097,North Dakota,Traill County,7989,88289,0,0.0,0,0,0,0,28.7,32.6,"East Grand Forks, MN",28.7,"Grand Forks, ND",28.7,31.0,0,47.4894,-97.2214,https://findrehabmap.com/north-dakota/traill-county/
+38067,North Dakota,Pembina County,6588,66884,0,0.0,0,0,0,0,26.8,64.5,"East Grand Forks, MN",66.4,"Grand Forks, ND",60.6,63.4,0,48.7864,-97.5831,https://findrehabmap.com/north-dakota/pembina-county/
+38009,North Dakota,Bottineau County,6391,83460,1,15.6,0,0,0,1,8.6,50.8,"Minot, ND",48.6,"Minot, ND",45.8,50.8,1,48.819,-100.6351,https://findrehabmap.com/north-dakota/bottineau-county/
+38005,North Dakota,Benson County,5756,68049,0,0.0,0,0,0,0,14.0,99.7,"East Grand Forks, MN",97.0,"Grand Forks, ND",14.2,95.5,4,48.0222,-99.149,https://findrehabmap.com/north-dakota/benson-county/
+38073,North Dakota,Ransom County,5590,74521,1,17.9,0,0,0,0,2.4,44.5,"Fargo, ND",47.7,"Fargo, ND",46.7,44.5,1,46.4733,-97.6541,https://findrehabmap.com/north-dakota/ransom-county/
+38049,North Dakota,McHenry County,5135,80614,0,0.0,0,0,0,0,27.3,27.5,"Minot, ND",27.5,"Minot, ND",27.5,27.5,0,48.1797,-100.7007,https://findrehabmap.com/north-dakota/mchenry-county/
+38021,North Dakota,Dickey County,4930,63125,0,0.0,0,0,0,0,38.9,85.6,"Fargo, ND",88.9,"Fargo, ND",59.8,44.1,0,46.0903,-98.3168,https://findrehabmap.com/north-dakota/dickey-county/
+38045,North Dakota,LaMoure County,4051,70263,0,0.0,0,0,0,0,34.9,84.2,"Fargo, ND",86.9,"Fargo, ND",36.0,65.2,0,46.405,-98.5311,https://findrehabmap.com/north-dakota/lamoure-county/
+38025,North Dakota,Dunn County,4031,94688,0,0.0,0,0,0,0,31.9,42.9,"Arnegard, ND",86.9,"Minot, ND",31.9,42.9,0,47.3372,-102.6382,https://findrehabmap.com/north-dakota/dunn-county/
+38069,North Dakota,Pierce County,3853,63214,0,0.0,0,0,0,0,37.2,60.6,"Minot, ND",60.5,"Minot, ND",39.8,60.6,0,48.328,-99.9854,https://findrehabmap.com/north-dakota/pierce-county/
+38103,North Dakota,Wells County,3803,61346,0,0.0,0,0,0,0,34.1,74.8,"Bismarck, ND",76.5,"Bismarck, ND",51.6,74.3,0,47.6735,-99.7762,https://findrehabmap.com/north-dakota/wells-county/
+38085,North Dakota,Sioux County,3713,41676,1,26.9,0,0,0,0,7.2,44.3,"Bismarck, ND",44.3,"Bismarck, ND",44.3,41.3,1,46.1668,-100.7275,https://findrehabmap.com/north-dakota/sioux-county/
+38081,North Dakota,Sargent County,3710,77697,0,0.0,0,0,0,0,19.8,56.8,"Fargo, ND",60.4,"Fargo, ND",59.7,56.8,1,46.1662,-97.5879,https://findrehabmap.com/north-dakota/sargent-county/
+38019,North Dakota,Cavalier County,3567,67064,0,0.0,0,0,0,0,49.1,86.0,"East Grand Forks, MN",86.1,"Grand Forks, ND",49.6,83.3,0,48.7563,-98.4087,https://findrehabmap.com/north-dakota/cavalier-county/
+38031,North Dakota,Foster County,3323,83412,1,30.1,0,0,0,1,4.4,92.8,"Bismarck, ND",94.2,"Bismarck, ND",40.8,91.6,1,47.4606,-99.0323,https://findrehabmap.com/north-dakota/foster-county/
+38029,North Dakota,Emmons County,3209,67368,0,0.0,0,0,0,0,23.2,46.0,"Bismarck, ND",46.0,"Bismarck, ND",46.0,44.4,1,46.267,-100.2215,https://findrehabmap.com/north-dakota/emmons-county/
+38063,North Dakota,Nelson County,3007,68051,0,0.0,0,0,0,0,27.3,56.2,"East Grand Forks, MN",53.3,"Grand Forks, ND",27.3,51.9,0,47.9141,-98.2115,https://findrehabmap.com/north-dakota/nelson-county/
+38011,North Dakota,Bowman County,2886,83773,0,0.0,0,0,0,0,57.2,107.1,"Arnegard, ND",131.2,"Bismarck, ND",57.2,90.5,0,46.171,-103.3897,https://findrehabmap.com/north-dakota/bowman-county/
+38051,North Dakota,McIntosh County,2461,64236,0,0.0,0,0,0,0,54.6,76.8,"Bismarck, ND",76.8,"Bismarck, ND",64.5,61.6,0,46.1461,-99.493,https://findrehabmap.com/north-dakota/mcintosh-county/
+38041,North Dakota,Hettinger County,2419,70827,0,0.0,0,0,0,0,30.9,87.6,"Bismarck, ND",87.6,"Bismarck, ND",30.9,83.9,0,46.4528,-102.5637,https://findrehabmap.com/north-dakota/hettinger-county/
+38075,North Dakota,Renville County,2376,76311,0,0.0,0,0,0,0,32.1,35.0,"Minot, ND",32.1,"Minot, ND",32.1,35.0,0,48.7122,-101.513,https://findrehabmap.com/north-dakota/renville-county/
+38043,North Dakota,Kidder County,2371,61850,0,0.0,0,0,0,0,43.7,46.4,"Bismarck, ND",47.2,"Bismarck, ND",47.2,44.6,0,46.9138,-99.8032,https://findrehabmap.com/north-dakota/kidder-county/
+38027,North Dakota,Eddy County,2309,55389,0,0.0,0,0,0,0,18.0,96.9,"East Grand Forks, MN",93.5,"Grand Forks, ND",29.1,92.6,1,47.7058,-99.0569,https://findrehabmap.com/north-dakota/eddy-county/
+38037,North Dakota,Grant County,2247,56750,0,0.0,0,0,0,0,49.4,52.1,"Bismarck, ND",52.1,"Bismarck, ND",51.9,49.4,0,46.3936,-101.7099,https://findrehabmap.com/north-dakota/grant-county/
+38039,North Dakota,Griggs County,2227,64737,0,0.0,0,0,0,0,41.0,64.6,"East Grand Forks, MN",60.4,"Grand Forks, ND",41.0,60.7,0,47.4515,-98.1844,https://findrehabmap.com/north-dakota/griggs-county/
+38013,North Dakota,Burke County,2154,96339,0,0.0,0,0,0,0,58.9,67.9,"Minot, ND",66.1,"Minot, ND",65.1,58.9,0,48.7605,-102.5393,https://findrehabmap.com/north-dakota/burke-county/
+38001,North Dakota,Adams County,2141,55417,0,0.0,0,0,0,0,58.7,102.2,"Bismarck, ND",102.2,"Bismarck, ND",58.7,99.3,0,46.0359,-102.6218,https://findrehabmap.com/north-dakota/adams-county/
+38023,North Dakota,Divide County,2124,89297,0,0.0,0,0,0,0,51.0,79.6,"Arnegard, ND",102.2,"Minot, ND",51.6,51.2,0,48.8732,-103.3406,https://findrehabmap.com/north-dakota/divide-county/
+38095,North Dakota,Towner County,2051,63017,0,0.0,0,0,0,0,26.2,97.5,"Minot, ND",97.1,"Minot, ND",26.4,97.5,0,48.5756,-99.233,https://findrehabmap.com/north-dakota/towner-county/
+38065,North Dakota,Oliver County,1882,76953,0,0.0,0,0,0,0,24.5,31.9,"Bismarck, ND",32.6,"Bismarck, ND",30.9,28.6,1,47.1203,-101.3071,https://findrehabmap.com/north-dakota/oliver-county/
+38047,North Dakota,Logan County,1880,61339,0,0.0,0,0,0,0,48.9,62.4,"Bismarck, ND",62.4,"Bismarck, ND",48.9,60.4,0,46.4972,-99.5537,https://findrehabmap.com/north-dakota/logan-county/
+38033,North Dakota,Golden Valley County,1795,76528,0,0.0,0,0,0,0,38.2,63.9,"Arnegard, ND",149.9,"Bismarck, ND",55.4,38.2,0,46.891,-103.9593,https://findrehabmap.com/north-dakota/golden-valley-county/
+38091,North Dakota,Steele County,1767,80313,0,0.0,0,0,0,0,31.6,48.1,"East Grand Forks, MN",43.7,"Grand Forks, ND",31.6,44.7,0,47.4599,-97.7505,https://findrehabmap.com/north-dakota/steele-county/
+38083,North Dakota,Sheridan County,1268,67361,0,0.0,0,0,0,0,54.6,55.8,"Bismarck, ND",57.7,"Bismarck, ND",57.0,55.8,0,47.5818,-100.3336,https://findrehabmap.com/north-dakota/sheridan-county/
+38007,North Dakota,Billings County,1063,81250,0,0.0,0,0,0,0,25.9,49.7,"Arnegard, ND",119.5,"Bismarck, ND",25.9,49.7,0,47.0034,-103.3063,https://findrehabmap.com/north-dakota/billings-county/
+38087,North Dakota,Slope County,660,62500,0,0.0,0,0,0,0,44.0,90.1,"Arnegard, ND",127.5,"Bismarck, ND",44.0,77.8,0,46.4184,-103.4162,https://findrehabmap.com/north-dakota/slope-county/

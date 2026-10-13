@@ -1,0 +1,121 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+21111,Kentucky,Jefferson County,793881,67849,62,7.8,10,9,19,41,0.6,1.8,"Louisville, KY",2.3,"Louisville, KY",0.6,0.7,98,38.2015,-85.6862,https://findrehabmap.com/kentucky/jefferson-county/
+21067,Kentucky,Fayette County,329437,67631,38,11.5,0,8,17,28,1.0,9.7,"Nicholasville, KY",1.8,"Lexington, KY",1.0,2.8,79,38.0203,-84.4944,https://findrehabmap.com/kentucky/fayette-county/
+21117,Kentucky,Kenton County,174862,79421,19,10.9,4,8,12,15,0.9,0.9,"Fort Mitchell, KY",3.2,"Elsmere, KY",0.9,1.7,123,39.0111,-84.5491,https://findrehabmap.com/kentucky/kenton-county/
+21227,Kentucky,Warren County,147936,64801,20,13.5,3,1,10,16,0.2,2.4,"Bowling Green, KY",3.1,"Bowling Green, KY",0.2,1.5,26,36.967,-86.4358,https://findrehabmap.com/kentucky/warren-county/
+21015,Kentucky,Boone County,144135,94752,6,4.2,0,0,2,2,2.2,4.2,"Erlanger, KY",4.2,"Erlanger, KY",2.5,7.8,97,38.9849,-84.679,https://findrehabmap.com/kentucky/boone-county/
+21093,Kentucky,Hardin County,112826,67608,19,16.8,5,1,8,17,2.6,2.6,"Elizabethtown, KY",4.7,"Elizabethtown, KY",2.6,2.6,26,37.7436,-85.9159,https://findrehabmap.com/kentucky/hardin-county/
+21059,Kentucky,Daviess County,104457,65323,13,12.4,1,2,4,9,0.5,1.7,"Owensboro, KY",1.7,"Owensboro, KY",1.7,1.8,22,37.7474,-87.0951,https://findrehabmap.com/kentucky/daviess-county/
+21151,Kentucky,Madison County,99582,62407,8,8.0,1,2,2,6,1.9,4.4,"Richmond, KY",3.7,"Richmond, KY",1.9,4.4,39,37.7069,-84.2867,https://findrehabmap.com/kentucky/madison-county/
+21037,Kentucky,Campbell County,94008,77271,5,5.3,1,0,2,1,0.8,2.3,"Fort Thomas, KY",4.3,"Covington, KY",2.3,2.1,128,39.0324,-84.4393,https://findrehabmap.com/kentucky/campbell-county/
+21029,Kentucky,Bullitt County,85802,77640,4,4.7,0,0,1,4,4.1,12.0,"Louisville, KY",10.2,"Louisville, KY",4.1,6.7,104,38.0238,-85.6518,https://findrehabmap.com/kentucky/bullitt-county/
+21047,Kentucky,Christian County,71006,54190,12,16.9,1,1,6,8,1.6,4.9,"Hopkinsville, KY",1.7,"Hopkinsville, KY",1.6,2.1,21,36.809,-87.4778,https://findrehabmap.com/kentucky/christian-county/
+21185,Kentucky,Oldham County,70525,121491,3,4.3,0,1,1,2,3.6,7.5,"Louisville, KY",5.0,"La Grange, KY",3.6,9.3,86,38.3726,-85.4592,https://findrehabmap.com/kentucky/oldham-county/
+21145,Kentucky,McCracken County,67550,62385,13,19.2,0,1,6,9,0.2,43.7,"Anna, IL",3.2,"Paducah, KY",0.9,1.1,22,37.0493,-88.6499,https://findrehabmap.com/kentucky/mccracken-county/
+21199,Kentucky,Pulaski County,66842,50943,11,16.5,1,4,4,6,0.4,0.9,"Somerset, KY",0.4,"Somerset, KY",0.5,0.5,16,37.0922,-84.6144,https://findrehabmap.com/kentucky/pulaski-county/
+21125,Kentucky,Laurel County,63353,56999,15,23.7,3,2,8,13,1.0,4.2,"London, KY",4.2,"London, KY",1.1,3.9,32,37.092,-84.0875,https://findrehabmap.com/kentucky/laurel-county/
+21209,Kentucky,Scott County,61700,83660,4,6.5,1,2,3,4,1.6,3.1,"Georgetown, KY",1.7,"Georgetown, KY",1.6,10.5,66,38.2306,-84.5683,https://findrehabmap.com/kentucky/scott-county/
+21113,Kentucky,Jessamine County,56495,74886,7,12.4,3,2,5,6,0.8,0.8,"Nicholasville, KY",0.8,"Nicholasville, KY",0.8,0.8,76,37.8869,-84.5854,https://findrehabmap.com/kentucky/jessamine-county/
+21195,Kentucky,Pike County,55430,42179,13,23.5,2,2,4,10,2.8,8.5,"Pikeville, KY",8.5,"Pikeville, KY",5.3,5.3,34,37.4639,-82.4272,https://findrehabmap.com/kentucky/pike-county/
+21073,Kentucky,Franklin County,52442,66470,7,13.3,0,2,5,6,1.7,10.7,"Lawrenceburg, KY",3.5,"Frankfort, KY",2.0,20.9,51,38.1954,-84.8672,https://findrehabmap.com/kentucky/franklin-county/
+21211,Kentucky,Shelby County,50124,82671,2,4.0,1,1,2,2,1.1,1.1,"Shelbyville, KY",1.1,"Shelbyville, KY",1.1,18.2,43,38.213,-85.2322,https://findrehabmap.com/kentucky/shelby-county/
+21179,Kentucky,Nelson County,48706,67888,4,8.2,2,0,2,4,0.9,1.1,"Bardstown, KY",26.1,"Elizabethtown, KY",1.1,1.1,30,37.8208,-85.4595,https://findrehabmap.com/kentucky/nelson-county/
+21019,Kentucky,Boyd County,47777,60659,15,31.4,2,3,7,13,2.5,3.5,"Ashland, KY",3.5,"Ashland, KY",3.4,3.2,62,38.4322,-82.6663,https://findrehabmap.com/kentucky/boyd-county/
+21009,Kentucky,Barren County,45609,49171,5,11.0,0,1,3,4,1.0,22.6,"Scottsville, KY",1.2,"Glasgow, KY",1.0,22.6,15,36.9953,-85.9322,https://findrehabmap.com/kentucky/barren-county/
+21107,Kentucky,Hopkins County,45218,57610,5,11.1,0,1,2,4,1.8,37.1,"Beaver Dam, KY",2.0,"Madisonville, KY",1.8,29.6,16,37.3089,-87.522,https://findrehabmap.com/kentucky/hopkins-county/
+21101,Kentucky,Henderson County,44175,58239,6,13.6,2,3,2,4,1.3,2.1,"Henderson, KY",2.1,"Henderson, KY",2.1,10.1,41,37.818,-87.5645,https://findrehabmap.com/kentucky/henderson-county/
+21035,Kentucky,Calloway County,38975,51854,5,12.8,0,0,3,5,0.7,47.1,"Palmyra, TN",20.8,"Paris, TN",0.7,10.9,14,36.621,-88.3061,https://findrehabmap.com/kentucky/calloway-county/
+21049,Kentucky,Clark County,37673,67824,8,21.2,0,1,3,5,0.4,14.2,"Mount Sterling, KY",1.5,"Winchester, KY",0.5,14.2,72,37.9864,-84.1828,https://findrehabmap.com/kentucky/clark-county/
+21235,Kentucky,Whitley County,37233,41719,7,18.8,0,1,0,7,4.6,10.2,"Corbin, KY",6.9,"Corbin, KY",10.2,6.9,33,36.8141,-84.1415,https://findrehabmap.com/kentucky/whitley-county/
+21083,Kentucky,Graves County,36821,50576,5,13.6,0,0,0,4,0.7,60.0,"Anna, IL",22.8,"Paducah, KY",12.3,1.1,25,36.7422,-88.6507,https://findrehabmap.com/kentucky/graves-county/
+21089,Kentucky,Greenup County,35273,59613,3,8.5,0,0,3,3,1.9,4.8,"Ironton, OH",8.0,"Ironton, OH",1.9,4.8,61,38.5544,-82.8092,https://findrehabmap.com/kentucky/greenup-county/
+21071,Kentucky,Floyd County,34532,41582,11,31.9,0,3,4,9,4.7,9.9,"Pikeville, KY",7.7,"Prestonsburg, KY",7.3,7.5,39,37.5586,-82.7396,https://findrehabmap.com/kentucky/floyd-county/
+21157,Kentucky,Marshall County,31734,63611,2,6.3,0,0,0,1,2.0,49.5,"Hopkinsville, KY",23.3,"Paducah, KY",11.6,11.6,25,36.897,-88.34,https://findrehabmap.com/kentucky/marshall-county/
+21021,Kentucky,Boyle County,31394,61635,4,12.7,0,0,2,4,1.4,20.9,"Nicholasville, KY",21.1,"Nicholasville, KY",1.5,1.4,16,37.6379,-84.7968,https://findrehabmap.com/kentucky/boyle-county/
+21177,Kentucky,Muhlenberg County,30512,52672,5,16.4,0,0,2,3,3.2,20.0,"Beaver Dam, KY",20.0,"Beaver Dam, KY",3.4,15.4,14,37.2381,-87.1462,https://findrehabmap.com/kentucky/muhlenberg-county/
+21163,Kentucky,Meade County,30442,70163,1,3.3,0,0,0,1,4.8,18.4,"Corydon, IN",20.2,"Louisville, KY",11.0,11.9,35,37.9344,-86.1346,https://findrehabmap.com/kentucky/meade-county/
+21121,Kentucky,Knox County,29657,33153,7,23.6,2,2,3,6,3.1,8.7,"Corbin, KY",9.4,"Corbin, KY",4.4,10.8,35,36.9027,-83.9211,https://findrehabmap.com/kentucky/knox-county/
+21173,Kentucky,Montgomery County,28771,57468,3,10.4,1,0,3,3,1.2,3.0,"Mount Sterling, KY",15.6,"Winchester, KY",1.2,1.2,23,38.038,-83.9182,https://findrehabmap.com/kentucky/montgomery-county/
+21141,Kentucky,Logan County,28467,61535,1,3.5,0,0,0,1,2.4,21.7,"Bowling Green, KY",24.5,"Springfield, TN",21.7,21.7,16,36.86,-86.8628,https://findrehabmap.com/kentucky/logan-county/
+21239,Kentucky,Woodford County,27728,80006,1,3.6,0,0,0,1,0.9,10.2,"Lawrenceburg, KY",10.7,"Lexington, KY",9.6,10.7,60,38.0484,-84.7267,https://findrehabmap.com/kentucky/woodford-county/
+21085,Kentucky,Grayson County,27070,49893,4,14.8,0,1,3,3,0.6,15.6,"Mammoth Cave, KY",0.6,"Leitchfield, KY",0.6,15.6,8,37.4713,-86.3046,https://findrehabmap.com/kentucky/grayson-county/
+21217,Kentucky,Taylor County,26809,61871,5,18.7,1,2,2,3,0.7,1.1,"Campbellsville, KY",1.1,"Campbellsville, KY",1.1,0.9,13,37.3503,-85.3425,https://findrehabmap.com/kentucky/taylor-county/
+21193,Kentucky,Perry County,26739,45261,12,44.9,0,2,6,11,1.2,19.5,"Pippa Passes, KY",1.9,"Hazard, KY",1.7,1.9,31,37.2588,-83.2003,https://findrehabmap.com/kentucky/perry-county/
+21043,Kentucky,Carter County,26098,50389,7,26.8,0,0,5,7,4.9,24.5,"Ashland, KY",21.2,"Morehead, KY",4.9,6.8,37,38.3141,-83.0349,https://findrehabmap.com/kentucky/carter-county/
+21081,Kentucky,Grant County,25722,67940,2,7.8,0,0,1,2,3.0,22.2,"Erlanger, KY",15.2,"Independence, KY",3.2,16.4,22,38.6892,-84.6029,https://findrehabmap.com/kentucky/grant-county/
+21095,Kentucky,Harlan County,25052,37198,4,16.0,0,0,1,3,5.4,34.4,"Oneida, KY",28.4,"Hazard, KY",5.5,17.1,12,36.8661,-83.2338,https://findrehabmap.com/kentucky/harlan-county/
+21137,Kentucky,Lincoln County,24910,50862,1,4.0,0,0,1,1,5.1,27.0,"Somerset, KY",22.2,"Berea, KY",5.1,13.1,12,37.4734,-84.6704,https://findrehabmap.com/kentucky/lincoln-county/
+21005,Kentucky,Anderson County,24883,71747,2,8.0,1,0,1,1,1.3,1.3,"Lawrenceburg, KY",8.6,"Frankfort, KY",1.4,17.4,57,38.028,-84.9257,https://findrehabmap.com/kentucky/anderson-county/
+21205,Kentucky,Rowan County,24675,53657,8,32.4,0,3,5,6,0.9,29.4,"Mount Sterling, KY",2.4,"Morehead, KY",0.9,2.4,20,38.1948,-83.4443,https://findrehabmap.com/kentucky/rowan-county/
+21183,Kentucky,Ohio County,23933,54369,2,8.4,1,1,1,2,2.6,3.3,"Beaver Dam, KY",3.3,"Beaver Dam, KY",3.3,19.6,16,37.4645,-86.8648,https://findrehabmap.com/kentucky/ohio-county/
+21167,Kentucky,Mercer County,23515,63115,1,4.3,0,0,0,1,0.9,15.5,"Willisburg, KY",16.7,"Nicholasville, KY",11.7,0.9,36,37.785,-84.8489,https://findrehabmap.com/kentucky/mercer-county/
+21013,Kentucky,Bell County,23051,32403,5,21.7,0,0,2,5,4.4,27.3,"Washburn, TN",28.1,"Corbin, KY",4.4,28.1,14,36.6808,-83.7044,https://findrehabmap.com/kentucky/bell-county/
+21115,Kentucky,Johnson County,22098,43014,6,27.2,0,1,0,4,1.3,17.1,"Inez, KY",1.7,"Paintsville, KY",9.6,7.5,32,37.8306,-82.8171,https://findrehabmap.com/kentucky/johnson-county/
+21003,Kentucky,Allen County,22037,59029,2,9.1,1,1,1,2,0.6,0.6,"Scottsville, KY",0.6,"Scottsville, KY",0.6,0.6,31,36.7502,-86.2101,https://findrehabmap.com/kentucky/allen-county/
+21027,Kentucky,Breckinridge County,21221,53673,2,9.4,0,0,0,2,1.7,28.5,"Elizabethtown, KY",21.2,"Leitchfield, KY",21.2,25.9,8,37.7698,-86.4081,https://findrehabmap.com/kentucky/breckinridge-county/
+21215,Kentucky,Spencer County,20823,98333,1,4.8,0,0,1,1,2.3,11.8,"Shelbyville, KY",11.8,"Shelbyville, KY",2.3,10.0,57,38.0631,-85.3503,https://findrehabmap.com/kentucky/spencer-county/
+21213,Kentucky,Simpson County,20350,57392,2,9.8,0,0,0,1,1.4,17.2,"Bowling Green, KY",20.6,"Scottsville, KY",15.6,17.2,31,36.7325,-86.5719,https://findrehabmap.com/kentucky/simpson-county/
+21017,Kentucky,Bourbon County,20333,56322,6,29.5,1,2,2,5,1.3,1.4,"Paris, KY",1.4,"Paris, KY",1.4,1.3,62,38.204,-84.2467,https://findrehabmap.com/kentucky/bourbon-county/
+21133,Kentucky,Letcher County,20139,40501,5,24.8,0,0,4,5,2.2,14.4,"Pippa Passes, KY",24.2,"Hazard, KY",2.2,14.4,37,37.1468,-82.8072,https://findrehabmap.com/kentucky/letcher-county/
+21099,Kentucky,Hart County,19923,49653,3,15.1,0,0,1,3,0.6,15.4,"Mammoth Cave, KY",18.9,"Glasgow, KY",0.7,15.4,15,37.2804,-85.8878,https://findrehabmap.com/kentucky/hart-county/
+21155,Kentucky,Marion County,19851,55404,3,15.1,0,0,0,1,1.2,16.5,"Campbellsville, KY",16.5,"Campbellsville, KY",9.7,1.3,19,37.5701,-85.2844,https://findrehabmap.com/kentucky/marion-county/
+21231,Kentucky,Wayne County,19629,41933,3,15.3,0,0,3,3,0.8,20.9,"Somerset, KY",20.9,"Somerset, KY",0.8,14.1,19,36.8382,-84.846,https://findrehabmap.com/kentucky/wayne-county/
+21051,Kentucky,Clay County,19592,39607,2,10.2,1,0,1,2,2.3,9.2,"Oneida, KY",16.1,"London, KY",9.2,9.2,28,37.169,-83.7501,https://findrehabmap.com/kentucky/clay-county/
+21097,Kentucky,Harrison County,19525,63205,2,10.2,0,0,1,2,1.8,14.6,"Paris, KY",14.5,"Paris, KY",2.6,14.0,16,38.4141,-84.3143,https://findrehabmap.com/kentucky/harrison-county/
+21001,Kentucky,Adair County,19239,50316,3,15.6,0,0,2,3,1.4,16.5,"Campbellsville, KY",16.5,"Campbellsville, KY",1.6,13.1,12,37.1075,-85.2797,https://findrehabmap.com/kentucky/adair-county/
+21207,Kentucky,Russell County,18458,50520,1,5.4,0,0,1,1,1.6,24.1,"Somerset, KY",24.1,"Somerset, KY",1.6,1.6,19,37.0308,-85.0585,https://findrehabmap.com/kentucky/russell-county/
+21079,Kentucky,Garrard County,18040,62572,1,5.5,0,0,1,1,6.7,16.1,"Nicholasville, KY",16.3,"Nicholasville, KY",6.7,6.7,33,37.6503,-84.5752,https://findrehabmap.com/kentucky/garrard-county/
+21161,Kentucky,Mason County,16956,51473,4,23.6,0,1,2,4,1.9,17.1,"West Union, OH",2.5,"Maysville, KY",2.5,13.7,12,38.6165,-83.7891,https://findrehabmap.com/kentucky/mason-county/
+21147,Kentucky,McCreary County,16824,37355,2,11.9,0,0,2,2,2.0,14.9,"Oneida, TN",13.6,"Oneida, TN",2.0,14.9,17,36.713,-84.4474,https://findrehabmap.com/kentucky/mccreary-county/
+21203,Kentucky,Rockcastle County,16226,48367,1,6.2,0,0,0,1,2.1,20.4,"London, KY",14.4,"Berea, KY",20.4,20.4,22,37.3809,-84.3512,https://findrehabmap.com/kentucky/rockcastle-county/
+21103,Kentucky,Henry County,16198,60736,0,0.0,0,0,0,0,10.8,15.4,"Shelbyville, KY",10.8,"La Grange, KY",12.1,19.9,21,38.4314,-85.1808,https://findrehabmap.com/kentucky/henry-county/
+21045,Kentucky,Casey County,15948,41689,1,6.3,0,0,1,1,1.2,22.3,"Somerset, KY",22.0,"Somerset, KY",1.2,21.6,22,37.3016,-84.926,https://findrehabmap.com/kentucky/casey-county/
+21127,Kentucky,Lawrence County,15798,45584,9,57.0,0,0,4,7,3.0,18.5,"Inez, KY",19.9,"Paintsville, KY",3.0,3.9,29,38.081,-82.6775,https://findrehabmap.com/kentucky/lawrence-county/
+21069,Kentucky,Fleming County,15591,49663,2,12.8,0,1,2,2,2.9,28.7,"West Union, OH",3.3,"Flemingsburg, KY",2.9,3.3,16,38.3889,-83.7097,https://findrehabmap.com/kentucky/fleming-county/
+21123,Kentucky,Larue County,15128,67770,1,6.6,0,0,0,1,0.8,13.4,"Elizabethtown, KY",13.4,"Elizabethtown, KY",13.4,13.8,28,37.5428,-85.7232,https://findrehabmap.com/kentucky/larue-county/
+21191,Kentucky,Pendleton County,14844,66601,1,6.7,0,0,1,1,3.0,23.7,"Fort Mitchell, KY",16.7,"Independence, KY",3.0,21.1,21,38.7153,-84.3592,https://findrehabmap.com/kentucky/pendleton-county/
+21221,Kentucky,Trigg County,14559,54630,1,6.9,0,0,0,1,1.7,21.6,"Hopkinsville, KY",19.8,"Hopkinsville, KY",18.0,18.0,17,36.8455,-87.8349,https://findrehabmap.com/kentucky/trigg-county/
+21175,Kentucky,Morgan County,14300,47493,2,14.0,0,0,1,2,0.9,36.0,"Mount Sterling, KY",18.4,"Morehead, KY",0.9,18.4,20,37.9145,-83.269,https://findrehabmap.com/kentucky/morgan-county/
+21065,Kentucky,Estill County,14002,43905,1,7.1,0,0,1,1,1.0,18.1,"Richmond, KY",15.6,"Richmond, KY",1.0,18.1,31,37.7071,-83.9918,https://findrehabmap.com/kentucky/estill-county/
+21119,Kentucky,Knott County,13438,37736,8,59.5,1,0,4,7,2.3,4.5,"Pippa Passes, KY",14.9,"Hazard, KY",3.3,4.5,33,37.329,-82.9424,https://findrehabmap.com/kentucky/knott-county/
+21109,Kentucky,Jackson County,13358,41410,1,7.5,0,0,0,1,3.4,19.1,"London, KY",17.3,"London, KY",18.6,18.6,23,37.4006,-83.9924,https://findrehabmap.com/kentucky/jackson-county/
+21225,Kentucky,Union County,13178,60989,1,7.6,0,0,1,1,2.5,23.0,"Henderson, KY",23.0,"Henderson, KY",2.5,29.4,11,37.6523,-87.9299,https://findrehabmap.com/kentucky/union-county/
+21011,Kentucky,Bath County,12951,54128,2,15.4,0,0,1,2,1.1,14.0,"Mount Sterling, KY",15.2,"Morehead, KY",1.2,11.9,18,38.1385,-83.7406,https://findrehabmap.com/kentucky/bath-county/
+21197,Kentucky,Powell County,12928,39811,2,15.5,0,0,1,2,1.2,10.2,"Mount Sterling, KY",20.4,"Winchester, KY",1.2,10.2,32,37.8507,-83.8805,https://findrehabmap.com/kentucky/powell-county/
+21135,Kentucky,Lewis County,12875,41632,1,7.8,0,0,1,1,3.2,19.2,"West Union, OH",19.0,"West Union, OH",3.2,17.5,27,38.5641,-83.3505,https://findrehabmap.com/kentucky/lewis-county/
+21233,Kentucky,Webster County,12854,58786,2,15.6,0,0,1,1,3.5,24.2,"Henderson, KY",15.6,"Madisonville, KY",8.5,32.5,15,37.5024,-87.6819,https://findrehabmap.com/kentucky/webster-county/
+21025,Kentucky,Breathitt County,12804,41101,4,31.2,0,0,3,4,1.8,22.6,"Oneida, KY",18.4,"Hazard, KY",1.8,18.6,32,37.5187,-83.3774,https://findrehabmap.com/kentucky/breathitt-county/
+21219,Kentucky,Todd County,12757,57759,0,0.0,0,0,0,0,15.1,16.9,"Clarksville, TN",16.8,"Hopkinsville, KY",16.8,15.6,21,36.8121,-87.1732,https://findrehabmap.com/kentucky/todd-county/
+21061,Kentucky,Edmonson County,12635,54512,2,15.8,1,0,2,1,0.7,7.2,"Mammoth Cave, KY",15.6,"Bowling Green, KY",0.7,7.2,35,37.1923,-86.2533,https://findrehabmap.com/kentucky/edmonson-county/
+21033,Kentucky,Caldwell County,12611,57618,4,31.7,0,0,1,2,1.2,35.1,"Hopkinsville, KY",25.3,"Madisonville, KY",2.4,26.4,6,37.1255,-87.8788,https://findrehabmap.com/kentucky/caldwell-county/
+21031,Kentucky,Butler County,12551,52003,2,15.9,0,0,2,2,0.7,17.1,"Beaver Dam, KY",17.1,"Beaver Dam, KY",0.7,11.2,24,37.2175,-86.6777,https://findrehabmap.com/kentucky/butler-county/
+21229,Kentucky,Washington County,12269,59762,5,40.8,1,0,4,5,4.4,5.8,"Willisburg, KY",29.0,"Campbellsville, KY",4.4,4.4,17,37.7382,-85.1928,https://findrehabmap.com/kentucky/washington-county/
+21087,Kentucky,Green County,11552,41087,1,8.7,0,0,1,1,1.7,11.2,"Campbellsville, KY",11.2,"Campbellsville, KY",1.7,12.0,14,37.266,-85.5389,https://findrehabmap.com/kentucky/green-county/
+21187,Kentucky,Owen County,11435,59706,2,17.5,0,0,1,1,0.9,27.9,"Georgetown, KY",20.9,"Carrollton, KY",0.9,0.9,12,38.531,-84.831,https://findrehabmap.com/kentucky/owen-county/
+21171,Kentucky,Monroe County,11163,49430,1,9.0,0,0,1,1,1.9,26.5,"Scottsville, KY",23.3,"Glasgow, KY",1.9,26.5,9,36.7078,-85.7234,https://findrehabmap.com/kentucky/monroe-county/
+21153,Kentucky,Magoffin County,11118,33632,1,9.0,0,0,0,1,0.9,28.5,"Pippa Passes, KY",15.0,"Paintsville, KY",16.1,15.8,23,37.7334,-83.0571,https://findrehabmap.com/kentucky/magoffin-county/
+21041,Kentucky,Carroll County,11111,57753,4,36.0,0,1,2,3,1.0,31.9,"Shelbyville, KY",1.6,"Carrollton, KY",1.0,15.5,13,38.6692,-85.1407,https://findrehabmap.com/kentucky/carroll-county/
+21159,Kentucky,Martin County,10696,46185,2,18.7,1,0,0,2,1.2,1.3,"Inez, KY",15.5,"Paintsville, KY",15.6,1.3,40,37.8355,-82.517,https://findrehabmap.com/kentucky/martin-county/
+21169,Kentucky,Metcalfe County,10558,48572,1,9.5,0,0,1,1,0.1,28.7,"Campbellsville, KY",15.3,"Glasgow, KY",0.1,29.1,14,36.991,-85.641,https://findrehabmap.com/kentucky/metcalfe-county/
+21131,Kentucky,Leslie County,9729,40176,2,20.6,0,0,2,2,2.7,16.6,"Oneida, KY",13.9,"Hazard, KY",2.7,10.5,19,37.1157,-83.376,https://findrehabmap.com/kentucky/leslie-county/
+21053,Kentucky,Clinton County,9183,42168,2,21.8,0,0,1,2,2.4,37.3,"Oneida, TN",37.6,"Oneida, TN",3.0,20.7,8,36.7159,-85.1345,https://findrehabmap.com/kentucky/clinton-county/
+21149,Kentucky,McLean County,9126,70549,1,11.0,0,0,0,0,2.6,18.1,"Owensboro, KY",18.1,"Owensboro, KY",15.7,19.1,27,37.5155,-87.2214,https://findrehabmap.com/kentucky/mclean-county/
+21143,Kentucky,Lyon County,9078,64464,0,0.0,0,0,0,0,9.5,40.6,"Hopkinsville, KY",34.3,"Paducah, KY",9.5,29.4,7,37.0655,-88.0795,https://findrehabmap.com/kentucky/lyon-county/
+21091,Kentucky,Hancock County,9013,66836,1,11.1,0,0,1,1,6.6,13.3,"Rockport, IN",15.8,"Owensboro, KY",6.6,13.3,19,37.8685,-86.8051,https://findrehabmap.com/kentucky/hancock-county/
+21055,Kentucky,Crittenden County,8982,47003,0,0.0,0,0,0,0,18.4,45.0,"Henderson, KY",32.8,"Madisonville, KY",18.4,33.3,5,37.3322,-88.095,https://findrehabmap.com/kentucky/crittenden-county/
+21139,Kentucky,Livingston County,8815,59713,0,0.0,0,0,0,0,12.9,54.3,"Anna, IL",19.8,"Paducah, KY",14.0,15.1,17,37.1331,-88.3514,https://findrehabmap.com/kentucky/livingston-county/
+21077,Kentucky,Gallatin County,8805,62247,1,11.4,0,0,1,1,3.5,21.1,"Erlanger, KY",18.4,"Independence, KY",3.5,15.4,29,38.7649,-84.8416,https://findrehabmap.com/kentucky/gallatin-county/
+21223,Kentucky,Trimble County,8591,67813,0,0.0,0,0,0,0,9.2,21.6,"Henryville, IN",9.7,"Carrollton, KY",9.7,10.5,14,38.6193,-85.3321,https://findrehabmap.com/kentucky/trimble-county/
+21023,Kentucky,Bracken County,8497,59521,0,0.0,0,0,0,0,14.2,14.4,"Georgetown, OH",14.5,"Georgetown, OH",14.2,24.7,12,38.7012,-84.0727,https://findrehabmap.com/kentucky/bracken-county/
+21181,Kentucky,Nicholas County,7816,53616,0,0.0,0,0,0,0,13.7,15.8,"Paris, KY",15.8,"Flemingsburg, KY",15.3,13.7,23,38.3246,-84.023,https://findrehabmap.com/kentucky/nicholas-county/
+21007,Kentucky,Ballard County,7626,64740,0,0.0,0,0,0,0,15.3,32.9,"Anna, IL",15.3,"Paducah, KY",15.3,19.0,17,37.0436,-88.977,https://findrehabmap.com/kentucky/ballard-county/
+21129,Kentucky,Lee County,7313,34182,2,27.3,0,0,2,2,0.4,23.6,"Oneida, KY",32.2,"Berea, KY",0.4,23.6,18,37.5907,-83.7027,https://findrehabmap.com/kentucky/lee-county/
+21063,Kentucky,Elliott County,7263,40074,1,13.8,0,0,1,1,2.3,35.5,"Ashland, KY",17.0,"Morehead, KY",2.3,12.6,19,38.123,-83.1087,https://findrehabmap.com/kentucky/elliott-county/
+21237,Kentucky,Wolfe County,6364,29052,7,110.0,0,0,6,7,2.0,28.6,"Mount Sterling, KY",28.9,"Morehead, KY",2.6,28.6,19,37.7398,-83.5097,https://findrehabmap.com/kentucky/wolfe-county/
+21165,Kentucky,Menifee County,6341,44672,1,15.8,0,0,1,1,1.7,18.1,"Mount Sterling, KY",17.2,"Morehead, KY",1.7,17.2,25,37.9453,-83.596,https://findrehabmap.com/kentucky/menifee-county/
+21075,Kentucky,Fulton County,6282,36834,0,0.0,0,0,0,0,6.8,59.2,"Cape Girardeau, MO",8.5,"Union City, TN",7.8,16.7,7,36.5381,-89.0371,https://findrehabmap.com/kentucky/fulton-county/
+21057,Kentucky,Cumberland County,6047,39662,0,0.0,0,0,0,0,15.8,38.5,"Campbellsville, KY",33.1,"Glasgow, KY",15.8,23.5,8,36.7824,-85.3897,https://findrehabmap.com/kentucky/cumberland-county/
+21039,Kentucky,Carlisle County,4777,62019,0,0.0,0,0,0,0,17.6,45.0,"Cape Girardeau, MO",20.1,"Paducah, KY",20.1,17.6,20,36.8556,-88.9463,https://findrehabmap.com/kentucky/carlisle-county/
+21105,Kentucky,Hickman County,4393,63750,0,0.0,0,0,0,0,16.5,54.3,"Cape Girardeau, MO",17.9,"Union City, TN",17.3,18.1,11,36.6644,-88.9566,https://findrehabmap.com/kentucky/hickman-county/
+21189,Kentucky,Owsley County,3928,31064,0,0.0,0,0,0,0,9.3,14.1,"Oneida, KY",28.0,"Hazard, KY",9.3,14.1,17,37.4524,-83.6848,https://findrehabmap.com/kentucky/owsley-county/
+21201,Kentucky,Robertson County,2382,52337,0,0.0,0,0,0,0,16.1,24.7,"Georgetown, OH",17.4,"Flemingsburg, KY",16.5,17.4,16,38.5209,-84.051,https://findrehabmap.com/kentucky/robertson-county/

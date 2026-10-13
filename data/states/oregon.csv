@@ -1,0 +1,37 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+41051,Oregon,Multnomah County,795897,86247,39,4.9,2,11,17,25,0.5,1.6,"Portland, OR",1.6,"Portland, OR",1.1,1.6,97,45.5179,-122.5912,https://findrehabmap.com/oregon/multnomah-county/
+41067,Oregon,Washington County,611272,104434,24,3.9,2,1,9,17,0.2,4.3,"Beaverton, OR",5.4,"Tigard, OR",3.9,4.5,101,45.4861,-122.8709,https://findrehabmap.com/oregon/washington-county/
+41005,Oregon,Clackamas County,425857,100360,15,3.5,0,1,7,12,1.5,8.0,"Portland, OR",2.8,"Milwaukie, OR",1.5,8.0,96,45.3634,-122.575,https://findrehabmap.com/oregon/clackamas-county/
+41039,Oregon,Lane County,382396,69311,30,7.8,3,6,9,26,0.7,1.2,"Eugene, OR",0.7,"Eugene, OR",0.7,1.2,29,44.0396,-123.1192,https://findrehabmap.com/oregon/lane-county/
+41047,Oregon,Marion County,352867,74624,18,5.1,1,6,8,10,1.3,11.8,"Jefferson, OR",2.6,"Salem, OR",1.3,11.8,27,44.9601,-122.9559,https://findrehabmap.com/oregon/marion-county/
+41029,Oregon,Jackson County,221331,71443,8,3.6,0,2,3,5,1.0,52.1,"Fort Jones, CA",1.0,"Medford, OR",1.0,2.5,12,42.3478,-122.8586,https://findrehabmap.com/oregon/jackson-county/
+41017,Oregon,Deschutes County,211535,87640,18,8.5,1,1,6,11,0.6,5.1,"Bend, OR",1.6,"Bend, OR",1.6,4.1,18,44.091,-121.3062,https://findrehabmap.com/oregon/deschutes-county/
+41043,Oregon,Linn County,132474,73396,6,4.5,0,1,1,6,7.1,17.0,"Jefferson, OR",9.2,"Albany, OR",9.2,15.2,12,44.5563,-122.9595,https://findrehabmap.com/oregon/linn-county/
+41019,Oregon,Douglas County,112255,58983,7,6.2,2,1,5,6,0.6,1.5,"Roseburg, OR",2.9,"Roseburg, OR",1.5,1.5,7,43.24,-123.3888,https://findrehabmap.com/oregon/douglas-county/
+41071,Oregon,Yamhill County,110886,87084,5,4.5,1,0,5,4,3.4,10.0,"Newberg, OR",20.1,"Salem, OR",3.4,3.4,44,45.2395,-123.137,https://findrehabmap.com/oregon/yamhill-county/
+41003,Oregon,Benton County,98899,76011,3,3.0,0,0,0,3,0.8,19.6,"Jefferson, OR",9.4,"Albany, OR",9.4,0.8,11,44.5731,-123.2751,https://findrehabmap.com/oregon/benton-county/
+41053,Oregon,Polk County,90549,81318,1,1.1,0,1,1,1,5.2,12.2,"Jefferson, OR",5.2,"Monmouth, OR",5.2,12.2,28,44.9209,-123.2081,https://findrehabmap.com/oregon/polk-county/
+41033,Oregon,Josephine County,88276,59097,6,6.8,0,1,2,5,2.1,56.0,"Roseburg, OR",5.1,"Grants Pass, OR",3.3,2.7,6,42.4044,-123.3852,https://findrehabmap.com/oregon/josephine-county/
+41059,Oregon,Umatilla County,80491,68958,11,13.7,0,1,5,11,12.0,91.9,"Yakima, WA",12.0,"Pendleton, OR",12.0,12.7,10,45.8012,-118.9675,https://findrehabmap.com/oregon/umatilla-county/
+41035,Oregon,Klamath County,70438,59353,6,8.5,1,1,4,6,3.9,4.3,"Klamath Falls, OR",4.6,"Klamath Falls, OR",3.9,4.3,6,42.2859,-121.7268,https://findrehabmap.com/oregon/klamath-county/
+41011,Oregon,Coos County,64326,60313,6,9.3,2,1,2,4,5.6,6.8,"North Bend, OR",7.0,"North Bend, OR",6.8,43.9,6,43.3055,-124.2324,https://findrehabmap.com/oregon/coos-county/
+41009,Oregon,Columbia County,54063,86359,3,5.5,0,0,0,3,5.8,16.4,"Longview, WA",17.6,"Kelso, WA",16.4,6.3,34,45.89,-122.9294,https://findrehabmap.com/oregon/columbia-county/
+41041,Oregon,Lincoln County,51212,61314,7,13.7,0,0,1,6,4.8,48.1,"Jefferson, OR",38.6,"Monmouth, OR",4.8,37.6,7,44.7137,-124.002,https://findrehabmap.com/oregon/lincoln-county/
+41007,Oregon,Clatsop County,41043,68705,4,9.7,1,2,2,2,6.1,6.1,"Astoria, OR",9.3,"Seaside, OR",6.1,6.1,6,46.0989,-123.841,https://findrehabmap.com/oregon/clatsop-county/
+41045,Oregon,Malheur County,32315,49902,6,18.6,0,0,1,6,4.7,42.8,"Meridian, ID",38.0,"Nampa, ID",6.0,6.0,10,43.9754,-117.0611,https://findrehabmap.com/oregon/malheur-county/
+41013,Oregon,Crook County,27336,81675,3,11.0,0,0,2,3,1.4,25.6,"Bend, OR",27.3,"Bend, OR",1.9,1.9,9,44.2836,-120.8436,https://findrehabmap.com/oregon/crook-county/
+41057,Oregon,Tillamook County,27264,66551,1,3.7,0,0,0,1,1.4,44.9,"Newberg, OR",35.3,"Seaside, OR",35.3,36.8,1,45.4695,-123.8585,https://findrehabmap.com/oregon/tillamook-county/
+41065,Oregon,Wasco County,26507,63602,1,3.8,0,0,1,1,4.4,64.8,"Portland, OR",62.5,"Portland, OR",4.4,18.8,4,45.5415,-121.2041,https://findrehabmap.com/oregon/wasco-county/
+41061,Oregon,Union County,26058,64212,2,7.7,0,0,1,2,3.0,144.6,"Meridian, ID",44.4,"Pendleton, OR",3.0,28.8,2,45.3416,-118.0182,https://findrehabmap.com/oregon/union-county/
+41031,Oregon,Jefferson County,25536,73051,1,3.9,0,0,1,1,3.6,38.2,"Bend, OR",36.6,"Bend, OR",3.6,20.9,6,44.5915,-121.1904,https://findrehabmap.com/oregon/jefferson-county/
+41027,Oregon,Hood River County,23764,82095,2,8.4,0,0,1,2,3.4,48.7,"Portland, OR",46.2,"Portland, OR",3.4,3.4,3,45.659,-121.5657,https://findrehabmap.com/oregon/hood-river-county/
+41015,Oregon,Curry County,22774,64769,0,0.0,0,0,0,0,33.6,60.1,"Bandon, OR",53.5,"Grants Pass, OR",52.6,51.9,0,42.2519,-124.328,https://findrehabmap.com/oregon/curry-county/
+41001,Oregon,Baker County,16750,57844,0,0.0,0,0,0,0,40.8,106.3,"Meridian, ID",79.7,"Pendleton, OR",40.8,47.0,0,44.78,-117.7621,https://findrehabmap.com/oregon/baker-county/
+41049,Oregon,Morrow County,12360,70217,2,16.2,0,0,0,2,7.6,72.9,"Yakima, WA",39.0,"Richland, WA",17.4,40.4,5,45.7391,-119.6173,https://findrehabmap.com/oregon/morrow-county/
+41037,Oregon,Lake County,8194,61222,2,24.4,0,0,0,2,20.9,67.8,"Klamath Falls, OR",67.7,"Klamath Falls, OR",65.4,65.4,1,42.4784,-120.4764,https://findrehabmap.com/oregon/lake-county/
+41063,Oregon,Wallowa County,7522,65559,4,53.2,0,0,1,4,1.4,134.7,"Meridian, ID",74.3,"Pendleton, OR",1.4,1.8,4,45.4433,-117.3056,https://findrehabmap.com/oregon/wallowa-county/
+41025,Oregon,Harney County,7402,48338,1,13.5,0,0,1,1,5.7,117.6,"Bend, OR",120.9,"Nampa, ID",5.7,5.7,1,43.5216,-118.9869,https://findrehabmap.com/oregon/harney-county/
+41023,Oregon,Grant County,7093,59800,1,14.1,0,0,0,1,3.9,113.9,"Bend, OR",84.6,"Pendleton, OR",61.6,61.6,1,44.4515,-119.0036,https://findrehabmap.com/oregon/grant-county/
+41055,Oregon,Sherman County,2002,59500,1,50.0,0,0,0,1,5.3,75.0,"Yakima, WA",75.1,"Yakima, WA",24.2,40.6,2,45.5184,-120.7215,https://findrehabmap.com/oregon/sherman-county/
+41021,Oregon,Gilliam County,1971,64219,1,50.7,0,0,0,1,14.5,80.5,"Yakima, WA",69.0,"Pendleton, OR",50.0,66.3,1,45.4496,-120.197,https://findrehabmap.com/oregon/gilliam-county/
+41069,Oregon,Wheeler County,1456,51250,1,68.7,0,0,0,1,12.7,78.9,"Bend, OR",80.1,"Bend, OR",52.8,52.8,1,44.8371,-120.0888,https://findrehabmap.com/oregon/wheeler-county/

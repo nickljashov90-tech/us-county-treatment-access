@@ -1,0 +1,56 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+54039,West Virginia,Kanawha County,173906,58887,22,12.7,4,3,9,18,0.5,0.8,"Charleston, WV",5.2,"Charleston, WV",0.5,2.0,28,38.3633,-81.6582,https://findrehabmap.com/west-virginia/kanawha-county/
+54003,West Virginia,Berkeley County,136287,77329,10,7.3,3,3,6,8,0.9,1.0,"Martinsburg, WV",1.3,"Martinsburg, WV",1.0,1.2,48,39.4588,-77.9812,https://findrehabmap.com/west-virginia/berkeley-county/
+54061,West Virginia,Monongalia County,108697,62704,10,9.2,3,1,5,6,1.3,1.3,"Morgantown, WV",2.2,"Morgantown, WV",1.3,1.3,31,39.6365,-79.9568,https://findrehabmap.com/west-virginia/monongalia-county/
+54011,West Virginia,Cabell County,91489,52828,14,15.3,2,2,9,13,1.3,4.3,"Barboursville, WV",4.3,"Barboursville, WV",1.3,2.1,49,38.4136,-82.3352,https://findrehabmap.com/west-virginia/cabell-county/
+54107,West Virginia,Wood County,82757,56193,7,8.5,1,3,4,6,0.6,11.3,"Marietta, OH",1.5,"Parkersburg, WV",0.6,1.6,19,39.267,-81.5306,https://findrehabmap.com/west-virginia/wood-county/
+54081,West Virginia,Raleigh County,72379,52055,6,8.3,2,1,3,3,0.5,0.5,"Beckley, WV",5.0,"Beaver, WV",0.5,1.9,12,37.7705,-81.2,https://findrehabmap.com/west-virginia/raleigh-county/
+54033,West Virginia,Harrison County,64472,58326,6,9.3,3,1,5,4,1.7,1.7,"Clarksburg, WV",2.4,"Clarksburg, WV",1.7,1.7,14,39.2879,-80.3388,https://findrehabmap.com/west-virginia/harrison-county/
+54037,West Virginia,Jefferson County,61264,95523,2,3.3,1,1,2,2,0.9,0.9,"Charles Town, WV",0.9,"Charles Town, WV",0.9,13.3,71,39.3138,-77.8476,https://findrehabmap.com/west-virginia/jefferson-county/
+54055,West Virginia,Mercer County,57524,47799,5,8.7,2,2,3,4,1.4,1.4,"Princeton, WV",1.4,"Princeton, WV",1.4,1.4,9,37.3526,-81.1382,https://findrehabmap.com/west-virginia/mercer-county/
+54079,West Virginia,Putnam County,57067,77871,4,7.0,1,0,3,3,1.6,1.6,"Scott Depot, WV",18.1,"Barboursville, WV",1.6,10.3,35,38.4744,-81.9294,https://findrehabmap.com/west-virginia/putnam-county/
+54049,West Virginia,Marion County,55649,67537,3,5.4,2,1,3,3,2.4,2.6,"Fairmont, WV",2.9,"Fairmont, WV",2.4,2.6,21,39.4843,-80.1788,https://findrehabmap.com/west-virginia/marion-county/
+54069,West Virginia,Ohio County,41090,57867,7,17.0,1,1,3,6,0.1,2.5,"Wheeling, WV",5.4,"Triadelphia, WV",2.5,0.1,38,40.0785,-80.6723,https://findrehabmap.com/west-virginia/ohio-county/
+54019,West Virginia,Fayette County,38600,52672,2,5.2,1,0,1,1,1.8,3.3,"Oak Hill, WV",16.3,"Beaver, WV",1.8,17.5,10,38.0325,-81.129,https://findrehabmap.com/west-virginia/fayette-county/
+54099,West Virginia,Wayne County,37589,55539,3,8.0,1,0,2,2,3.9,7.7,"Huntington, WV",10.6,"Huntington, WV",4.1,7.7,57,38.2673,-82.4942,https://findrehabmap.com/west-virginia/wayne-county/
+54077,West Virginia,Preston County,34055,61373,2,5.9,0,0,1,2,2.7,18.4,"Morgantown, WV",17.4,"Morgantown, WV",2.7,18.4,17,39.5055,-79.6698,https://findrehabmap.com/west-virginia/preston-county/
+54025,West Virginia,Greenbrier County,31851,48662,3,9.4,2,0,2,3,4.5,4.5,"Lewisburg, WV",34.3,"Beaver, WV",4.5,37.3,4,37.8545,-80.4909,https://findrehabmap.com/west-virginia/greenbrier-county/
+54045,West Virginia,Logan County,30560,47237,4,13.1,0,0,2,4,0.9,20.5,"Williamson, WV",21.5,"Williamson, WV",1.1,20.5,13,37.8562,-81.9725,https://findrehabmap.com/west-virginia/logan-county/
+54051,West Virginia,Marshall County,29354,60329,1,3.4,0,0,1,1,1.6,9.3,"Wheeling, WV",11.8,"Triadelphia, WV",1.6,8.9,22,39.9283,-80.7048,https://findrehabmap.com/west-virginia/marshall-county/
+54029,West Virginia,Hancock County,28054,61017,4,14.3,1,0,3,3,4.5,4.5,"Weirton, WV",15.5,"Brilliant, OH",4.5,10.0,36,40.4772,-80.5689,https://findrehabmap.com/west-virginia/hancock-county/
+54035,West Virginia,Jackson County,27718,55671,2,7.2,0,0,2,2,5.1,26.0,"Gallipolis, OH",26.0,"Gallipolis, OH",5.1,25.9,8,38.8398,-81.7131,https://findrehabmap.com/west-virginia/jackson-county/
+54083,West Virginia,Randolph County,27190,55057,2,7.4,0,0,1,2,4.0,36.0,"Clarksburg, WV",35.5,"Weston, WV",4.1,38.1,6,38.8709,-79.8725,https://findrehabmap.com/west-virginia/randolph-county/
+54057,West Virginia,Mineral County,26778,68049,1,3.7,0,1,1,1,8.0,12.4,"Cumberland, MD",8.0,"Keyser, WV",8.0,15.9,18,39.4648,-78.9097,https://findrehabmap.com/west-virginia/mineral-county/
+54053,West Virginia,Mason County,24770,53454,3,12.1,0,0,3,3,3.3,7.4,"Gallipolis, OH",7.4,"Gallipolis, OH",3.3,7.3,14,38.8275,-82.0583,https://findrehabmap.com/west-virginia/mason-county/
+54067,West Virginia,Nicholas County,24017,49280,2,8.3,1,0,2,2,3.9,3.9,"Summersville, WV",38.2,"Beaver, WV",3.9,40.5,3,38.2784,-80.7723,https://findrehabmap.com/west-virginia/nicholas-county/
+54027,West Virginia,Hampshire County,23793,60299,2,8.4,0,0,0,2,7.9,23.6,"Cumberland, MD",16.3,"Cross Junction, VA",16.3,16.3,20,39.3294,-78.6105,https://findrehabmap.com/west-virginia/hampshire-county/
+54097,West Virginia,Upshur County,23650,51859,2,8.5,0,0,1,2,2.7,22.7,"Clarksburg, WV",15.6,"Weston, WV",2.7,23.0,13,38.9541,-80.2285,https://findrehabmap.com/west-virginia/upshur-county/
+54059,West Virginia,Mingo County,21712,39527,6,27.6,2,2,4,5,5.1,6.8,"Williamson, WV",7.9,"Williamson, WV",6.8,6.8,16,37.704,-82.1533,https://findrehabmap.com/west-virginia/mingo-county/
+54009,West Virginia,Brooke County,21285,52116,2,9.4,0,0,0,2,3.8,7.3,"Weirton, WV",4.5,"Brilliant, OH",3.8,11.5,46,40.3095,-80.5859,https://findrehabmap.com/west-virginia/brooke-county/
+54005,West Virginia,Boone County,20496,56152,2,9.8,0,0,1,1,3.6,20.6,"Charleston, WV",20.6,"Charleston, WV",5.0,20.1,26,38.0564,-81.7575,https://findrehabmap.com/west-virginia/boone-county/
+54109,West Virginia,Wyoming County,19964,48038,2,10.0,1,2,2,2,1.0,1.0,"Rock View, WV",1.0,"Rock View, WV",1.0,24.3,9,37.6286,-81.5673,https://findrehabmap.com/west-virginia/wyoming-county/
+54043,West Virginia,Lincoln County,19377,48593,2,10.3,0,0,1,2,8.7,18.1,"Barboursville, WV",18.2,"Barboursville, WV",8.7,18.2,30,38.2018,-82.0664,https://findrehabmap.com/west-virginia/lincoln-county/
+54065,West Virginia,Morgan County,17780,63805,1,5.6,0,0,1,1,1.8,15.5,"Martinsburg, WV",14.9,"Cross Junction, VA",1.8,14.8,15,39.581,-78.223,https://findrehabmap.com/west-virginia/morgan-county/
+54047,West Virginia,McDowell County,17147,29980,2,11.7,0,2,2,2,5.3,17.6,"Rock View, WV",5.3,"Welch, WV",5.3,24.9,12,37.3964,-81.6563,https://findrehabmap.com/west-virginia/mcdowell-county/
+54041,West Virginia,Lewis County,16477,52279,2,12.1,0,1,2,2,1.6,16.8,"Clarksburg, WV",1.6,"Weston, WV",1.6,17.2,11,39.0342,-80.4678,https://findrehabmap.com/west-virginia/lewis-county/
+54091,West Virginia,Taylor County,16438,56807,1,6.1,0,0,1,1,2.9,8.9,"Fairmont, WV",8.9,"Fairmont, WV",2.9,8.9,24,39.3386,-80.0669,https://findrehabmap.com/west-virginia/taylor-county/
+54001,West Virginia,Barbour County,15369,48347,1,6.5,0,0,0,1,7.6,19.3,"Clarksburg, WV",22.5,"Clarksburg, WV",14.6,22.1,16,39.1101,-80.0044,https://findrehabmap.com/west-virginia/barbour-county/
+54031,West Virginia,Hardy County,14335,49302,1,7.0,0,0,0,1,3.7,39.5,"Winchester, VA",25.1,"Keyser, WV",23.1,38.4,6,39.0392,-78.8814,https://findrehabmap.com/west-virginia/hardy-county/
+54103,West Virginia,Wetzel County,13766,53341,4,29.1,0,0,2,4,4.9,30.0,"Wheeling, WV",31.8,"Triadelphia, WV",5.0,29.6,7,39.63,-80.7688,https://findrehabmap.com/west-virginia/wetzel-county/
+54087,West Virginia,Roane County,13540,45194,1,7.4,0,0,1,1,4.2,26.9,"Charleston, WV",25.5,"Charleston, WV",4.2,30.4,3,38.7285,-81.3457,https://findrehabmap.com/west-virginia/roane-county/
+54063,West Virginia,Monroe County,12462,54508,1,8.0,0,0,1,1,7.1,22.4,"Lewisburg, WV",26.4,"Princeton, WV",7.1,28.3,8,37.5248,-80.642,https://findrehabmap.com/west-virginia/monroe-county/
+54007,West Virginia,Braxton County,12051,44449,1,8.3,0,0,0,1,3.1,24.9,"Webster Springs, WV",27.5,"Weston, WV",24.9,44.3,3,38.6919,-80.7236,https://findrehabmap.com/west-virginia/braxton-county/
+54089,West Virginia,Summers County,11544,42544,2,17.3,0,0,1,2,2.3,19.2,"Beckley, WV",17.1,"Beaver, WV",2.4,19.2,13,37.6652,-80.8494,https://findrehabmap.com/west-virginia/summers-county/
+54023,West Virginia,Grant County,10971,61530,1,9.1,0,0,0,1,5.0,43.3,"Cumberland, MD",23.9,"Keyser, WV",23.9,46.9,3,39.0587,-79.161,https://findrehabmap.com/west-virginia/grant-county/
+54085,West Virginia,Ritchie County,8170,50256,1,12.2,0,0,0,1,0.7,13.4,"Walker, WV",13.4,"Walker, WV",13.4,13.4,9,39.2177,-81.0415,https://findrehabmap.com/west-virginia/ritchie-county/
+54101,West Virginia,Webster County,7947,42061,1,12.6,1,0,1,1,5.7,5.7,"Webster Springs, WV",39.9,"Weston, WV",5.7,55.6,4,38.4698,-80.4762,https://findrehabmap.com/west-virginia/webster-county/
+54095,West Virginia,Tyler County,7843,58293,0,0.0,0,0,0,0,9.4,26.8,"Walker, WV",26.8,"Walker, WV",9.5,26.6,8,39.5146,-80.9305,https://findrehabmap.com/west-virginia/tyler-county/
+54015,West Virginia,Clay County,7689,42790,0,0.0,0,0,0,0,19.8,19.8,"Summersville, WV",25.1,"Charleston, WV",19.8,29.2,2,38.4719,-81.0993,https://findrehabmap.com/west-virginia/clay-county/
+54075,West Virginia,Pocahontas County,7653,41200,1,13.1,1,0,1,1,5.8,5.8,"Marlinton, WV",54.5,"Staunton, VA",5.8,66.6,2,38.287,-80.0214,https://findrehabmap.com/west-virginia/pocahontas-county/
+54017,West Virginia,Doddridge County,7615,61164,0,0.0,0,0,0,0,18.3,18.7,"Clarksburg, WV",18.7,"Clarksburg, WV",18.6,18.8,10,39.2853,-80.7213,https://findrehabmap.com/west-virginia/doddridge-county/
+54073,West Virginia,Pleasants County,7358,61038,1,13.6,0,0,0,1,0.9,11.0,"Walker, WV",11.0,"Walker, WV",10.5,10.5,20,39.3834,-81.1928,https://findrehabmap.com/west-virginia/pleasants-county/
+54021,West Virginia,Gilmer County,7116,50991,1,14.1,0,0,0,1,1.6,33.2,"Walker, WV",19.9,"Weston, WV",19.9,33.2,4,38.9231,-80.8265,https://findrehabmap.com/west-virginia/gilmer-county/
+54093,West Virginia,Tucker County,6573,53475,1,15.2,0,0,0,1,4.4,37.8,"Fairmont, WV",36.5,"Keyser, WV",18.8,37.8,6,39.1107,-79.6021,https://findrehabmap.com/west-virginia/tucker-county/
+54071,West Virginia,Pendleton County,5944,61738,0,0.0,0,0,0,0,24.9,29.7,"Harrisonburg, VA",29.6,"Harrisonburg, VA",29.6,63.8,1,38.6723,-79.338,https://findrehabmap.com/west-virginia/pendleton-county/
+54013,West Virginia,Calhoun County,5873,41421,0,0.0,0,0,0,0,13.9,28.7,"Walker, WV",28.7,"Walker, WV",13.9,28.7,3,38.8526,-81.1044,https://findrehabmap.com/west-virginia/calhoun-county/
+54105,West Virginia,Wirt County,4924,54688,0,0.0,0,0,0,0,14.2,14.2,"Walker, WV",14.2,"Walker, WV",14.2,14.2,16,39.0542,-81.3945,https://findrehabmap.com/west-virginia/wirt-county/

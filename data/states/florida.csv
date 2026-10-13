@@ -1,0 +1,68 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+12086,Florida,Miami-Dade County,2838461,68694,83,2.9,11,7,30,55,1.5,2.7,"Miami, FL",2.7,"Miami, FL",1.5,1.8,105,25.7693,-80.3012,https://findrehabmap.com/florida/miami-dade-county/
+12011,Florida,Broward County,2037472,74534,79,3.9,16,17,35,40,1.6,3.2,"Fort Lauderdale, FL",2.2,"Sunrise, FL",2.0,2.2,157,26.1354,-80.227,https://findrehabmap.com/florida/broward-county/
+12099,Florida,Palm Beach County,1582055,81115,95,6.0,29,28,43,17,0.4,1.7,"Lake Worth, FL",1.7,"Lake Worth, FL",1.7,1.7,104,26.6165,-80.1437,https://findrehabmap.com/florida/palm-beach-county/
+12057,Florida,Hillsborough County,1581426,75011,45,2.8,7,7,19,24,0.6,1.6,"Tampa, FL",0.6,"Tampa, FL",0.6,0.6,78,27.9673,-82.3986,https://findrehabmap.com/florida/hillsborough-county/
+12095,Florida,Orange County,1533646,77011,42,2.7,11,12,16,23,0.5,0.5,"Orlando, FL",0.5,"Orlando, FL",0.5,1.0,78,28.5261,-81.3884,https://findrehabmap.com/florida/orange-county/
+12031,Florida,Duval County,1055159,68447,33,3.1,5,8,12,19,0.5,3.1,"Jacksonville, FL",0.5,"Jacksonville, FL",0.5,2.7,43,30.2986,-81.6204,https://findrehabmap.com/florida/duval-county/
+12103,Florida,Pinellas County,965870,70293,36,3.7,7,5,14,24,0.7,0.9,"Clearwater, FL",0.7,"Clearwater, FL",0.7,2.0,77,27.9002,-82.727,https://findrehabmap.com/florida/pinellas-county/
+12071,Florida,Lee County,860959,73099,25,2.9,5,3,11,14,1.8,2.0,"Fort Myers, FL",7.7,"North Fort Myers, FL",1.8,2.0,25,26.576,-81.8518,https://findrehabmap.com/florida/lee-county/
+12105,Florida,Polk County,852878,63644,16,1.9,0,5,9,13,3.3,20.7,"Plant City, FL",8.5,"Lakeland, FL",3.3,9.6,18,28.0425,-81.7869,https://findrehabmap.com/florida/polk-county/
+12101,Florida,Pasco County,659114,67384,14,2.1,3,3,8,11,7.9,9.4,"New Port Richey, FL",9.4,"New Port Richey, FL",9.4,9.4,65,28.2582,-82.5102,https://findrehabmap.com/florida/pasco-county/
+12009,Florida,Brevard County,658447,75817,19,2.9,4,5,11,15,3.8,7.3,"Rockledge, FL",6.1,"Satellite Beach, FL",3.8,7.3,17,28.2251,-80.6909,https://findrehabmap.com/florida/brevard-county/
+12127,Florida,Volusia County,602772,66581,32,5.3,4,3,12,20,4.5,4.5,"Daytona Beach, FL",8.2,"Port Orange, FL",4.5,4.5,36,29.0724,-81.1263,https://findrehabmap.com/florida/volusia-county/
+12117,Florida,Seminole County,494605,83030,17,3.4,3,2,7,9,0.9,2.8,"Longwood, FL",2.8,"Longwood, FL",2.7,0.9,68,28.6992,-81.3101,https://findrehabmap.com/florida/seminole-county/
+12115,Florida,Sarasota County,476604,80633,13,2.7,2,3,7,7,5.9,5.9,"Sarasota, FL",5.9,"Sarasota, FL",5.9,6.0,23,27.2011,-82.416,https://findrehabmap.com/florida/sarasota-county/
+12097,Florida,Osceola County,468058,68711,15,3.2,3,3,5,10,1.8,3.1,"Kissimmee, FL",2.9,"Kissimmee, FL",2.9,3.1,51,28.2691,-81.3904,https://findrehabmap.com/florida/osceola-county/
+12081,Florida,Manatee County,458352,75792,8,1.7,0,2,3,5,1.2,10.8,"Sarasota, FL",3.4,"Bradenton, FL",2.8,2.0,27,27.4783,-82.5205,https://findrehabmap.com/florida/manatee-county/
+12069,Florida,Lake County,444204,69956,14,3.2,4,5,6,6,7.6,9.9,"Mount Dora, FL",9.3,"Leesburg, FL",9.3,9.3,43,28.7169,-81.7507,https://findrehabmap.com/florida/lake-county/
+12083,Florida,Marion County,428905,58535,18,4.2,4,3,8,12,1.7,3.4,"Ocala, FL",1.7,"Ocala, FL",1.7,3.0,26,29.1358,-82.1261,https://findrehabmap.com/florida/marion-county/
+12021,Florida,Collier County,416233,86173,6,1.4,1,1,5,5,2.9,2.9,"Naples, FL",6.7,"Naples, FL",2.9,2.9,7,26.2037,-81.6926,https://findrehabmap.com/florida/collier-county/
+12111,Florida,St. Lucie County,390670,69027,21,5.4,6,4,7,7,1.2,1.6,"Port St. Lucie, FL",4.2,"Port Saint Lucie, FL",2.7,4.2,44,27.3336,-80.3571,https://findrehabmap.com/florida/st-lucie-county/
+12109,Florida,St. Johns County,334928,106169,13,3.9,3,1,4,7,3.1,12.8,"Ponte Vedra Beach, FL",13.2,"St. Augustine, FL",12.8,8.8,37,29.9918,-81.4349,https://findrehabmap.com/florida/st-johns-county/
+12033,Florida,Escambia County,331275,65715,11,3.3,0,4,3,7,2.9,11.7,"Gulf Breeze, FL",5.5,"Cantonment, FL",4.5,2.9,13,30.4857,-87.2771,https://findrehabmap.com/florida/escambia-county/
+12073,Florida,Leon County,300488,65074,7,2.3,2,3,4,5,1.4,1.4,"Tallahassee, FL",1.4,"Tallahassee, FL",1.4,18.1,12,30.4661,-84.2697,https://findrehabmap.com/florida/leon-county/
+12001,Florida,Alachua County,291782,59659,10,3.4,5,2,6,5,1.2,3.3,"Gainesville, FL",3.3,"Gainesville, FL",3.3,1.2,11,29.6647,-82.3916,https://findrehabmap.com/florida/alachua-county/
+12019,Florida,Clay County,236760,86094,5,2.1,0,1,2,4,1.4,17.0,"Jacksonville, FL",2.7,"Orange Park, FL",6.0,11.4,39,30.0878,-81.8005,https://findrehabmap.com/florida/clay-county/
+12091,Florida,Okaloosa County,220483,79097,7,3.2,1,1,3,5,6.2,10.5,"Fort Walton Beach, FL",7.2,"Shalimar, FL",9.7,18.3,8,30.5516,-86.5656,https://findrehabmap.com/florida/okaloosa-county/
+12053,Florida,Hernando County,218150,63193,6,2.8,1,3,3,3,2.9,5.5,"Spring Hill, FL",2.9,"Spring Hill, FL",2.9,5.5,22,28.5044,-82.497,https://findrehabmap.com/florida/hernando-county/
+12015,Florida,Charlotte County,212122,66154,6,2.8,3,3,3,3,2.3,4.7,"Punta Gorda, FL",3.3,"Port Charlotte, FL",4.7,4.7,12,26.9538,-82.1173,https://findrehabmap.com/florida/charlotte-county/
+12113,Florida,Santa Rosa County,207653,88968,5,2.4,3,1,3,2,6.7,10.5,"Gulf Breeze, FL",6.7,"Milton, FL",6.7,13.0,15,30.5472,-87.0358,https://findrehabmap.com/florida/santa-rosa-county/
+12005,Florida,Bay County,199718,70188,9,4.5,6,3,5,6,1.3,2.5,"Panama City, FL",2.5,"Panama City, FL",1.3,5.6,9,30.2128,-85.6706,https://findrehabmap.com/florida/bay-county/
+12061,Florida,Indian River County,172139,71049,8,4.6,1,2,3,4,2.5,4.6,"Vero Beach, FL",2.5,"Vero Beach, FL",2.5,2.8,20,27.6713,-80.4407,https://findrehabmap.com/florida/indian-river-county/
+12017,Florida,Citrus County,170174,55355,7,4.1,0,2,2,6,2.6,23.2,"Ocala, FL",6.8,"Inverness, FL",6.1,23.2,9,28.8656,-82.4552,https://findrehabmap.com/florida/citrus-county/
+12085,Florida,Martin County,165666,80701,16,9.7,5,4,5,6,1.2,1.3,"Stuart, FL",1.3,"Stuart, FL",1.2,1.3,45,27.1459,-80.2457,https://findrehabmap.com/florida/martin-county/
+12119,Florida,Sumter County,154693,73297,3,1.9,1,1,2,1,2.0,2.0,"Wildwood, FL",9.7,"Leesburg, FL",2.0,2.0,26,28.8335,-82.0248,https://findrehabmap.com/florida/sumter-county/
+12035,Florida,Flagler County,136744,72923,8,5.9,0,2,3,4,2.5,18.2,"Crescent City, FL",3.2,"Palm Coast, FL",3.2,2.5,29,29.5215,-81.2221,https://findrehabmap.com/florida/flagler-county/
+12055,Florida,Highlands County,109778,55581,4,3.6,2,0,2,3,0.8,4.6,"Sebring, FL",30.4,"Arcadia, FL",4.6,4.6,6,27.4626,-81.4448,https://findrehabmap.com/florida/highlands-county/
+12089,Florida,Nassau County,104376,88900,4,3.8,0,0,2,4,2.5,18.3,"Jacksonville, FL",10.7,"St. Marys, GA",2.5,10.3,35,30.6083,-81.6343,https://findrehabmap.com/florida/nassau-county/
+12131,Florida,Walton County,89666,79281,0,0.0,0,0,0,0,23.7,23.7,"Panama City Beach, FL",24.0,"Shalimar, FL",23.7,23.7,5,30.5438,-86.1902,https://findrehabmap.com/florida/walton-county/
+12087,Florida,Monroe County,80908,82430,6,7.4,5,0,6,4,10.2,10.2,"Marathon, FL",81.6,"Miami, FL",10.2,10.2,1,24.7474,-81.2448,https://findrehabmap.com/florida/monroe-county/
+12107,Florida,Putnam County,77301,47256,3,3.9,1,1,3,3,3.3,16.7,"Crescent City, FL",4.0,"Palatka, FL",3.3,16.7,3,29.6092,-81.7212,https://findrehabmap.com/florida/putnam-county/
+12023,Florida,Columbia County,73977,55070,3,4.1,0,2,1,1,2.7,32.5,"Gainesville, FL",2.7,"Lake City, FL",2.7,2.7,5,30.122,-82.6645,https://findrehabmap.com/florida/columbia-county/
+12063,Florida,Jackson County,49980,47327,2,4.0,0,1,1,2,1.3,42.6,"Quincy, FL",2.2,"Marianna, FL",2.2,29.7,3,30.7972,-85.219,https://findrehabmap.com/florida/jackson-county/
+12075,Florida,Levy County,47765,53805,1,2.1,0,1,1,1,13.6,23.4,"Gainesville, FL",13.6,"Chiefland, FL",13.6,24.6,4,29.3801,-82.6629,https://findrehabmap.com/florida/levy-county/
+12121,Florida,Suwannee County,47536,55479,1,2.1,0,1,1,1,6.6,47.6,"Valdosta, GA",6.6,"Live Oak, FL",6.6,17.4,5,30.2137,-82.9851,https://findrehabmap.com/florida/suwannee-county/
+12051,Florida,Hendry County,46130,53044,1,2.2,0,0,0,1,13.1,28.2,"Lehigh Acres, FL",28.2,"Lehigh Acres, FL",24.2,35.8,2,26.7266,-81.2161,https://findrehabmap.com/florida/hendry-county/
+12039,Florida,Gadsden County,44151,46047,3,6.8,1,0,1,2,0.7,2.0,"Quincy, FL",20.9,"Bainbridge, GA",0.7,2.0,12,30.5936,-84.5717,https://findrehabmap.com/florida/gadsden-county/
+12093,Florida,Okeechobee County,42369,52288,1,2.4,0,0,0,1,1.7,27.6,"Port St. Lucie, FL",27.7,"Port Saint Lucie, FL",26.5,27.7,1,27.2719,-80.8243,https://findrehabmap.com/florida/okeechobee-county/
+12129,Florida,Wakulla County,37115,74183,2,5.4,0,0,1,2,2.5,14.1,"Tallahassee, FL",14.1,"Tallahassee, FL",2.9,29.2,9,30.1874,-84.3329,https://findrehabmap.com/florida/wakulla-county/
+12027,Florida,DeSoto County,36744,50868,1,2.7,0,1,0,1,2.2,20.1,"Punta Gorda, FL",2.2,"Arcadia, FL",18.7,19.2,9,27.1868,-81.8705,https://findrehabmap.com/florida/desoto-county/
+12003,Florida,Baker County,29325,70833,1,3.4,0,0,0,1,3.7,29.6,"Jacksonville, FL",25.9,"Orange Park, FL",26.4,28.9,3,30.2864,-82.1845,https://findrehabmap.com/florida/baker-county/
+12007,Florida,Bradford County,28075,59740,1,3.6,0,0,0,1,1.1,22.9,"Gainesville, FL",22.9,"Gainesville, FL",22.9,21.5,9,29.9499,-82.1283,https://findrehabmap.com/florida/bradford-county/
+12133,Florida,Washington County,26503,52723,1,3.8,0,0,0,0,9.4,32.7,"Panama City, FL",24.0,"Marianna, FL",24.0,33.5,4,30.6494,-85.6239,https://findrehabmap.com/florida/washington-county/
+12049,Florida,Hardee County,26068,54231,2,7.7,0,0,1,2,0.5,20.5,"Sebring, FL",23.2,"Arcadia, FL",0.7,20.5,8,27.5481,-81.817,https://findrehabmap.com/florida/hardee-county/
+12123,Florida,Taylor County,21843,44985,0,0.0,0,0,0,0,39.9,46.7,"Tallahassee, FL",39.9,"Live Oak, FL",39.9,54.3,0,30.0569,-83.5903,https://findrehabmap.com/florida/taylor-county/
+12041,Florida,Gilchrist County,20233,61070,1,4.9,0,0,0,1,5.9,22.3,"Gainesville, FL",15.9,"Chiefland, FL",15.9,22.3,6,29.7053,-82.8081,https://findrehabmap.com/florida/gilchrist-county/
+12059,Florida,Holmes County,19876,48236,1,5.0,0,0,0,1,6.3,42.3,"Panama City Beach, FL",29.9,"Newton, AL",29.9,32.8,3,30.847,-85.7547,https://findrehabmap.com/florida/holmes-county/
+12079,Florida,Madison County,18364,48176,0,0.0,0,0,0,0,23.1,28.6,"Valdosta, GA",28.3,"Live Oak, FL",25.4,28.6,1,30.4724,-83.4259,https://findrehabmap.com/florida/madison-county/
+12029,Florida,Dixie County,17614,47655,1,5.7,0,0,0,1,3.0,37.5,"Gainesville, FL",16.1,"Chiefland, FL",16.1,37.6,3,29.6346,-83.0587,https://findrehabmap.com/florida/dixie-county/
+12065,Florida,Jefferson County,15921,56984,0,0.0,0,0,0,0,21.4,22.2,"Tallahassee, FL",22.2,"Thomasville, GA",22.2,25.0,9,30.5029,-83.8913,https://findrehabmap.com/florida/jefferson-county/
+12045,Florida,Gulf County,15876,67361,1,6.3,0,1,1,1,10.1,24.8,"Panama City, FL",10.1,"Port Saint Joe, FL",10.1,24.8,3,29.9556,-85.2597,https://findrehabmap.com/florida/gulf-county/
+12125,Florida,Union County,15738,64922,1,6.4,0,0,0,1,1.4,22.4,"Gainesville, FL",19.8,"Lake City, FL",19.8,19.8,12,30.0114,-82.3577,https://findrehabmap.com/florida/union-county/
+12047,Florida,Hamilton County,14334,47696,1,7.0,0,0,0,1,2.9,29.2,"Valdosta, GA",13.3,"Live Oak, FL",13.3,28.4,2,30.5014,-82.999,https://findrehabmap.com/florida/hamilton-county/
+12013,Florida,Calhoun County,13278,46901,1,7.5,0,0,0,1,4.7,34.8,"Quincy, FL",23.1,"Marianna, FL",23.1,34.8,3,30.4643,-85.1258,https://findrehabmap.com/florida/calhoun-county/
+12043,Florida,Glades County,13132,38905,0,0.0,0,0,0,0,17.3,33.9,"Pahokee, FL",34.8,"Lehigh Acres, FL",34.8,33.9,1,26.897,-81.1896,https://findrehabmap.com/florida/glades-county/
+12037,Florida,Franklin County,12979,62734,1,7.7,0,0,0,1,11.6,52.4,"Tallahassee, FL",29.4,"Port Saint Joe, FL",29.4,53.8,1,29.786,-84.8132,https://findrehabmap.com/florida/franklin-county/
+12067,Florida,Lafayette County,8640,60692,0,0.0,0,0,0,0,20.3,51.1,"Gainesville, FL",20.3,"Live Oak, FL",20.3,30.0,1,30.0636,-83.1764,https://findrehabmap.com/florida/lafayette-county/
+12077,Florida,Liberty County,7955,53824,0,0.0,0,0,0,0,9.1,24.1,"Quincy, FL",33.3,"Marianna, FL",23.4,24.1,4,30.3991,-84.9071,https://findrehabmap.com/florida/liberty-county/

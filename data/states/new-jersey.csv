@@ -1,0 +1,22 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+34003,New Jersey,Bergen County,978641,123715,31,3.2,3,3,15,13,0.3,2.8,"Paramus, NJ",3.5,"Dumont, NJ",0.3,2.8,718,40.9169,-74.0568,https://findrehabmap.com/new-jersey/bergen-county/
+34023,New Jersey,Middlesex County,890119,109028,49,5.5,6,9,20,25,2.5,3.8,"New Brunswick, NJ",3.1,"Edison, NJ",3.1,3.3,273,40.4844,-74.3886,https://findrehabmap.com/new-jersey/middlesex-county/
+34013,New Jersey,Essex County,881527,76712,50,5.7,5,10,20,35,0.3,0.9,"East Orange, NJ",1.2,"East Orange, NJ",0.6,0.3,738,40.7679,-74.2161,https://findrehabmap.com/new-jersey/essex-county/
+34017,New Jersey,Hudson County,736185,90032,23,3.1,2,6,11,19,0.5,3.8,"New York, NY",1.8,"Jersey City, NJ",0.5,2.5,757,40.7416,-74.0614,https://findrehabmap.com/new-jersey/hudson-county/
+34029,New Jersey,Ocean County,666434,86411,53,8.0,12,7,17,18,0.4,1.8,"Toms River, NJ",0.4,"Toms River, NJ",0.4,0.4,85,39.9786,-74.2159,https://findrehabmap.com/new-jersey/ocean-county/
+34025,New Jersey,Monmouth County,647520,122727,44,6.8,1,4,19,31,3.7,7.5,"Neptune, NJ",6.9,"Red Bank, NJ",4.6,5.2,179,40.2912,-74.1486,https://findrehabmap.com/new-jersey/monmouth-county/
+34039,New Jersey,Union County,594160,100117,24,4.0,3,6,13,15,0.6,5.2,"Summit, NJ",1.8,"Union, NJ",2.2,5.2,655,40.6594,-74.2937,https://findrehabmap.com/new-jersey/union-county/
+34007,New Jersey,Camden County,533988,86384,42,7.9,6,11,24,22,2.1,2.1,"Cherry Hill, NJ",2.1,"Cherry Hill, NJ",2.1,2.1,253,39.8631,-75.0264,https://findrehabmap.com/new-jersey/camden-county/
+34031,New Jersey,Passaic County,526597,87137,24,4.6,5,5,11,19,1.0,1.1,"Paterson, NJ",1.1,"Paterson, NJ",1.1,1.2,683,40.924,-74.1899,https://findrehabmap.com/new-jersey/passaic-county/
+34027,New Jersey,Morris County,523053,134929,31,5.9,2,2,15,13,0.3,5.2,"Boonton, NJ",2.0,"Denville, NJ",2.0,4.7,213,40.8591,-74.5003,https://findrehabmap.com/new-jersey/morris-county/
+34005,New Jersey,Burlington County,475515,105271,24,5.0,4,5,11,15,1.7,6.5,"Medford, NJ",2.7,"Mount Holly, NJ",2.4,1.7,243,39.9837,-74.8366,https://findrehabmap.com/new-jersey/burlington-county/
+34021,New Jersey,Mercer County,392138,96333,30,7.7,4,5,9,15,0.8,1.2,"Lawrence Township, NJ",0.8,"Trenton, NJ",0.8,1.2,162,40.2554,-74.6994,https://findrehabmap.com/new-jersey/mercer-county/
+34035,New Jersey,Somerset County,357467,135960,12,3.4,1,2,7,4,1.1,4.2,"Freehold, NJ",1.1,"Somerville, NJ",2.4,4.2,212,40.5599,-74.5784,https://findrehabmap.com/new-jersey/somerset-county/
+34015,New Jersey,Gloucester County,311783,102807,16,5.1,1,2,12,16,1.1,3.9,"Sewell, NJ",5.3,"Blackwood, NJ",1.1,3.9,220,39.7488,-75.1303,https://findrehabmap.com/new-jersey/gloucester-county/
+34001,New Jersey,Atlantic County,279114,76819,25,9.0,6,9,18,16,1.2,1.3,"Egg Harbor Township, NJ",3.5,"Pleasantville, NJ",1.2,5.6,34,39.4282,-74.5847,https://findrehabmap.com/new-jersey/atlantic-county/
+34011,New Jersey,Cumberland County,155678,64499,10,6.4,0,3,3,9,0.9,14.4,"Williamstown, NJ",2.4,"Vineland, NJ",4.4,6.9,32,39.4317,-75.0896,https://findrehabmap.com/new-jersey/cumberland-county/
+34037,New Jersey,Sussex County,147444,114316,6,4.1,0,1,2,3,1.0,16.4,"Blairstown, NJ",4.0,"Newton, NJ",4.0,15.9,52,41.0905,-74.6555,https://findrehabmap.com/new-jersey/sussex-county/
+34019,New Jersey,Hunterdon County,131708,139453,6,4.6,0,1,2,3,2.7,13.3,"Belle Mead, NJ",3.8,"Flemington, NJ",3.5,3.5,92,40.5726,-74.896,https://findrehabmap.com/new-jersey/hunterdon-county/
+34041,New Jersey,Warren County,112031,99596,5,4.5,2,1,3,4,3.2,10.8,"Phillipsburg, NJ",10.8,"Phillipsburg, NJ",10.8,13.6,56,40.7947,-75.0149,https://findrehabmap.com/new-jersey/warren-county/
+34009,New Jersey,Cape May County,93875,88046,7,7.5,0,1,6,6,0.4,24.5,"Mays Landing, NJ",3.8,"Cape May Court House, NJ",0.4,24.5,15,39.0969,-74.807,https://findrehabmap.com/new-jersey/cape-may-county/
+34033,New Jersey,Salem County,65874,78412,4,6.1,0,0,1,2,6.5,13.4,"New Castle, DE",11.5,"Wilmington, DE",10.7,6.5,121,39.6272,-75.3782,https://findrehabmap.com/new-jersey/salem-county/

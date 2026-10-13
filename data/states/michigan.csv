@@ -1,0 +1,84 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+26163,Michigan,Wayne County,1771063,59521,85,4.8,13,17,33,67,2.5,4.9,"Livonia, MI",3.3,"Dearborn Heights, MI",2.5,6.2,147,42.3295,-83.2263,https://findrehabmap.com/michigan/wayne-county/
+26125,Michigan,Oakland County,1296888,95296,47,3.6,8,12,19,30,1.8,5.8,"West Bloomfield, MI",3.9,"Waterford, MI",3.9,3.8,145,42.5869,-83.314,https://findrehabmap.com/michigan/oakland-county/
+26099,Michigan,Macomb County,886175,76399,20,2.3,3,7,7,12,4.2,4.6,"Roseville, MI",4.6,"Sterling Heights, MI",4.6,8.7,120,42.5891,-82.9579,https://findrehabmap.com/michigan/macomb-county/
+26081,Michigan,Kent County,673002,80390,36,5.3,5,4,9,25,0.6,2.8,"Grand Rapids, MI",2.8,"Grand Rapids, MI",1.8,1.8,40,42.9618,-85.6256,https://findrehabmap.com/michigan/kent-county/
+26049,Michigan,Genesee County,402279,60673,19,4.7,4,7,6,15,0.5,2.0,"Flint, MI",2.8,"Flint, MI",2.0,2.0,31,43.0024,-83.6938,https://findrehabmap.com/michigan/genesee-county/
+26161,Michigan,Washtenaw County,373875,87156,11,2.9,3,2,7,11,1.5,1.6,"Ann Arbor, MI",3.0,"Ann Arbor, MI",1.6,13.1,47,42.2576,-83.7269,https://findrehabmap.com/michigan/washtenaw-county/
+26139,Michigan,Ottawa County,306235,87144,12,3.9,3,0,7,11,6.8,7.7,"Holland, MI",12.2,"Grandville, MI",7.7,9.7,57,42.9111,-86.0159,https://findrehabmap.com/michigan/ottawa-county/
+26065,Michigan,Ingham County,290427,64354,18,6.2,3,4,7,14,0.7,2.8,"Lansing, MI",3.0,"Okemos, MI",2.8,2.8,22,42.6884,-84.4863,https://findrehabmap.com/michigan/ingham-county/
+26077,Michigan,Kalamazoo County,264780,70525,12,4.5,4,1,6,11,0.8,0.8,"Kalamazoo, MI",0.8,"Kalamazoo, MI",0.8,2.9,24,42.2625,-85.5864,https://findrehabmap.com/michigan/kalamazoo-county/
+26093,Michigan,Livingston County,196976,101315,9,4.6,2,1,3,7,1.7,2.6,"Brighton, MI",2.6,"Brighton, MI",2.6,9.0,34,42.575,-83.8565,https://findrehabmap.com/michigan/livingston-county/
+26145,Michigan,Saginaw County,187714,58347,14,7.5,3,1,7,11,2.2,4.4,"Saginaw, MI",4.4,"Saginaw, MI",2.2,3.9,28,43.3991,-83.9964,https://findrehabmap.com/michigan/saginaw-county/
+26121,Michigan,Muskegon County,177428,63495,10,5.6,1,2,4,9,0.7,2.9,"Muskegon, MI",0.7,"Muskegon, MI",0.7,12.6,16,43.2438,-86.2149,https://findrehabmap.com/michigan/muskegon-county/
+26147,Michigan,St. Clair County,160308,69349,8,5.0,0,0,3,8,6.6,9.1,"Richmond, MI",9.1,"Richmond, MI",6.6,8.5,11,42.9122,-82.5635,https://findrehabmap.com/michigan/st-clair-county/
+26075,Michigan,Jackson County,160233,65004,5,3.1,2,2,3,5,1.8,2.0,"Jackson, MI",1.8,"Jackson, MI",1.8,1.8,8,42.2418,-84.4066,https://findrehabmap.com/michigan/jackson-county/
+26115,Michigan,Monroe County,156045,75272,5,3.2,2,2,3,5,4.9,7.1,"Monroe, MI",4.9,"Monroe, MI",4.9,7.1,37,41.9017,-83.4864,https://findrehabmap.com/michigan/monroe-county/
+26021,Michigan,Berrien County,152703,63152,9,5.9,2,3,3,7,5.8,5.8,"Berrien Center, MI",5.8,"Berrien Center, MI",5.8,5.8,21,41.9857,-86.4064,https://findrehabmap.com/michigan/berrien-county/
+26025,Michigan,Calhoun County,133785,60385,8,6.0,2,1,2,7,3.5,3.5,"Battle Creek, MI",3.5,"Battle Creek, MI",3.5,5.0,17,42.2896,-85.106,https://findrehabmap.com/michigan/calhoun-county/
+26005,Michigan,Allegan County,122429,80255,4,3.3,1,0,1,4,5.7,6.1,"Allegan, MI",20.7,"Grandville, MI",6.1,16.1,25,42.6084,-85.871,https://findrehabmap.com/michigan/allegan-county/
+26045,Michigan,Eaton County,109494,78025,3,2.7,1,0,1,1,7.0,7.5,"Charlotte, MI",9.6,"Lansing, MI",7.5,10.4,22,42.6451,-84.7396,https://findrehabmap.com/michigan/eaton-county/
+26017,Michigan,Bay County,102651,60523,5,4.9,0,0,1,3,2.9,12.4,"Saginaw, MI",12.4,"Saginaw, MI",2.9,12.5,30,43.63,-83.9292,https://findrehabmap.com/michigan/bay-county/
+26091,Michigan,Lenawee County,97746,67013,4,4.1,0,0,0,2,0.9,26.9,"Toledo, OH",27.9,"Ann Arbor, MI",23.0,23.0,9,41.9261,-84.0528,https://findrehabmap.com/michigan/lenawee-county/
+26055,Michigan,Grand Traverse County,96625,79486,7,7.2,1,0,4,6,2.6,3.2,"Traverse City, MI",48.9,"Gaylord, MI",2.6,2.6,8,44.7134,-85.613,https://findrehabmap.com/michigan/grand-traverse-county/
+26087,Michigan,Lapeer County,89168,76228,4,4.5,0,0,2,4,3.3,21.6,"Lake Orion, MI",24.7,"Flint, MI",3.8,21.6,23,43.0582,-83.2494,https://findrehabmap.com/michigan/lapeer-county/
+26111,Michigan,Midland County,84022,77538,8,9.5,0,0,1,7,1.9,13.0,"Freeland, MI",22.0,"Saginaw, MI",3.5,1.9,32,43.6433,-84.2963,https://findrehabmap.com/michigan/midland-county/
+26037,Michigan,Clinton County,80050,85928,0,0.0,0,0,0,0,9.2,13.9,"Lansing, MI",13.1,"Lansing, MI",12.6,14.1,23,42.8863,-84.5543,https://findrehabmap.com/michigan/clinton-county/
+26159,Michigan,Van Buren County,76129,66902,2,2.6,0,0,1,2,5.7,19.4,"Allegan, MI",21.2,"Kalamazoo, MI",5.7,20.4,22,42.2602,-86.0013,https://findrehabmap.com/michigan/van-buren-county/
+26117,Michigan,Montcalm County,69314,64892,2,2.9,0,0,0,1,4.5,13.1,"Belding, MI",30.2,"Mount Pleasant, MI",13.1,29.5,5,43.2836,-85.1727,https://findrehabmap.com/michigan/montcalm-county/
+26155,Michigan,Shiawassee County,67982,64464,3,4.4,0,0,1,3,2.7,19.0,"Flint, MI",19.0,"Flint, MI",3.1,23.0,28,42.9427,-84.1479,https://findrehabmap.com/michigan/shiawassee-county/
+26103,Michigan,Marquette County,67979,64675,5,7.4,1,0,2,4,5.8,7.1,"Marquette, MI",138.7,"Green Bay, WI",7.1,7.1,5,46.4867,-87.4928,https://findrehabmap.com/michigan/marquette-county/
+26067,Michigan,Ionia County,66250,73436,4,6.0,1,0,1,4,2.9,12.1,"Belding, MI",27.7,"Grand Rapids, MI",12.1,26.8,14,42.957,-85.0867,https://findrehabmap.com/michigan/ionia-county/
+26073,Michigan,Isabella County,65072,53759,6,9.2,0,2,4,4,1.2,14.8,"Clare, MI",1.8,"Mount Pleasant, MI",1.8,14.8,9,43.6085,-84.8034,https://findrehabmap.com/michigan/isabella-county/
+26015,Michigan,Barry County,64025,77873,2,3.1,0,0,1,2,3.5,14.6,"Augusta, MI",23.0,"Grand Rapids, MI",3.7,14.6,23,42.6185,-85.3494,https://findrehabmap.com/michigan/barry-county/
+26149,Michigan,St. Joseph County,61171,64707,0,0.0,0,0,0,0,15.7,26.9,"Kalamazoo, MI",26.9,"Kalamazoo, MI",15.7,25.4,7,41.8875,-85.5269,https://findrehabmap.com/michigan/st-joseph-county/
+26157,Michigan,Tuscola County,52757,62847,4,7.6,0,0,0,4,3.0,25.8,"Saginaw, MI",25.8,"Saginaw, MI",25.1,25.1,5,43.4299,-83.4339,https://findrehabmap.com/michigan/tuscola-county/
+26027,Michigan,Cass County,51550,68011,2,3.9,0,0,0,2,2.6,14.1,"Berrien Center, MI",14.1,"Berrien Center, MI",10.6,14.1,29,41.8923,-86.0405,https://findrehabmap.com/michigan/cass-county/
+26123,Michigan,Newaygo County,51504,61931,2,3.9,0,0,0,1,6.0,27.8,"Muskegon, MI",25.3,"Muskegon, MI",25.3,23.7,6,43.4662,-85.8113,https://findrehabmap.com/michigan/newaygo-county/
+26023,Michigan,Branch County,46187,61958,1,2.2,0,0,1,1,2.9,18.4,"Albion, IN",19.8,"Hillsdale, MI",2.9,20.5,11,41.9292,-85.0307,https://findrehabmap.com/michigan/branch-county/
+26059,Michigan,Hillsdale County,45590,60869,2,4.4,0,1,1,2,1.5,24.2,"Jackson, MI",2.3,"Hillsdale, MI",2.3,1.5,7,41.9169,-84.6052,https://findrehabmap.com/michigan/hillsdale-county/
+26107,Michigan,Mecosta County,41947,57774,3,7.2,0,0,0,2,5.4,32.8,"Clare, MI",30.9,"Mount Pleasant, MI",29.0,7.3,6,43.6509,-85.3822,https://findrehabmap.com/michigan/mecosta-county/
+26057,Michigan,Gratiot County,41372,61128,0,0.0,0,0,0,0,18.9,28.3,"Freeland, MI",19.5,"Mount Pleasant, MI",18.9,24.3,7,43.3441,-84.6313,https://findrehabmap.com/michigan/gratiot-county/
+26151,Michigan,Sanilac County,40293,59074,2,5.0,0,0,1,2,4.4,33.2,"Richmond, MI",33.2,"Richmond, MI",4.4,31.6,2,43.3652,-82.783,https://findrehabmap.com/michigan/sanilac-county/
+26061,Michigan,Houghton County,38041,56573,2,5.3,0,0,0,1,2.3,66.8,"Marquette, MI",158.6,"Wausau, WI",60.1,9.5,2,47.1273,-88.5418,https://findrehabmap.com/michigan/houghton-county/
+26041,Michigan,Delta County,36687,54829,3,8.2,0,0,1,3,3.9,54.9,"Marquette, MI",101.4,"Green Bay, WI",3.9,54.9,3,45.8019,-87.0658,https://findrehabmap.com/michigan/delta-county/
+26033,Michigan,Chippewa County,36253,60631,6,16.6,2,0,2,5,6.0,7.8,"Sault Sainte Marie, MI",38.4,"Saint Ignace, MI",7.8,7.7,6,46.3656,-84.3963,https://findrehabmap.com/michigan/chippewa-county/
+26165,Michigan,Wexford County,34460,63123,3,8.7,0,0,0,2,4.5,31.5,"Traverse City, MI",52.2,"Ludington, MI",30.8,30.8,3,44.3097,-85.4866,https://findrehabmap.com/michigan/wexford-county/
+26047,Michigan,Emmet County,33949,73724,5,14.7,1,0,4,5,0.3,4.9,"Petoskey, MI",29.4,"Gaylord, MI",0.3,4.9,10,45.432,-84.9104,https://findrehabmap.com/michigan/emmet-county/
+26035,Michigan,Clare County,31405,49805,3,9.6,1,0,1,3,4.1,9.0,"Clare, MI",22.8,"Mount Pleasant, MI",9.0,9.0,13,43.9444,-84.8257,https://findrehabmap.com/michigan/clare-county/
+26063,Michigan,Huron County,30780,56963,4,13.0,0,0,0,3,2.3,51.5,"Saginaw, MI",51.5,"Saginaw, MI",30.8,51.5,4,43.8324,-83.063,https://findrehabmap.com/michigan/huron-county/
+26105,Michigan,Mason County,29093,62296,3,10.3,0,2,2,2,3.8,53.5,"Muskegon, MI",3.8,"Ludington, MI",3.8,46.0,8,43.9746,-86.3467,https://findrehabmap.com/michigan/mason-county/
+26007,Michigan,Alpena County,28903,51909,5,17.3,1,1,4,4,2.5,3.7,"Alpena, MI",3.6,"Alpena, MI",2.5,3.2,5,45.0506,-83.5029,https://findrehabmap.com/michigan/alpena-county/
+26127,Michigan,Oceana County,27014,63624,1,3.7,0,0,1,1,5.6,29.8,"Muskegon, MI",23.3,"Ludington, MI",5.6,39.7,4,43.6327,-86.3058,https://findrehabmap.com/michigan/oceana-county/
+26029,Michigan,Charlevoix County,26105,76495,2,7.7,0,0,0,2,7.7,11.4,"Petoskey, MI",24.3,"Gaylord, MI",10.2,11.4,10,45.2445,-85.111,https://findrehabmap.com/michigan/charlevoix-county/
+26137,Michigan,Otsego County,26083,67285,7,26.8,1,2,5,5,0.6,0.6,"Gaylord, MI",1.1,"Gaylord, MI",0.6,28.9,11,45.0069,-84.6668,https://findrehabmap.com/michigan/otsego-county/
+26051,Michigan,Gladwin County,25995,55576,3,11.5,0,0,1,3,2.3,19.3,"Clare, MI",29.0,"Mount Pleasant, MI",2.3,19.3,16,43.968,-84.4398,https://findrehabmap.com/michigan/gladwin-county/
+26043,Michigan,Dickinson County,25995,61882,2,7.7,0,0,0,2,3.6,58.5,"Marquette, MI",90.6,"Green Bay, WI",46.2,49.7,2,45.833,-88.014,https://findrehabmap.com/michigan/dickinson-county/
+26031,Michigan,Cheboygan County,25964,61619,5,19.3,0,0,2,3,8.4,23.4,"Petoskey, MI",25.6,"Saint Ignace, MI",8.6,23.4,10,45.511,-84.5211,https://findrehabmap.com/michigan/cheboygan-county/
+26101,Michigan,Manistee County,25519,60879,4,15.7,0,0,1,2,3.2,42.6,"Traverse City, MI",26.6,"Ludington, MI",7.9,42.2,7,44.3063,-86.1853,https://findrehabmap.com/michigan/manistee-county/
+26069,Michigan,Iosco County,25361,47777,4,15.8,0,0,0,3,5.8,49.7,"Alpena, MI",48.9,"Alpena, MI",32.6,49.7,5,44.357,-83.5324,https://findrehabmap.com/michigan/iosco-county/
+26009,Michigan,Antrim County,24536,71421,2,8.2,0,0,1,2,0.5,24.8,"Traverse City, MI",23.7,"Gaylord, MI",8.5,24.8,8,44.9783,-85.1986,https://findrehabmap.com/michigan/antrim-county/
+26143,Michigan,Roscommon County,23932,54106,3,12.5,1,0,2,3,6.9,7.6,"Houghton Lake, MI",45.3,"Gaylord, MI",6.9,38.0,8,44.3643,-84.6501,https://findrehabmap.com/michigan/roscommon-county/
+26133,Michigan,Osceola County,23484,57050,1,4.3,0,0,0,1,10.1,31.0,"Clare, MI",38.3,"Mount Pleasant, MI",25.0,18.3,8,43.9654,-85.3578,https://findrehabmap.com/michigan/osceola-county/
+26109,Michigan,Menominee County,23050,55688,0,0.0,0,0,0,0,17.0,60.9,"Green Bay, WI",61.8,"Green Bay, WI",17.9,60.9,3,45.3421,-87.5798,https://findrehabmap.com/michigan/menominee-county/
+26089,Michigan,Leelanau County,22871,91943,0,0.0,0,0,0,0,11.0,12.1,"Traverse City, MI",50.2,"Gaylord, MI",11.7,12.1,7,44.907,-85.7301,https://findrehabmap.com/michigan/leelanau-county/
+26129,Michigan,Ogemaw County,20985,51983,2,9.5,0,0,0,2,5.0,33.3,"Houghton Lake, MI",55.9,"Mount Pleasant, MI",18.4,45.3,6,44.2866,-84.1273,https://findrehabmap.com/michigan/ogemaw-county/
+26079,Michigan,Kalkaska County,18618,60365,1,5.4,0,0,0,1,1.2,21.4,"Traverse City, MI",30.5,"Gaylord, MI",13.3,21.3,13,44.7206,-85.165,https://findrehabmap.com/michigan/kalkaska-county/
+26019,Michigan,Benzie County,18520,72603,3,16.2,0,0,2,3,5.4,21.6,"Traverse City, MI",51.9,"Ludington, MI",5.4,21.5,10,44.6518,-86.0114,https://findrehabmap.com/michigan/benzie-county/
+26113,Michigan,Missaukee County,15239,61868,0,0.0,0,0,0,0,11.0,19.0,"Houghton Lake, MI",52.1,"Mount Pleasant, MI",19.0,36.8,6,44.3077,-85.1799,https://findrehabmap.com/michigan/missaukee-county/
+26011,Michigan,Arenac County,15087,56989,4,26.5,0,0,2,4,6.0,38.8,"Freeland, MI",41.1,"Saginaw, MI",6.1,33.9,8,44.0445,-83.8845,https://findrehabmap.com/michigan/arenac-county/
+26053,Michigan,Gogebic County,14217,49672,2,14.1,0,0,0,1,3.7,43.4,"Ashland, WI",102.0,"Duluth, MN",32.7,43.4,4,46.4464,-89.993,https://findrehabmap.com/michigan/gogebic-county/
+26039,Michigan,Crawford County,13599,58614,3,22.1,0,0,1,2,1.9,23.1,"Houghton Lake, MI",25.1,"Gaylord, MI",4.1,46.0,8,44.6571,-84.669,https://findrehabmap.com/michigan/crawford-county/
+26141,Michigan,Presque Isle County,13230,56713,0,0.0,0,0,0,0,27.9,28.8,"Alpena, MI",29.5,"Alpena, MI",28.8,27.9,0,45.357,-83.8682,https://findrehabmap.com/michigan/presque-isle-county/
+26085,Michigan,Lake County,13005,49680,1,7.7,0,0,1,1,4.8,52.2,"Clare, MI",30.9,"Ludington, MI",4.8,22.4,5,43.9572,-85.7994,https://findrehabmap.com/michigan/lake-county/
+26071,Michigan,Iron County,11709,53614,1,8.5,0,0,0,1,5.0,63.2,"Marquette, MI",94.9,"Wausau, WI",50.7,50.8,1,46.0996,-88.5376,https://findrehabmap.com/michigan/iron-county/
+26097,Michigan,Mackinac County,11144,58598,4,35.9,0,1,1,4,10.3,41.5,"Sault Sainte Marie, MI",12.6,"Saint Ignace, MI",12.6,27.1,5,45.9973,-84.8813,https://findrehabmap.com/michigan/mackinac-county/
+26001,Michigan,Alcona County,10624,53568,1,9.4,0,0,0,1,8.4,28.0,"Alpena, MI",27.2,"Alpena, MI",26.5,28.0,3,44.6681,-83.4656,https://findrehabmap.com/michigan/alcona-county/
+26119,Michigan,Montmorency County,9828,47803,0,0.0,0,0,0,0,19.1,26.9,"Gaylord, MI",27.1,"Gaylord, MI",23.9,33.4,3,44.9974,-84.1259,https://findrehabmap.com/michigan/montmorency-county/
+26003,Michigan,Alger County,8695,59406,3,34.5,0,0,0,3,3.1,34.8,"Marquette, MI",102.3,"Saint Ignace, MI",34.8,34.8,3,46.3845,-86.7118,https://findrehabmap.com/michigan/alger-county/
+26135,Michigan,Oscoda County,8596,50581,3,34.9,0,0,1,2,1.6,33.6,"Gaylord, MI",34.1,"Gaylord, MI",3.5,42.9,3,44.7015,-84.1484,https://findrehabmap.com/michigan/oscoda-county/
+26153,Michigan,Schoolcraft County,8178,57708,2,24.5,0,0,0,2,3.3,67.8,"Marquette, MI",73.3,"Saint Ignace, MI",44.0,67.8,2,46.0061,-86.2268,https://findrehabmap.com/michigan/schoolcraft-county/
+26013,Michigan,Baraga County,8169,55117,0,0.0,0,0,0,0,26.7,52.0,"Marquette, MI",137.2,"Wausau, WI",41.9,33.4,0,46.7665,-88.45,https://findrehabmap.com/michigan/baraga-county/
+26095,Michigan,Luce County,6328,54338,1,15.8,0,0,0,1,2.3,57.1,"Sault Sainte Marie, MI",52.3,"Saint Ignace, MI",52.3,52.4,1,46.3357,-85.5614,https://findrehabmap.com/michigan/luce-county/
+26131,Michigan,Ontonagon County,5824,51844,0,0.0,0,0,0,0,34.8,76.6,"Ashland, WI",122.7,"Wausau, WI",64.9,54.0,0,46.7189,-89.2882,https://findrehabmap.com/michigan/ontonagon-county/
+26083,Michigan,Keweenaw County,2161,53893,0,0.0,0,0,0,0,9.5,68.0,"Marquette, MI",176.3,"Wausau, WI",64.7,9.5,2,47.3361,-88.2893,https://findrehabmap.com/michigan/keweenaw-county/

@@ -1,0 +1,4 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+10003,Delaware,New Castle County,588093,89901,31,5.3,4,10,15,23,1.8,1.8,"Newark, DE",1.8,"Newark, DE",1.8,1.8,84,39.6789,-75.6353,https://findrehabmap.com/delaware/new-castle-county/
+10005,Delaware,Sussex County,271134,78162,14,5.2,2,8,8,10,2.6,4.8,"Georgetown, DE",3.5,"Georgetown, DE",2.6,17.8,23,38.6618,-75.3315,https://findrehabmap.com/delaware/sussex-county/
+10001,Delaware,Kent County,192690,72872,19,9.9,1,9,8,10,2.2,4.4,"Dover, DE",2.2,"Dover, DE",2.2,3.1,25,39.1271,-75.5591,https://findrehabmap.com/delaware/kent-county/

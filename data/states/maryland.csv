@@ -1,0 +1,25 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+24031,Maryland,Montgomery County,1082273,128733,50,4.6,7,6,11,33,0.6,0.7,"Rockville, MD",0.8,"Rockville, MD",0.7,0.7,247,39.0871,-77.1241,https://findrehabmap.com/maryland/montgomery-county/
+24033,Maryland,Prince George's County,966629,100708,48,5.0,3,3,12,38,1.2,2.4,"Bowie, MD",2.6,"Upper Marlboro, MD",1.6,2.4,265,38.9093,-76.8887,https://findrehabmap.com/maryland/prince-georges-county/
+24005,Maryland,Baltimore County,852425,90904,81,9.5,15,12,40,67,0.6,1.6,"Baltimore, MD",0.6,"Baltimore, MD",0.6,0.6,342,39.3688,-76.6203,https://findrehabmap.com/maryland/baltimore-county/
+24003,Maryland,Anne Arundel County,602350,120324,46,7.6,8,13,21,35,1.8,3.2,"Crownsville, MD",5.6,"Pasadena, MD",3.3,3.2,378,39.071,-76.6044,https://findrehabmap.com/maryland/anne-arundel-county/
+24510,Maryland,Baltimore city,568271,59623,158,27.8,25,61,84,127,0.0,0.0,"Baltimore, MD",0.0,"Baltimore, MD",0.0,0.3,340,39.3144,-76.6181,https://findrehabmap.com/maryland/baltimore-city/
+24027,Maryland,Howard County,339668,146982,30,8.8,2,4,9,17,0.3,1.0,"Columbia, MD",2.6,"Columbia, MD",0.9,1.5,436,39.2177,-76.8543,https://findrehabmap.com/maryland/howard-county/
+24021,Maryland,Frederick County,299317,120458,30,10.0,3,6,14,20,0.6,1.0,"Frederick, MD",0.7,"Frederick, MD",0.6,1.2,88,39.4277,-77.4006,https://findrehabmap.com/maryland/frederick-county/
+24025,Maryland,Harford County,265514,111317,25,9.4,8,13,17,19,2.0,2.1,"Bel Air, MD",2.1,"Bel Air, MD",2.0,9.8,228,39.5206,-76.3093,https://findrehabmap.com/maryland/harford-county/
+24013,Maryland,Carroll County,177108,115876,20,11.3,4,4,10,17,0.7,2.8,"Westminster, MD",2.6,"Westminster, MD",0.7,2.1,205,39.5262,-76.9931,https://findrehabmap.com/maryland/carroll-county/
+24017,Maryland,Charles County,174478,120592,17,9.7,4,2,7,14,0.6,1.5,"Waldorf, MD",1.5,"Waldorf, MD",0.6,1.5,131,38.5815,-76.9515,https://findrehabmap.com/maryland/charles-county/
+24043,Maryland,Washington County,157228,74157,21,13.4,0,4,6,15,0.4,15.4,"Martinsburg, WV",1.5,"Hagerstown, MD",1.4,1.5,68,39.6187,-77.7315,https://findrehabmap.com/maryland/washington-county/
+24037,Maryland,St. Mary's County,116469,114580,6,5.2,1,0,3,6,1.7,16.4,"Charlotte Hall, MD",16.7,"Prince Frederick, MD",3.0,3.0,12,38.3072,-76.578,https://findrehabmap.com/maryland/st-marys-county/
+24045,Maryland,Wicomico County,106329,72861,14,13.2,1,2,6,11,0.4,0.4,"Salisbury, MD",1.0,"Salisbury, MD",0.4,7.2,32,38.3723,-75.5938,https://findrehabmap.com/maryland/wicomico-county/
+24015,Maryland,Cecil County,106305,91146,21,19.8,5,9,14,14,0.1,0.5,"North East, MD",2.0,"Elkton, MD",0.5,7.7,79,39.6142,-75.9363,https://findrehabmap.com/maryland/cecil-county/
+24009,Maryland,Calvert County,94913,132059,7,7.4,1,1,6,7,2.1,2.1,"Prince Frederick, MD",2.6,"Prince Frederick, MD",2.1,2.1,33,38.5511,-76.5441,https://findrehabmap.com/maryland/calvert-county/
+24001,Maryland,Allegany County,67097,57393,15,22.4,2,6,7,12,2.3,2.3,"Cumberland, MD",2.3,"Cumberland, MD",2.3,4.9,18,39.6285,-78.8207,https://findrehabmap.com/maryland/allegany-county/
+24047,Maryland,Worcester County,54337,81455,5,9.2,0,1,3,4,2.8,19.9,"Salisbury, MD",19.6,"Millsboro, DE",2.8,14.6,22,38.3036,-75.2345,https://findrehabmap.com/maryland/worcester-county/
+24035,Maryland,Queen Anne's County,53688,113347,4,7.5,1,2,2,3,2.2,5.2,"Centreville, MD",4.8,"Grasonville, MD",4.8,15.2,34,39.0214,-76.15,https://findrehabmap.com/maryland/queen-annes-county/
+24041,Maryland,Talbot County,38244,84378,9,23.5,1,4,4,7,1.1,1.9,"Easton, MD",1.8,"Easton, MD",1.1,1.1,24,38.7685,-76.098,https://findrehabmap.com/maryland/talbot-county/
+24011,Maryland,Caroline County,34248,66368,3,8.8,0,1,1,3,0.3,14.6,"Easton, MD",0.3,"Denton, MD",0.3,14.1,30,38.8735,-75.8302,https://findrehabmap.com/maryland/caroline-county/
+24019,Maryland,Dorchester County,33138,60495,7,21.1,1,0,3,7,2.6,2.9,"Cambridge, MD",13.4,"Easton, MD",2.9,2.9,22,38.5713,-76.0117,https://findrehabmap.com/maryland/dorchester-county/
+24023,Maryland,Garrett County,28393,69031,2,7.0,0,0,1,2,8.1,25.3,"Cumberland, MD",17.6,"Keyser, WV",8.1,31.9,5,39.5132,-79.3058,https://findrehabmap.com/maryland/garrett-county/
+24039,Maryland,Somerset County,25241,52462,3,11.9,1,0,3,3,5.6,8.0,"Princess Anne, MD",12.2,"Pocomoke City, MD",5.6,8.0,23,38.1331,-75.7422,https://findrehabmap.com/maryland/somerset-county/
+24029,Maryland,Kent County,19557,74402,4,20.5,1,0,3,4,0.7,1.0,"Chestertown, MD",13.1,"Earleville, MD",0.7,1.0,56,39.2447,-76.0577,https://findrehabmap.com/maryland/kent-county/

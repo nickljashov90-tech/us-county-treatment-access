@@ -1,0 +1,45 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+16001,Idaho,Ada County,535799,88907,55,10.3,4,4,19,49,0.8,2.3,"Boise, ID",1.5,"Boise, ID",1.5,1.9,82,43.6121,-116.3131,https://findrehabmap.com/idaho/ada-county/
+16027,Idaho,Canyon County,266892,72355,24,9.0,0,1,7,23,0.4,13.0,"Meridian, ID",4.8,"Nampa, ID",0.4,13.0,82,43.6125,-116.625,https://findrehabmap.com/idaho/canyon-county/
+16055,Idaho,Kootenai County,188323,77034,17,9.0,1,2,6,14,2.2,3.6,"Coeur d Alene, ID",3.6,"Coeur d Alene, ID",2.5,3.6,26,47.7386,-116.8374,https://findrehabmap.com/idaho/kootenai-county/
+16019,Idaho,Bonneville County,133644,76646,20,15.0,2,2,6,20,0.2,0.3,"Idaho Falls, ID",0.3,"Idaho Falls, ID",0.3,25.5,25,43.4948,-111.9944,https://findrehabmap.com/idaho/bonneville-county/
+16083,Idaho,Twin Falls County,96509,65338,8,8.3,0,0,0,8,0.4,27.1,"Gooding, ID",27.1,"Gooding, ID",27.1,27.1,9,42.5603,-114.4996,https://findrehabmap.com/idaho/twin-falls-county/
+16005,Idaho,Bannock County,91010,64080,17,18.7,3,2,5,16,0.2,0.5,"Pocatello, ID",0.5,"Pocatello, ID",0.5,0.2,20,42.8711,-112.4251,https://findrehabmap.com/idaho/bannock-county/
+16065,Idaho,Madison County,55549,58259,5,9.0,1,2,2,5,0.1,1.0,"Rexburg, ID",1.0,"Rexburg, ID",1.0,1.2,11,43.8192,-111.7939,https://findrehabmap.com/idaho/madison-county/
+16017,Idaho,Bonner County,53955,65168,4,7.4,0,0,2,4,4.5,38.1,"Coeur d Alene, ID",38.4,"Coeur d Alene, ID",4.7,38.1,4,48.2365,-116.6302,https://findrehabmap.com/idaho/bonner-county/
+16011,Idaho,Bingham County,50889,76842,3,5.9,0,0,1,3,2.2,22.9,"Pocatello, ID",25.0,"Pocatello, ID",2.2,24.5,25,43.2231,-112.3463,https://findrehabmap.com/idaho/bingham-county/
+16069,Idaho,Nez Perce County,42847,71466,7,16.3,0,0,1,5,2.7,90.2,"Spokane Valley, WA",89.4,"Spokane, WA",4.7,3.8,9,46.3939,-116.9521,https://findrehabmap.com/idaho/nez-perce-county/
+16057,Idaho,Latah County,42180,65179,2,4.7,0,0,0,2,3.2,66.2,"Coeur d Alene, ID",65.9,"Coeur d'Alene, ID",23.4,22.9,10,46.7426,-116.9348,https://findrehabmap.com/idaho/latah-county/
+16051,Idaho,Jefferson County,34854,82952,2,5.7,0,0,1,2,1.8,13.2,"Rexburg, ID",11.8,"Rexburg, ID",2.8,13.4,27,43.6871,-111.959,https://findrehabmap.com/idaho/jefferson-county/
+16039,Idaho,Elmore County,29729,58976,2,6.7,0,0,0,1,1.3,43.0,"Boise, ID",44.7,"Boise, ID",42.8,2.9,2,43.1177,-115.6851,https://findrehabmap.com/idaho/elmore-county/
+16075,Idaho,Payette County,27662,65723,4,14.5,0,0,0,4,3.1,38.5,"Meridian, ID",35.9,"Nampa, ID",4.1,4.1,13,44.0196,-116.8933,https://findrehabmap.com/idaho/payette-county/
+16053,Idaho,Jerome County,26056,69338,1,3.8,0,0,0,1,3.3,19.7,"Gooding, ID",19.7,"Gooding, ID",19.7,19.7,12,42.6995,-114.465,https://findrehabmap.com/idaho/jerome-county/
+16031,Idaho,Cassia County,25976,67042,4,15.4,0,0,0,3,3.4,8.0,"Heyburn, ID",57.3,"Gooding, ID",8.0,8.0,6,42.4874,-113.7478,https://findrehabmap.com/idaho/cassia-county/
+16013,Idaho,Blaine County,25261,84470,1,4.0,0,0,0,1,1.9,47.1,"Gooding, ID",48.0,"Gooding, ID",47.1,47.1,1,43.5481,-114.299,https://findrehabmap.com/idaho/blaine-county/
+16067,Idaho,Minidoka County,22691,70060,2,8.8,1,0,2,2,6.3,7.5,"Heyburn, ID",54.9,"Gooding, ID",7.5,7.5,6,42.6112,-113.7126,https://findrehabmap.com/idaho/minidoka-county/
+16045,Idaho,Gem County,21857,66245,3,13.7,0,0,0,3,1.0,20.0,"Meridian, ID",19.0,"Meridian, ID",17.5,20.0,86,43.8831,-116.5077,https://findrehabmap.com/idaho/gem-county/
+16049,Idaho,Idaho County,17912,60975,1,5.6,0,0,0,1,3.2,118.5,"Missoula, MT",116.2,"Missoula, MT",18.1,53.6,2,45.972,-116.1055,https://findrehabmap.com/idaho/idaho-county/
+16047,Idaho,Gooding County,16189,62395,3,18.5,2,1,2,3,5.1,5.1,"Gooding, ID",5.1,"Gooding, ID",5.1,5.1,10,42.8535,-114.7504,https://findrehabmap.com/idaho/gooding-county/
+16041,Idaho,Franklin County,15638,65991,0,0.0,0,0,0,0,20.1,57.3,"Ogden, UT",23.7,"Logan, UT",23.7,22.0,8,42.0982,-111.8718,https://findrehabmap.com/idaho/franklin-county/
+16043,Idaho,Fremont County,14399,72767,0,0.0,0,0,0,0,15.0,15.2,"Rexburg, ID",15.2,"Rexburg, ID",15.2,15.0,5,44.0129,-111.6169,https://findrehabmap.com/idaho/fremont-county/
+16079,Idaho,Shoshone County,14074,49975,1,7.1,0,0,0,1,2.4,35.0,"Coeur d Alene, ID",35.3,"Coeur d Alene, ID",35.0,35.0,1,47.5149,-116.0918,https://findrehabmap.com/idaho/shoshone-county/
+16021,Idaho,Boundary County,14040,62438,1,7.1,0,0,0,1,1.8,73.6,"Coeur d Alene, ID",74.0,"Coeur d Alene, ID",31.8,28.4,1,48.7106,-116.3026,https://findrehabmap.com/idaho/boundary-county/
+16081,Idaho,Teton County,12932,90740,1,7.7,0,0,0,1,3.6,33.9,"Rexburg, ID",23.8,"Jackson, WY",23.8,33.7,3,43.6924,-111.1221,https://findrehabmap.com/idaho/teton-county/
+16085,Idaho,Valley County,12777,76125,1,7.8,0,0,0,1,10.0,79.3,"Boise, ID",80.9,"Meridian, ID",67.3,67.3,1,44.7662,-116.0747,https://findrehabmap.com/idaho/valley-county/
+16073,Idaho,Owyhee County,12748,59773,0,0.0,0,0,0,0,12.9,22.8,"Meridian, ID",12.9,"Nampa, ID",12.9,21.9,42,43.3934,-116.7047,https://findrehabmap.com/idaho/owyhee-county/
+16087,Idaho,Washington County,11539,53608,0,0.0,0,0,0,0,15.7,54.8,"Meridian, ID",53.6,"Meridian, ID",18.5,18.5,9,44.2983,-116.921,https://findrehabmap.com/idaho/washington-county/
+16009,Idaho,Benewah County,10529,56553,1,9.5,0,0,1,1,12.6,30.0,"Coeur d Alene, ID",29.9,"Coeur d'Alene, ID",12.6,30.0,1,47.2731,-116.6446,https://findrehabmap.com/idaho/benewah-county/
+16035,Idaho,Clearwater County,9151,57961,0,0.0,0,0,0,0,19.7,88.1,"Coeur d Alene, ID",88.0,"Coeur d'Alene, ID",19.7,40.0,1,46.4891,-116.1908,https://findrehabmap.com/idaho/clearwater-county/
+16015,Idaho,Boise County,8581,77349,0,0.0,0,0,0,0,22.1,22.2,"Boise, ID",25.4,"Boise, ID",22.1,22.2,27,43.9065,-115.9853,https://findrehabmap.com/idaho/boise-county/
+16059,Idaho,Lemhi County,8397,52057,1,11.9,0,0,0,0,3.4,45.5,"Challis, ID",118.9,"Missoula, MT",45.5,45.5,1,45.1304,-113.861,https://findrehabmap.com/idaho/lemhi-county/
+16077,Idaho,Power County,8381,59760,0,0.0,0,0,0,0,19.7,20.0,"Pocatello, ID",20.7,"Pocatello, ID",20.0,20.0,16,42.7746,-112.8273,https://findrehabmap.com/idaho/power-county/
+16029,Idaho,Caribou County,7239,66653,1,13.8,0,0,0,1,2.5,38.1,"Pocatello, ID",41.7,"Pocatello, ID",37.1,42.1,1,42.6462,-111.6521,https://findrehabmap.com/idaho/caribou-county/
+16007,Idaho,Bear Lake County,6779,67304,0,0.0,0,0,0,0,25.2,64.3,"Pocatello, ID",45.3,"Logan, UT",35.7,44.3,0,42.3075,-111.3412,https://findrehabmap.com/idaho/bear-lake-county/
+16063,Idaho,Lincoln County,5556,66038,0,0.0,0,0,0,0,19.0,19.0,"Gooding, ID",19.4,"Gooding, ID",19.0,19.0,4,42.9717,-114.3333,https://findrehabmap.com/idaho/lincoln-county/
+16003,Idaho,Adams County,4998,59286,0,0.0,0,0,0,0,14.7,85.0,"Boise, ID",84.7,"Meridian, ID",59.8,53.8,1,44.8439,-116.3833,https://findrehabmap.com/idaho/adams-county/
+16071,Idaho,Oneida County,4976,72563,1,20.1,0,0,0,0,2.6,47.9,"Pocatello, ID",38.2,"Logan, UT",32.6,36.5,1,42.1822,-112.2955,https://findrehabmap.com/idaho/oneida-county/
+16037,Idaho,Custer County,4597,56957,2,43.5,1,0,1,1,17.2,17.7,"Challis, ID",98.8,"Gooding, ID",17.7,17.7,2,44.2803,-114.0963,https://findrehabmap.com/idaho/custer-county/
+16061,Idaho,Lewis County,3728,49643,1,26.8,0,0,1,1,11.5,103.8,"Coeur d Alene, ID",103.6,"Coeur d'Alene, ID",11.5,38.3,2,46.2376,-116.264,https://findrehabmap.com/idaho/lewis-county/
+16023,Idaho,Butte County,2735,43281,0,0.0,0,0,0,0,52.4,66.8,"Idaho Falls, ID",66.8,"Idaho Falls, ID",58.5,63.3,0,43.6973,-113.3022,https://findrehabmap.com/idaho/butte-county/
+16025,Idaho,Camas County,1247,55536,0,0.0,0,0,0,0,24.8,29.0,"Gooding, ID",29.9,"Gooding, ID",29.0,29.0,1,43.3529,-114.7545,https://findrehabmap.com/idaho/camas-county/
+16033,Idaho,Clark County,794,52083,0,0.0,0,0,0,0,33.8,35.1,"Rexburg, ID",33.8,"Rexburg, ID",33.8,35.3,0,44.1947,-112.2621,https://findrehabmap.com/idaho/clark-county/

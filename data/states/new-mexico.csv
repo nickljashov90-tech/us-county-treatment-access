@@ -1,0 +1,34 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+35001,New Mexico,Bernalillo County,671747,66514,47,7.0,12,19,19,35,0.6,2.0,"Rio Rancho, NM",0.6,"Albuquerque, NM",1.3,0.9,56,35.1095,-106.6178,https://findrehabmap.com/new-mexico/bernalillo-county/
+35013,New Mexico,Doña Ana County,229366,55663,17,7.4,8,2,9,14,3.0,4.1,"Las Cruces, NM",4.1,"Las Cruces, NM",3.7,3.0,15,32.2484,-106.7288,https://findrehabmap.com/new-mexico/do-a-ana-county/
+35049,New Mexico,Santa Fe County,157765,74689,13,8.2,4,3,2,4,2.3,3.5,"Santa Fe, NM",2.5,"Santa Fe, NM",2.5,36.8,15,35.6326,-106.0048,https://findrehabmap.com/new-mexico/santa-fe-county/
+35043,New Mexico,Sandoval County,157757,84053,7,4.4,2,1,2,7,4.9,5.4,"Rio Rancho, NM",6.0,"Rio Rancho, NM",5.4,14.0,51,35.3197,-106.6492,https://findrehabmap.com/new-mexico/sandoval-county/
+35045,New Mexico,San Juan County,120817,53020,8,6.6,1,1,2,6,0.2,0.8,"Farmington, NM",1.4,"Farmington, NM",0.3,0.2,6,36.724,-108.2202,https://findrehabmap.com/new-mexico/san-juan-county/
+35061,New Mexico,Valencia County,80813,58333,4,4.9,0,1,1,2,3.2,18.4,"Albuquerque, NM",5.9,"Belen, NM",5.7,17.0,34,34.7557,-106.7228,https://findrehabmap.com/new-mexico/valencia-county/
+35025,New Mexico,Lea County,75151,68750,2,2.7,0,0,1,1,4.3,65.3,"Carlsbad, NM",78.6,"Odessa, TX",4.3,65.3,2,32.7517,-103.1905,https://findrehabmap.com/new-mexico/lea-county/
+35035,New Mexico,Otero County,69711,52717,1,1.4,0,0,0,1,10.2,53.7,"Las Cruces, NM",53.9,"Las Cruces, NM",42.7,53.7,1,32.7785,-106.0003,https://findrehabmap.com/new-mexico/otero-county/
+35031,New Mexico,McKinley County,68945,44496,9,13.1,1,0,3,7,4.1,4.6,"Gallup, NM",87.8,"Farmington, NM",4.5,4.1,6,35.5132,-108.6343,https://findrehabmap.com/new-mexico/mckinley-county/
+35005,New Mexico,Chaves County,63697,52029,5,7.8,2,2,3,3,1.2,2.4,"Roswell, NM",1.2,"Roswell, NM",1.2,3.3,5,33.3657,-104.5147,https://findrehabmap.com/new-mexico/chaves-county/
+35015,New Mexico,Eddy County,61436,79605,4,6.5,1,0,3,4,7.1,7.1,"Carlsbad, NM",59.5,"Roswell, NM",7.1,7.1,4,32.5382,-104.2886,https://findrehabmap.com/new-mexico/eddy-county/
+35009,New Mexico,Curry County,47156,56259,2,4.2,0,0,2,2,0.3,90.4,"Amarillo, TX",87.3,"Plainview, TX",0.3,85.8,3,34.4211,-103.2132,https://findrehabmap.com/new-mexico/curry-county/
+35039,New Mexico,Rio Arriba County,39955,53901,14,35.0,2,4,11,11,13.5,13.5,"Velarde, NM",15.3,"Española, NM",13.5,13.5,14,36.204,-106.2052,https://findrehabmap.com/new-mexico/rio-arriba-county/
+35055,New Mexico,Taos County,34482,58908,7,20.3,2,1,3,4,3.2,3.4,"Taos, NM",20.0,"Questa, NM",4.4,3.4,8,36.4351,-105.6079,https://findrehabmap.com/new-mexico/taos-county/
+35017,New Mexico,Grant County,27541,45921,4,14.5,1,0,3,4,0.9,0.9,"Silver City, NM",85.1,"Safford, AZ",0.9,90.4,4,32.7811,-108.2432,https://findrehabmap.com/new-mexico/grant-county/
+35006,New Mexico,Cibola County,26686,51765,2,7.5,0,0,0,2,3.6,58.4,"Gallup, NM",64.7,"Albuquerque, NM",44.5,57.7,2,35.107,-107.8188,https://findrehabmap.com/new-mexico/cibola-county/
+35047,New Mexico,San Miguel County,26428,47400,6,22.7,0,0,2,3,5.1,36.9,"Santa Fe, NM",36.9,"Santa Fe, NM",5.1,54.9,6,35.5763,-105.3079,https://findrehabmap.com/new-mexico/san-miguel-county/
+35029,New Mexico,Luna County,25878,37917,2,7.7,0,0,1,2,3.0,49.0,"Silver City, NM",58.3,"Las Cruces, NM",3.3,56.4,2,32.223,-107.7419,https://findrehabmap.com/new-mexico/luna-county/
+35027,New Mexico,Lincoln County,20025,51643,1,5.0,0,0,1,1,6.6,63.2,"Roswell, NM",63.2,"Roswell, NM",6.6,64.4,1,33.4196,-105.6311,https://findrehabmap.com/new-mexico/lincoln-county/
+35028,New Mexico,Los Alamos County,19675,143188,1,5.1,0,0,0,1,1.7,13.7,"Española, NM",13.7,"Española, NM",13.3,26.6,21,35.8692,-106.2723,https://findrehabmap.com/new-mexico/los-alamos-county/
+35041,New Mexico,Roosevelt County,18713,52445,1,5.3,0,0,1,1,1.5,86.7,"Roswell, NM",85.9,"Roswell, NM",1.5,84.7,3,34.1686,-103.3475,https://findrehabmap.com/new-mexico/roosevelt-county/
+35057,New Mexico,Torrance County,15986,46250,0,0.0,0,0,0,0,16.2,16.2,"Albuquerque, NM",30.4,"Albuquerque, NM",29.9,29.9,3,34.8706,-106.1027,https://findrehabmap.com/new-mexico/torrance-county/
+35053,New Mexico,Socorro County,15967,47556,0,0.0,0,0,0,0,37.9,61.4,"Albuquerque, NM",37.9,"Belen, NM",38.1,60.6,0,34.1549,-106.9604,https://findrehabmap.com/new-mexico/socorro-county/
+35007,New Mexico,Colfax County,12307,52690,2,16.3,0,0,1,2,23.5,33.4,"Trinidad, CO",52.0,"Questa, NM",23.5,33.4,2,36.6981,-104.6566,https://findrehabmap.com/new-mexico/colfax-county/
+35051,New Mexico,Sierra County,11389,37840,0,0.0,0,0,0,0,59.7,59.7,"Las Cruces, NM",62.2,"Las Cruces, NM",59.7,59.7,0,33.107,-107.2817,https://findrehabmap.com/new-mexico/sierra-county/
+35037,New Mexico,Quay County,8403,43698,1,11.9,0,0,1,1,3.5,98.0,"Amarillo, TX",101.6,"Amarillo, TX",3.5,95.3,1,35.1783,-103.6624,https://findrehabmap.com/new-mexico/quay-county/
+35019,New Mexico,Guadalupe County,4385,40149,2,45.6,0,0,1,2,4.7,81.6,"Albuquerque, NM",83.3,"Santa Fe, NM",27.3,101.4,1,34.9326,-104.7645,https://findrehabmap.com/new-mexico/guadalupe-county/
+35033,New Mexico,Mora County,4096,50178,1,24.4,0,0,1,1,26.8,32.9,"Taos, NM",46.0,"Española, NM",27.8,32.9,0,36.0042,-105.2371,https://findrehabmap.com/new-mexico/mora-county/
+35023,New Mexico,Hidalgo County,3966,49076,2,50.4,1,0,2,2,5.2,5.2,"Lordsburg, NM",66.3,"Safford, AZ",5.2,89.2,2,32.2865,-108.7712,https://findrehabmap.com/new-mexico/hidalgo-county/
+35059,New Mexico,Union County,3926,45319,0,0.0,0,0,0,0,63.8,84.1,"Trinidad, CO",110.8,"Las Animas, CO",63.8,84.1,0,36.4682,-103.2659,https://findrehabmap.com/new-mexico/union-county/
+35003,New Mexico,Catron County,3795,46439,1,26.4,0,0,0,1,21.5,82.1,"Whiteriver, AZ",87.5,"Show Low, AZ",71.9,82.1,1,33.9587,-108.5315,https://findrehabmap.com/new-mexico/catron-county/
+35011,New Mexico,De Baca County,1657,40804,0,0.0,0,0,0,0,41.0,75.5,"Roswell, NM",75.5,"Roswell, NM",55.3,73.9,0,34.4607,-104.248,https://findrehabmap.com/new-mexico/de-baca-county/
+35021,New Mexico,Harding County,635,41250,1,157.5,0,0,1,1,14.2,95.5,"Trinidad, CO",108.3,"Questa, NM",14.2,95.5,1,35.853,-103.9786,https://findrehabmap.com/new-mexico/harding-county/

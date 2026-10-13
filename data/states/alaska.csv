@@ -1,0 +1,31 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+02020,Alaska,Anchorage Municipality,289600,98152,28,9.7,2,5,9,19,1.0,3.5,"Anchorage, AK",1.6,"Anchorage, AK",1.5,1.0,27,61.1915,-149.7923,https://findrehabmap.com/alaska/anchorage-municipality/
+02170,Alaska,Matanuska-Susitna Borough,117613,90625,14,11.9,1,1,5,11,1.5,2.7,"Wasilla, AK",2.8,"Wasilla, AK",1.8,1.7,14,61.6072,-149.4326,https://findrehabmap.com/alaska/matanuska-susitna-borough/
+02090,Alaska,Fairbanks North Star Borough,94951,84722,7,7.4,0,1,2,6,2.7,230.4,"Wasilla, AK",3.1,"Fairbanks, AK",2.7,2.7,7,64.8312,-147.6232,https://findrehabmap.com/alaska/fairbanks-north-star-borough/
+02122,Alaska,Kenai Peninsula Borough,61259,77722,7,11.4,0,0,3,7,14.6,73.3,"Anchorage, AK",74.3,"Anchorage, AK",14.6,73.0,3,60.284,-151.0681,https://findrehabmap.com/alaska/kenai-peninsula-borough/
+02110,Alaska,Juneau City and Borough,31572,100513,9,28.5,0,1,3,7,1.4,421.1,"Cordova, AK",1.5,"Juneau, AK",2.4,1.4,9,58.3602,-134.533,https://findrehabmap.com/alaska/juneau-city-and-borough/
+02050,Alaska,Bethel Census Area,18237,70616,1,5.5,0,0,0,1,16.6,413.5,"Anchorage, AK",413.6,"Anchorage, AK",369.9,413.5,1,60.6676,-162.1783,https://findrehabmap.com/alaska/bethel-census-area/
+02130,Alaska,Ketchikan Gateway Borough,13677,89155,2,14.6,0,1,0,1,1.0,594.1,"Bellingham, WA",1.0,"Ketchikan, AK",56.9,230.0,2,55.3691,-131.6784,https://findrehabmap.com/alaska/ketchikan-gateway-borough/
+02150,Alaska,Kodiak Island Borough,12654,83716,2,15.8,0,0,1,2,3.5,251.5,"Anchorage, AK",252.6,"Anchorage, AK",3.5,250.3,2,57.7746,-152.4548,https://findrehabmap.com/alaska/kodiak-island-borough/
+02185,Alaska,North Slope Borough,10663,86313,3,28.1,0,0,0,0,64.9,635.8,"Wasilla, AK",436.6,"Fairbanks, AK",436.6,436.7,0,70.4808,-155.2954,https://findrehabmap.com/alaska/north-slope-borough/
+02180,Alaska,Nome Census Area,9836,76643,0,0.0,0,0,0,0,274.7,533.5,"Anchorage, AK",518.3,"Fairbanks, AK",518.3,518.8,0,64.4316,-165.2691,https://findrehabmap.com/alaska/nome-census-area/
+02220,Alaska,Sitka City and Borough,8355,101207,2,23.9,0,1,1,2,0.6,442.7,"Cordova, AK",0.6,"Sitka, AK",0.6,93.2,2,57.0628,-135.336,https://findrehabmap.com/alaska/sitka-city-and-borough/
+02158,Alaska,Kusilvak Census Area,7946,48233,0,0.0,0,0,0,0,122.8,477.5,"Anchorage, AK",477.4,"Anchorage, AK",445.6,477.2,0,62.0768,-164.3405,https://findrehabmap.com/alaska/kusilvak-census-area/
+02240,Alaska,Southeast Fairbanks Census Area,7313,74223,1,13.7,0,0,0,1,34.5,215.3,"Wasilla, AK",113.1,"Fairbanks, AK",112.7,111.8,0,63.8616,-144.6988,https://findrehabmap.com/alaska/southeast-fairbanks-census-area/
+02188,Alaska,Northwest Arctic Borough,7134,81298,0,0.0,0,0,0,0,325.6,517.1,"Wasilla, AK",415.3,"Fairbanks, AK",415.3,415.7,0,66.8971,-161.583,https://findrehabmap.com/alaska/northwest-arctic-borough/
+02063,Alaska,Chugach Census Area,6604,88565,2,30.3,1,0,1,2,18.3,28.0,"Cordova, AK",116.3,"Wasilla, AK",28.0,114.0,1,60.8814,-146.1992,https://findrehabmap.com/alaska/chugach-census-area/
+02198,Alaska,Prince of Wales-Hyder Census Area,5746,59079,3,52.2,0,2,1,2,17.0,586.2,"Cordova, AK",17.0,"Klawock, AK",17.0,200.9,3,55.5908,-132.6688,https://findrehabmap.com/alaska/prince-of-wales-hyder-census-area/
+02016,Alaska,Aleutians West Census Area,5424,107344,0,0.0,0,0,0,0,524.2,832.6,"Anchorage, AK",833.2,"Anchorage, AK",662.2,833.2,0,54.0246,-168.148,https://findrehabmap.com/alaska/aleutians-west-census-area/
+02290,Alaska,Yukon-Koyukuk Census Area,5099,52642,1,19.6,0,0,0,1,113.2,256.9,"Wasilla, AK",149.7,"Fairbanks, AK",149.7,150.2,0,64.9661,-152.8277,https://findrehabmap.com/alaska/yukon-koyukuk-census-area/
+02070,Alaska,Dillingham Census Area,4642,74250,0,0.0,0,0,0,0,155.3,335.5,"Anchorage, AK",336.1,"Anchorage, AK",247.9,336.0,0,59.1288,-158.7513,https://findrehabmap.com/alaska/dillingham-census-area/
+02013,Alaska,Aleutians East Borough,3632,72692,0,0.0,0,0,0,0,429.4,676.5,"Anchorage, AK",677.2,"Anchorage, AK",487.0,677.3,0,54.6729,-163.7637,https://findrehabmap.com/alaska/aleutians-east-borough/
+02195,Alaska,Petersburg Borough,3436,77026,1,29.1,0,0,1,1,1.3,526.7,"Cordova, AK",86.4,"Klawock, AK",1.3,120.0,1,56.7951,-132.9436,https://findrehabmap.com/alaska/petersburg-borough/
+02066,Alaska,Copper River Census Area,2631,75053,0,0.0,0,0,0,0,77.1,107.7,"Cordova, AK",146.0,"Wasilla, AK",107.7,141.7,0,62.0608,-145.0329,https://findrehabmap.com/alaska/copper-river-census-area/
+02105,Alaska,Hoonah-Angoon Census Area,2312,62500,0,0.0,0,0,0,0,34.6,399.9,"Cordova, AK",34.9,"Juneau, AK",34.6,37.4,0,58.1239,-135.4235,https://findrehabmap.com/alaska/hoonah-angoon-census-area/
+02100,Alaska,Haines Borough,2104,72607,1,47.5,0,0,1,1,1.8,366.3,"Cordova, AK",68.9,"Juneau, AK",1.8,70.5,1,59.2342,-135.4973,https://findrehabmap.com/alaska/haines-borough/
+02275,Alaska,Wrangell City and Borough,2064,64545,2,96.9,0,0,1,2,2.8,559.7,"Cordova, AK",67.1,"Klawock, AK",3.3,153.2,2,56.4261,-132.3554,https://findrehabmap.com/alaska/wrangell-city-and-borough/
+02068,Alaska,Denali Borough,1621,88935,2,123.4,0,0,0,2,1.4,157.5,"Wasilla, AK",78.0,"Fairbanks, AK",78.0,76.7,1,63.8643,-149.0275,https://findrehabmap.com/alaska/denali-borough/
+02164,Alaska,Lake and Peninsula Borough,1315,64000,0,0.0,0,0,0,0,152.7,282.9,"Anchorage, AK",283.7,"Anchorage, AK",152.7,283.7,0,58.6172,-156.2734,https://findrehabmap.com/alaska/lake-and-peninsula-borough/
+02230,Alaska,Skagway Municipality,1119,78594,0,0.0,0,0,0,0,16.6,367.8,"Cordova, AK",80.9,"Juneau, AK",16.6,82.0,1,59.4659,-135.3106,https://findrehabmap.com/alaska/skagway-municipality/
+02060,Alaska,Bristol Bay Borough,884,100625,0,0.0,0,0,0,0,174.3,293.2,"Anchorage, AK",294.0,"Anchorage, AK",174.3,294.0,0,58.7335,-156.8336,https://findrehabmap.com/alaska/bristol-bay-borough/
+02282,Alaska,Yakutat City and Borough,690,80625,0,0.0,0,0,0,0,151.7,219.2,"Cordova, AK",200.6,"Juneau, AK",151.7,203.3,0,59.5451,-139.7149,https://findrehabmap.com/alaska/yakutat-city-and-borough/

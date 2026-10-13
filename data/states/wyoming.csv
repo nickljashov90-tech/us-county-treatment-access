@@ -1,0 +1,24 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+56021,Wyoming,Laramie County,101783,77884,5,4.9,2,0,5,5,0.9,0.9,"Cheyenne, WY",42.9,"Fort Collins, CO",0.9,0.9,5,41.1539,-104.7713,https://findrehabmap.com/wyoming/laramie-county/
+56025,Wyoming,Natrona County,80410,71247,3,3.7,2,0,2,3,1.5,1.5,"Casper, WY",170.9,"Fort Collins, CO",1.5,1.5,3,42.8422,-106.3353,https://findrehabmap.com/wyoming/natrona-county/
+56005,Wyoming,Campbell County,47946,95253,3,6.3,0,0,3,3,2.4,79.7,"Sheridan, WY",182.4,"Billings, MT",2.4,2.6,3,44.257,-105.4955,https://findrehabmap.com/wyoming/campbell-county/
+56037,Wyoming,Sweetwater County,41273,76464,3,7.3,0,0,1,3,2.0,109.9,"Riverton, WY",130.5,"Logan, UT",2.0,2.1,3,41.5806,-109.3025,https://findrehabmap.com/wyoming/sweetwater-county/
+56013,Wyoming,Fremont County,39721,64646,5,12.6,1,0,3,4,10.2,11.0,"Riverton, WY",112.4,"Jackson, WY",10.2,11.0,5,43.0107,-108.6095,https://findrehabmap.com/wyoming/fremont-county/
+56001,Wyoming,Albany County,39288,59881,2,5.1,0,0,1,2,1.3,42.3,"Cheyenne, WY",59.3,"Fort Collins, CO",1.3,2.8,2,41.3134,-105.5961,https://findrehabmap.com/wyoming/albany-county/
+56033,Wyoming,Sheridan County,32978,70855,3,9.1,2,0,3,3,1.9,1.9,"Sheridan, WY",102.7,"Billings, MT",1.9,1.9,3,44.781,-106.9778,https://findrehabmap.com/wyoming/sheridan-county/
+56029,Wyoming,Park County,31082,70533,4,12.9,3,0,3,2,7.7,7.8,"Cody, WY",81.5,"Billings, MT",7.8,7.8,4,44.614,-108.9725,https://findrehabmap.com/wyoming/park-county/
+56039,Wyoming,Teton County,23272,112681,2,8.6,0,1,1,1,1.6,54.6,"Rexburg, ID",2.1,"Jackson, WY",2.1,54.4,3,43.4917,-110.7858,https://findrehabmap.com/wyoming/teton-county/
+56023,Wyoming,Lincoln County,21000,86092,3,14.3,0,0,3,3,6.1,75.5,"Pocatello, ID",57.8,"Jackson, WY",6.1,77.6,2,42.6483,-110.8729,https://findrehabmap.com/wyoming/lincoln-county/
+56041,Wyoming,Uinta County,20621,82672,2,9.7,0,0,2,2,11.7,47.8,"Oakley, UT",62.3,"Ogden, UT",11.7,46.9,2,41.2715,-110.7604,https://findrehabmap.com/wyoming/uinta-county/
+56007,Wyoming,Carbon County,14250,66721,1,7.0,0,0,1,1,12.5,91.1,"Casper, WY",130.3,"Fort Collins, CO",12.5,79.9,1,41.6599,-107.0781,https://findrehabmap.com/wyoming/carbon-county/
+56009,Wyoming,Converse County,13766,79164,1,7.3,0,0,1,1,8.5,40.0,"Casper, WY",155.5,"Fort Collins, CO",8.5,39.3,1,42.7885,-105.5207,https://findrehabmap.com/wyoming/converse-county/
+56015,Wyoming,Goshen County,12635,64882,1,7.9,0,0,1,1,2.7,68.8,"Cheyenne, WY",110.9,"Fort Collins, CO",2.7,68.8,1,42.0501,-104.2202,https://findrehabmap.com/wyoming/goshen-county/
+56003,Wyoming,Big Horn County,12084,60547,2,16.6,0,0,2,2,14.8,41.2,"Cody, WY",79.1,"Billings, MT",14.8,41.2,2,44.6353,-108.251,https://findrehabmap.com/wyoming/big-horn-county/
+56035,Wyoming,Sublette County,8965,82791,1,11.2,0,0,1,1,5.2,79.8,"Riverton, WY",61.7,"Jackson, WY",5.2,79.8,1,42.8073,-109.9435,https://findrehabmap.com/wyoming/sublette-county/
+56019,Wyoming,Johnson County,8803,63905,1,11.4,0,0,1,1,4.3,34.8,"Sheridan, WY",136.7,"Billings, MT",4.3,34.8,1,44.2883,-106.6957,https://findrehabmap.com/wyoming/johnson-county/
+56031,Wyoming,Platte County,8512,66299,1,11.7,0,0,1,1,4.6,66.6,"Cheyenne, WY",106.5,"Fort Collins, CO",4.6,62.2,1,42.1065,-104.9298,https://findrehabmap.com/wyoming/platte-county/
+56011,Wyoming,Crook County,7775,71209,1,12.9,0,0,1,1,12.1,74.5,"Rapid City, SD",212.4,"Pierre, SD",12.1,39.7,1,44.4349,-104.6197,https://findrehabmap.com/wyoming/crook-county/
+56043,Wyoming,Washakie County,7662,62648,1,13.1,0,0,1,1,1.7,67.9,"Cody, WY",124.9,"Billings, MT",1.7,67.9,1,44.0122,-107.9051,https://findrehabmap.com/wyoming/washakie-county/
+56045,Wyoming,Weston County,6866,87545,1,14.6,0,0,1,1,6.4,55.4,"Rapid City, SD",200.4,"Pierre, SD",6.4,46.1,1,43.9084,-104.3044,https://findrehabmap.com/wyoming/weston-county/
+56017,Wyoming,Hot Springs County,4625,64375,1,21.6,0,0,1,1,1.7,44.9,"Riverton, WY",126.6,"Jackson, WY",1.7,44.9,1,43.6615,-108.2326,https://findrehabmap.com/wyoming/hot-springs-county/
+56027,Wyoming,Niobrara County,2301,48987,1,43.5,0,0,1,1,3.9,94.1,"Casper, WY",158.0,"Fort Collins, CO",3.9,65.4,1,42.8109,-104.451,https://findrehabmap.com/wyoming/niobrara-county/

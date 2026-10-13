@@ -1,0 +1,89 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+39049,Ohio,Franklin County,1356303,73795,93,6.9,22,20,41,73,0.4,2.6,"Columbus, OH",0.5,"Columbus, OH",0.5,0.4,103,40.0012,-82.9922,https://findrehabmap.com/ohio/franklin-county/
+39035,Ohio,Cuyahoga County,1240594,62823,73,5.9,7,14,23,55,1.4,3.1,"Cleveland, OH",3.1,"Cleveland, OH",1.9,1.4,111,41.4484,-81.6775,https://findrehabmap.com/ohio/cuyahoga-county/
+39061,Ohio,Hamilton County,837359,70816,54,6.4,12,19,16,35,2.0,2.8,"Cincinnati, OH",2.9,"Cincinnati, OH",2.9,2.0,146,39.1811,-84.5091,https://findrehabmap.com/ohio/hamilton-county/
+39153,Ohio,Summit County,538370,71016,36,6.7,2,8,15,28,0.3,1.3,"Akron, OH",0.3,"Akron, OH",1.3,1.3,118,41.1161,-81.5119,https://findrehabmap.com/ohio/summit-county/
+39113,Ohio,Montgomery County,537443,64403,48,8.9,14,13,23,38,0.4,0.4,"Dayton, OH",0.6,"Dayton, OH",0.4,0.4,93,39.7442,-84.2064,https://findrehabmap.com/ohio/montgomery-county/
+39095,Ohio,Lucas County,426291,60095,28,6.6,8,4,14,24,1.1,1.1,"Toledo, OH",2.5,"Toledo, OH",1.1,3.5,36,41.652,-83.6203,https://findrehabmap.com/ohio/lucas-county/
+39017,Ohio,Butler County,399542,81194,35,8.8,7,13,11,27,2.1,3.5,"Hamilton, OH",4.1,"Hamilton, OH",3.5,2.2,127,39.4106,-84.4984,https://findrehabmap.com/ohio/butler-county/
+39151,Ohio,Stark County,374091,65740,32,8.6,4,6,9,28,0.7,1.9,"Canton, OH",2.5,"Canton, OH",0.7,1.9,90,40.8376,-81.389,https://findrehabmap.com/ohio/stark-county/
+39093,Ohio,Lorain County,322030,70693,15,4.7,2,6,7,11,0.2,3.6,"Lorain, OH",0.2,"Elyria, OH",0.2,5.2,61,41.3917,-82.1102,https://findrehabmap.com/ohio/lorain-county/
+39165,Ohio,Warren County,256059,107843,9,3.5,1,4,3,6,2.2,4.3,"Mason, OH",4.2,"Lebanon, OH",4.2,6.5,135,39.4233,-84.2439,https://findrehabmap.com/ohio/warren-county/
+39041,Ohio,Delaware County,237966,130088,6,2.5,0,0,1,6,1.0,9.0,"Columbus, OH",5.3,"Columbus, OH",5.3,7.9,105,40.2134,-83.0123,https://findrehabmap.com/ohio/delaware-county/
+39085,Ohio,Lake County,232360,77952,14,6.0,2,2,9,12,0.7,0.7,"Mentor, OH",0.8,"Mentor, OH",0.7,5.1,77,41.685,-81.3199,https://findrehabmap.com/ohio/lake-county/
+39099,Ohio,Mahoning County,225786,55576,29,12.8,3,4,10,22,1.6,2.9,"Youngstown, OH",3.5,"Youngstown, OH",2.9,2.2,73,41.0482,-80.697,https://findrehabmap.com/ohio/mahoning-county/
+39025,Ohio,Clermont County,214123,83178,16,7.5,4,7,6,11,3.0,4.0,"Batavia, OH",3.9,"Batavia, OH",3.9,4.1,123,39.1049,-84.2138,https://findrehabmap.com/ohio/clermont-county/
+39155,Ohio,Trumbull County,200300,55088,21,10.5,0,5,8,17,1.5,9.6,"Youngstown, OH",1.7,"Warren, OH",1.7,4.6,66,41.2405,-80.7599,https://findrehabmap.com/ohio/trumbull-county/
+39089,Ohio,Licking County,184898,81033,11,5.9,3,5,4,9,2.2,3.5,"Newark, OH",3.5,"Newark, OH",3.5,17.9,77,40.0511,-82.5216,https://findrehabmap.com/ohio/licking-county/
+39103,Ohio,Medina County,184625,92660,8,4.3,0,0,3,7,0.7,16.6,"Clinton, OH",13.8,"Akron, OH",0.7,9.2,101,41.1442,-81.8377,https://findrehabmap.com/ohio/medina-county/
+39057,Ohio,Greene County,172347,85218,14,8.1,6,3,5,7,4.1,4.2,"Xenia, OH",4.5,"Xenia, OH",4.1,4.1,94,39.7258,-83.9972,https://findrehabmap.com/ohio/greene-county/
+39045,Ohio,Fairfield County,167762,87069,21,12.5,9,4,8,10,5.7,6.0,"Lancaster, OH",6.0,"Lancaster, OH",5.7,7.0,111,39.7994,-82.6729,https://findrehabmap.com/ohio/fairfield-county/
+39133,Ohio,Portage County,163839,72822,13,7.9,1,4,7,12,1.3,2.9,"Kent, OH",2.2,"Kent, OH",1.3,1.3,92,41.1808,-81.2769,https://findrehabmap.com/ohio/portage-county/
+39023,Ohio,Clark County,134985,60846,11,8.1,3,5,6,7,0.2,0.6,"Springfield, OH",0.2,"Springfield, OH",0.2,3.6,68,39.9276,-83.8317,https://findrehabmap.com/ohio/clark-county/
+39173,Ohio,Wood County,133077,73124,4,3.0,2,0,1,3,5.2,5.2,"Bowling Green, OH",10.1,"Maumee, OH",5.2,8.3,33,41.4533,-83.6028,https://findrehabmap.com/ohio/wood-county/
+39139,Ohio,Richland County,124853,57649,19,15.2,6,4,5,10,0.3,0.3,"Mansfield, OH",0.3,"Mansfield, OH",0.3,1.7,30,40.7616,-82.5404,https://findrehabmap.com/ohio/richland-county/
+39169,Ohio,Wayne County,116632,71769,6,5.1,1,0,2,5,2.2,13.8,"Clinton, OH",18.6,"Barberton, OH",4.4,13.8,60,40.8365,-81.8645,https://findrehabmap.com/ohio/wayne-county/
+39109,Ohio,Miami County,111950,74175,7,6.3,1,4,2,5,2.1,7.9,"Piqua, OH",7.3,"Piqua, OH",7.3,15.4,69,40.0399,-84.2295,https://findrehabmap.com/ohio/miami-county/
+39003,Ohio,Allen County,100866,62001,9,8.9,1,3,5,8,0.3,0.3,"Lima, OH",0.3,"Lima, OH",0.3,1.2,16,40.7572,-84.1237,https://findrehabmap.com/ohio/allen-county/
+39029,Ohio,Columbiana County,99823,58474,11,11.0,1,0,6,10,0.9,13.6,"East Liverpool, OH",15.3,"Boardman, OH",0.9,13.3,59,40.7803,-80.7306,https://findrehabmap.com/ohio/columbiana-county/
+39007,Ohio,Ashtabula County,96906,55507,11,11.4,3,1,5,9,4.8,5.0,"Ashtabula, OH",4.8,"Ashtabula, OH",5.0,6.3,19,41.7921,-80.769,https://findrehabmap.com/ohio/ashtabula-county/
+39055,Ohio,Geauga County,95362,100783,7,7.3,2,1,3,6,2.3,6.6,"Chardon, OH",9.2,"Chardon, OH",2.3,9.2,89,41.4875,-81.2234,https://findrehabmap.com/ohio/geauga-county/
+39157,Ohio,Tuscarawas County,92048,64494,7,7.6,0,2,3,6,1.0,12.6,"Sherrodsville, OH",2.6,"Dover, OH",1.8,2.8,36,40.4814,-81.467,https://findrehabmap.com/ohio/tuscarawas-county/
+39119,Ohio,Muskingum County,86582,59203,7,8.1,1,4,4,5,0.8,0.8,"Zanesville, OH",0.8,"Zanesville, OH",0.8,1.4,28,39.9635,-81.9968,https://findrehabmap.com/ohio/muskingum-county/
+39141,Ohio,Ross County,76046,59819,14,18.4,2,4,6,9,0.9,2.4,"Chillicothe, OH",1.1,"Chillicothe, OH",2.3,2.7,26,39.3417,-83.023,https://findrehabmap.com/ohio/ross-county/
+39063,Ohio,Hancock County,75016,69699,4,5.3,1,1,3,3,1.5,2.4,"Findlay, OH",2.4,"Findlay, OH",1.5,2.3,12,41.0388,-83.6421,https://findrehabmap.com/ohio/hancock-county/
+39043,Ohio,Erie County,73841,68431,8,10.8,4,3,5,6,3.1,3.5,"Sandusky, OH",3.5,"Sandusky, OH",3.5,6.7,17,41.4053,-82.6273,https://findrehabmap.com/ohio/erie-county/
+39145,Ohio,Scioto County,71798,49571,21,29.2,9,6,6,12,2.0,3.2,"Portsmouth, OH",3.2,"Portsmouth, OH",2.7,3.9,44,38.7809,-82.9447,https://findrehabmap.com/ohio/scioto-county/
+39159,Ohio,Union County,71721,109506,1,1.4,1,1,1,1,0.7,0.7,"Marysville, OH",0.7,"Marysville, OH",0.7,12.9,51,40.2419,-83.3349,https://findrehabmap.com/ohio/union-county/
+39101,Ohio,Marion County,64976,57306,10,15.4,2,5,6,8,0.4,0.4,"Marion, OH",0.4,"Marion, OH",0.4,32.3,17,40.5821,-83.1271,https://findrehabmap.com/ohio/marion-county/
+39013,Ohio,Belmont County,64692,58411,6,9.3,0,0,3,5,2.6,9.5,"Wheeling, WV",17.1,"Triadelphia, WV",2.6,11.8,20,40.0425,-80.8929,https://findrehabmap.com/ohio/belmont-county/
+39081,Ohio,Jefferson County,63900,56983,6,9.4,0,2,4,5,1.2,7.8,"Weirton, WV",7.8,"Brilliant, OH",3.2,14.1,35,40.3655,-80.6924,https://findrehabmap.com/ohio/jefferson-county/
+39083,Ohio,Knox County,63848,73988,5,7.8,0,0,1,2,1.0,22.5,"Newark, OH",22.5,"Newark, OH",1.8,23.5,31,40.4003,-82.4543,https://findrehabmap.com/ohio/knox-county/
+39009,Ohio,Athens County,63218,53837,8,12.7,0,2,5,6,0.4,35.8,"Marietta, OH",1.0,"Athens, OH",1.3,2.2,16,39.3427,-82.0996,https://findrehabmap.com/ohio/athens-county/
+39129,Ohio,Pickaway County,62158,72927,4,6.4,1,0,3,4,4.6,7.6,"Circleville, OH",15.0,"Columbus, OH",4.6,4.6,110,39.6711,-82.9927,https://findrehabmap.com/ohio/pickaway-county/
+39143,Ohio,Sandusky County,58866,62500,3,5.1,1,0,2,3,0.4,5.9,"Green Springs, OH",22.1,"Sandusky, OH",2.7,5.9,17,41.3404,-83.1005,https://findrehabmap.com/ohio/sandusky-county/
+39167,Ohio,Washington County,58332,61355,10,17.1,1,1,5,9,4.1,4.4,"Marietta, OH",4.4,"Marietta, OH",4.4,4.9,19,39.4098,-81.5177,https://findrehabmap.com/ohio/washington-county/
+39077,Ohio,Huron County,58168,65972,7,12.0,0,0,2,6,3.3,18.1,"Sandusky, OH",18.1,"Sandusky, OH",3.3,20.0,19,41.1764,-82.6138,https://findrehabmap.com/ohio/huron-county/
+39087,Ohio,Lawrence County,55829,54842,10,17.9,2,1,5,10,4.9,4.9,"Ashland, KY",4.9,"Ashland, KY",4.9,5.3,54,38.5014,-82.5388,https://findrehabmap.com/ohio/lawrence-county/
+39147,Ohio,Seneca County,54730,65020,5,9.1,0,0,2,5,0.7,12.2,"Green Springs, OH",21.6,"Findlay, OH",0.9,1.7,11,41.1278,-83.2021,https://findrehabmap.com/ohio/seneca-county/
+39005,Ohio,Ashland County,52420,64991,5,9.5,0,0,1,5,1.9,14.7,"Mansfield, OH",14.7,"Mansfield, OH",3.2,12.1,28,40.8544,-82.2843,https://findrehabmap.com/ohio/ashland-county/
+39037,Ohio,Darke County,51462,64654,1,1.9,0,0,1,1,1.6,17.6,"Piqua, OH",17.6,"Piqua, OH",1.6,22.8,21,40.1161,-84.6063,https://findrehabmap.com/ohio/darke-county/
+39149,Ohio,Shelby County,47952,72822,1,2.1,0,0,1,1,1.6,12.6,"Piqua, OH",12.1,"Piqua, OH",1.6,18.1,12,40.3195,-84.1943,https://findrehabmap.com/ohio/shelby-county/
+39091,Ohio,Logan County,46085,69183,2,4.3,2,0,2,2,2.2,2.2,"Bellefontaine, OH",24.6,"Marysville, OH",2.2,29.4,7,40.3826,-83.7768,https://findrehabmap.com/ohio/logan-county/
+39011,Ohio,Auglaize County,45922,76454,2,4.4,0,0,0,2,5.2,16.7,"Lima, OH",14.5,"Lima, OH",14.4,5.2,14,40.544,-84.2725,https://findrehabmap.com/ohio/auglaize-county/
+39097,Ohio,Madison County,45531,83229,2,4.4,2,2,2,2,3.6,3.6,"London, OH",3.6,"London, OH",3.6,3.6,79,39.9235,-83.3784,https://findrehabmap.com/ohio/madison-county/
+39075,Ohio,Holmes County,44668,74774,2,4.5,0,0,0,2,2.7,23.5,"Massillon, OH",21.2,"Dover, OH",16.3,21.1,21,40.5682,-81.8695,https://findrehabmap.com/ohio/holmes-county/
+39015,Ohio,Brown County,44292,69990,7,15.8,2,2,3,5,6.4,6.4,"Georgetown, OH",6.4,"Georgetown, OH",6.4,7.0,28,38.9521,-83.8928,https://findrehabmap.com/ohio/brown-county/
+39071,Ohio,Highland County,43785,62008,1,2.3,0,0,0,1,1.6,29.8,"West Union, OH",20.8,"Wilmington, OH",20.2,20.4,9,39.2191,-83.5821,https://findrehabmap.com/ohio/highland-county/
+39107,Ohio,Mercer County,42648,78036,1,2.3,0,0,0,1,2.2,25.3,"Van Wert, OH",30.0,"Lima, OH",20.6,12.5,7,40.5156,-84.6064,https://findrehabmap.com/ohio/mercer-county/
+39051,Ohio,Fulton County,42028,72866,3,7.1,0,0,2,3,3.2,20.3,"Holland, OH",21.6,"Maumee, OH",3.2,3.4,30,41.5781,-84.0952,https://findrehabmap.com/ohio/fulton-county/
+39027,Ohio,Clinton County,42019,68125,4,9.5,0,1,1,2,2.4,19.5,"Xenia, OH",2.4,"Wilmington, OH",2.6,2.5,24,39.4115,-83.843,https://findrehabmap.com/ohio/clinton-county/
+39033,Ohio,Crawford County,41626,55477,2,4.8,0,0,1,2,3.7,17.8,"Mansfield, OH",17.8,"Mansfield, OH",3.7,14.3,35,40.7963,-82.8735,https://findrehabmap.com/ohio/crawford-county/
+39135,Ohio,Preble County,40801,71237,3,7.4,1,1,2,3,0.6,2.3,"Eaton, OH",2.3,"Eaton, OH",0.6,14.6,71,39.7432,-84.6254,https://findrehabmap.com/ohio/preble-county/
+39123,Ohio,Ottawa County,39692,75728,1,2.5,0,0,1,1,8.9,18.4,"Sandusky, OH",20.8,"Sandusky, OH",8.9,18.4,13,41.5325,-83.0804,https://findrehabmap.com/ohio/ottawa-county/
+39021,Ohio,Champaign County,38907,74239,2,5.1,0,0,1,1,1.6,11.9,"Springfield, OH",13.8,"Springfield, OH",1.7,11.9,21,40.1212,-83.7565,https://findrehabmap.com/ohio/champaign-county/
+39039,Ohio,Defiance County,38644,73615,3,7.8,0,0,1,3,3.7,29.2,"Van Wert, OH",32.5,"Auburn, IN",4.4,3.7,9,41.2948,-84.4487,https://findrehabmap.com/ohio/defiance-county/
+39059,Ohio,Guernsey County,38219,55756,5,13.1,0,0,4,4,2.2,25.0,"Zanesville, OH",24.1,"Zanesville, OH",2.2,25.4,10,40.0177,-81.542,https://findrehabmap.com/ohio/guernsey-county/
+39031,Ohio,Coshocton County,37003,54687,2,5.4,0,0,2,2,1.3,23.5,"Zanesville, OH",23.4,"Zanesville, OH",1.3,23.4,14,40.2915,-81.8631,https://findrehabmap.com/ohio/coshocton-county/
+39171,Ohio,Williams County,36554,61834,1,2.7,0,0,1,1,3.9,24.0,"Albion, IN",27.8,"Hillsdale, MI",3.9,15.2,12,41.5325,-84.5717,https://findrehabmap.com/ohio/williams-county/
+39117,Ohio,Morrow County,35927,71047,2,5.6,0,0,0,2,3.5,18.2,"Marion, OH",17.4,"Marion, OH",17.4,20.5,40,40.5185,-82.7938,https://findrehabmap.com/ohio/morrow-county/
+39127,Ohio,Perry County,35682,64737,6,16.8,0,0,1,5,3.2,18.5,"Lancaster, OH",18.5,"Lancaster, OH",14.2,3.2,45,39.7585,-82.238,https://findrehabmap.com/ohio/perry-county/
+39137,Ohio,Putnam County,34206,82785,1,2.9,0,0,1,1,3.9,17.2,"Lima, OH",17.2,"Lima, OH",3.9,18.5,15,41.0083,-84.1155,https://findrehabmap.com/ohio/putnam-county/
+39079,Ohio,Jackson County,32723,58409,4,12.2,0,1,1,3,0.5,27.0,"Gallipolis, OH",1.4,"Jackson, OH",0.5,17.5,17,39.0358,-82.6109,https://findrehabmap.com/ohio/jackson-county/
+39065,Ohio,Hardin County,30402,58001,1,3.3,0,0,0,1,4.5,18.1,"Lakeview, OH",21.8,"Lima, OH",18.1,22.8,11,40.6873,-83.673,https://findrehabmap.com/ohio/hardin-county/
+39161,Ohio,Van Wert County,28887,65344,4,13.8,1,0,2,2,0.9,2.3,"Van Wert, OH",23.8,"Lima, OH",1.5,2.3,15,40.8562,-84.5658,https://findrehabmap.com/ohio/van-wert-county/
+39053,Ohio,Gallia County,28886,56455,7,24.2,1,1,4,7,1.0,4.4,"Gallipolis, OH",4.4,"Gallipolis, OH",1.0,1.1,16,38.8318,-82.2752,https://findrehabmap.com/ohio/gallia-county/
+39047,Ohio,Fayette County,28782,60047,1,3.5,0,0,0,1,2.2,23.2,"London, OH",22.1,"Wilmington, OH",21.3,2.2,8,39.5485,-83.4439,https://findrehabmap.com/ohio/fayette-county/
+39001,Ohio,Adams County,27671,49521,2,7.2,1,2,1,1,4.9,4.9,"West Union, OH",4.9,"West Union, OH",4.9,26.2,12,38.8512,-83.5192,https://findrehabmap.com/ohio/adams-county/
+39069,Ohio,Henry County,27536,79267,2,7.3,0,0,1,2,3.2,22.4,"Bowling Green, OH",26.0,"Maumee, OH",3.3,12.6,10,41.3602,-84.0781,https://findrehabmap.com/ohio/henry-county/
+39073,Ohio,Hocking County,27429,61366,2,7.3,0,0,0,2,1.2,15.4,"Lancaster, OH",15.8,"Lancaster, OH",14.5,15.0,35,39.5249,-82.4497,https://findrehabmap.com/ohio/hocking-county/
+39131,Ohio,Pike County,27065,49552,8,29.6,0,0,3,8,2.8,17.6,"Chillicothe, OH",17.6,"Chillicothe, OH",2.8,3.8,40,39.0842,-83.0366,https://findrehabmap.com/ohio/pike-county/
+39019,Ohio,Carroll County,26460,64675,2,7.6,1,0,1,1,2.7,8.0,"Sherrodsville, OH",19.2,"Canton, OH",2.7,8.0,43,40.6088,-81.1142,https://findrehabmap.com/ohio/carroll-county/
+39105,Ohio,Meigs County,21491,46701,2,9.3,0,0,0,2,0.4,19.7,"Gallipolis, OH",17.0,"Athens, OH",2.9,17.1,21,39.0615,-82.0111,https://findrehabmap.com/ohio/meigs-county/
+39175,Ohio,Wyandot County,21394,71878,0,0.0,0,0,0,0,17.1,20.5,"Marion, OH",20.5,"Marion, OH",17.4,17.1,21,40.866,-83.2993,https://findrehabmap.com/ohio/wyandot-county/
+39125,Ohio,Paulding County,18755,68167,1,5.3,0,0,1,1,0.2,17.9,"Van Wert, OH",29.0,"Fort Wayne, IN",0.2,15.9,9,41.1327,-84.5885,https://findrehabmap.com/ohio/paulding-county/
+39121,Ohio,Noble County,14269,55360,0,0.0,0,0,0,0,16.6,25.0,"Marietta, OH",25.0,"Marietta, OH",16.6,21.8,12,39.7729,-81.4871,https://findrehabmap.com/ohio/noble-county/
+39067,Ohio,Harrison County,14042,53851,2,14.2,0,0,1,2,3.8,19.1,"Sherrodsville, OH",22.0,"Brilliant, OH",3.8,19.1,22,40.3083,-81.0529,https://findrehabmap.com/ohio/harrison-county/
+39115,Ohio,Morgan County,13532,55971,1,7.4,0,0,0,1,2.2,25.7,"Zanesville, OH",22.0,"Athens, OH",22.0,18.2,19,39.616,-81.8659,https://findrehabmap.com/ohio/morgan-county/
+39111,Ohio,Monroe County,13051,58962,2,15.3,0,0,1,2,2.9,28.8,"Wheeling, WV",30.2,"Marietta, OH",2.9,28.4,10,39.7439,-81.0667,https://findrehabmap.com/ohio/monroe-county/
+39163,Ohio,Vinton County,12545,53813,1,8.0,0,0,0,1,2.0,26.2,"Chillicothe, OH",16.1,"Jackson, OH",15.7,21.4,16,39.2412,-82.5042,https://findrehabmap.com/ohio/vinton-county/

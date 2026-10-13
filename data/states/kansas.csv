@@ -1,0 +1,106 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+20091,Kansas,Johnson County,632276,107261,24,3.8,2,1,7,14,3.7,5.0,"Olathe, KS",4.4,"Overland Park, KS",4.4,3.7,70,38.9249,-94.7403,https://findrehabmap.com/kansas/johnson-county/
+20173,Kansas,Sedgwick County,536081,67675,32,6.0,6,8,10,23,0.7,1.1,"Wichita, KS",1.3,"Wichita, KS",1.2,1.1,35,37.6803,-97.3444,https://findrehabmap.com/kansas/sedgwick-county/
+20177,Kansas,Shawnee County,177942,66043,11,6.2,2,1,4,8,0.2,2.0,"Topeka, KS",2.3,"Topeka, KS",2.0,1.1,15,39.0348,-95.7064,https://findrehabmap.com/kansas/shawnee-county/
+20209,Kansas,Wyandotte County,169418,60582,8,4.7,0,2,2,6,1.7,6.5,"Shawnee, KS",4.6,"Kansas City, KS",4.6,1.7,77,39.106,-94.7128,https://findrehabmap.com/kansas/wyandotte-county/
+20045,Kansas,Douglas County,121989,68756,5,4.1,3,3,3,5,1.6,1.6,"Lawrence, KS",1.6,"Lawrence, KS",1.7,1.6,12,38.9425,-95.2542,https://findrehabmap.com/kansas/douglas-county/
+20103,Kansas,Leavenworth County,84670,86906,3,3.5,2,0,1,1,4.5,4.5,"Leavenworth, KS",19.5,"Kansas City, KS",4.7,4.5,46,39.2351,-94.9595,https://findrehabmap.com/kansas/leavenworth-county/
+20161,Kansas,Riley County,72557,59560,1,1.4,0,0,1,1,2.3,49.7,"Topeka, KS",52.4,"Topeka, KS",2.3,47.7,3,39.1902,-96.6327,https://findrehabmap.com/kansas/riley-county/
+20015,Kansas,Butler County,69158,80375,3,4.3,0,0,1,3,2.1,13.0,"Wichita, KS",13.0,"Wichita, KS",7.5,13.3,35,37.7254,-96.9985,https://findrehabmap.com/kansas/butler-county/
+20155,Kansas,Reno County,61417,60498,4,6.5,0,1,3,4,0.4,32.6,"Newton, KS",0.5,"Hutchinson, KS",0.5,25.4,4,38.0516,-97.9319,https://findrehabmap.com/kansas/reno-county/
+20169,Kansas,Saline County,53459,63316,5,9.4,1,0,4,5,1.2,2.1,"Salina, KS",55.5,"Hutchinson, KS",1.2,2.1,7,38.8148,-97.6056,https://findrehabmap.com/kansas/saline-county/
+20037,Kansas,Crawford County,38904,50311,4,10.3,2,1,2,3,1.8,1.8,"Pittsburg, KS",3.6,"Pittsburg, KS",1.8,1.8,8,37.4383,-94.7294,https://findrehabmap.com/kansas/crawford-county/
+20055,Kansas,Finney County,38354,72437,2,5.2,0,0,1,2,0.6,50.1,"Dodge City, KS",50.1,"Dodge City, KS",0.6,41.0,2,37.9772,-100.863,https://findrehabmap.com/kansas/finney-county/
+20121,Kansas,Miami County,35737,88000,6,16.8,1,0,3,3,2.6,2.6,"Paola, KS",24.8,"Overland Park, KS",2.6,2.6,18,38.5952,-94.8311,https://findrehabmap.com/kansas/miami-county/
+20061,Kansas,Geary County,35459,57344,2,5.6,0,0,1,2,0.9,43.2,"Salina, KS",62.0,"Topeka, KS",2.1,43.2,5,39.0405,-96.8388,https://findrehabmap.com/kansas/geary-county/
+20035,Kansas,Cowley County,34186,58263,2,5.9,1,0,2,2,1.6,4.8,"Winfield, KS",29.4,"Ponca City, OK",1.6,4.8,3,37.1746,-96.9984,https://findrehabmap.com/kansas/cowley-county/
+20057,Kansas,Ford County,34072,70495,2,5.9,1,1,1,2,0.3,0.4,"Dodge City, KS",0.4,"Dodge City, KS",0.4,0.4,2,37.753,-99.9955,https://findrehabmap.com/kansas/ford-county/
+20079,Kansas,Harvey County,33642,73269,4,11.9,1,0,3,3,3.0,3.0,"Newton, KS",21.0,"Wichita, KS",3.0,3.0,26,38.0461,-97.3859,https://findrehabmap.com/kansas/harvey-county/
+20111,Kansas,Lyon County,32520,59078,3,9.2,0,0,1,2,0.9,50.7,"Topeka, KS",48.7,"Topeka, KS",2.5,47.6,3,38.4162,-96.1791,https://findrehabmap.com/kansas/lyon-county/
+20125,Kansas,Montgomery County,30459,53242,2,6.6,0,0,2,2,6.5,58.5,"Pittsburg, KS",31.3,"Bartlesville, OK",6.5,27.0,3,37.1434,-95.6939,https://findrehabmap.com/kansas/montgomery-county/
+20113,Kansas,McPherson County,30334,77701,3,9.9,0,0,3,3,1.4,28.2,"Newton, KS",27.7,"Hutchinson, KS",1.4,14.6,4,38.3826,-97.6467,https://findrehabmap.com/kansas/mcpherson-county/
+20051,Kansas,Ellis County,29007,59889,2,6.9,0,0,1,1,0.5,72.7,"Norton, KS",85.9,"Dodge City, KS",0.9,49.6,2,38.8822,-99.3305,https://findrehabmap.com/kansas/ellis-county/
+20149,Kansas,Pottawatomie County,26876,87694,0,0.0,0,0,0,0,14.4,35.3,"Topeka, KS",38.6,"Topeka, KS",14.4,33.8,1,39.2517,-96.3323,https://findrehabmap.com/kansas/pottawatomie-county/
+20059,Kansas,Franklin County,26273,72142,1,3.8,0,0,1,1,2.8,21.4,"Paola, KS",22.3,"Lawrence, KS",2.8,18.4,10,38.6035,-95.2604,https://findrehabmap.com/kansas/franklin-county/
+20009,Kansas,Barton County,24835,56733,2,8.1,0,0,2,2,2.0,69.7,"Salina, KS",50.3,"Hutchinson, KS",2.0,23.6,4,38.3965,-98.7583,https://findrehabmap.com/kansas/barton-county/
+20191,Kansas,Sumner County,22336,60348,1,4.5,0,0,1,1,2.1,24.8,"Winfield, KS",26.9,"Wichita, KS",2.1,24.8,3,37.3034,-97.4068,https://findrehabmap.com/kansas/sumner-county/
+20175,Kansas,Seward County,21276,62269,1,4.7,0,0,1,1,0.5,70.4,"Dodge City, KS",70.4,"Dodge City, KS",0.5,70.4,1,37.0511,-100.9187,https://findrehabmap.com/kansas/seward-county/
+20099,Kansas,Labette County,19692,55439,1,5.1,0,0,1,1,5.4,33.5,"Pittsburg, KS",33.0,"Pittsburg, KS",5.4,33.5,3,37.2598,-95.2624,https://findrehabmap.com/kansas/labette-county/
+20021,Kansas,Cherokee County,19133,58274,3,15.7,0,0,3,3,3.2,12.3,"Joplin, MO",14.4,"Miami, OK",3.2,9.8,25,37.1148,-94.7517,https://findrehabmap.com/kansas/cherokee-county/
+20041,Kansas,Dickinson County,18621,67982,2,10.7,0,0,1,2,4.0,24.4,"Salina, KS",71.5,"Hutchinson, KS",4.0,24.4,8,38.886,-97.1521,https://findrehabmap.com/kansas/dickinson-county/
+20087,Kansas,Jefferson County,18332,77393,2,10.9,0,0,0,1,4.6,17.9,"Lawrence, KS",20.4,"Lawrence, KS",17.9,17.9,18,39.211,-95.3975,https://findrehabmap.com/kansas/jefferson-county/
+20005,Kansas,Atchison County,16249,62164,2,12.3,1,0,1,1,3.4,4.1,"Atchison, KS",25.5,"St. Joseph, MO",4.1,4.1,10,39.5554,-95.1792,https://findrehabmap.com/kansas/atchison-county/
+20139,Kansas,Osage County,15737,70216,0,0.0,0,0,0,0,21.3,22.6,"Topeka, KS",21.3,"Topeka, KS",21.3,22.2,11,38.6992,-95.7131,https://findrehabmap.com/kansas/osage-county/
+20133,Kansas,Neosho County,15552,55704,2,12.9,0,0,0,2,4.4,40.4,"Pittsburg, KS",41.9,"Pittsburg, KS",21.0,40.4,6,37.6238,-95.3961,https://findrehabmap.com/kansas/neosho-county/
+20011,Kansas,Bourbon County,14424,67555,2,13.9,0,0,1,2,3.3,21.3,"Nevada, MO",31.1,"Pittsburg, KS",3.3,20.4,7,37.846,-94.7497,https://findrehabmap.com/kansas/bourbon-county/
+20085,Kansas,Jackson County,13525,72703,1,7.4,0,0,1,1,4.4,23.6,"Topeka, KS",27.6,"Topeka, KS",4.4,23.6,3,39.4023,-95.7528,https://findrehabmap.com/kansas/jackson-county/
+20001,Kansas,Allen County,12425,57618,2,16.1,0,0,0,2,2.7,48.6,"Pittsburg, KS",50.8,"Pittsburg, KS",29.3,48.5,5,37.8969,-95.3693,https://findrehabmap.com/kansas/allen-county/
+20115,Kansas,Marion County,11670,63438,1,8.6,0,0,1,1,4.5,21.5,"Newton, KS",41.6,"Wichita, KS",4.5,21.5,6,38.3248,-97.1275,https://findrehabmap.com/kansas/marion-county/
+20131,Kansas,Nemaha County,10062,77375,0,0.0,0,0,0,0,23.3,48.3,"Atchison, KS",58.8,"Topeka, KS",23.3,48.3,2,39.8294,-95.9663,https://findrehabmap.com/kansas/nemaha-county/
+20117,Kansas,Marshall County,9950,70828,1,10.1,0,0,1,1,5.2,64.5,"Lincoln, NE",64.5,"Lincoln, NE",5.2,68.2,1,39.8003,-96.5739,https://findrehabmap.com/kansas/marshall-county/
+20107,Kansas,Linn County,9841,59200,1,10.2,0,0,0,1,6.9,23.0,"Paola, KS",48.2,"Overland Park, KS",20.1,20.1,8,38.2396,-94.801,https://findrehabmap.com/kansas/linn-county/
+20159,Kansas,Rice County,9284,63947,1,10.8,0,0,1,1,2.0,48.6,"Salina, KS",23.1,"Hutchinson, KS",2.0,38.6,5,38.3204,-98.1999,https://findrehabmap.com/kansas/rice-county/
+20013,Kansas,Brown County,9142,58886,2,21.9,0,0,1,1,2.9,27.7,"Atchison, KS",40.0,"St. Joseph, MO",2.9,27.7,3,39.805,-95.5518,https://findrehabmap.com/kansas/brown-county/
+20151,Kansas,Pratt County,9137,64348,2,21.9,0,1,0,2,0.1,69.2,"Dodge City, KS",0.5,"Pratt, KS",26.0,20.7,4,37.6448,-98.7306,https://findrehabmap.com/kansas/pratt-county/
+20029,Kansas,Cloud County,8723,57333,2,22.9,0,0,1,2,2.0,47.7,"Salina, KS",99.5,"Lincoln, NE",2.0,47.7,3,39.5349,-97.6358,https://findrehabmap.com/kansas/cloud-county/
+20205,Kansas,Wilson County,8398,57056,1,11.9,0,0,0,1,7.2,57.5,"Pittsburg, KS",54.1,"Bartlesville, OK",19.9,37.0,4,37.5115,-95.7397,https://findrehabmap.com/kansas/wilson-county/
+20031,Kansas,Coffey County,8301,67377,1,12.0,0,0,1,1,3.1,52.3,"Paola, KS",52.4,"Topeka, KS",3.1,47.1,1,38.2491,-95.7416,https://findrehabmap.com/kansas/coffey-county/
+20027,Kansas,Clay County,7969,63136,1,12.5,0,0,1,1,1.5,43.6,"Salina, KS",80.6,"Topeka, KS",1.5,43.6,1,39.3543,-97.1224,https://findrehabmap.com/kansas/clay-county/
+20003,Kansas,Anderson County,7908,64925,1,12.6,0,0,0,1,2.1,30.7,"Paola, KS",46.6,"Lawrence, KS",21.9,25.1,3,38.2518,-95.2632,https://findrehabmap.com/kansas/anderson-county/
+20193,Kansas,Thomas County,7802,73575,1,12.8,0,0,1,1,0.4,68.9,"Norton, KS",124.6,"Lamar, CO",0.4,68.9,1,39.3847,-101.0502,https://findrehabmap.com/kansas/thomas-county/
+20043,Kansas,Doniphan County,7575,72833,0,0.0,0,0,0,0,11.9,14.0,"Atchison, KS",14.5,"St. Joseph, MO",11.9,14.0,12,39.7875,-95.0714,https://findrehabmap.com/kansas/doniphan-county/
+20197,Kansas,Wabaunsee County,7112,70536,0,0.0,0,0,0,0,22.4,25.1,"Topeka, KS",26.5,"Topeka, KS",25.1,22.4,5,38.9897,-96.1786,https://findrehabmap.com/kansas/wabaunsee-county/
+20067,Kansas,Grant County,7097,72484,1,14.1,0,0,1,1,0.5,75.4,"Dodge City, KS",75.4,"Dodge City, KS",0.5,75.4,1,37.5803,-101.3513,https://findrehabmap.com/kansas/grant-county/
+20095,Kansas,Kingman County,6946,59819,1,14.4,0,0,1,1,2.5,42.0,"Wichita, KS",31.9,"Hutchinson, KS",2.5,42.0,1,37.6103,-98.098,https://findrehabmap.com/kansas/kingman-county/
+20167,Kansas,Russell County,6620,53902,0,0.0,0,0,0,0,27.0,66.2,"Salina, KS",75.9,"Hutchinson, KS",27.0,51.7,0,38.9042,-98.8307,https://findrehabmap.com/kansas/russell-county/
+20053,Kansas,Ellsworth County,6316,66792,0,0.0,0,0,0,0,26.2,36.8,"Salina, KS",49.6,"Hutchinson, KS",26.2,30.5,0,38.7254,-98.2681,https://findrehabmap.com/kansas/ellsworth-county/
+20145,Kansas,Pawnee County,6012,63625,2,33.3,0,0,1,2,2.5,54.6,"Dodge City, KS",43.3,"Pratt, KS",2.7,2.5,4,38.1798,-99.147,https://findrehabmap.com/kansas/pawnee-county/
+20073,Kansas,Greenwood County,5871,58276,0,0.0,0,0,0,0,26.9,55.4,"Wichita, KS",56.2,"Wichita, KS",35.4,52.2,0,37.8619,-96.2246,https://findrehabmap.com/kansas/greenwood-county/
+20143,Kansas,Ottawa County,5853,76755,0,0.0,0,0,0,0,16.5,17.9,"Salina, KS",73.3,"Hutchinson, KS",16.5,17.9,5,39.0964,-97.6824,https://findrehabmap.com/kansas/ottawa-county/
+20123,Kansas,Mitchell County,5803,58233,1,17.2,0,0,1,1,3.6,52.1,"Salina, KS",97.5,"Hutchinson, KS",3.6,50.9,2,39.4543,-98.175,https://findrehabmap.com/kansas/mitchell-county/
+20181,Kansas,Sherman County,5796,64444,1,17.3,0,0,1,1,0.8,103.0,"Norton, KS",101.4,"Lamar, CO",0.8,91.1,1,39.3509,-101.726,https://findrehabmap.com/kansas/sherman-county/
+20069,Kansas,Gray County,5730,77885,0,0.0,0,0,0,0,22.6,23.2,"Dodge City, KS",23.2,"Dodge City, KS",23.2,23.2,2,37.7241,-100.4123,https://findrehabmap.com/kansas/gray-county/
+20201,Kansas,Washington County,5572,62452,0,0.0,0,0,0,0,21.4,70.2,"Lincoln, NE",70.2,"Lincoln, NE",21.4,71.0,1,39.7793,-97.0489,https://findrehabmap.com/kansas/washington-county/
+20077,Kansas,Harper County,5413,55417,2,36.9,0,0,2,2,4.4,51.2,"Wichita, KS",47.9,"Pratt, KS",4.4,51.2,2,37.2153,-98.0499,https://findrehabmap.com/kansas/harper-county/
+20137,Kansas,Norton County,5335,50305,2,37.5,1,0,2,2,0.6,1.5,"Norton, KS",143.3,"Dodge City, KS",0.6,1.5,2,39.8235,-99.8768,https://findrehabmap.com/kansas/norton-county/
+20127,Kansas,Morris County,5279,56716,0,0.0,0,0,0,0,26.8,52.8,"Topeka, KS",52.8,"Topeka, KS",26.8,49.8,0,38.6944,-96.5808,https://findrehabmap.com/kansas/morris-county/
+20189,Kansas,Stevens County,5035,61909,0,0.0,0,0,0,0,23.6,82.9,"Dodge City, KS",82.9,"Dodge City, KS",23.6,82.9,1,37.1871,-101.3225,https://findrehabmap.com/kansas/stevens-county/
+20171,Kansas,Scott County,4914,67788,0,0.0,0,0,0,0,24.6,71.2,"Dodge City, KS",71.2,"Dodge City, KS",35.6,24.6,1,38.4816,-100.9131,https://findrehabmap.com/kansas/scott-county/
+20163,Kansas,Rooks County,4748,61596,0,0.0,0,0,0,0,30.1,47.3,"Norton, KS",114.4,"Dodge City, KS",30.1,47.3,0,39.3217,-99.3141,https://findrehabmap.com/kansas/rooks-county/
+20147,Kansas,Phillips County,4733,61235,1,21.1,0,0,1,1,1.6,29.7,"Norton, KS",140.0,"Hutchinson, KS",1.6,29.7,1,39.7595,-99.3486,https://findrehabmap.com/kansas/phillips-county/
+20157,Kansas,Republic County,4613,53611,1,21.7,0,0,0,0,1.5,67.3,"Salina, KS",84.6,"Lincoln, NE",18.1,65.9,3,39.8179,-97.6591,https://findrehabmap.com/kansas/republic-county/
+20007,Kansas,Barber County,4070,57615,2,49.1,0,0,2,2,4.9,71.3,"Fort Supply, OK",31.3,"Pratt, KS",4.9,41.1,2,37.2119,-98.5577,https://findrehabmap.com/kansas/barber-county/
+20185,Kansas,Stafford County,3901,63786,1,25.6,0,0,0,1,8.3,70.7,"Dodge City, KS",25.1,"Pratt, KS",23.1,23.7,4,38.0051,-98.7338,https://findrehabmap.com/kansas/stafford-county/
+20119,Kansas,Meade County,3892,74868,0,0.0,0,0,0,0,33.5,38.8,"Dodge City, KS",38.8,"Dodge City, KS",33.5,38.8,0,37.2922,-100.3969,https://findrehabmap.com/kansas/meade-county/
+20093,Kansas,Kearny County,3808,74135,0,0.0,0,0,0,0,20.1,69.7,"Dodge City, KS",69.7,"Dodge City, KS",20.8,56.0,2,37.9515,-101.2417,https://findrehabmap.com/kansas/kearny-county/
+20081,Kansas,Haskell County,3591,69138,0,0.0,0,0,0,0,26.4,52.4,"Dodge City, KS",52.4,"Dodge City, KS",26.4,52.4,0,37.495,-100.8902,https://findrehabmap.com/kansas/haskell-county/
+20183,Kansas,Smith County,3541,57024,0,0.0,0,0,0,0,22.9,58.2,"Norton, KS",127.3,"Hutchinson, KS",22.9,58.2,1,39.7706,-98.8056,https://findrehabmap.com/kansas/smith-county/
+20141,Kansas,Osborne County,3353,59408,1,29.8,0,0,1,1,1.7,69.6,"Norton, KS",103.3,"Hutchinson, KS",1.7,68.1,1,39.4259,-98.7053,https://findrehabmap.com/kansas/osborne-county/
+20019,Kansas,Chautauqua County,3339,54592,1,29.9,0,0,0,1,2.6,41.4,"Winfield, KS",28.4,"Bartlesville, OK",27.1,2.6,1,37.1158,-96.2281,https://findrehabmap.com/kansas/chautauqua-county/
+20207,Kansas,Woodson County,3111,48152,1,32.1,0,0,0,1,0.3,64.4,"Pittsburg, KS",66.2,"Pittsburg, KS",22.7,58.5,6,37.8761,-95.735,https://findrehabmap.com/kansas/woodson-county/
+20105,Kansas,Lincoln County,2928,53546,0,0.0,0,0,0,0,29.8,34.0,"Salina, KS",69.0,"Hutchinson, KS",29.8,29.8,0,39.035,-98.1862,https://findrehabmap.com/kansas/lincoln-county/
+20089,Kansas,Jewell County,2899,52344,1,34.5,0,0,1,1,0.9,71.9,"Salina, KS",107.4,"Lincoln, NE",0.9,57.2,2,39.7776,-98.1989,https://findrehabmap.com/kansas/jewell-county/
+20165,Kansas,Rush County,2810,60288,0,0.0,0,0,0,0,23.7,66.0,"Dodge City, KS",66.0,"Dodge City, KS",23.7,25.4,2,38.5278,-99.2812,https://findrehabmap.com/kansas/rush-county/
+20195,Kansas,Trego County,2774,73375,0,0.0,0,0,0,0,30.3,57.7,"Norton, KS",86.7,"Dodge City, KS",31.1,47.8,0,39.0037,-99.8814,https://findrehabmap.com/kansas/trego-county/
+20047,Kansas,Edwards County,2731,53792,0,0.0,0,0,0,0,21.8,36.5,"Dodge City, KS",36.5,"Dodge City, KS",21.8,23.3,4,37.9132,-99.3528,https://findrehabmap.com/kansas/edwards-county/
+20039,Kansas,Decatur County,2716,52030,0,0.0,0,0,0,0,28.9,31.2,"Norton, KS",144.3,"Dodge City, KS",31.2,31.2,0,39.8042,-100.4844,https://findrehabmap.com/kansas/decatur-county/
+20109,Kansas,Logan County,2694,71389,0,0.0,0,0,0,0,21.4,75.1,"Norton, KS",105.8,"Dodge City, KS",21.4,49.6,1,39.0955,-100.9263,https://findrehabmap.com/kansas/logan-county/
+20063,Kansas,Gove County,2658,63203,0,0.0,0,0,0,0,39.6,60.4,"Norton, KS",91.9,"Dodge City, KS",43.3,39.6,0,39.0471,-100.3778,https://findrehabmap.com/kansas/gove-county/
+20023,Kansas,Cheyenne County,2646,55765,0,0.0,0,0,0,0,28.9,97.8,"Norton, KS",127.3,"Lamar, CO",28.9,97.8,0,39.7693,-101.7381,https://findrehabmap.com/kansas/cheyenne-county/
+20135,Kansas,Ness County,2617,66107,0,0.0,0,0,0,0,30.3,51.1,"Dodge City, KS",51.1,"Dodge City, KS",40.4,30.3,0,38.4883,-99.8977,https://findrehabmap.com/kansas/ness-county/
+20017,Kansas,Chase County,2507,54518,0,0.0,0,0,0,0,18.5,46.9,"Newton, KS",59.7,"Wichita, KS",18.5,46.5,3,38.3582,-96.5583,https://findrehabmap.com/kansas/chase-county/
+20075,Kansas,Hamilton County,2488,61929,0,0.0,0,0,0,0,35.1,79.3,"Las Animas, CO",46.9,"Lamar, CO",35.1,78.6,0,37.9806,-101.7606,https://findrehabmap.com/kansas/hamilton-county/
+20129,Kansas,Morton County,2485,65625,0,0.0,0,0,0,0,31.5,103.6,"Las Animas, CO",82.0,"Lamar, CO",31.5,103.6,0,37.0432,-101.84,https://findrehabmap.com/kansas/morton-county/
+20097,Kansas,Kiowa County,2436,73214,2,82.1,0,0,1,2,1.8,41.7,"Dodge City, KS",28.3,"Pratt, KS",1.8,8.1,2,37.596,-99.2523,https://findrehabmap.com/kansas/kiowa-county/
+20049,Kansas,Elk County,2436,56087,0,0.0,0,0,0,0,22.1,41.8,"Winfield, KS",48.4,"Bartlesville, OK",29.9,22.1,1,37.4237,-96.2391,https://findrehabmap.com/kansas/elk-county/
+20153,Kansas,Rawlins County,2432,65000,0,0.0,0,0,0,0,28.9,61.2,"Norton, KS",147.3,"Lamar, CO",28.9,61.2,0,39.8072,-101.0503,https://findrehabmap.com/kansas/rawlins-county/
+20179,Kansas,Sheridan County,2397,70000,0,0.0,0,0,0,0,31.6,44.3,"Norton, KS",114.6,"Dodge City, KS",31.6,44.3,0,39.3681,-100.4634,https://findrehabmap.com/kansas/sheridan-county/
+20065,Kansas,Graham County,2370,52909,0,0.0,0,0,0,0,32.5,33.2,"Norton, KS",111.2,"Dodge City, KS",32.5,33.2,0,39.3582,-99.8556,https://findrehabmap.com/kansas/graham-county/
+20203,Kansas,Wichita County,2072,71282,0,0.0,0,0,0,0,44.7,90.0,"Dodge City, KS",75.0,"Lamar, CO",45.0,48.3,0,38.4946,-101.3496,https://findrehabmap.com/kansas/wichita-county/
+20187,Kansas,Stanton County,2071,70361,0,0.0,0,0,0,0,21.8,86.9,"Las Animas, CO",58.0,"Lamar, CO",21.8,86.9,1,37.5653,-101.7574,https://findrehabmap.com/kansas/stanton-county/
+20025,Kansas,Clark County,1873,65515,0,0.0,0,0,0,0,32.0,32.0,"Dodge City, KS",32.0,"Dodge City, KS",32.0,32.0,0,37.2958,-99.8864,https://findrehabmap.com/kansas/clark-county/
+20033,Kansas,Comanche County,1694,49417,0,0.0,0,0,0,0,25.9,46.9,"Fort Supply, OK",44.8,"Pratt, KS",25.9,30.2,0,37.2337,-99.3732,https://findrehabmap.com/kansas/comanche-county/
+20083,Kansas,Hodgeman County,1673,63125,0,0.0,0,0,0,0,24.1,24.1,"Dodge City, KS",24.1,"Dodge City, KS",24.1,24.1,2,38.0859,-99.8601,https://findrehabmap.com/kansas/hodgeman-county/
+20101,Kansas,Lane County,1482,53042,1,67.5,0,0,0,1,2.3,58.5,"Dodge City, KS",58.5,"Dodge City, KS",42.3,2.3,1,38.504,-100.4834,https://findrehabmap.com/kansas/lane-county/
+20199,Kansas,Wallace County,1472,60263,0,0.0,0,0,0,0,31.9,96.4,"Las Animas, CO",73.5,"Lamar, CO",32.3,75.8,0,38.8858,-101.7616,https://findrehabmap.com/kansas/wallace-county/
+20071,Kansas,Greeley County,1152,78819,0,0.0,0,0,0,0,39.5,83.8,"Las Animas, CO",55.1,"Lamar, CO",55.1,70.3,0,38.4836,-101.7581,https://findrehabmap.com/kansas/greeley-county/

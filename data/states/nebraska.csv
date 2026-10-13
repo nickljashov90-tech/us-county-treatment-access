@@ -1,0 +1,94 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+31055,Nebraska,Douglas County,601158,79081,47,7.8,6,3,13,33,2.4,3.4,"Omaha, NE",3.8,"Omaha, NE",2.7,2.7,55,41.2617,-96.0697,https://findrehabmap.com/nebraska/douglas-county/
+31109,Nebraska,Lancaster County,332857,72625,22,6.6,3,2,8,16,0.7,1.2,"Lincoln, NE",1.2,"Lincoln, NE",1.2,1.5,24,40.7993,-96.6715,https://findrehabmap.com/nebraska/lancaster-county/
+31153,Nebraska,Sarpy County,204828,101402,3,1.5,0,0,0,3,0.7,5.2,"Omaha, NE",4.5,"Omaha, NE",4.2,5.2,54,41.1529,-96.0437,https://findrehabmap.com/nebraska/sarpy-county/
+31079,Nebraska,Hall County,62869,67549,7,11.1,1,0,2,5,0.9,1.0,"Grand Island, NE",90.1,"Lincoln, NE",1.0,0.9,13,40.9163,-98.3778,https://findrehabmap.com/nebraska/hall-county/
+31019,Nebraska,Buffalo County,51156,74570,2,3.9,0,0,0,2,1.8,36.1,"Lexington, NE",126.4,"Lincoln, NE",36.1,36.1,2,40.7378,-99.0728,https://findrehabmap.com/nebraska/buffalo-county/
+31053,Nebraska,Dodge County,37884,71294,3,7.9,0,0,2,3,2.3,31.1,"Omaha, NE",29.2,"Omaha, NE",2.3,2.3,6,41.4713,-96.5286,https://findrehabmap.com/nebraska/dodge-county/
+31157,Nebraska,Scotts Bluff County,35734,60960,2,5.6,0,0,2,2,1.5,75.7,"Cheyenne, WY",114.1,"Fort Collins, CO",1.5,44.9,2,41.8651,-103.6804,https://findrehabmap.com/nebraska/scotts-bluff-county/
+31119,Nebraska,Madison County,35579,64637,10,28.1,2,0,5,10,1.8,1.8,"Norfolk, NE",89.9,"Omaha, NE",1.8,1.8,10,42.0064,-97.4614,https://findrehabmap.com/nebraska/madison-county/
+31141,Nebraska,Platte County,35499,72335,5,14.1,1,0,2,4,0.8,2.6,"Columbus, NE",58.9,"Lincoln, NE",0.8,2.6,6,41.467,-97.3855,https://findrehabmap.com/nebraska/platte-county/
+31111,Nebraska,Lincoln County,33319,64342,6,18.0,1,0,1,6,1.1,1.9,"North Platte, NE",212.1,"Greeley, CO",1.9,1.9,6,41.1193,-100.7895,https://findrehabmap.com/nebraska/lincoln-county/
+31001,Nebraska,Adams County,31196,65680,6,19.2,0,0,0,6,0.7,23.7,"Grand Island, NE",93.3,"Lincoln, NE",23.7,1.5,12,40.5855,-98.4152,https://findrehabmap.com/nebraska/adams-county/
+31025,Nebraska,Cass County,27492,88255,0,0.0,0,0,0,0,13.4,18.9,"Omaha, NE",17.9,"Omaha, NE",18.1,17.7,53,40.9495,-96.0637,https://findrehabmap.com/nebraska/cass-county/
+31047,Nebraska,Dawson County,24554,65383,3,12.2,1,0,1,3,5.9,5.9,"Lexington, NE",167.2,"Lincoln, NE",5.9,5.9,3,40.8274,-99.8567,https://findrehabmap.com/nebraska/dawson-county/
+31155,Nebraska,Saunders County,23406,89395,2,8.5,0,0,0,2,3.1,26.9,"Lincoln, NE",24.6,"Omaha, NE",17.1,18.2,17,41.1954,-96.5601,https://findrehabmap.com/nebraska/saunders-county/
+31067,Nebraska,Gage County,21687,64426,2,9.2,0,0,0,2,1.6,31.9,"Lincoln, NE",31.9,"Lincoln, NE",30.3,35.1,2,40.2809,-96.7136,https://findrehabmap.com/nebraska/gage-county/
+31043,Nebraska,Dakota County,21335,71655,1,4.7,0,0,1,1,3.0,3.7,"Sioux City, IA",77.9,"Sioux Falls, SD",3.0,3.7,14,42.4469,-96.4386,https://findrehabmap.com/nebraska/dakota-county/
+31177,Nebraska,Washington County,21254,90188,0,0.0,0,0,0,0,14.5,19.5,"Omaha, NE",20.5,"Omaha, NE",16.6,14.5,55,41.5047,-96.1566,https://findrehabmap.com/nebraska/washington-county/
+31159,Nebraska,Seward County,17769,81122,1,5.6,0,0,0,1,2.0,22.0,"Lincoln, NE",23.5,"Lincoln, NE",21.6,21.6,20,40.8751,-97.1023,https://findrehabmap.com/nebraska/seward-county/
+31131,Nebraska,Otoe County,16591,81430,1,6.0,0,0,0,1,8.8,29.5,"Lincoln, NE",29.5,"Lincoln, NE",29.5,32.9,2,40.6708,-96.0369,https://findrehabmap.com/nebraska/otoe-county/
+31151,Nebraska,Saline County,14740,77027,1,6.8,0,0,0,1,4.5,22.1,"Lincoln, NE",24.6,"Lincoln, NE",20.8,21.9,18,40.5792,-97.0169,https://findrehabmap.com/nebraska/saline-county/
+31185,Nebraska,York County,14375,74058,1,7.0,0,0,0,1,0.7,39.8,"Grand Island, NE",49.5,"Lincoln, NE",23.4,39.7,2,40.8635,-97.605,https://findrehabmap.com/nebraska/york-county/
+31037,Nebraska,Colfax County,10826,79720,0,0.0,0,0,0,0,15.3,16.9,"Columbus, NE",53.1,"Lincoln, NE",16.0,16.9,6,41.5156,-97.0764,https://findrehabmap.com/nebraska/colfax-county/
+31013,Nebraska,Box Butte County,10703,68778,2,18.7,0,0,0,2,1.9,118.7,"Cheyenne, WY",152.3,"Greeley, CO",43.2,1.9,2,42.1367,-102.9052,https://findrehabmap.com/nebraska/box-butte-county/
+31041,Nebraska,Custer County,10487,66310,0,0.0,0,0,0,0,42.7,42.7,"Lexington, NE",162.1,"Lincoln, NE",42.7,42.7,0,41.4006,-99.6739,https://findrehabmap.com/nebraska/custer-county/
+31145,Nebraska,Red Willow County,10409,60000,1,9.6,0,0,0,1,2.0,44.7,"Norton, KS",172.7,"Dodge City, KS",44.7,44.7,1,40.2067,-100.5921,https://findrehabmap.com/nebraska/red-willow-county/
+31089,Nebraska,Holt County,10120,67225,3,29.6,1,0,2,2,4.5,5.4,"O'Neill, NE",125.3,"Sioux Falls, SD",4.5,5.4,3,42.4605,-98.7438,https://findrehabmap.com/nebraska/holt-county/
+31179,Nebraska,Wayne County,9870,67687,0,0.0,0,0,0,0,22.2,23.8,"Norfolk, NE",86.1,"Omaha, NE",22.5,22.9,9,42.2236,-97.0563,https://findrehabmap.com/nebraska/wayne-county/
+31033,Nebraska,Cheyenne County,9602,57594,1,10.4,0,0,0,1,1.5,93.8,"Cheyenne, WY",105.3,"Greeley, CO",39.2,66.2,1,41.1649,-102.9826,https://findrehabmap.com/nebraska/cheyenne-county/
+31081,Nebraska,Hamilton County,9564,79884,0,0.0,0,0,0,0,16.7,18.1,"Grand Island, NE",71.4,"Lincoln, NE",18.0,18.0,8,40.8795,-98.023,https://findrehabmap.com/nebraska/hamilton-county/
+31137,Nebraska,Phelps County,9042,65988,0,0.0,0,0,0,0,24.0,28.9,"Lexington, NE",145.9,"Lincoln, NE",28.9,28.9,2,40.4664,-99.4045,https://findrehabmap.com/nebraska/phelps-county/
+31039,Nebraska,Cuming County,8952,70708,2,22.3,0,0,1,2,3.8,35.9,"Norfolk, NE",58.9,"Omaha, NE",3.8,33.6,2,41.8969,-96.7584,https://findrehabmap.com/nebraska/cuming-county/
+31023,Nebraska,Butler County,8439,82603,1,11.8,0,0,0,1,0.7,17.7,"Columbus, NE",39.1,"Lincoln, NE",17.7,17.7,7,41.2474,-97.1417,https://findrehabmap.com/nebraska/butler-county/
+31107,Nebraska,Knox County,8306,64821,1,12.0,0,0,1,1,15.4,25.9,"Yankton, SD",82.1,"Sioux Falls, SD",15.4,25.9,1,42.6242,-97.7826,https://findrehabmap.com/nebraska/knox-county/
+31027,Nebraska,Cedar County,8262,73977,0,0.0,0,0,0,0,21.7,21.7,"Yankton, SD",71.6,"Sioux Falls, SD",21.7,21.7,2,42.5767,-97.251,https://findrehabmap.com/nebraska/cedar-county/
+31101,Nebraska,Keith County,8148,58132,1,12.3,0,0,0,1,1.7,48.9,"North Platte, NE",166.5,"Greeley, CO",48.9,48.9,1,41.1418,-101.6998,https://findrehabmap.com/nebraska/keith-county/
+31045,Nebraska,Dawes County,8003,54381,0,0.0,0,0,0,0,47.1,88.0,"Rapid City, SD",176.5,"Pierre, SD",49.5,47.1,0,42.7863,-103.0663,https://findrehabmap.com/nebraska/dawes-county/
+31121,Nebraska,Merrick County,7837,62849,0,0.0,0,0,0,0,21.1,22.1,"Grand Island, NE",75.1,"Lincoln, NE",21.1,21.1,7,41.1308,-98.0372,https://findrehabmap.com/nebraska/merrick-county/
+31147,Nebraska,Richardson County,7666,55578,1,13.0,0,0,0,1,3.8,46.1,"Atchison, KS",50.9,"St. Joseph, MO",19.2,46.1,4,40.0999,-95.6697,https://findrehabmap.com/nebraska/richardson-county/
+31139,Nebraska,Pierce County,7334,75938,0,0.0,0,0,0,0,16.5,17.2,"Norfolk, NE",98.6,"Sioux Falls, SD",16.5,18.0,9,42.2595,-97.5916,https://findrehabmap.com/nebraska/pierce-county/
+31095,Nebraska,Jefferson County,7136,60568,1,14.0,0,0,0,1,2.8,48.8,"Lincoln, NE",48.8,"Lincoln, NE",34.0,49.0,3,40.1642,-97.1417,https://findrehabmap.com/nebraska/jefferson-county/
+31127,Nebraska,Nemaha County,7046,60132,1,14.2,0,0,0,1,0.6,45.7,"Lincoln, NE",45.7,"Lincoln, NE",41.9,48.7,2,40.402,-95.8392,https://findrehabmap.com/nebraska/nemaha-county/
+31099,Nebraska,Kearney County,6749,79167,0,0.0,0,0,0,0,15.0,43.9,"Grand Island, NE",124.1,"Lincoln, NE",43.9,32.3,2,40.5073,-98.9922,https://findrehabmap.com/nebraska/kearney-county/
+31021,Nebraska,Burt County,6727,57303,0,0.0,0,0,0,0,18.6,44.9,"Omaha, NE",46.0,"Omaha, NE",18.6,28.1,2,41.8452,-96.3478,https://findrehabmap.com/nebraska/burt-county/
+31173,Nebraska,Thurston County,6637,64838,0,0.0,0,0,0,0,22.7,23.6,"Sioux City, IA",69.6,"Omaha, NE",22.7,23.6,15,42.1619,-96.5225,https://findrehabmap.com/nebraska/thurston-county/
+31093,Nebraska,Howard County,6572,74508,0,0.0,0,0,0,0,17.6,19.3,"Grand Island, NE",98.9,"Lincoln, NE",18.4,18.4,7,41.1892,-98.4896,https://findrehabmap.com/nebraska/howard-county/
+31003,Nebraska,Antelope County,6358,63750,0,0.0,0,0,0,0,31.5,31.8,"Norfolk, NE",117.1,"Sioux Falls, SD",31.8,33.0,0,42.1471,-98.0574,https://findrehabmap.com/nebraska/antelope-county/
+31035,Nebraska,Clay County,6103,75938,0,0.0,0,0,0,0,19.1,31.5,"Grand Island, NE",74.0,"Lincoln, NE",23.2,19.1,7,40.5476,-98.0279,https://findrehabmap.com/nebraska/clay-county/
+31167,Nebraska,Stanton County,5756,78275,0,0.0,0,0,0,0,8.4,9.7,"Norfolk, NE",80.7,"Omaha, NE",8.6,9.1,10,41.9851,-97.255,https://findrehabmap.com/nebraska/stanton-county/
+31031,Nebraska,Cherry County,5558,63750,0,0.0,0,0,0,0,60.6,109.5,"O'Neill, NE",112.5,"Pierre, SD",108.9,109.5,0,42.7884,-100.7497,https://findrehabmap.com/nebraska/cherry-county/
+31051,Nebraska,Dixon County,5526,69156,0,0.0,0,0,0,0,19.6,19.6,"Sioux City, IA",77.0,"Sioux Falls, SD",19.6,19.6,14,42.4368,-96.8261,https://findrehabmap.com/nebraska/dixon-county/
+31059,Nebraska,Fillmore County,5512,76354,1,18.1,0,0,1,1,1.2,48.9,"Grand Island, NE",51.8,"Lincoln, NE",1.2,42.5,2,40.5412,-97.5801,https://findrehabmap.com/nebraska/fillmore-county/
+31011,Nebraska,Boone County,5354,71367,0,0.0,0,0,0,0,30.7,36.9,"Columbus, NE",92.3,"Lincoln, NE",30.7,36.9,0,41.6773,-98.014,https://findrehabmap.com/nebraska/boone-county/
+31143,Nebraska,Polk County,5269,71771,0,0.0,0,0,0,0,19.9,19.9,"Columbus, NE",53.0,"Lincoln, NE",19.9,19.9,7,41.1736,-97.5567,https://findrehabmap.com/nebraska/polk-county/
+31097,Nebraska,Johnson County,5219,59457,0,0.0,0,0,0,0,20.6,29.9,"Lincoln, NE",29.9,"Lincoln, NE",29.9,36.1,1,40.4011,-96.2277,https://findrehabmap.com/nebraska/johnson-county/
+31161,Nebraska,Sheridan County,4927,56900,0,0.0,0,0,0,0,47.1,101.7,"Rapid City, SD",156.2,"Pierre, SD",74.2,47.1,0,42.7048,-102.4041,https://findrehabmap.com/nebraska/sheridan-county/
+31169,Nebraska,Thayer County,4870,63095,0,0.0,0,0,0,0,23.8,64.5,"Grand Island, NE",66.6,"Lincoln, NE",24.0,49.2,3,40.1783,-97.6281,https://findrehabmap.com/nebraska/thayer-county/
+31123,Nebraska,Morrill County,4485,59773,0,0.0,0,0,0,0,27.2,92.6,"Cheyenne, WY",121.3,"Greeley, CO",27.2,32.0,0,41.7086,-103.1629,https://findrehabmap.com/nebraska/morrill-county/
+31065,Nebraska,Furnas County,4468,60625,0,0.0,0,0,0,0,28.6,28.6,"Norton, KS",172.7,"Dodge City, KS",28.6,28.6,0,40.2508,-99.9341,https://findrehabmap.com/nebraska/furnas-county/
+31129,Nebraska,Nuckolls County,4094,70201,0,0.0,0,0,0,0,24.0,58.3,"Grand Island, NE",88.1,"Lincoln, NE",24.0,37.2,1,40.1146,-98.0618,https://findrehabmap.com/nebraska/nuckolls-county/
+31175,Nebraska,Valley County,4032,58902,0,0.0,0,0,0,0,52.3,54.1,"Grand Island, NE",130.1,"Lincoln, NE",53.3,53.3,0,41.5737,-98.9489,https://findrehabmap.com/nebraska/valley-county/
+31029,Nebraska,Chase County,3764,62782,0,0.0,0,0,0,0,35.9,63.0,"North Platte, NE",163.5,"Greeley, CO",35.9,63.0,0,40.502,-101.6256,https://findrehabmap.com/nebraska/chase-county/
+31181,Nebraska,Webster County,3326,65197,0,0.0,0,0,0,0,26.6,50.9,"Grand Island, NE",105.0,"Lincoln, NE",31.9,27.9,0,40.1959,-98.4866,https://findrehabmap.com/nebraska/webster-county/
+31105,Nebraska,Kimball County,3305,59438,0,0.0,0,0,0,0,36.3,58.8,"Cheyenne, WY",79.6,"Greeley, CO",42.3,58.8,0,41.2313,-103.6616,https://findrehabmap.com/nebraska/kimball-county/
+31125,Nebraska,Nance County,3262,65438,0,0.0,0,0,0,0,26.7,26.7,"Columbus, NE",76.2,"Lincoln, NE",26.7,26.7,0,41.4046,-97.8962,https://findrehabmap.com/nebraska/nance-county/
+31083,Nebraska,Harlan County,3018,70536,0,0.0,0,0,0,0,27.2,33.6,"Norton, KS",151.5,"Lincoln, NE",27.2,33.6,0,40.1453,-99.4063,https://findrehabmap.com/nebraska/harlan-county/
+31163,Nebraska,Sherman County,2949,61935,0,0.0,0,0,0,0,36.1,37.8,"Grand Island, NE",123.7,"Lincoln, NE",37.5,37.5,0,41.2286,-98.9686,https://findrehabmap.com/nebraska/sherman-county/
+31017,Nebraska,Brown County,2877,51538,0,0.0,0,0,0,0,57.1,61.9,"O'Neill, NE",129.4,"Pierre, SD",61.1,61.9,0,42.5431,-99.8496,https://findrehabmap.com/nebraska/brown-county/
+31061,Nebraska,Franklin County,2817,57692,0,0.0,0,0,0,0,35.4,55.4,"Norton, KS",128.1,"Lincoln, NE",35.4,41.0,0,40.186,-98.9545,https://findrehabmap.com/nebraska/franklin-county/
+31135,Nebraska,Perkins County,2779,67500,0,0.0,0,0,0,0,19.5,51.8,"North Platte, NE",163.1,"Greeley, CO",37.3,51.8,1,40.8449,-101.6755,https://findrehabmap.com/nebraska/perkins-county/
+31063,Nebraska,Frontier County,2536,68207,0,0.0,0,0,0,0,30.3,35.7,"Lexington, NE",196.3,"Lincoln, NE",35.7,35.7,0,40.61,-100.3988,https://findrehabmap.com/nebraska/frontier-county/
+31133,Nebraska,Pawnee County,2521,54926,0,0.0,0,0,0,0,25.4,46.9,"Lincoln, NE",46.9,"Lincoln, NE",32.1,52.9,0,40.1332,-96.1773,https://findrehabmap.com/nebraska/pawnee-county/
+31087,Nebraska,Hitchcock County,2460,52016,0,0.0,0,0,0,0,19.8,64.0,"Norton, KS",172.0,"Lamar, CO",56.9,64.0,1,40.2109,-101.0047,https://findrehabmap.com/nebraska/hitchcock-county/
+31077,Nebraska,Greeley County,2197,58894,0,0.0,0,0,0,0,42.5,44.0,"Grand Island, NE",108.5,"Lincoln, NE",42.9,42.9,0,41.5553,-98.4994,https://findrehabmap.com/nebraska/greeley-county/
+31049,Nebraska,Deuel County,1892,61438,0,0.0,0,0,0,0,32.0,82.1,"North Platte, NE",133.9,"Greeley, CO",35.0,76.3,0,41.0909,-102.3365,https://findrehabmap.com/nebraska/deuel-county/
+31073,Nebraska,Gosper County,1808,79145,0,0.0,0,0,0,0,13.5,13.7,"Lexington, NE",166.6,"Lincoln, NE",13.7,13.7,3,40.5944,-99.8268,https://findrehabmap.com/nebraska/gosper-county/
+31069,Nebraska,Garden County,1804,44777,0,0.0,0,0,0,0,37.7,83.7,"North Platte, NE",144.1,"Greeley, CO",58.3,55.5,0,41.4295,-102.3239,https://findrehabmap.com/nebraska/garden-county/
+31071,Nebraska,Garfield County,1707,68611,0,0.0,0,0,0,0,50.7,51.8,"O'Neill, NE",144.1,"Lincoln, NE",50.7,51.8,0,41.8037,-99.1041,https://findrehabmap.com/nebraska/garfield-county/
+31015,Nebraska,Boyd County,1700,58984,0,0.0,0,0,0,0,29.8,29.8,"O'Neill, NE",109.7,"Sioux Falls, SD",29.8,29.8,0,42.8936,-98.7448,https://findrehabmap.com/nebraska/boyd-county/
+31057,Nebraska,Dundy County,1581,56563,0,0.0,0,0,0,0,50.4,84.6,"North Platte, NE",150.6,"Lamar, CO",50.4,84.6,0,40.0895,-101.5993,https://findrehabmap.com/nebraska/dundy-county/
+31149,Nebraska,Rock County,1241,57500,0,0.0,0,0,0,0,43.4,44.1,"O'Neill, NE",134.2,"Pierre, SD",43.4,44.1,0,42.5367,-99.4999,https://findrehabmap.com/nebraska/rock-county/
+31165,Nebraska,Sioux County,1099,54076,0,0.0,0,0,0,0,29.0,100.0,"Cheyenne, WY",141.7,"Fort Collins, CO",29.0,52.9,0,42.4088,-103.8332,https://findrehabmap.com/nebraska/sioux-county/
+31085,Nebraska,Hayes County,846,60313,0,0.0,0,0,0,0,30.0,46.4,"North Platte, NE",188.4,"Lamar, CO",46.4,46.4,0,40.5008,-101.0498,https://findrehabmap.com/nebraska/hayes-county/
+31103,Nebraska,Keya Paha County,819,60313,0,0.0,0,0,0,0,35.3,61.3,"O'Neill, NE",109.0,"Pierre, SD",61.0,61.3,0,42.8689,-99.7174,https://findrehabmap.com/nebraska/keya-paha-county/
+31183,Nebraska,Wheeler County,808,55893,0,0.0,0,0,0,0,39.9,40.7,"O'Neill, NE",122.7,"Lincoln, NE",39.9,40.7,0,41.8852,-98.5455,https://findrehabmap.com/nebraska/wheeler-county/
+31091,Nebraska,Hooker County,698,45854,0,0.0,0,0,0,0,61.6,62.3,"North Platte, NE",168.2,"Pierre, SD",62.3,62.3,0,42.0107,-101.0506,https://findrehabmap.com/nebraska/hooker-county/
+31113,Nebraska,Logan County,694,71650,0,0.0,0,0,0,0,27.7,28.3,"North Platte, NE",199.7,"Pierre, SD",28.3,28.3,0,41.4992,-100.5077,https://findrehabmap.com/nebraska/logan-county/
+31007,Nebraska,Banner County,665,71250,0,0.0,0,0,0,0,19.9,62.1,"Cheyenne, WY",95.1,"Greeley, CO",19.9,58.3,2,41.5588,-103.7216,https://findrehabmap.com/nebraska/banner-county/
+31171,Nebraska,Thomas County,634,72708,0,0.0,0,0,0,0,57.6,58.3,"North Platte, NE",167.6,"Pierre, SD",58.3,58.3,0,41.9671,-100.5656,https://findrehabmap.com/nebraska/thomas-county/
+31115,Nebraska,Loup County,582,60156,0,0.0,0,0,0,0,58.2,59.3,"O'Neill, NE",159.4,"Lincoln, NE",58.2,59.3,0,41.8326,-99.4164,https://findrehabmap.com/nebraska/loup-county/
+31075,Nebraska,Grant County,573,69063,0,0.0,0,0,0,0,58.4,76.6,"North Platte, NE",181.6,"Pierre, SD",76.6,59.5,0,41.9696,-101.7346,https://findrehabmap.com/nebraska/grant-county/
+31009,Nebraska,Blaine County,454,61250,0,0.0,0,0,0,0,65.2,65.8,"North Platte, NE",172.0,"Pierre, SD",65.8,65.8,0,41.9061,-100.0134,https://findrehabmap.com/nebraska/blaine-county/
+31005,Nebraska,Arthur County,423,67500,0,0.0,0,0,0,0,30.8,56.3,"North Platte, NE",178.2,"Greeley, CO",56.3,56.3,0,41.5694,-101.6789,https://findrehabmap.com/nebraska/arthur-county/
+31117,Nebraska,McPherson County,376,61316,0,0.0,0,0,0,0,31.3,32.0,"North Platte, NE",198.3,"Pierre, SD",32.0,32.0,0,41.5604,-101.0049,https://findrehabmap.com/nebraska/mcpherson-county/

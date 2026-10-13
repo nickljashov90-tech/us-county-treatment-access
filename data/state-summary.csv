@@ -1,0 +1,52 @@
+rank,state,share_30mi_detox,people_30mi_detox,people_30mi_methadone,counties_no_program,counties,worst_county,worst_miles,report_url
+1,Montana,53%,608138,601593,27,56,Valley County,145,https://findrehabmap.com/montana/treatment-deserts/
+2,Wyoming,51%,301644,564346,0,23,Sweetwater County,110,https://findrehabmap.com/wyoming/treatment-deserts/
+3,Alaska,44%,326316,178619,12,30,Aleutians West Census Area,833,https://findrehabmap.com/alaska/treatment-deserts/
+4,North Dakota,37%,296207,303000,34,53,Bowman County,107,https://findrehabmap.com/north-dakota/treatment-deserts/
+5,South Dakota,37%,341539,609690,47,66,Hughes County,140,https://findrehabmap.com/south-dakota/treatment-deserts/
+6,Arkansas,35%,1095007,1096247,17,75,Jackson County,76,https://findrehabmap.com/arkansas/treatment-deserts/
+7,Iowa,29%,951195,1263869,18,99,Dickinson County,73,https://findrehabmap.com/iowa/treatment-deserts/
+8,Kansas,23%,685444,729008,42,105,Morton County,104,https://findrehabmap.com/kansas/treatment-deserts/
+9,Alabama,22%,1158130,398555,15,67,Conecuh County,54,https://findrehabmap.com/alabama/treatment-deserts/
+10,Oklahoma,22%,881474,796030,21,77,Cimarron County,101,https://findrehabmap.com/oklahoma/treatment-deserts/
+11,Maine,21%,294909,17432,2,16,Aroostook County,134,https://findrehabmap.com/maine/treatment-deserts/
+12,Idaho,18%,369343,394037,13,44,Idaho County,118,https://findrehabmap.com/idaho/treatment-deserts/
+13,Nebraska,18%,364508,702267,62,93,Box Butte County,119,https://findrehabmap.com/nebraska/treatment-deserts/
+14,Wisconsin,18%,1054404,879502,9,72,Vilas County,71,https://findrehabmap.com/wisconsin/treatment-deserts/
+15,New Mexico,18%,376308,554182,5,33,Quay County,98,https://findrehabmap.com/new-mexico/treatment-deserts/
+16,Oregon,16%,690278,300180,2,36,Union County,145,https://findrehabmap.com/oregon/treatment-deserts/
+17,Minnesota,16%,928148,1136307,26,87,Lake of the Woods County,118,https://findrehabmap.com/minnesota/treatment-deserts/
+18,Utah,16%,552940,246105,3,29,Kane County,117,https://findrehabmap.com/utah/treatment-deserts/
+19,Missouri,13%,807433,1121634,31,115,Livingston County,66,https://findrehabmap.com/missouri/treatment-deserts/
+20,Mississippi,11%,311366,1218808,18,82,Adams County,48,https://findrehabmap.com/mississippi/treatment-deserts/
+21,Washington,10%,827039,592188,4,39,Walla Walla County,107,https://findrehabmap.com/washington/treatment-deserts/
+22,Colorado,9%,551191,455987,13,64,Yuma County,114,https://findrehabmap.com/colorado/treatment-deserts/
+23,South Carolina,9%,481218,211341,0,46,Allendale County,46,https://findrehabmap.com/south-carolina/treatment-deserts/
+24,Tennessee,8%,582583,378995,15,95,Lake County,58,https://findrehabmap.com/tennessee/treatment-deserts/
+25,Kentucky,8%,355818,40603,15,120,Graves County,60,https://findrehabmap.com/kentucky/treatment-deserts/
+26,Illinois,8%,979147,706359,20,102,Jo Daviess County,62,https://findrehabmap.com/illinois/treatment-deserts/
+27,Texas,7%,2258886,2478882,116,254,Presidio County,176,https://findrehabmap.com/texas/treatment-deserts/
+28,New York,7%,1368969,280700,4,62,St. Lawrence County,76,https://findrehabmap.com/new-york/treatment-deserts/
+29,Arizona,6%,471314,295889,0,15,Graham County,70,https://findrehabmap.com/arizona/treatment-deserts/
+30,Louisiana,6%,277775,424212,16,64,Sabine Parish,62,https://findrehabmap.com/louisiana/treatment-deserts/
+31,Hawaii,5%,73921,1446146,1,5,Kauai County,97,https://findrehabmap.com/hawaii/treatment-deserts/
+32,Michigan,5%,508808,812403,11,83,Ontonagon County,77,https://findrehabmap.com/michigan/treatment-deserts/
+33,Virginia,5%,404267,253095,40,133,Prince Edward County,45,https://findrehabmap.com/virginia/treatment-deserts/
+34,Vermont,4%,27726,0,2,14,Orleans County,48,https://findrehabmap.com/vermont/treatment-deserts/
+35,West Virginia,4%,66185,118997,6,55,Grant County,43,https://findrehabmap.com/west-virginia/treatment-deserts/
+36,Georgia,3%,386451,220048,68,159,Ben Hill County,52,https://findrehabmap.com/georgia/treatment-deserts/
+37,Pennsylvania,3%,450267,101170,2,67,McKean County,65,https://findrehabmap.com/pennsylvania/treatment-deserts/
+38,Nevada,3%,103751,129784,5,17,Elko County,147,https://findrehabmap.com/nevada/treatment-deserts/
+39,North Carolina,3%,329164,15237,16,100,Dare County,64,https://findrehabmap.com/north-carolina/treatment-deserts/
+40,Florida,1%,305358,233616,7,67,Franklin County,52,https://findrehabmap.com/florida/treatment-deserts/
+41,Indiana,1%,61260,247083,7,92,Randolph County,33,https://findrehabmap.com/indiana/treatment-deserts/
+42,Ohio,1%,63218,51695,2,88,Athens County,36,https://findrehabmap.com/ohio/treatment-deserts/
+43,California,0%,186064,314802,2,58,Inyo County,82,https://findrehabmap.com/california/treatment-deserts/
+44,Massachusetts,0%,14670,0,1,14,Nantucket County,35,https://findrehabmap.com/massachusetts/treatment-deserts/
+45,Rhode Island,0%,0,0,0,5,Newport County,10,https://findrehabmap.com/rhode-island/treatment-deserts/
+46,New Jersey,0%,0,0,0,21,Cape May County,24,https://findrehabmap.com/new-jersey/treatment-deserts/
+47,New Hampshire,0%,0,52580,0,10,Coos County,23,https://findrehabmap.com/new-hampshire/treatment-deserts/
+48,Maryland,0%,0,0,0,24,Garrett County,25,https://findrehabmap.com/maryland/treatment-deserts/
+49,District of Columbia,0%,0,0,0,1,District of Columbia,1,https://findrehabmap.com/district-of-columbia/treatment-deserts/
+50,Delaware,0%,0,0,0,3,Sussex County,5,https://findrehabmap.com/delaware/treatment-deserts/
+51,Connecticut,0%,0,0,0,9,Northwest Hills Planning Region,10,https://findrehabmap.com/connecticut/treatment-deserts/

@@ -1,0 +1,100 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+19153,Iowa,Polk County,516185,81621,25,4.8,2,4,10,22,1.0,7.1,"Clive, IA",2.4,"Des Moines, IA",1.7,1.7,31,41.631,-93.6402,https://findrehabmap.com/iowa/polk-county/
+19113,Iowa,Linn County,231762,76421,18,7.8,1,1,7,17,1.8,5.5,"Cedar Rapids, IA",5.5,"Cedar Rapids, IA",2.3,4.6,26,42.0085,-91.6484,https://findrehabmap.com/iowa/linn-county/
+19163,Iowa,Scott County,175601,76363,5,2.8,1,1,4,3,0.8,3.5,"Bettendorf, IA",0.8,"Davenport, IA",0.8,3.5,19,41.5647,-90.5627,https://findrehabmap.com/iowa/scott-county/
+19103,Iowa,Johnson County,160080,74721,7,4.4,3,0,5,6,1.5,1.5,"Iowa City, IA",17.6,"Cedar Rapids, IA",1.5,1.5,26,41.6836,-91.5613,https://findrehabmap.com/iowa/johnson-county/
+19013,Iowa,Black Hawk County,132348,64581,6,4.5,0,0,2,5,1.3,53.3,"Cedar Rapids, IA",53.3,"Cedar Rapids, IA",1.3,1.3,12,42.4902,-92.3718,https://findrehabmap.com/iowa/black-hawk-county/
+19049,Iowa,Dallas County,115343,102349,4,3.5,0,0,0,4,6.1,6.8,"Clive, IA",9.7,"West Des Moines, IA",6.8,6.8,29,41.6307,-93.9005,https://findrehabmap.com/iowa/dallas-county/
+19193,Iowa,Woodbury County,107257,70147,13,12.1,1,0,4,12,2.6,5.5,"Sioux City, IA",76.4,"Manning, IA",2.6,3.6,15,42.4833,-96.346,https://findrehabmap.com/iowa/woodbury-county/
+19169,Iowa,Story County,102498,69006,2,2.0,0,0,1,2,1.2,29.8,"Pleasant Hill, IA",21.5,"Ankeny, IA",2.6,20.2,7,42.0251,-93.6049,https://findrehabmap.com/iowa/story-county/
+19061,Iowa,Dubuque County,99242,75919,4,4.0,0,0,2,4,3.9,60.1,"Cedar Rapids, IA",60.1,"Cedar Rapids, IA",4.4,3.9,6,42.4932,-90.7622,https://findrehabmap.com/iowa/dubuque-county/
+19155,Iowa,Pottawattamie County,93529,71446,4,4.3,1,1,3,4,2.4,4.1,"Council Bluffs, IA",4.1,"Council Bluffs, IA",2.4,5.7,54,41.2784,-95.7939,https://findrehabmap.com/iowa/pottawattamie-county/
+19181,Iowa,Warren County,56343,92990,3,5.3,0,0,1,3,3.5,14.5,"Pleasant Hill, IA",13.0,"Des Moines, IA",3.5,13.5,29,41.4068,-93.5956,https://findrehabmap.com/iowa/warren-county/
+19045,Iowa,Clinton County,46015,65177,2,4.3,0,0,2,2,6.1,23.9,"Bettendorf, IA",23.6,"Davenport, IA",6.1,6.1,8,41.8521,-90.3412,https://findrehabmap.com/iowa/clinton-county/
+19033,Iowa,Cerro Gordo County,42493,65537,3,7.1,1,1,1,3,1.3,1.4,"Mason City, IA",1.4,"Mason City, IA",1.4,1.3,5,43.1352,-93.2461,https://findrehabmap.com/iowa/cerro-gordo-county/
+19139,Iowa,Muscatine County,42132,69512,0,0.0,0,0,0,0,20.6,26.4,"Iowa City, IA",25.6,"Rock Island, IL",25.1,26.3,2,41.4655,-91.0778,https://findrehabmap.com/iowa/muscatine-county/
+19127,Iowa,Marshall County,40392,72785,1,2.5,0,0,1,1,2.1,41.0,"Pleasant Hill, IA",39.6,"Ankeny, IA",2.1,23.5,8,42.0304,-92.9382,https://findrehabmap.com/iowa/marshall-county/
+19057,Iowa,Des Moines County,38411,60662,4,10.4,0,0,2,3,1.9,58.2,"Bettendorf, IA",52.6,"Rock Island, IL",2.3,1.9,8,40.8353,-91.1433,https://findrehabmap.com/iowa/des-moines-county/
+19099,Iowa,Jasper County,38107,70128,4,10.5,0,0,3,4,1.6,22.3,"Pleasant Hill, IA",24.4,"Knoxville, IA",2.0,2.0,10,41.6781,-93.0714,https://findrehabmap.com/iowa/jasper-county/
+19187,Iowa,Webster County,36909,68054,7,19.0,1,0,1,7,0.9,1.7,"Fort Dodge, IA",60.8,"Manning, IA",1.7,1.2,8,42.4812,-94.1795,https://findrehabmap.com/iowa/webster-county/
+19167,Iowa,Sioux County,36554,84736,1,2.7,0,0,0,1,0.5,25.9,"Canton, SD",44.0,"Sioux Falls, SD",17.4,25.9,3,43.0808,-96.168,https://findrehabmap.com/iowa/sioux-county/
+19179,Iowa,Wapello County,35681,60034,5,14.0,0,0,1,5,0.3,42.9,"Seymour, IA",41.3,"Knoxville, IA",0.4,0.6,13,41.0164,-92.4189,https://findrehabmap.com/iowa/wapello-county/
+19125,Iowa,Marion County,34048,78059,4,11.7,0,2,1,3,4.0,28.7,"Pleasant Hill, IA",4.1,"Knoxville, IA",4.1,19.6,11,41.3573,-93.0417,https://findrehabmap.com/iowa/marion-county/
+19111,Iowa,Lee County,32376,59803,2,6.2,0,0,1,2,10.8,59.3,"Hannibal, MO",43.2,"Quincy, IL",10.8,23.1,9,40.5607,-91.3971,https://findrehabmap.com/iowa/lee-county/
+19015,Iowa,Boone County,26729,79741,1,3.7,0,0,0,0,2.2,29.8,"Clive, IA",26.9,"Ankeny, IA",13.0,12.2,9,42.0262,-93.8922,https://findrehabmap.com/iowa/boone-county/
+19149,Iowa,Plymouth County,25825,81600,1,3.9,0,0,1,1,3.0,21.3,"Sioux City, IA",62.1,"Sioux Falls, SD",3.0,19.5,16,42.748,-96.203,https://findrehabmap.com/iowa/plymouth-county/
+19011,Iowa,Benton County,25799,84742,2,7.8,0,0,1,2,7.0,20.6,"Cedar Rapids, IA",20.6,"Cedar Rapids, IA",7.3,16.7,18,42.0633,-92.0133,https://findrehabmap.com/iowa/benton-county/
+19017,Iowa,Bremer County,25328,83343,2,7.9,0,0,0,2,4.5,52.8,"Mason City, IA",52.8,"Mason City, IA",14.9,16.4,12,42.7403,-92.3807,https://findrehabmap.com/iowa/bremer-county/
+19183,Iowa,Washington County,22631,71339,1,4.4,0,0,0,1,4.2,20.8,"Iowa City, IA",39.0,"Cedar Rapids, IA",20.8,20.7,8,41.3651,-91.6942,https://findrehabmap.com/iowa/washington-county/
+19123,Iowa,Mahaska County,22034,69019,3,13.6,0,0,1,3,1.1,48.3,"Pleasant Hill, IA",24.2,"Knoxville, IA",1.3,23.2,14,41.3118,-92.6421,https://findrehabmap.com/iowa/mahaska-county/
+19105,Iowa,Jones County,21116,73071,2,9.5,0,0,1,2,4.1,27.5,"Cedar Rapids, IA",27.5,"Cedar Rapids, IA",4.6,20.1,8,42.1381,-91.2005,https://findrehabmap.com/iowa/jones-county/
+19021,Iowa,Buena Vista County,20816,66564,2,9.6,0,0,1,2,2.2,51.2,"Fort Dodge, IA",53.6,"Manning, IA",2.2,32.7,8,42.6767,-95.1843,https://findrehabmap.com/iowa/buena-vista-county/
+19019,Iowa,Buchanan County,20733,78430,4,19.3,0,0,0,4,1.5,40.4,"Cedar Rapids, IA",40.4,"Cedar Rapids, IA",13.3,2.3,13,42.4851,-91.9011,https://findrehabmap.com/iowa/buchanan-county/
+19027,Iowa,Carroll County,20407,68528,7,34.3,1,1,2,7,1.1,14.2,"Manning, IA",14.2,"Manning, IA",1.2,1.1,9,42.0395,-94.8677,https://findrehabmap.com/iowa/carroll-county/
+19191,Iowa,Winneshiek County,19723,75652,2,10.1,0,0,1,2,2.0,51.0,"La Crosse, WI",45.4,"La Crosse, WI",2.3,57.2,5,43.2811,-91.8132,https://findrehabmap.com/iowa/winneshiek-county/
+19097,Iowa,Jackson County,19390,71605,1,5.2,0,0,1,1,7.1,42.3,"Bettendorf, IA",40.3,"Davenport, IA",7.1,25.2,3,42.1415,-90.5677,https://findrehabmap.com/iowa/jackson-county/
+19087,Iowa,Henry County,19361,64604,2,10.3,0,0,0,1,1.1,45.8,"Iowa City, IA",60.0,"Rock Island, IL",22.1,1.1,8,40.978,-91.5369,https://findrehabmap.com/iowa/henry-county/
+19065,Iowa,Fayette County,19152,58764,2,10.4,0,0,1,2,10.4,62.5,"Cedar Rapids, IA",62.5,"Cedar Rapids, IA",10.4,25.4,5,42.8215,-91.8557,https://findrehabmap.com/iowa/fayette-county/
+19157,Iowa,Poweshiek County,18454,64837,2,10.8,0,0,0,2,5.6,45.3,"Pleasant Hill, IA",36.6,"Knoxville, IA",21.9,21.9,6,41.7125,-92.6249,https://findrehabmap.com/iowa/poweshiek-county/
+19031,Iowa,Cedar County,18231,79080,1,5.5,0,0,0,1,1.2,21.7,"Iowa City, IA",29.1,"Cedar Rapids, IA",19.9,21.6,12,41.756,-91.1404,https://findrehabmap.com/iowa/cedar-county/
+19059,Iowa,Dickinson County,18158,74570,3,16.5,0,0,1,3,2.8,72.9,"Canton, SD",82.3,"Sioux Falls, SD",2.9,16.5,9,43.389,-95.1346,https://findrehabmap.com/iowa/dickinson-county/
+19055,Iowa,Delaware County,17609,76205,2,11.4,0,0,1,2,4.4,40.6,"Cedar Rapids, IA",40.6,"Cedar Rapids, IA",4.4,27.7,2,42.4816,-91.3839,https://findrehabmap.com/iowa/delaware-county/
+19121,Iowa,Madison County,17161,89542,0,0.0,0,0,0,0,18.1,20.8,"Clive, IA",21.6,"West Des Moines, IA",20.8,20.8,20,41.3487,-93.9868,https://findrehabmap.com/iowa/madison-county/
+19043,Iowa,Clayton County,16931,62326,1,5.9,0,0,0,1,4.0,66.6,"Cedar Rapids, IA",64.6,"La Crosse, WI",27.1,40.9,3,42.8607,-91.3211,https://findrehabmap.com/iowa/clayton-county/
+19171,Iowa,Tama County,16738,67955,1,6.0,0,0,0,1,7.1,46.5,"Cedar Rapids, IA",46.5,"Cedar Rapids, IA",18.6,31.4,4,42.0624,-92.5441,https://findrehabmap.com/iowa/tama-county/
+19041,Iowa,Clay County,16474,64082,4,24.3,0,0,2,4,1.3,65.3,"Fort Dodge, IA",84.6,"Manning, IA",1.7,1.7,8,43.1274,-95.1593,https://findrehabmap.com/iowa/clay-county/
+19083,Iowa,Hardin County,16464,64906,1,6.1,0,0,0,1,7.4,49.5,"Mason City, IA",49.5,"Mason City, IA",21.1,42.3,2,42.4363,-93.217,https://findrehabmap.com/iowa/hardin-county/
+19095,Iowa,Iowa County,16423,72185,1,6.1,0,0,0,1,2.9,25.3,"Cedar Rapids, IA",25.3,"Cedar Rapids, IA",24.5,22.8,7,41.701,-92.0392,https://findrehabmap.com/iowa/iowa-county/
+19047,Iowa,Crawford County,16378,65039,1,6.1,0,0,1,1,0.7,16.8,"Manning, IA",16.8,"Manning, IA",0.7,16.8,3,42.0267,-95.3574,https://findrehabmap.com/iowa/crawford-county/
+19101,Iowa,Jefferson County,15781,56824,2,12.7,0,0,1,2,1.3,48.9,"Iowa City, IA",63.0,"Knoxville, IA",1.8,21.8,10,41.0126,-91.9659,https://findrehabmap.com/iowa/jefferson-county/
+19145,Iowa,Page County,15038,57752,4,26.6,0,0,0,4,7.8,50.4,"Council Bluffs, IA",50.4,"Council Bluffs, IA",33.8,7.9,6,40.747,-95.1873,https://findrehabmap.com/iowa/page-county/
+19067,Iowa,Floyd County,15008,64500,1,6.7,0,0,1,1,3.9,26.2,"Mason City, IA",26.2,"Mason City, IA",3.9,23.4,4,43.0752,-92.7514,https://findrehabmap.com/iowa/floyd-county/
+19079,Iowa,Hamilton County,14856,71750,0,0.0,0,0,0,0,21.7,23.3,"Fort Dodge, IA",48.8,"Ankeny, IA",23.3,21.7,9,42.4066,-93.7674,https://findrehabmap.com/iowa/hamilton-county/
+19129,Iowa,Mills County,14717,87810,0,0.0,0,0,0,0,15.3,17.3,"Council Bluffs, IA",17.3,"Council Bluffs, IA",16.3,17.1,48,41.0509,-95.6937,https://findrehabmap.com/iowa/mills-county/
+19085,Iowa,Harrison County,14626,77027,0,0.0,0,0,0,0,26.1,27.8,"Omaha, NE",27.9,"Council Bluffs, IA",27.0,26.1,0,41.6626,-95.8046,https://findrehabmap.com/iowa/harrison-county/
+19109,Iowa,Kossuth County,14408,65656,1,6.9,0,0,0,1,5.1,45.3,"Fort Dodge, IA",48.4,"Mason City, IA",30.5,37.5,2,43.1433,-94.2214,https://findrehabmap.com/iowa/kossuth-county/
+19141,Iowa,O'Brien County,14260,68216,1,7.0,0,0,1,1,9.0,46.2,"Canton, SD",60.9,"Sioux Falls, SD",9.0,27.9,2,43.1292,-95.6953,https://findrehabmap.com/iowa/obrien-county/
+19005,Iowa,Allamakee County,14184,66000,1,7.1,0,0,0,1,2.8,44.0,"La Crosse, WI",38.4,"La Crosse, WI",17.7,59.3,5,43.253,-91.4248,https://findrehabmap.com/iowa/allamakee-county/
+19023,Iowa,Butler County,14156,69651,2,14.1,0,0,1,2,4.0,40.2,"Mason City, IA",40.2,"Mason City, IA",7.3,23.2,7,42.7016,-92.7583,https://findrehabmap.com/iowa/butler-county/
+19029,Iowa,Cass County,13024,61657,2,15.4,0,0,0,2,2.0,19.7,"Adair, IA",37.5,"Manning, IA",19.7,19.7,5,41.3665,-94.9777,https://findrehabmap.com/iowa/cass-county/
+19197,Iowa,Wright County,12729,64033,2,15.7,0,0,1,2,1.2,28.7,"Fort Dodge, IA",38.3,"Mason City, IA",10.6,26.7,3,42.733,-93.7563,https://findrehabmap.com/iowa/wright-county/
+19075,Iowa,Grundy County,12405,83617,0,0.0,0,0,0,0,17.6,59.4,"Mason City, IA",59.4,"Mason City, IA",20.0,20.0,8,42.3805,-92.7473,https://findrehabmap.com/iowa/grundy-county/
+19119,Iowa,Lyon County,12378,72881,0,0.0,0,0,0,0,18.6,18.6,"Canton, SD",29.0,"Sioux Falls, SD",18.6,18.6,4,43.3855,-96.2273,https://findrehabmap.com/iowa/lyon-county/
+19007,Iowa,Appanoose County,12106,51146,2,16.5,0,0,2,2,0.2,13.5,"Seymour, IA",41.5,"Knoxville, IA",0.2,13.5,7,40.7413,-92.8647,https://findrehabmap.com/iowa/appanoose-county/
+19175,Iowa,Union County,11955,56813,2,16.7,0,0,0,2,2.4,35.4,"Adair, IA",48.2,"West Des Moines, IA",28.7,35.4,3,41.0548,-94.3183,https://findrehabmap.com/iowa/union-county/
+19165,Iowa,Shelby County,11821,67690,0,0.0,0,0,0,0,20.5,21.0,"Manning, IA",21.0,"Manning, IA",21.0,21.0,3,41.6626,-95.3233,https://findrehabmap.com/iowa/shelby-county/
+19037,Iowa,Chickasaw County,11719,73421,1,8.5,0,0,0,1,9.1,47.0,"Mason City, IA",47.0,"Mason City, IA",16.9,37.1,5,43.0387,-92.3428,https://findrehabmap.com/iowa/chickasaw-county/
+19035,Iowa,Cherokee County,11658,64478,2,17.2,0,0,1,1,1.1,47.0,"Sioux City, IA",64.2,"Manning, IA",2.2,35.7,4,42.7512,-95.5919,https://findrehabmap.com/iowa/cherokee-county/
+19077,Iowa,Guthrie County,10774,79981,4,37.1,3,0,2,2,4.0,14.5,"Bayard, IA",36.9,"West Des Moines, IA",14.5,14.5,8,41.6658,-94.4277,https://findrehabmap.com/iowa/guthrie-county/
+19131,Iowa,Mitchell County,10632,68704,0,0.0,0,0,0,0,19.3,26.1,"Mason City, IA",26.1,"Mason City, IA",19.3,23.5,4,43.3345,-92.8061,https://findrehabmap.com/iowa/mitchell-county/
+19115,Iowa,Louisa County,10630,80223,1,9.4,0,0,0,1,4.7,31.9,"Iowa City, IA",39.0,"Rock Island, IL",26.3,23.4,4,41.2253,-91.2627,https://findrehabmap.com/iowa/louisa-county/
+19081,Iowa,Hancock County,10616,70212,1,9.4,0,0,1,1,4.6,22.7,"Mason City, IA",22.7,"Mason City, IA",4.6,22.7,6,43.0923,-93.7027,https://findrehabmap.com/iowa/hancock-county/
+19189,Iowa,Winnebago County,10383,63719,1,9.6,0,0,1,1,5.5,24.1,"Mason City, IA",24.1,"Mason City, IA",5.5,24.1,4,43.3415,-93.6639,https://findrehabmap.com/iowa/winnebago-county/
+19137,Iowa,Montgomery County,10063,63190,2,19.9,0,0,0,2,3.0,40.4,"Council Bluffs, IA",40.4,"Council Bluffs, IA",39.2,18.7,6,41.0093,-95.1697,https://findrehabmap.com/iowa/montgomery-county/
+19069,Iowa,Franklin County,10024,63648,1,10.0,0,0,1,1,1.8,27.5,"Mason City, IA",27.5,"Mason City, IA",1.8,27.4,3,42.7546,-93.2393,https://findrehabmap.com/iowa/franklin-county/
+19107,Iowa,Keokuk County,9855,60856,1,10.1,0,0,0,1,1.7,39.8,"Iowa City, IA",48.5,"Knoxville, IA",23.6,23.3,8,41.3244,-92.1752,https://findrehabmap.com/iowa/keokuk-county/
+19025,Iowa,Calhoun County,9711,66875,0,0.0,0,0,0,0,18.7,21.9,"Fort Dodge, IA",41.2,"Manning, IA",18.7,21.9,11,42.3978,-94.6232,https://findrehabmap.com/iowa/calhoun-county/
+19091,Iowa,Humboldt County,9617,66994,1,10.4,0,0,0,1,2.0,17.9,"Fort Dodge, IA",55.9,"Mason City, IA",17.9,16.7,10,42.7466,-94.2166,https://findrehabmap.com/iowa/humboldt-county/
+19161,Iowa,Sac County,9533,70991,4,42.0,0,0,2,4,5.4,32.5,"Manning, IA",32.5,"Manning, IA",5.4,24.9,12,42.3753,-95.0896,https://findrehabmap.com/iowa/sac-county/
+19039,Iowa,Clarke County,9524,66821,3,31.5,0,0,1,2,0.8,39.3,"Clive, IA",38.4,"West Des Moines, IA",0.8,39.2,8,41.0348,-93.7835,https://findrehabmap.com/iowa/clarke-county/
+19089,Iowa,Howard County,9360,67336,1,10.7,0,0,0,1,5.8,43.6,"Rochester, MN",48.7,"Rochester, MN",23.5,41.1,3,43.362,-92.2294,https://findrehabmap.com/iowa/howard-county/
+19051,Iowa,Davis County,9193,79505,1,10.9,0,0,0,1,0.9,36.7,"Seymour, IA",52.3,"Knoxville, IA",17.6,16.9,9,40.7625,-92.4183,https://findrehabmap.com/iowa/davis-county/
+19063,Iowa,Emmet County,9162,65181,1,10.9,0,0,0,1,3.9,68.5,"Fort Dodge, IA",77.2,"Mason City, IA",17.3,24.4,8,43.396,-94.7583,https://findrehabmap.com/iowa/emmet-county/
+19147,Iowa,Palo Alto County,8809,68963,1,11.4,0,0,0,1,0.9,48.8,"Fort Dodge, IA",72.1,"Mason City, IA",23.1,23.1,7,43.1011,-94.6885,https://findrehabmap.com/iowa/palo-alto-county/
+19117,Iowa,Lucas County,8758,67921,3,34.3,0,0,1,2,0.3,25.6,"Seymour, IA",22.7,"Knoxville, IA",0.3,25.6,11,41.0221,-93.3125,https://findrehabmap.com/iowa/lucas-county/
+19073,Iowa,Greene County,8662,59159,2,23.1,0,0,0,2,0.2,15.5,"Bayard, IA",36.8,"Manning, IA",15.5,15.5,10,42.0291,-94.3799,https://findrehabmap.com/iowa/greene-county/
+19133,Iowa,Monona County,8429,62944,0,0.0,0,0,0,0,31.9,38.3,"Sioux City, IA",48.2,"Manning, IA",31.9,37.6,0,42.0626,-95.9889,https://findrehabmap.com/iowa/monona-county/
+19053,Iowa,Decatur County,7656,57146,2,26.1,0,0,2,2,4.7,37.0,"Seymour, IA",55.5,"Knoxville, IA",4.7,37.0,5,40.7123,-93.8172,https://findrehabmap.com/iowa/decatur-county/
+19001,Iowa,Adair County,7431,66176,1,13.5,0,0,0,1,3.1,13.8,"Adair, IA",42.6,"West Des Moines, IA",13.8,13.8,6,41.3477,-94.4783,https://findrehabmap.com/iowa/adair-county/
+19135,Iowa,Monroe County,7373,72518,1,13.6,0,0,0,1,1.6,28.4,"Seymour, IA",24.3,"Knoxville, IA",20.2,19.9,12,41.0338,-92.8252,https://findrehabmap.com/iowa/monroe-county/
+19195,Iowa,Worth County,7307,76875,0,0.0,0,0,0,0,15.0,15.0,"Mason City, IA",15.0,"Mason City, IA",15.0,15.0,8,43.3694,-93.2504,https://findrehabmap.com/iowa/worth-county/
+19177,Iowa,Van Buren County,7217,60183,1,13.9,0,0,0,1,1.3,61.4,"Seymour, IA",62.7,"Quincy, IL",16.8,25.5,4,40.7442,-91.9425,https://findrehabmap.com/iowa/van-buren-county/
+19151,Iowa,Pocahontas County,7006,63423,0,0.0,0,0,0,0,25.4,30.8,"Fort Dodge, IA",61.0,"Manning, IA",25.9,30.8,0,42.744,-94.707,https://findrehabmap.com/iowa/pocahontas-county/
+19093,Iowa,Ida County,6810,62841,1,14.7,0,0,1,1,4.0,40.3,"Manning, IA",40.3,"Manning, IA",4.0,40.2,3,42.3933,-95.5055,https://findrehabmap.com/iowa/ida-county/
+19185,Iowa,Wayne County,6622,59118,3,45.3,1,0,1,2,1.9,10.6,"Seymour, IA",41.3,"Knoxville, IA",1.9,10.6,9,40.7333,-93.3041,https://findrehabmap.com/iowa/wayne-county/
+19071,Iowa,Fremont County,6494,73750,0,0.0,0,0,0,0,12.2,37.5,"Omaha, NE",37.5,"Omaha, NE",35.9,30.3,3,40.7537,-95.6168,https://findrehabmap.com/iowa/fremont-county/
+19143,Iowa,Osceola County,6036,69138,0,0.0,0,0,0,0,16.4,45.6,"Canton, SD",55.3,"Sioux Falls, SD",16.4,16.8,3,43.3872,-95.681,https://findrehabmap.com/iowa/osceola-county/
+19173,Iowa,Taylor County,5825,67279,0,0.0,0,0,0,0,18.7,51.9,"Adair, IA",67.0,"St. Joseph, MO",31.6,18.7,2,40.7536,-94.6798,https://findrehabmap.com/iowa/taylor-county/
+19009,Iowa,Audubon County,5562,54152,1,18.0,0,0,0,1,3.5,17.6,"Manning, IA",17.6,"Manning, IA",17.6,17.6,8,41.6759,-94.9254,https://findrehabmap.com/iowa/audubon-county/
+19159,Iowa,Ringgold County,4608,69821,0,0.0,0,0,0,0,18.4,57.0,"Adair, IA",64.6,"West Des Moines, IA",18.4,41.9,3,40.738,-94.2371,https://findrehabmap.com/iowa/ringgold-county/
+19003,Iowa,Adams County,3606,68828,0,0.0,0,0,0,0,17.9,34.5,"Adair, IA",63.0,"Council Bluffs, IA",34.5,24.4,4,41.0072,-94.7088,https://findrehabmap.com/iowa/adams-county/

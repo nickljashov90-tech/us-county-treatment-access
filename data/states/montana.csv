@@ -1,0 +1,57 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+30111,Montana,Yellowstone County,171583,74400,9,5.2,1,1,4,8,0.8,1.3,"Billings, MT",2.4,"Billings, MT",0.8,1.3,9,45.7899,-108.5461,https://findrehabmap.com/montana/yellowstone-county/
+30031,Montana,Gallatin County,126984,87454,2,1.6,0,1,1,2,4.4,70.9,"Butte, MT",8.4,"Belgrade, MT",8.4,27.7,2,45.683,-111.1288,https://findrehabmap.com/montana/gallatin-county/
+30063,Montana,Missoula County,122546,71246,9,7.3,1,1,2,9,0.9,1.4,"Missoula, MT",1.9,"Missoula, MT",1.4,1.1,9,46.8755,-114.0215,https://findrehabmap.com/montana/missoula-county/
+30029,Montana,Flathead County,114527,71327,7,6.1,0,3,2,6,3.1,95.5,"Missoula, MT",3.1,"Kalispell, MT",3.1,62.0,7,48.2474,-114.2809,https://findrehabmap.com/montana/flathead-county/
+30013,Montana,Cascade County,84523,66203,5,5.9,1,0,3,4,0.4,1.4,"Great Falls, MT",117.2,"Belgrade, MT",0.4,0.4,5,47.4916,-111.3066,https://findrehabmap.com/montana/cascade-county/
+30049,Montana,Lewis and Clark County,75129,74543,8,10.6,2,0,2,8,1.9,1.9,"Helena, MT",70.9,"Belgrade, MT",1.9,1.9,8,46.6466,-112.0196,https://findrehabmap.com/montana/lewis-and-clark-county/
+30081,Montana,Ravalli County,48187,71323,1,2.1,0,0,0,0,8.3,36.4,"Missoula, MT",34.1,"Missoula, MT",34.1,8.3,1,46.3585,-114.1114,https://findrehabmap.com/montana/ravalli-county/
+30093,Montana,Silver Bow County,36134,57504,2,5.5,1,0,1,1,1.1,1.7,"Butte, MT",65.8,"Belgrade, MT",1.7,1.7,3,45.9875,-112.5255,https://findrehabmap.com/montana/silver-bow-county/
+30047,Montana,Lake County,33403,61965,1,3.0,0,0,0,0,5.4,50.8,"Missoula, MT",40.5,"Kalispell, MT",42.4,50.0,1,47.6084,-114.1232,https://findrehabmap.com/montana/lake-county/
+30053,Montana,Lincoln County,22184,47018,3,13.5,0,0,0,0,22.9,86.5,"Coeur d Alene, ID",55.4,"Kalispell, MT",55.0,22.9,1,48.5533,-115.4265,https://findrehabmap.com/montana/lincoln-county/
+30067,Montana,Park County,18074,66607,3,16.6,0,0,2,3,2.2,97.0,"Butte, MT",31.4,"Belgrade, MT",4.3,4.6,4,45.6049,-110.5969,https://findrehabmap.com/montana/park-county/
+30041,Montana,Hill County,16065,55313,3,18.7,1,0,1,3,4.9,5.0,"Havre, MT",198.4,"Billings, MT",5.0,98.8,3,48.5117,-109.7671,https://findrehabmap.com/montana/hill-county/
+30089,Montana,Sanders County,13895,54035,0,0.0,0,0,0,0,33.4,75.4,"Coeur d Alene, ID",56.0,"Kalispell, MT",56.0,74.3,0,47.635,-115.1758,https://findrehabmap.com/montana/sanders-county/
+30035,Montana,Glacier County,13503,45129,0,0.0,0,0,0,0,43.7,102.8,"Great Falls, MT",73.2,"Kalispell, MT",74.7,102.8,0,48.6011,-112.8031,https://findrehabmap.com/montana/glacier-county/
+30043,Montana,Jefferson County,13304,76576,0,0.0,0,0,0,0,21.9,22.7,"Helena, MT",52.5,"Belgrade, MT",22.7,21.9,8,46.2684,-112.0455,https://findrehabmap.com/montana/jefferson-county/
+30003,Montana,Big Horn County,12796,56680,1,7.8,0,0,1,1,13.0,51.6,"Billings, MT",53.2,"Billings, MT",13.0,51.6,1,45.5686,-107.4997,https://findrehabmap.com/montana/big-horn-county/
+30017,Montana,Custer County,11964,63585,2,16.7,0,0,0,2,0.5,126.0,"Sheridan, WY",139.2,"Billings, MT",42.2,0.8,2,46.4017,-105.8146,https://findrehabmap.com/montana/custer-county/
+30027,Montana,Fergus County,11862,59731,3,25.3,0,0,0,3,2.7,92.5,"Great Falls, MT",100.6,"Billings, MT",92.2,92.4,3,47.092,-109.4146,https://findrehabmap.com/montana/fergus-county/
+30009,Montana,Carbon County,11498,71017,0,0.0,0,0,0,0,23.5,42.6,"Billings, MT",39.2,"Billings, MT",39.2,34.2,1,45.3223,-109.0848,https://findrehabmap.com/montana/carbon-county/
+30083,Montana,Richland County,11028,69578,3,27.2,0,0,0,3,1.5,39.2,"Arnegard, ND",138.8,"Minot, ND",39.2,39.2,3,47.7207,-104.2042,https://findrehabmap.com/montana/richland-county/
+30085,Montana,Roosevelt County,10197,53125,2,19.6,0,0,0,2,19.8,90.3,"Arnegard, ND",180.5,"Minot, ND",73.2,73.6,2,48.1344,-105.2126,https://findrehabmap.com/montana/roosevelt-county/
+30001,Montana,Beaverhead County,10006,58072,2,20.0,0,0,1,2,2.9,55.0,"Butte, MT",83.1,"Belgrade, MT",3.2,55.0,2,45.225,-112.6935,https://findrehabmap.com/montana/beaverhead-county/
+30023,Montana,Deer Lodge County,9811,49533,1,10.2,0,0,0,0,1.6,22.4,"Butte, MT",70.7,"Missoula, MT",22.4,22.4,3,46.1359,-112.9556,https://findrehabmap.com/montana/deer-lodge-county/
+30057,Montana,Madison County,9753,67420,0,0.0,0,0,0,0,36.7,50.2,"Butte, MT",44.2,"Belgrade, MT",36.7,50.2,0,45.419,-111.9226,https://findrehabmap.com/montana/madison-county/
+30095,Montana,Stillwater County,9450,81503,1,10.6,0,0,0,1,1.9,36.8,"Billings, MT",33.8,"Billings, MT",33.8,27.3,2,45.6154,-109.2382,https://findrehabmap.com/montana/stillwater-county/
+30021,Montana,Dawson County,8731,70953,3,34.4,0,0,0,3,2.7,76.4,"Arnegard, ND",177.0,"Minot, ND",76.4,2.7,3,47.1372,-104.7488,https://findrehabmap.com/montana/dawson-county/
+30007,Montana,Broadwater County,8302,63636,0,0.0,0,0,0,0,30.0,31.9,"Helena, MT",37.6,"Belgrade, MT",31.9,30.0,0,46.2816,-111.5434,https://findrehabmap.com/montana/broadwater-county/
+30087,Montana,Rosebud County,8194,56430,2,24.4,0,0,1,2,1.5,80.6,"Sheridan, WY",94.7,"Billings, MT",25.3,50.7,1,45.9029,-106.6122,https://findrehabmap.com/montana/rosebud-county/
+30105,Montana,Valley County,7434,64515,1,13.5,0,0,0,1,5.2,145.4,"Havre, MT",196.0,"Billings, MT",134.5,115.1,1,48.2362,-106.5416,https://findrehabmap.com/montana/valley-county/
+30077,Montana,Powell County,7120,63432,0,0.0,0,0,0,0,23.8,32.3,"Butte, MT",66.0,"Missoula, MT",32.3,32.3,1,46.4506,-112.758,https://findrehabmap.com/montana/powell-county/
+30005,Montana,Blaine County,6903,65050,1,14.5,0,0,0,1,8.0,37.7,"Havre, MT",185.3,"Billings, MT",37.7,128.8,1,48.4324,-108.8716,https://findrehabmap.com/montana/blaine-county/
+30099,Montana,Teton County,6444,67766,0,0.0,0,0,0,0,38.9,39.0,"Great Falls, MT",107.3,"Kalispell, MT",39.1,39.0,0,47.7625,-112.0393,https://findrehabmap.com/montana/teton-county/
+30073,Montana,Pondera County,6078,53500,0,0.0,0,0,0,0,24.6,63.0,"Great Falls, MT",97.3,"Kalispell, MT",63.2,63.0,1,48.2114,-112.1578,https://findrehabmap.com/montana/pondera-county/
+30015,Montana,Chouteau County,5880,56927,0,0.0,0,0,0,0,52.1,52.2,"Havre, MT",154.2,"Belgrade, MT",52.2,52.4,0,47.9626,-110.3863,https://findrehabmap.com/montana/chouteau-county/
+30065,Montana,Musselshell County,5452,59010,0,0.0,0,0,0,0,43.3,43.3,"Billings, MT",45.9,"Billings, MT",43.3,43.3,0,46.4201,-108.4831,https://findrehabmap.com/montana/musselshell-county/
+30061,Montana,Mineral County,5195,61117,1,19.2,0,0,0,1,0.8,47.4,"Missoula, MT",47.1,"Missoula, MT",47.1,45.3,1,47.1828,-114.8943,https://findrehabmap.com/montana/mineral-county/
+30101,Montana,Toole County,5153,53693,1,19.4,0,0,0,1,5.0,78.2,"Great Falls, MT",114.3,"Kalispell, MT",78.5,78.2,1,48.5781,-111.8505,https://findrehabmap.com/montana/toole-county/
+30071,Montana,Phillips County,4214,58156,1,23.7,0,0,0,1,0.6,83.8,"Havre, MT",183.2,"Billings, MT",83.8,166.2,1,48.3672,-107.8666,https://findrehabmap.com/montana/phillips-county/
+30097,Montana,Sweet Grass County,3757,69426,0,0.0,0,0,0,0,32.9,67.3,"Billings, MT",61.1,"Belgrade, MT",32.9,32.9,0,45.8294,-109.9165,https://findrehabmap.com/montana/sweet-grass-county/
+30039,Montana,Granite County,3602,54646,0,0.0,0,0,0,0,29.0,43.7,"Missoula, MT",43.4,"Missoula, MT",43.4,43.0,0,46.4454,-113.3199,https://findrehabmap.com/montana/granite-county/
+30091,Montana,Sheridan County,3448,63654,1,29.0,0,0,0,1,4.2,87.2,"Arnegard, ND",149.7,"Minot, ND",56.7,56.9,1,48.7341,-104.4937,https://findrehabmap.com/montana/sheridan-county/
+30025,Montana,Fallon County,2946,72284,0,0.0,0,0,0,0,54.8,104.2,"Arnegard, ND",170.2,"Bismarck, ND",81.2,56.0,0,46.3605,-104.3161,https://findrehabmap.com/montana/fallon-county/
+30045,Montana,Judith Basin County,2111,55417,0,0.0,0,0,0,0,34.4,59.8,"Great Falls, MT",101.7,"Belgrade, MT",59.4,59.4,0,47.094,-110.1713,https://findrehabmap.com/montana/judith-basin-county/
+30059,Montana,Meagher County,2065,56215,0,0.0,0,0,0,0,52.6,54.9,"Helena, MT",52.6,"Belgrade, MT",52.6,53.2,0,46.5298,-110.8815,https://findrehabmap.com/montana/meagher-county/
+30107,Montana,Wheatland County,2058,47054,0,0.0,0,0,0,0,45.7,78.2,"Billings, MT",77.8,"Billings, MT",64.4,64.4,0,46.4546,-109.8455,https://findrehabmap.com/montana/wheatland-county/
+30051,Montana,Liberty County,1934,53264,0,0.0,0,0,0,0,40.0,59.9,"Havre, MT",152.7,"Kalispell, MT",59.9,72.5,0,48.538,-110.9852,https://findrehabmap.com/montana/liberty-county/
+30075,Montana,Powder River County,1734,68009,1,57.7,0,0,0,1,6.6,83.0,"Sheridan, WY",147.8,"Billings, MT",78.6,67.6,1,45.4385,-105.5446,https://findrehabmap.com/montana/powder-river-county/
+30055,Montana,McCone County,1717,71842,0,0.0,0,0,0,0,35.8,106.5,"Arnegard, ND",186.9,"Billings, MT",101.5,53.8,0,47.5697,-105.6389,https://findrehabmap.com/montana/mccone-county/
+30019,Montana,Daniels County,1625,58000,0,0.0,0,0,0,0,39.8,120.2,"Arnegard, ND",192.4,"Minot, ND",93.7,94.0,0,48.7836,-105.4317,https://findrehabmap.com/montana/daniels-county/
+30011,Montana,Carter County,1399,52171,0,0.0,0,0,0,0,45.9,129.8,"Rapid City, SD",194.5,"Bismarck, ND",88.8,79.5,0,45.6874,-104.5253,https://findrehabmap.com/montana/carter-county/
+30033,Montana,Garfield County,1181,61750,0,0.0,0,0,0,0,62.8,128.6,"Billings, MT",132.0,"Billings, MT",73.2,82.3,0,47.31,-106.9467,https://findrehabmap.com/montana/garfield-county/
+30079,Montana,Prairie County,1112,45192,0,0.0,0,0,0,0,33.5,109.7,"Arnegard, ND",173.1,"Billings, MT",76.4,35.3,0,46.8097,-105.2762,https://findrehabmap.com/montana/prairie-county/
+30109,Montana,Wibaux County,911,64792,0,0.0,0,0,0,0,26.0,64.9,"Arnegard, ND",159.9,"Minot, ND",64.9,26.0,0,46.97,-104.1912,https://findrehabmap.com/montana/wibaux-county/
+30037,Montana,Golden Valley County,863,57353,0,0.0,0,0,0,0,43.7,45.2,"Billings, MT",45.7,"Billings, MT",45.2,43.7,0,46.2979,-109.1208,https://findrehabmap.com/montana/golden-valley-county/
+30103,Montana,Treasure County,739,73036,0,0.0,0,0,0,0,27.3,68.6,"Billings, MT",71.8,"Billings, MT",27.3,68.5,0,46.2471,-107.2471,https://findrehabmap.com/montana/treasure-county/
+30069,Montana,Petroleum County,525,59318,0,0.0,0,0,0,0,52.9,84.7,"Billings, MT",87.4,"Billings, MT",84.7,84.7,0,47.0122,-108.3179,https://findrehabmap.com/montana/petroleum-county/

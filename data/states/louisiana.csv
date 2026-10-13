@@ -1,0 +1,65 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+22033,Louisiana,East Baton Rouge Parish,453022,63075,28,6.2,10,1,13,20,0.9,1.0,"Baton Rouge, LA",4.2,"Baton Rouge, LA",0.9,1.2,39,30.4603,-91.1001,https://findrehabmap.com/louisiana/east-baton-rouge-parish/
+22051,Louisiana,Jefferson Parish,427253,65246,17,4.0,4,2,11,13,1.2,1.2,"New Orleans, LA",1.2,"New Orleans, LA",1.2,2.5,42,29.9458,-90.1523,https://findrehabmap.com/louisiana/jefferson-parish/
+22071,Louisiana,Orleans Parish,362701,55339,19,5.2,2,3,12,15,0.8,5.6,"New Orleans, LA",2.5,"New Orleans, LA",1.4,2.2,37,29.9758,-90.0529,https://findrehabmap.com/louisiana/orleans-parish/
+22103,Louisiana,St. Tammany Parish,277615,79277,20,7.2,10,1,12,13,4.1,4.1,"Mandeville, LA",6.6,"Mandeville, LA",4.1,4.1,23,30.3869,-89.9618,https://findrehabmap.com/louisiana/st-tammany-parish/
+22055,Louisiana,Lafayette Parish,254241,67660,11,4.3,5,0,5,5,0.0,1.7,"Lafayette, LA",10.7,"Breaux Bridge, LA",1.7,2.2,20,30.1981,-92.0422,https://findrehabmap.com/louisiana/lafayette-parish/
+22017,Louisiana,Caddo Parish,224893,50067,16,7.1,7,5,9,15,1.7,1.7,"Shreveport, LA",1.7,"Shreveport, LA",1.7,1.7,21,32.4689,-93.7992,https://findrehabmap.com/louisiana/caddo-parish/
+22019,Louisiana,Calcasieu Parish,206861,67849,10,4.8,2,2,5,7,1.9,1.9,"Lake Charles, LA",4.1,"Lake Charles, LA",3.6,1.9,11,30.2251,-93.2577,https://findrehabmap.com/louisiana/calcasieu-parish/
+22073,Louisiana,Ouachita Parish,157874,51241,13,8.2,4,2,7,12,0.9,1.0,"Monroe, LA",1.5,"West Monroe, LA",1.0,1.5,17,32.5164,-92.1319,https://findrehabmap.com/louisiana/ouachita-parish/
+22063,Louisiana,Livingston Parish,152886,78617,3,2.0,1,0,1,1,7.1,9.8,"Denham Springs, LA",15.2,"Baton Rouge, LA",7.6,13.1,36,30.4824,-90.8431,https://findrehabmap.com/louisiana/livingston-parish/
+22105,Louisiana,Tangipahoa Parish,139823,57256,3,2.1,0,1,1,1,3.1,19.9,"Covington, LA",3.3,"Hammond, LA",3.1,19.9,10,30.5611,-90.449,https://findrehabmap.com/louisiana/tangipahoa-parish/
+22005,Louisiana,Ascension Parish,133534,92266,4,3.0,1,0,4,4,1.7,6.5,"Sorrento, LA",13.4,"Baton Rouge, LA",1.7,6.5,38,30.2544,-90.9341,https://findrehabmap.com/louisiana/ascension-parish/
+22015,Louisiana,Bossier Parish,131102,66336,5,3.8,0,2,5,5,1.7,5.5,"Shreveport, LA",1.7,"Bossier City, LA",1.7,4.2,23,32.5608,-93.659,https://findrehabmap.com/louisiana/bossier-parish/
+22079,Louisiana,Rapides Parish,125899,55946,12,9.5,3,1,3,5,1.5,2.6,"Alexandria, LA",2.6,"Alexandria, LA",2.6,2.8,12,31.2864,-92.4554,https://findrehabmap.com/louisiana/rapides-parish/
+22109,Louisiana,Terrebonne Parish,103864,64819,6,5.8,1,1,4,5,0.4,2.9,"Houma, LA",1.8,"Houma, LA",0.4,2.9,9,29.5963,-90.7256,https://findrehabmap.com/louisiana/terrebonne-parish/
+22057,Louisiana,Lafourche Parish,95342,63439,3,3.1,1,0,2,3,4.0,4.2,"Raceland, LA",9.4,"Houma, LA",4.0,4.2,9,29.6903,-90.634,https://findrehabmap.com/louisiana/lafourche-parish/
+22097,Louisiana,St. Landry Parish,80869,45637,2,2.5,0,0,1,2,2.3,20.5,"Lafayette, LA",19.4,"Breaux Bridge, LA",2.3,8.9,17,30.5101,-92.1127,https://findrehabmap.com/louisiana/st-landry-parish/
+22045,Louisiana,Iberia Parish,67540,57811,3,4.4,1,0,1,2,0.3,0.3,"New Iberia, LA",21.5,"Breaux Bridge, LA",0.3,0.3,15,29.9942,-91.8096,https://findrehabmap.com/louisiana/iberia-parish/
+22113,Louisiana,Vermilion Parish,57641,57537,2,3.5,1,0,1,2,3.2,3.2,"Abbeville, LA",25.7,"Breaux Bridge, LA",3.2,3.2,17,29.9987,-92.1618,https://findrehabmap.com/louisiana/vermilion-parish/
+22001,Louisiana,Acadia Parish,56604,45266,2,3.5,0,0,1,2,3.9,20.0,"Lafayette, LA",26.8,"Breaux Bridge, LA",6.0,15.1,19,30.2816,-92.351,https://findrehabmap.com/louisiana/acadia-parish/
+22099,Louisiana,St. Martin Parish,51218,53394,1,2.0,0,1,1,1,5.9,10.6,"Lafayette, LA",5.9,"Breaux Bridge, LA",5.9,11.0,17,30.2311,-91.8374,https://findrehabmap.com/louisiana/st-martin-parish/
+22089,Louisiana,St. Charles Parish,50400,82172,0,0.0,0,0,0,0,9.1,11.8,"Metairie, LA",11.6,"La Place, LA",9.1,11.8,44,29.9383,-90.3762,https://findrehabmap.com/louisiana/st-charles-parish/
+22061,Louisiana,Lincoln Parish,48243,38035,3,6.2,2,0,1,1,2.2,3.1,"Ruston, LA",29.8,"West Monroe, LA",7.9,7.9,4,32.5496,-92.645,https://findrehabmap.com/louisiana/lincoln-parish/
+22101,Louisiana,St. Mary Parish,46799,51768,4,8.5,0,2,4,4,5.9,33.0,"New Iberia, LA",5.9,"Morgan City, LA",5.9,5.9,4,29.738,-91.339,https://findrehabmap.com/louisiana/st-mary-parish/
+22115,Louisiana,Vernon Parish,45819,58281,2,4.4,0,0,1,1,3.8,46.3,"Alexandria, LA",48.3,"Alexandria, LA",4.1,17.9,5,31.0946,-93.2471,https://findrehabmap.com/louisiana/vernon-parish/
+22117,Louisiana,Washington Parish,45090,42776,4,8.9,1,0,2,3,8.7,9.1,"Bogalusa, LA",32.7,"Mandeville, LA",9.1,9.1,7,30.8396,-90.0041,https://findrehabmap.com/louisiana/washington-parish/
+22087,Louisiana,St. Bernard Parish,44783,57638,1,2.2,0,0,1,1,3.8,3.8,"New Orleans, LA",6.6,"Gretna, LA",3.8,3.8,37,29.9306,-89.9372,https://findrehabmap.com/louisiana/st-bernard-parish/
+22095,Louisiana,St. John the Baptist Parish,39694,67418,5,12.6,1,1,2,3,0.3,0.3,"Laplace, LA",2.0,"La Place, LA",0.6,0.3,15,30.0722,-90.5112,https://findrehabmap.com/louisiana/st-john-the-baptist-parish/
+22009,Louisiana,Avoyelles Parish,38373,39439,3,7.8,1,0,1,3,4.1,9.8,"Bunkie, LA",30.2,"Alexandria, LA",4.1,4.7,4,31.0573,-92.0675,https://findrehabmap.com/louisiana/avoyelles-parish/
+22011,Louisiana,Beauregard Parish,36695,64995,3,8.2,0,0,1,3,8.4,35.7,"Lake Charles, LA",35.4,"Lake Charles, LA",8.7,8.4,3,30.7235,-93.2825,https://findrehabmap.com/louisiana/beauregard-parish/
+22069,Louisiana,Natchitoches Parish,35982,46798,1,2.8,0,0,0,0,1.1,45.9,"Pineville, LA",47.5,"Alexandria, LA",42.9,32.1,2,31.7571,-93.0974,https://findrehabmap.com/louisiana/natchitoches-parish/
+22119,Louisiana,Webster Parish,35184,37396,3,8.5,0,0,2,2,6.6,26.2,"Shreveport, LA",21.9,"Bossier City, LA",6.6,22.4,6,32.699,-93.3381,https://findrehabmap.com/louisiana/webster-parish/
+22039,Louisiana,Evangeline Parish,31745,42273,3,9.5,0,0,2,3,4.7,21.1,"Bunkie, LA",38.6,"Breaux Bridge, LA",4.7,4.7,8,30.6903,-92.3616,https://findrehabmap.com/louisiana/evangeline-parish/
+22053,Louisiana,Jefferson Davis Parish,31436,56500,3,9.5,0,0,1,3,5.5,27.3,"Lake Charles, LA",24.7,"Lake Charles, LA",5.6,12.1,6,30.2411,-92.7462,https://findrehabmap.com/louisiana/jefferson-davis-parish/
+22047,Louisiana,Iberville Parish,29766,57459,2,6.7,0,0,0,1,1.0,10.1,"Baton Rouge, LA",12.8,"Baton Rouge, LA",11.5,11.9,37,30.271,-91.232,https://findrehabmap.com/louisiana/iberville-parish/
+22121,Louisiana,West Baton Rouge Parish,28425,87320,1,3.5,0,0,0,1,3.8,7.3,"Baton Rouge, LA",11.4,"Baton Rouge, LA",7.3,5.4,41,30.4368,-91.2666,https://findrehabmap.com/louisiana/west-baton-rouge-parish/
+22031,Louisiana,De Soto Parish,27274,46077,2,7.3,0,0,0,1,7.3,22.7,"Shreveport, LA",23.5,"Shreveport, LA",22.7,22.7,7,32.1213,-93.7783,https://findrehabmap.com/louisiana/de-soto-parish/
+22067,Louisiana,Morehouse Parish,23787,36981,0,0.0,0,0,0,0,17.4,17.4,"Monroe, LA",22.7,"Rayville, LA",17.4,17.4,13,32.7859,-91.8883,https://findrehabmap.com/louisiana/morehouse-parish/
+22003,Louisiana,Allen Parish,22501,51138,2,8.9,0,0,1,1,3.9,40.7,"Bunkie, LA",38.3,"Lake Charles, LA",12.9,21.6,3,30.6694,-92.7795,https://findrehabmap.com/louisiana/allen-parish/
+22075,Louisiana,Plaquemines Parish,22289,82874,0,0.0,0,0,0,0,12.0,13.9,"New Orleans, LA",15.0,"Gretna, LA",13.5,13.9,31,29.7259,-89.9033,https://findrehabmap.com/louisiana/plaquemines-parish/
+22043,Louisiana,Grant Parish,22109,61112,0,0.0,0,0,0,0,10.8,10.8,"Pineville, LA",14.9,"Alexandria, LA",10.8,10.8,12,31.5302,-92.5381,https://findrehabmap.com/louisiana/grant-parish/
+22085,Louisiana,Sabine Parish,21746,52047,0,0.0,0,0,0,0,31.0,62.2,"Shreveport, LA",62.9,"Shreveport, LA",34.4,53.0,0,31.5781,-93.5645,https://findrehabmap.com/louisiana/sabine-parish/
+22111,Louisiana,Union Parish,20617,45743,1,4.9,0,0,0,0,0.4,19.8,"Choudrant, LA",25.3,"West Monroe, LA",19.8,19.8,9,32.7888,-92.3985,https://findrehabmap.com/louisiana/union-parish/
+22007,Louisiana,Assumption Parish,20050,52546,0,0.0,0,0,0,0,13.2,21.0,"Sorrento, LA",20.0,"Morgan City, LA",13.2,16.8,9,29.9215,-91.0658,https://findrehabmap.com/louisiana/assumption-parish/
+22077,Louisiana,Pointe Coupee Parish,19845,59351,3,15.1,1,0,0,1,2.2,2.2,"New Roads, LA",30.6,"Baton Rouge, LA",22.5,13.6,10,30.6648,-91.4947,https://findrehabmap.com/louisiana/pointe-coupee-parish/
+22083,Louisiana,Richland Parish,19643,52960,3,15.3,1,1,3,2,3.3,8.6,"Rayville, LA",3.3,"Rayville, LA",3.3,8.6,16,32.4402,-91.7187,https://findrehabmap.com/louisiana/richland-parish/
+22037,Louisiana,East Feliciana Parish,19112,72899,2,10.5,1,0,1,2,4.7,4.7,"Ethel, LA",28.9,"Baton Rouge, LA",4.7,4.7,13,30.8205,-91.0906,https://findrehabmap.com/louisiana/east-feliciana-parish/
+22093,Louisiana,St. James Parish,19110,64536,0,0.0,0,0,0,0,13.5,13.5,"Sorrento, LA",16.0,"La Place, LA",13.5,13.5,12,30.0208,-90.7366,https://findrehabmap.com/louisiana/st-james-parish/
+22041,Louisiana,Franklin Parish,19107,44103,1,5.2,0,1,1,0,1.6,23.6,"Rayville, LA",1.6,"Winnsboro, LA",1.6,23.6,5,32.1477,-91.6957,https://findrehabmap.com/louisiana/franklin-parish/
+22029,Louisiana,Concordia Parish,17797,37349,0,0.0,0,0,0,0,29.2,36.6,"Jena, LA",40.8,"Winnsboro, LA",36.6,36.6,0,31.5922,-91.5463,https://findrehabmap.com/louisiana/concordia-parish/
+22125,Louisiana,West Feliciana Parish,15155,74277,1,6.6,0,0,0,1,8.4,14.0,"New Roads, LA",39.9,"Baton Rouge, LA",21.5,16.9,6,30.8883,-91.4426,https://findrehabmap.com/louisiana/west-feliciana-parish/
+22049,Louisiana,Jackson Parish,14797,43345,0,0.0,0,0,0,0,16.3,17.7,"Ruston, LA",32.9,"West Monroe, LA",18.0,18.0,3,32.2832,-92.6431,https://findrehabmap.com/louisiana/jackson-parish/
+22059,Louisiana,LaSalle Parish,14702,67077,2,13.6,2,0,1,1,2.3,2.3,"Jena, LA",33.2,"Alexandria, LA",2.3,2.3,3,31.726,-92.1695,https://findrehabmap.com/louisiana/lasalle-parish/
+22027,Louisiana,Claiborne Parish,13537,31784,0,0.0,0,0,0,0,19.5,32.4,"Ruston, LA",41.6,"Bossier City, LA",19.5,27.0,2,32.8264,-93.0332,https://findrehabmap.com/louisiana/claiborne-parish/
+22127,Louisiana,Winn Parish,13405,46368,1,7.5,0,0,0,1,8.3,34.6,"Jena, LA",43.8,"Alexandria, LA",34.7,8.3,1,31.9306,-92.6779,https://findrehabmap.com/louisiana/winn-parish/
+22013,Louisiana,Bienville Parish,12412,34992,0,0.0,0,0,0,0,19.7,30.1,"Ruston, LA",35.5,"Bossier City, LA",19.7,34.2,2,32.3843,-93.079,https://findrehabmap.com/louisiana/bienville-parish/
+22091,Louisiana,St. Helena Parish,10857,50193,0,0.0,0,0,0,0,21.9,21.9,"Denham Springs, LA",24.5,"Hammond, LA",24.3,25.1,4,30.7867,-90.6935,https://findrehabmap.com/louisiana/st-helena-parish/
+22021,Louisiana,Caldwell Parish,9393,44957,1,10.6,0,0,0,1,3.4,26.4,"Jena, LA",23.7,"Winnsboro, LA",23.7,26.1,2,32.073,-92.1046,https://findrehabmap.com/louisiana/caldwell-parish/
+22123,Louisiana,West Carroll Parish,9254,48514,2,21.6,1,1,2,1,3.3,3.8,"Oak Grove, LA",3.3,"Oak Grove, LA",3.3,34.8,2,32.827,-91.4274,https://findrehabmap.com/louisiana/west-carroll-parish/
+22065,Louisiana,Madison Parish,9093,37267,4,44.0,0,0,0,1,0.9,20.2,"Vicksburg, MS",33.0,"Rayville, LA",17.6,20.2,6,32.3977,-91.1978,https://findrehabmap.com/louisiana/madison-parish/
+22025,Louisiana,Catahoula Parish,8280,47753,0,0.0,0,0,0,0,19.8,19.8,"Jena, LA",33.1,"Winnsboro, LA",19.8,19.8,2,31.695,-91.82,https://findrehabmap.com/louisiana/catahoula-parish/
+22081,Louisiana,Red River Parish,7238,44539,1,13.8,0,0,0,0,3.3,38.0,"Shreveport, LA",38.0,"Shreveport, LA",38.0,38.3,4,32.0548,-93.3052,https://findrehabmap.com/louisiana/red-river-parish/
+22035,Louisiana,East Carroll Parish,6892,28321,0,0.0,0,0,0,0,13.6,13.6,"Oak Grove, LA",13.6,"Oak Grove, LA",13.6,35.8,6,32.7618,-91.1846,https://findrehabmap.com/louisiana/east-carroll-parish/
+22023,Louisiana,Cameron Parish,4678,72500,0,0.0,0,0,0,0,15.1,17.1,"Lake Charles, LA",15.1,"Lake Charles, LA",15.1,15.2,10,29.9571,-93.2109,https://findrehabmap.com/louisiana/cameron-parish/
+22107,Louisiana,Tensas Parish,3844,36074,0,0.0,0,0,0,0,22.3,35.5,"Vicksburg, MS",28.1,"Winnsboro, LA",28.1,35.5,2,31.9606,-91.299,https://findrehabmap.com/louisiana/tensas-parish/

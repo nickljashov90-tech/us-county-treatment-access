@@ -1,0 +1,67 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+46099,South Dakota,Minnehaha County,208639,76074,17,8.1,0,1,2,12,1.0,19.1,"Canton, SD",1.6,"Sioux Falls, SD",1.6,1.0,20,43.5583,-96.7315,https://findrehabmap.com/south-dakota/minnehaha-county/
+46103,South Dakota,Pennington County,115979,70768,13,11.2,1,0,3,12,0.6,0.6,"Rapid City, SD",145.0,"Pierre, SD",0.6,0.6,13,44.0649,-103.2109,https://findrehabmap.com/south-dakota/pennington-county/
+46083,South Dakota,Lincoln County,75244,96552,3,4.0,1,0,1,2,3.4,12.6,"Canton, SD",7.5,"Sioux Falls, SD",4.6,3.4,20,43.4411,-96.7445,https://findrehabmap.com/south-dakota/lincoln-county/
+46013,South Dakota,Brown County,37495,70239,1,2.7,0,0,0,1,1.6,110.9,"Howard, SD",118.3,"Pierre, SD",77.8,1.6,1,45.4754,-98.4517,https://findrehabmap.com/south-dakota/brown-county/
+46011,South Dakota,Brookings County,36359,67341,0,0.0,0,0,0,0,20.4,26.7,"Madison, SD",52.6,"Sioux Falls, SD",20.6,26.7,2,44.3109,-96.7859,https://findrehabmap.com/south-dakota/brookings-county/
+46093,South Dakota,Meade County,30918,74161,2,6.5,0,0,1,2,12.7,16.0,"Rapid City, SD",146.6,"Pierre, SD",12.7,13.1,14,44.2814,-103.2801,https://findrehabmap.com/south-dakota/meade-county/
+46029,South Dakota,Codington County,29278,65080,1,3.4,0,0,0,1,1.8,62.8,"Madison, SD",96.0,"Sioux Falls, SD",62.6,62.8,1,44.9141,-97.1299,https://findrehabmap.com/south-dakota/codington-county/
+46081,South Dakota,Lawrence County,28809,66766,2,6.9,0,0,0,2,2.2,40.3,"Rapid City, SD",172.2,"Pierre, SD",16.8,2.2,5,44.4534,-103.8059,https://findrehabmap.com/south-dakota/lawrence-county/
+46135,South Dakota,Yankton County,23509,73855,2,8.5,1,0,1,2,1.0,2.1,"Yankton, SD",55.1,"Sioux Falls, SD",2.1,1.0,2,42.9013,-97.3969,https://findrehabmap.com/south-dakota/yankton-county/
+46035,South Dakota,Davison County,19907,61401,2,10.0,0,0,0,1,0.6,33.1,"Howard, SD",64.9,"Sioux Falls, SD",33.1,0.6,2,43.7064,-98.0404,https://findrehabmap.com/south-dakota/davison-county/
+46005,South Dakota,Beadle County,19459,63082,3,15.4,0,0,1,3,0.8,42.6,"Howard, SD",92.3,"Sioux Falls, SD",0.8,4.4,3,44.3673,-98.2277,https://findrehabmap.com/south-dakota/beadle-county/
+46065,South Dakota,Hughes County,17526,78981,1,5.7,0,1,1,1,0.6,140.0,"Howard, SD",0.6,"Pierre, SD",0.6,84.0,1,44.3828,-100.3053,https://findrehabmap.com/south-dakota/hughes-county/
+46127,South Dakota,Union County,17402,84137,0,0.0,0,0,0,0,14.2,14.5,"Sioux City, IA",60.6,"Sioux Falls, SD",14.5,14.5,15,42.681,-96.5922,https://findrehabmap.com/south-dakota/union-county/
+46027,South Dakota,Clay County,15245,58794,0,0.0,0,0,0,0,23.7,23.7,"Yankton, SD",51.9,"Sioux Falls, SD",23.7,23.7,2,42.809,-96.9368,https://findrehabmap.com/south-dakota/clay-county/
+46102,South Dakota,Oglala Lakota County,13360,34769,0,0.0,0,0,0,0,52.5,70.5,"Rapid City, SD",136.2,"Pierre, SD",53.2,53.2,0,43.1834,-102.4796,https://findrehabmap.com/south-dakota/oglala-lakota-county/
+46079,South Dakota,Lake County,11006,73792,2,18.2,1,0,2,2,0.5,1.1,"Madison, SD",35.4,"Sioux Falls, SD",0.5,1.1,5,44.0015,-97.095,https://findrehabmap.com/south-dakota/lake-county/
+46019,South Dakota,Butte County,10891,67692,1,9.2,0,0,0,1,13.0,50.6,"Rapid City, SD",171.0,"Pierre, SD",23.0,13.0,5,44.6697,-103.7663,https://findrehabmap.com/south-dakota/butte-county/
+46109,South Dakota,Roberts County,10283,63691,0,0.0,0,0,0,0,48.3,76.7,"Montevideo, MN",86.9,"Fargo, ND",62.3,62.3,0,45.6112,-96.9591,https://findrehabmap.com/south-dakota/roberts-county/
+46023,South Dakota,Charles Mix County,9343,64850,0,0.0,0,0,0,0,38.5,49.1,"O'Neill, NE",92.5,"Sioux Falls, SD",38.5,44.1,0,43.1753,-98.5278,https://findrehabmap.com/south-dakota/charles-mix-county/
+46033,South Dakota,Custer County,9330,81958,0,0.0,0,0,0,0,13.5,26.5,"Rapid City, SD",164.9,"Pierre, SD",21.1,13.5,5,43.7407,-103.5149,https://findrehabmap.com/south-dakota/custer-county/
+46121,South Dakota,Todd County,9172,39148,0,0.0,0,0,0,0,47.5,121.1,"O'Neill, NE",81.8,"Pierre, SD",81.8,121.1,0,43.2493,-100.7802,https://findrehabmap.com/south-dakota/todd-county/
+46125,South Dakota,Turner County,9087,75283,0,0.0,0,0,0,0,21.2,26.8,"Canton, SD",24.5,"Sioux Falls, SD",23.3,21.2,13,43.3044,-97.1128,https://findrehabmap.com/south-dakota/turner-county/
+46051,South Dakota,Grant County,7618,73818,0,0.0,0,0,0,0,30.9,50.4,"Montevideo, MN",114.6,"Sioux Falls, SD",49.4,67.9,0,45.2069,-96.6587,https://findrehabmap.com/south-dakota/grant-county/
+46067,South Dakota,Hutchinson County,7416,74459,0,0.0,0,0,0,0,28.9,36.7,"Yankton, SD",51.5,"Sioux Falls, SD",36.7,28.9,0,43.337,-97.7455,https://findrehabmap.com/south-dakota/hutchinson-county/
+46047,South Dakota,Fall River County,7359,61056,3,40.8,0,0,1,3,3.5,48.6,"Rapid City, SD",173.5,"Pierre, SD",3.8,3.8,3,43.3874,-103.5131,https://findrehabmap.com/south-dakota/fall-river-county/
+46009,South Dakota,Bon Homme County,7071,61275,0,0.0,0,0,0,0,17.2,24.3,"Yankton, SD",68.4,"Sioux Falls, SD",17.2,23.5,3,42.9661,-97.8599,https://findrehabmap.com/south-dakota/bon-homme-county/
+46057,South Dakota,Hamlin County,6596,83194,0,0.0,0,0,0,0,17.1,44.3,"Madison, SD",78.2,"Sioux Falls, SD",44.1,44.3,1,44.6462,-97.1482,https://findrehabmap.com/south-dakota/hamlin-county/
+46101,South Dakota,Moody County,6529,77500,2,30.6,0,0,1,2,3.5,22.5,"Madison, SD",32.8,"Sioux Falls, SD",3.5,22.5,4,44.0184,-96.6634,https://findrehabmap.com/south-dakota/moody-county/
+46115,South Dakota,Spink County,6108,73011,0,0.0,0,0,0,0,38.6,75.6,"Howard, SD",100.2,"Pierre, SD",38.7,38.6,0,44.9047,-98.4129,https://findrehabmap.com/south-dakota/spink-county/
+46087,South Dakota,McCook County,5771,80847,0,0.0,0,0,0,0,25.5,25.7,"Howard, SD",30.4,"Sioux Falls, SD",25.7,25.7,0,43.6615,-97.3483,https://findrehabmap.com/south-dakota/mccook-county/
+46123,South Dakota,Tripp County,5717,58854,1,17.5,0,0,0,0,1.4,86.2,"O'Neill, NE",75.3,"Pierre, SD",53.4,86.2,1,43.3502,-99.847,https://findrehabmap.com/south-dakota/tripp-county/
+46037,South Dakota,Day County,5408,62270,0,0.0,0,0,0,0,38.5,93.6,"Montevideo, MN",108.6,"Fargo, ND",77.4,46.9,0,45.3691,-97.5192,https://findrehabmap.com/south-dakota/day-county/
+46041,South Dakota,Dewey County,5322,57928,0,0.0,0,0,0,0,44.3,117.8,"Bismarck, ND",63.8,"Pierre, SD",63.8,44.3,0,45.1166,-101.1101,https://findrehabmap.com/south-dakota/dewey-county/
+46129,South Dakota,Walworth County,5270,62722,0,0.0,0,0,0,0,10.3,91.9,"Bismarck, ND",78.3,"Pierre, SD",78.3,10.3,1,45.5185,-100.3118,https://findrehabmap.com/south-dakota/walworth-county/
+46077,South Dakota,Kingsbury County,5261,70221,0,0.0,0,0,0,0,26.0,26.0,"Howard, SD",65.6,"Sioux Falls, SD",26.0,26.0,0,44.3771,-97.4088,https://findrehabmap.com/south-dakota/kingsbury-county/
+46015,South Dakota,Brule County,5261,74043,0,0.0,0,0,0,0,24.3,84.6,"Howard, SD",70.5,"Pierre, SD",24.3,58.2,1,43.7627,-99.1914,https://findrehabmap.com/south-dakota/brule-county/
+46091,South Dakota,Marshall County,4395,72500,0,0.0,0,0,0,0,45.8,82.0,"Fargo, ND",85.6,"Fargo, ND",81.5,45.8,0,45.7579,-97.6289,https://findrehabmap.com/south-dakota/marshall-county/
+46039,South Dakota,Deuel County,4335,79556,0,0.0,0,0,0,0,24.4,49.7,"Montevideo, MN",82.3,"Sioux Falls, SD",48.1,47.9,1,44.7387,-96.6609,https://findrehabmap.com/south-dakota/deuel-county/
+46053,South Dakota,Gregory County,4110,52432,0,0.0,0,0,0,0,31.5,59.0,"O'Neill, NE",97.9,"Pierre, SD",59.0,59.0,0,43.1835,-99.2796,https://findrehabmap.com/south-dakota/gregory-county/
+46045,South Dakota,Edmunds County,4027,77266,0,0.0,0,0,0,0,32.5,122.1,"Bismarck, ND",93.3,"Pierre, SD",88.2,32.5,0,45.4534,-99.1487,https://findrehabmap.com/south-dakota/edmunds-county/
+46025,South Dakota,Clark County,3974,62885,0,0.0,0,0,0,0,29.7,57.0,"Howard, SD",99.9,"Sioux Falls, SD",40.5,39.7,0,44.8256,-97.7092,https://findrehabmap.com/south-dakota/clark-county/
+46031,South Dakota,Corson County,3747,43750,1,26.7,0,0,0,1,23.1,72.7,"Bismarck, ND",72.7,"Bismarck, ND",72.7,23.1,1,45.7581,-100.9124,https://findrehabmap.com/south-dakota/corson-county/
+46085,South Dakota,Lyman County,3721,61169,0,0.0,0,0,0,0,15.8,108.9,"Howard, SD",42.1,"Pierre, SD",15.8,82.4,1,43.9537,-99.717,https://findrehabmap.com/south-dakota/lyman-county/
+46061,South Dakota,Hanson County,3477,86375,0,0.0,0,0,0,0,13.3,27.4,"Howard, SD",51.1,"Sioux Falls, SD",27.4,13.3,2,43.6561,-97.7717,https://findrehabmap.com/south-dakota/hanson-county/
+46007,South Dakota,Bennett County,3289,44569,0,0.0,0,0,0,0,85.9,92.1,"Rapid City, SD",109.4,"Pierre, SD",86.5,86.5,0,43.2106,-101.7859,https://findrehabmap.com/south-dakota/bennett-county/
+46059,South Dakota,Hand County,3097,72054,0,0.0,0,0,0,0,38.7,80.7,"Howard, SD",66.1,"Pierre, SD",38.7,43.7,0,44.5255,-98.9916,https://findrehabmap.com/south-dakota/hand-county/
+46117,South Dakota,Stanley County,3015,77000,0,0.0,0,0,0,0,6.6,138.5,"Rapid City, SD",6.6,"Pierre, SD",6.6,84.3,1,44.3722,-100.4481,https://findrehabmap.com/south-dakota/stanley-county/
+46043,South Dakota,Douglas County,2849,78125,0,0.0,0,0,0,0,28.1,60.2,"Yankton, SD",81.6,"Sioux Falls, SD",46.5,28.1,0,43.3776,-98.3697,https://findrehabmap.com/south-dakota/douglas-county/
+46105,South Dakota,Perkins County,2832,65455,0,0.0,0,0,0,0,83.4,105.6,"Bismarck, ND",105.6,"Bismarck, ND",83.4,89.0,0,45.7096,-102.331,https://findrehabmap.com/south-dakota/perkins-county/
+46003,South Dakota,Aurora County,2752,74130,0,0.0,0,0,0,0,25.0,54.5,"Howard, SD",89.1,"Sioux Falls, SD",48.8,25.0,2,43.6937,-98.5297,https://findrehabmap.com/south-dakota/aurora-county/
+46071,South Dakota,Jackson County,2737,26686,0,0.0,0,0,0,0,81.9,81.9,"Rapid City, SD",84.1,"Pierre, SD",81.9,81.9,0,43.6497,-101.6651,https://findrehabmap.com/south-dakota/jackson-county/
+46137,South Dakota,Ziebach County,2418,47333,0,0.0,0,0,0,0,67.9,102.5,"Rapid City, SD",70.5,"Pierre, SD",70.5,67.9,0,44.9298,-101.5302,https://findrehabmap.com/south-dakota/ziebach-county/
+46107,South Dakota,Potter County,2402,71726,0,0.0,0,0,0,0,44.7,126.5,"Bismarck, ND",50.6,"Pierre, SD",50.6,44.7,0,45.0704,-99.9519,https://findrehabmap.com/south-dakota/potter-county/
+46111,South Dakota,Sanborn County,2392,69870,0,0.0,0,0,0,0,21.8,30.7,"Howard, SD",75.9,"Sioux Falls, SD",24.9,21.8,5,44.0056,-98.1451,https://findrehabmap.com/south-dakota/sanborn-county/
+46089,South Dakota,McPherson County,2307,62024,0,0.0,0,0,0,0,42.6,103.1,"Bismarck, ND",103.1,"Bismarck, ND",83.0,42.6,0,45.7662,-99.2431,https://findrehabmap.com/south-dakota/mcpherson-county/
+46097,South Dakota,Miner County,2303,72589,2,86.8,1,0,1,2,1.2,1.2,"Howard, SD",50.8,"Sioux Falls, SD",1.2,1.2,4,44.0113,-97.5515,https://findrehabmap.com/south-dakota/miner-county/
+46049,South Dakota,Faulk County,2136,58000,0,0.0,0,0,0,0,41.0,106.1,"Howard, SD",75.8,"Pierre, SD",65.0,41.0,0,45.061,-99.0993,https://findrehabmap.com/south-dakota/faulk-county/
+46055,South Dakota,Haakon County,1834,59231,0,0.0,0,0,0,0,64.5,81.4,"Rapid City, SD",64.5,"Pierre, SD",64.5,81.0,0,44.1333,-101.5727,https://findrehabmap.com/south-dakota/haakon-county/
+46095,South Dakota,Mellette County,1834,51364,0,0.0,0,0,0,0,49.7,124.7,"Rapid City, SD",62.8,"Pierre, SD",62.8,124.7,0,43.5494,-100.8092,https://findrehabmap.com/south-dakota/mellette-county/
+46017,South Dakota,Buffalo County,1825,47000,1,54.8,0,0,1,1,3.4,91.6,"Howard, SD",52.0,"Pierre, SD",3.4,63.8,1,44.0591,-99.371,https://findrehabmap.com/south-dakota/buffalo-county/
+46073,South Dakota,Jerauld County,1689,75417,0,0.0,0,0,0,0,24.7,50.5,"Howard, SD",90.4,"Pierre, SD",24.7,26.1,2,44.091,-98.538,https://findrehabmap.com/south-dakota/jerauld-county/
+46119,South Dakota,Sully County,1468,70250,0,0.0,0,0,0,0,23.7,137.5,"Howard, SD",23.7,"Pierre, SD",23.7,63.8,1,44.7031,-100.1359,https://findrehabmap.com/south-dakota/sully-county/
+46021,South Dakota,Campbell County,1342,65000,0,0.0,0,0,0,0,24.0,76.9,"Bismarck, ND",76.9,"Bismarck, ND",76.9,24.0,1,45.8013,-100.1006,https://findrehabmap.com/south-dakota/campbell-county/
+46063,South Dakota,Harding County,1325,74766,0,0.0,0,0,0,0,65.5,108.2,"Rapid City, SD",154.7,"Bismarck, ND",82.5,65.5,0,45.6059,-103.5203,https://findrehabmap.com/south-dakota/harding-county/
+46069,South Dakota,Hyde County,1215,74279,0,0.0,0,0,0,0,31.4,101.7,"Howard, SD",43.5,"Pierre, SD",31.4,65.8,0,44.5197,-99.4553,https://findrehabmap.com/south-dakota/hyde-county/
+46075,South Dakota,Jones County,874,64688,0,0.0,0,0,0,0,38.7,125.5,"Rapid City, SD",38.7,"Pierre, SD",38.7,117.6,0,43.8953,-100.6951,https://findrehabmap.com/south-dakota/jones-county/

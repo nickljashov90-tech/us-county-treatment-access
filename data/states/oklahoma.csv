@@ -1,0 +1,78 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+40109,Oklahoma,Oklahoma County,816490,65374,35,4.3,4,6,12,24,0.8,2.4,"Oklahoma City, OK",3.1,"Oklahoma City, OK",0.9,2.1,47,35.5255,-97.5124,https://findrehabmap.com/oklahoma/oklahoma-county/
+40143,Oklahoma,Tulsa County,693514,67317,24,3.5,5,5,8,18,0.4,0.9,"Tulsa, OK",0.9,"Tulsa, OK",0.9,1.0,27,36.1027,-95.9115,https://findrehabmap.com/oklahoma/tulsa-county/
+40027,Oklahoma,Cleveland County,303952,74446,7,2.3,0,0,1,6,2.8,15.5,"Oklahoma City, OK",9.1,"Oklahoma City, OK",4.7,3.4,42,35.2693,-97.4504,https://findrehabmap.com/oklahoma/cleveland-county/
+40017,Oklahoma,Canadian County,181760,85427,3,1.7,0,0,1,3,0.2,8.8,"Oklahoma City, OK",9.5,"Oklahoma, OK",5.9,5.8,39,35.4934,-97.7662,https://findrehabmap.com/oklahoma/canadian-county/
+40031,Oklahoma,Comanche County,121396,59000,4,3.3,0,1,1,3,1.8,50.2,"Wichita Falls, TX",2.8,"Lawton, OK",3.2,1.8,4,34.633,-98.4194,https://findrehabmap.com/oklahoma/comanche-county/
+40131,Oklahoma,Rogers County,101371,77688,1,1.0,0,0,1,1,7.8,19.8,"Tulsa, OK",19.5,"Tulsa, OK",7.8,18.1,23,36.3153,-95.6506,https://findrehabmap.com/oklahoma/rogers-county/
+40145,Oklahoma,Wagoner County,91257,78520,3,3.3,0,0,1,3,4.6,16.8,"Tulsa, OK",13.3,"Tulsa, OK",13.3,13.7,30,36.016,-95.6276,https://findrehabmap.com/oklahoma/wagoner-county/
+40119,Oklahoma,Payne County,84199,48937,4,4.8,1,0,3,3,3.3,16.6,"Cushing, OK",45.9,"Ponca City, OK",4.3,16.6,5,36.0913,-97.007,https://findrehabmap.com/oklahoma/payne-county/
+40125,Oklahoma,Pottawatomie County,74446,60828,6,8.1,0,0,1,6,2.7,34.8,"Oklahoma City, OK",30.4,"Oklahoma City, OK",13.8,17.2,9,35.3214,-96.9529,https://findrehabmap.com/oklahoma/pottawatomie-county/
+40037,Oklahoma,Creek County,73971,61849,2,2.7,1,0,1,2,6.5,6.5,"Sapulpa, OK",20.0,"Tulsa, OK",6.5,11.1,26,35.9754,-96.226,https://findrehabmap.com/oklahoma/creek-county/
+40101,Oklahoma,Muskogee County,66752,51999,7,10.5,1,0,2,5,3.0,4.5,"Muskogee, OK",25.2,"Tahlequah, OK",3.0,4.5,14,35.7118,-95.3666,https://findrehabmap.com/oklahoma/muskogee-county/
+40047,Oklahoma,Garfield County,62007,67302,5,8.1,0,0,1,4,0.5,58.5,"Oklahoma City, OK",51.3,"Ponca City, OK",0.5,0.8,5,36.3985,-97.8855,https://findrehabmap.com/oklahoma/garfield-county/
+40051,Oklahoma,Grady County,58353,75730,1,1.7,0,0,1,1,6.7,29.7,"Oklahoma City, OK",22.3,"Anadarko, OK",6.7,25.2,8,35.1124,-97.8504,https://findrehabmap.com/oklahoma/grady-county/
+40147,Oklahoma,Washington County,54060,61205,3,5.5,0,1,2,3,0.6,39.2,"Tulsa, OK",3.1,"Bartlesville, OK",3.1,29.5,6,36.7285,-95.9374,https://findrehabmap.com/oklahoma/washington-county/
+40083,Oklahoma,Logan County,53860,82735,1,1.9,0,0,0,1,4.0,15.9,"Oklahoma City, OK",17.5,"Oklahoma City, OK",12.5,12.5,29,35.8223,-97.4429,https://findrehabmap.com/oklahoma/logan-county/
+40013,Oklahoma,Bryan County,50305,54280,4,8.0,1,1,1,3,1.0,7.2,"Mead, OK",7.2,"Mead, OK",7.2,25.5,5,33.9807,-96.3861,https://findrehabmap.com/oklahoma/bryan-county/
+40079,Oklahoma,Le Flore County,49854,50027,3,6.0,0,0,0,3,1.1,25.5,"Fort Smith, AR",24.5,"Roland, OK",24.5,25.5,5,35.0652,-94.6391,https://findrehabmap.com/oklahoma/le-flore-county/
+40019,Oklahoma,Carter County,49135,58856,4,8.1,1,2,2,2,1.9,1.9,"Ardmore, OK",1.9,"Ardmore, OK",1.9,5.5,4,34.1895,-97.1975,https://findrehabmap.com/oklahoma/carter-county/
+40021,Oklahoma,Cherokee County,48729,53668,4,8.2,1,1,2,4,0.9,0.9,"Tahlequah, OK",0.9,"Tahlequah, OK",0.9,22.6,14,35.9023,-94.9956,https://findrehabmap.com/oklahoma/cherokee-county/
+40087,Oklahoma,McClain County,48434,84778,0,0.0,0,0,0,0,7.0,25.5,"Oklahoma City, OK",20.4,"Oklahoma City, OK",7.4,10.0,14,35.1063,-97.5276,https://findrehabmap.com/oklahoma/mcclain-county/
+40113,Oklahoma,Osage County,46495,60482,1,2.2,0,0,1,1,15.6,23.4,"Tulsa, OK",23.4,"Tulsa, OK",15.6,20.9,12,36.4152,-96.2286,https://findrehabmap.com/oklahoma/osage-county/
+40137,Oklahoma,Stephens County,44075,60236,2,4.5,0,0,0,1,1.3,50.2,"Ardmore, OK",26.8,"Lawton, OK",25.6,28.5,2,34.5185,-97.9466,https://findrehabmap.com/oklahoma/stephens-county/
+40071,Oklahoma,Kay County,43437,56673,4,9.2,0,1,3,4,3.0,35.3,"Winfield, KS",3.0,"Ponca City, OK",3.0,35.3,4,36.7443,-97.1252,https://findrehabmap.com/oklahoma/kay-county/
+40121,Oklahoma,Pittsburg County,43395,54787,9,20.7,7,1,2,2,2.3,14.1,"Canadian, OK",3.5,"McAlester, OK",2.3,2.3,11,34.9563,-95.7213,https://findrehabmap.com/oklahoma/pittsburg-county/
+40041,Oklahoma,Delaware County,41771,55114,6,14.4,0,0,3,6,2.5,34.7,"Springdale, AR",31.3,"Miami, OK",3.3,5.8,12,36.4685,-94.7933,https://findrehabmap.com/oklahoma/delaware-county/
+40135,Oklahoma,Sequoyah County,40555,49795,5,12.3,0,2,2,5,3.0,22.6,"Fort Smith, AR",3.0,"Sallisaw, OK",3.0,18.9,18,35.4662,-94.7297,https://findrehabmap.com/oklahoma/sequoyah-county/
+40097,Oklahoma,Mayes County,40144,57279,1,2.5,0,0,1,1,3.5,29.6,"Tahlequah, OK",29.6,"Tahlequah, OK",3.5,24.3,6,36.2922,-95.2432,https://findrehabmap.com/oklahoma/mayes-county/
+40123,Oklahoma,Pontotoc County,38310,62564,5,13.1,0,0,2,3,0.1,49.4,"Ardmore, OK",49.3,"Ardmore, OK",0.1,2.3,7,34.7742,-96.6732,https://findrehabmap.com/oklahoma/pontotoc-county/
+40111,Oklahoma,Okmulgee County,37084,53123,2,5.4,0,0,0,1,1.1,27.5,"Sapulpa, OK",32.9,"Tulsa, OK",27.5,32.7,2,35.6179,-95.9692,https://findrehabmap.com/oklahoma/okmulgee-county/
+40081,Oklahoma,Lincoln County,34972,59425,2,5.7,0,0,1,2,3.8,23.4,"Cushing, OK",36.5,"Oklahoma City, OK",16.5,23.4,8,35.6563,-96.8823,https://findrehabmap.com/oklahoma/lincoln-county/
+40089,Oklahoma,McCurtain County,30805,50175,3,9.7,0,0,1,3,7.5,58.2,"Texarkana, AR",59.6,"Texarkana, AR",8.4,15.9,3,33.9997,-94.8147,https://findrehabmap.com/oklahoma/mccurtain-county/
+40115,Oklahoma,Ottawa County,30404,48656,7,23.0,0,1,1,6,1.1,21.7,"Joplin, MO",4.3,"Miami, OK",4.3,2.6,23,36.8574,-94.8348,https://findrehabmap.com/oklahoma/ottawa-county/
+40039,Oklahoma,Custer County,28266,57562,2,7.1,0,0,1,2,7.7,68.7,"Oklahoma City, OK",46.2,"Anadarko, OK",9.6,34.9,2,35.5477,-98.8287,https://findrehabmap.com/oklahoma/custer-county/
+40015,Oklahoma,Caddo County,26337,52817,2,7.6,0,1,0,0,8.5,46.6,"Oklahoma City, OK",8.5,"Anadarko, OK",24.0,35.2,3,35.176,-98.3394,https://findrehabmap.com/oklahoma/caddo-county/
+40049,Oklahoma,Garvin County,26149,57127,1,3.8,0,0,0,1,3.9,38.8,"Ardmore, OK",38.7,"Ardmore, OK",34.1,31.8,1,34.7375,-97.2895,https://findrehabmap.com/oklahoma/garvin-county/
+40065,Oklahoma,Jackson County,24541,61497,1,4.1,0,0,0,1,1.3,34.2,"Quanah, TX",52.7,"Lawton, OK",28.9,50.9,1,34.6572,-99.3314,https://findrehabmap.com/oklahoma/jackson-county/
+40133,Oklahoma,Seminole County,23351,46191,2,8.6,0,0,0,2,4.1,55.0,"Cushing, OK",50.2,"Oklahoma City, OK",11.7,11.7,9,35.1862,-96.6312,https://findrehabmap.com/oklahoma/seminole-county/
+40009,Oklahoma,Beckham County,22248,52323,2,9.0,0,0,1,1,5.2,74.8,"Quanah, TX",74.1,"Anadarko, OK",5.2,6.0,2,35.3612,-99.511,https://findrehabmap.com/oklahoma/beckham-county/
+40139,Oklahoma,Texas County,20577,59275,1,4.9,0,0,1,1,1.9,83.6,"Pampa, TX",83.6,"Pampa, TX",1.9,104.4,1,36.7122,-101.4484,https://findrehabmap.com/oklahoma/texas-county/
+40153,Oklahoma,Woodward County,19991,65060,2,10.0,1,0,1,2,0.8,14.7,"Fort Supply, OK",91.4,"Pratt, KS",0.8,14.7,2,36.4237,-99.3836,https://findrehabmap.com/oklahoma/woodward-county/
+40001,Oklahoma,Adair County,19821,48028,2,10.1,0,0,1,2,4.6,20.1,"Tahlequah, OK",20.1,"Tahlequah, OK",4.6,29.3,11,35.8875,-94.6357,https://findrehabmap.com/oklahoma/adair-county/
+40091,Oklahoma,McIntosh County,19710,46203,4,20.3,0,0,0,4,5.3,17.0,"Canadian, OK",34.2,"McAlester, OK",27.8,17.0,13,35.3859,-95.5814,https://findrehabmap.com/oklahoma/mcintosh-county/
+40095,Oklahoma,Marshall County,16147,56495,0,0.0,0,0,0,0,13.8,13.8,"Mead, OK",13.8,"Mead, OK",13.8,22.9,5,34.0181,-96.7493,https://findrehabmap.com/oklahoma/marshall-county/
+40117,Oklahoma,Pawnee County,16111,57551,1,6.2,0,0,1,1,4.4,23.3,"Cushing, OK",33.7,"Tulsa, OK",4.4,23.3,3,36.2704,-96.5392,https://findrehabmap.com/oklahoma/pawnee-county/
+40073,Oklahoma,Kingfisher County,15820,70617,1,6.3,0,0,1,1,3.8,30.4,"Oklahoma City, OK",31.4,"Oklahoma City, OK",3.8,28.1,1,35.9139,-97.911,https://findrehabmap.com/oklahoma/kingfisher-county/
+40005,Oklahoma,Atoka County,14600,52034,1,6.8,0,0,0,1,4.2,32.8,"Mead, OK",32.8,"Mead, OK",32.8,43.6,1,34.33,-96.0975,https://findrehabmap.com/oklahoma/atoka-county/
+40035,Oklahoma,Craig County,14506,50182,2,13.8,0,0,1,2,2.8,43.2,"Joplin, MO",24.0,"Miami, OK",3.4,20.2,11,36.6792,-95.1546,https://findrehabmap.com/oklahoma/craig-county/
+40023,Oklahoma,Choctaw County,14174,45456,2,14.1,0,0,0,2,1.4,56.2,"Mead, OK",56.2,"Mead, OK",43.2,25.0,6,34.0191,-95.5283,https://findrehabmap.com/oklahoma/choctaw-county/
+40099,Oklahoma,Murray County,13754,61904,0,0.0,0,0,0,0,19.4,23.6,"Ardmore, OK",23.5,"Ardmore, OK",22.4,23.5,5,34.5071,-97.0277,https://findrehabmap.com/oklahoma/murray-county/
+40063,Oklahoma,Hughes County,13371,47923,2,15.0,0,0,1,2,4.3,40.3,"Canadian, OK",34.9,"McAlester, OK",4.3,26.9,4,35.0792,-96.3262,https://findrehabmap.com/oklahoma/hughes-county/
+40061,Oklahoma,Haskell County,11811,49930,2,16.9,0,0,0,2,1.6,28.6,"Canadian, OK",25.0,"Sallisaw, OK",25.0,28.6,8,35.239,-95.1248,https://findrehabmap.com/oklahoma/haskell-county/
+40107,Oklahoma,Okfuskee County,11364,45441,0,0.0,0,0,0,0,24.3,39.9,"Sapulpa, OK",50.2,"McAlester, OK",25.7,36.0,3,35.4511,-96.338,https://findrehabmap.com/oklahoma/okfuskee-county/
+40103,Oklahoma,Noble County,10896,70071,1,9.2,0,0,1,1,4.4,36.3,"Cushing, OK",31.0,"Ponca City, OK",4.4,35.8,4,36.3241,-97.2331,https://findrehabmap.com/oklahoma/noble-county/
+40149,Oklahoma,Washita County,10839,61980,0,0.0,0,0,0,0,20.0,80.5,"Quanah, TX",48.5,"Anadarko, OK",20.0,22.0,4,35.3143,-99.0535,https://findrehabmap.com/oklahoma/washita-county/
+40127,Oklahoma,Pushmataha County,10800,44634,1,9.3,0,0,0,1,10.3,56.8,"Canadian, OK",42.9,"McAlester, OK",42.9,31.5,3,34.3278,-95.482,https://findrehabmap.com/oklahoma/pushmataha-county/
+40085,Oklahoma,Love County,10423,62940,0,0.0,0,0,0,0,17.7,18.2,"Ardmore, OK",18.2,"Ardmore, OK",18.2,17.7,5,33.9227,-97.1701,https://findrehabmap.com/oklahoma/love-county/
+40069,Oklahoma,Johnston County,10293,50911,0,0.0,0,0,0,0,19.9,19.9,"Mead, OK",19.9,"Mead, OK",19.9,26.6,4,34.2623,-96.6501,https://findrehabmap.com/oklahoma/johnston-county/
+40105,Oklahoma,Nowata County,9561,52679,2,20.9,0,0,1,2,4.9,45.9,"Tulsa, OK",19.4,"Bartlesville, OK",4.9,37.9,6,36.775,-95.6352,https://findrehabmap.com/oklahoma/nowata-county/
+40077,Oklahoma,Latimer County,9509,41048,2,21.0,0,0,0,1,4.5,27.3,"Canadian, OK",27.9,"McAlester, OK",27.9,12.3,2,34.882,-95.2552,https://findrehabmap.com/oklahoma/latimer-county/
+40151,Oklahoma,Woods County,8582,50512,2,23.3,0,0,1,2,3.5,49.7,"Fort Supply, OK",60.4,"Pratt, KS",3.5,49.7,2,36.7675,-98.7081,https://findrehabmap.com/oklahoma/woods-county/
+40011,Oklahoma,Blaine County,8573,59304,1,11.7,0,0,1,1,3.0,53.3,"Oklahoma City, OK",54.6,"Oklahoma City, OK",3.0,40.8,1,35.8852,-98.4282,https://findrehabmap.com/oklahoma/blaine-county/
+40075,Oklahoma,Kiowa County,8257,42063,1,12.1,0,0,1,1,7.5,56.4,"Vernon, TX",41.9,"Lawton, OK",7.5,40.1,1,34.9369,-99.018,https://findrehabmap.com/oklahoma/kiowa-county/
+40093,Oklahoma,Major County,7569,69229,1,13.2,0,0,1,1,2.9,66.2,"Fort Supply, OK",70.8,"Oklahoma City, OK",2.9,30.5,1,36.2989,-98.4324,https://findrehabmap.com/oklahoma/major-county/
+40141,Oklahoma,Tillman County,6736,47445,0,0.0,0,0,0,0,24.3,24.3,"Vernon, TX",35.2,"Lawton, OK",36.4,34.0,1,34.3825,-98.9711,https://findrehabmap.com/oklahoma/tillman-county/
+40003,Oklahoma,Alfalfa County,5712,67870,0,0.0,0,0,0,0,21.9,69.8,"Fort Supply, OK",69.3,"Ponca City, OK",21.9,30.8,2,36.6585,-98.3176,https://findrehabmap.com/oklahoma/alfalfa-county/
+40033,Oklahoma,Cotton County,5503,60313,0,0.0,0,0,0,0,19.8,29.4,"Wichita Falls, TX",19.9,"Lawton, OK",19.8,21.0,6,34.3126,-98.3315,https://findrehabmap.com/oklahoma/cotton-county/
+40055,Oklahoma,Greer County,5433,60183,0,0.0,0,0,0,0,20.2,45.4,"Quanah, TX",63.8,"Lawton, OK",22.5,34.6,2,34.912,-99.4642,https://findrehabmap.com/oklahoma/greer-county/
+40029,Oklahoma,Coal County,5414,48162,0,0.0,0,0,0,0,14.2,40.1,"Mead, OK",39.2,"McAlester, OK",25.8,25.8,1,34.548,-96.2782,https://findrehabmap.com/oklahoma/coal-county/
+40067,Oklahoma,Jefferson County,5374,48750,0,0.0,0,0,0,0,26.4,39.2,"Wichita Falls, TX",39.2,"Wichita Falls, TX",39.3,39.3,0,34.1321,-97.8717,https://findrehabmap.com/oklahoma/jefferson-county/
+40007,Oklahoma,Beaver County,5025,64266,0,0.0,0,0,0,0,22.3,61.6,"Fort Supply, OK",73.1,"Dodge City, KS",22.3,61.6,1,36.8294,-100.6382,https://findrehabmap.com/oklahoma/beaver-county/
+40043,Oklahoma,Dewey County,4268,60550,0,0.0,0,0,0,0,31.5,45.2,"Fort Supply, OK",82.1,"Anadarko, OK",31.5,45.2,0,36.0571,-99.0742,https://findrehabmap.com/oklahoma/dewey-county/
+40053,Oklahoma,Grant County,4123,61824,0,0.0,0,0,0,0,23.8,55.8,"Winfield, KS",39.1,"Ponca City, OK",25.3,25.9,1,36.7611,-97.7797,https://findrehabmap.com/oklahoma/grant-county/
+40045,Oklahoma,Ellis County,3601,56992,0,0.0,0,0,0,0,24.6,24.6,"Fort Supply, OK",81.8,"Pampa, TX",25.0,24.6,1,36.2625,-99.787,https://findrehabmap.com/oklahoma/ellis-county/
+40129,Oklahoma,Roger Mills County,3304,62721,0,0.0,0,0,0,0,19.4,65.5,"Fort Supply, OK",73.7,"Pampa, TX",19.4,19.9,2,35.6285,-99.6594,https://findrehabmap.com/oklahoma/roger-mills-county/
+40059,Oklahoma,Harper County,3209,59191,0,0.0,0,0,0,0,17.1,17.1,"Fort Supply, OK",69.1,"Dodge City, KS",30.9,17.1,1,36.7686,-99.7618,https://findrehabmap.com/oklahoma/harper-county/
+40057,Oklahoma,Harmon County,2315,54286,0,0.0,0,0,0,0,24.9,24.9,"Childress, TX",84.9,"Lawton, OK",51.1,56.3,1,34.6945,-99.8974,https://findrehabmap.com/oklahoma/harmon-county/
+40025,Oklahoma,Cimarron County,2133,57204,0,0.0,0,0,0,0,46.8,100.7,"Las Animas, CO",91.7,"Lamar, CO",56.7,100.7,0,36.7344,-102.496,https://findrehabmap.com/oklahoma/cimarron-county/

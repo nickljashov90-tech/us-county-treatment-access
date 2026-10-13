@@ -1,0 +1,16 @@
+fips,state,county,population_2024,median_household_income,facilities_in_county,facilities_per_100k,detox_in_county,methadone_otp_in_county,buprenorphine_in_county,medicaid_accepting_in_county,miles_to_nearest_any,miles_to_nearest_detox,nearest_detox_city,miles_to_nearest_methadone,nearest_methadone_city,miles_to_nearest_buprenorphine,miles_to_nearest_residential,facilities_within_25mi,pop_center_lat,pop_center_lon,url
+04013,Arizona,Maricopa County,4673096,85518,288,6.2,50,55,141,192,0.3,0.4,"Phoenix, AZ",1.7,"Phoenix, AZ",0.3,0.3,281,33.4901,-112.044,https://findrehabmap.com/arizona/maricopa-county/
+04019,Arizona,Pima County,1080149,67929,102,9.4,14,18,53,78,0.3,1.9,"Tucson, AZ",0.7,"Tucson, AZ",0.7,2.3,99,32.2164,-110.958,https://findrehabmap.com/arizona/pima-county/
+04021,Arizona,Pinal County,513862,77588,30,5.8,2,7,13,24,5.1,17.0,"Gilbert, AZ",9.9,"San Tan Valley, AZ",8.0,5.1,61,33.0693,-111.6021,https://findrehabmap.com/arizona/pinal-county/
+04025,Arizona,Yavapai County,252013,66106,31,12.3,8,6,19,22,3.6,3.9,"Prescott Valley, AZ",3.9,"Prescott Valley, AZ",3.6,3.9,30,34.6287,-112.2738,https://findrehabmap.com/arizona/yavapai-county/
+04015,Arizona,Mohave County,226479,55799,19,8.4,4,4,15,17,17.2,18.2,"Kingman, AZ",17.2,"Kingman, AZ",17.2,17.7,16,35.0345,-114.2624,https://findrehabmap.com/arizona/mohave-county/
+04027,Arizona,Yuma County,220310,60417,21,9.5,1,3,8,19,1.8,4.8,"Yuma, AZ",1.9,"Yuma, AZ",2.8,1.8,21,32.6414,-114.6054,https://findrehabmap.com/arizona/yuma-county/
+04005,Arizona,Coconino County,145161,69748,7,4.8,1,2,3,5,17.8,18.6,"Flagstaff, AZ",17.9,"Flagstaff, AZ",17.9,18.6,5,35.4761,-111.6018,https://findrehabmap.com/arizona/coconino-county/
+04003,Arizona,Cochise County,125773,58970,17,13.5,0,1,7,17,10.8,63.5,"Tucson, AZ",12.3,"Sierra Vista, AZ",12.3,14.2,9,31.6035,-110.0728,https://findrehabmap.com/arizona/cochise-county/
+04017,Arizona,Navajo County,109516,52752,16,14.6,2,1,11,15,3.8,49.9,"Lakeside, AZ",44.7,"Show Low, AZ",5.1,5.9,3,34.8622,-110.2052,https://findrehabmap.com/arizona/navajo-county/
+04001,Arizona,Apache County,64800,40338,4,6.2,0,0,1,4,23.7,39.8,"Gallup, NM",96.9,"Show Low, AZ",39.7,39.8,1,35.5437,-109.419,https://findrehabmap.com/arizona/apache-county/
+04007,Arizona,Gila County,54073,59089,5,9.2,0,1,3,5,31.9,43.5,"Apache Junction, AZ",35.0,"Globe, AZ",31.9,32.6,0,33.8444,-111.015,https://findrehabmap.com/arizona/gila-county/
+04023,Arizona,Santa Cruz County,50508,53614,4,7.9,0,0,2,4,5.1,51.3,"Tucson, AZ",40.4,"Sierra Vista, AZ",5.1,26.8,4,31.4392,-110.9459,https://findrehabmap.com/arizona/santa-cruz-county/
+04009,Arizona,Graham County,40242,67326,6,14.9,0,1,4,6,4.0,70.3,"Whiteriver, AZ",6.3,"Safford, AZ",5.3,70.3,6,32.8671,-109.8081,https://findrehabmap.com/arizona/graham-county/
+04012,Arizona,La Paz County,16992,49506,1,5.9,0,0,1,1,14.8,36.8,"Lake Havasu City, AZ",36.5,"Lake Havasu City, AZ",14.8,34.9,1,33.9542,-114.1838,https://findrehabmap.com/arizona/la-paz-county/
+04011,Arizona,Greenlee County,9410,75239,2,21.3,0,0,2,2,4.4,55.1,"Lordsburg, NM",28.0,"Safford, AZ",4.4,73.7,2,32.9852,-109.2595,https://findrehabmap.com/arizona/greenlee-county/
