@@ -1,5 +1,8 @@
 # US County Distance to Addiction Treatment (2026)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23338215.svg)](https://doi.org/10.5281/zenodo.23338215)
+
+
 ![Treatment programs across the lower 48 states](us-map.webp)
 
 How far does someone have to travel to reach addiction treatment in each U.S. county? SAMHSA's locator lists where programs are, but not that distance. This dataset answers it for all 3,144 counties.
@@ -134,7 +137,7 @@ df.sort_values("miles_to_nearest_detox", ascending=False).head(10)
 
 ## Citation
 
-If you use this data, please credit **FindRehabMap** with a link to [findrehabmap.com](https://findrehabmap.com). A `CITATION.cff` file is included; GitHub shows a "Cite this repository" button.
+If you use this data, please credit **FindRehabMap** with a link to [findrehabmap.com](https://findrehabmap.com). DOI: [10.5281/zenodo.23338215](https://doi.org/10.5281/zenodo.23338215) (always resolves to the latest version). A `CITATION.cff` file is included; GitHub shows a "Cite this repository" button.
 
 ## License
 

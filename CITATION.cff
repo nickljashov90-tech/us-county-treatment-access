@@ -7,6 +7,7 @@ authors:
     website: "https://findrehabmap.com"
 date-released: 2026-10-07
 version: "2026.10"
+doi: 10.5281/zenodo.23338215
 license: CC-BY-4.0
 url: "https://findrehabmap.com/open-data/"
 repository-code: "https://github.com/nickljashov90-tech/us-county-treatment-access"
